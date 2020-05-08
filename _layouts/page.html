@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="page">
+    <div class="col-6 col-s-9">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+    </div>
+    <div class="col-3 col-s-3">
+        {% if page.backlinks %}
+        <h1>Links to this note</h1>
+        {{ page.backlinks }}
+        {% endif %}
+    </div>
+</article>
