@@ -1,20 +1,28 @@
-article {
+div {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.site-header {}
+.container {
+    text-align: center;
+}
+
+.site-header {
+    float: top;
+    padding-left: 15px;
+    text-align: left;
+}
 
 .article-backlinks {
     text-align: left;
 }
 
-.article-content a {
-    color:blue;
+.container a {
+    color:green;
     text-decoration: underline;
 }
 
-.article-content a:hover {
-    color:blueviolet;
+.container a:hover {
+    color:greenyellow;
     text-decoration: underline;
 }
 
@@ -26,8 +34,10 @@ article {
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
-    float: left;
     padding: 15px;
+    margin-top: 0;
+    display: inline-grid;
+    text-align: left;
 }
   
 @media only screen and (min-width: 600px) {
