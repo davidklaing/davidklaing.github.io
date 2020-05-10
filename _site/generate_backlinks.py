@@ -1,4 +1,5 @@
 import os
+import re
 
 pages = os.listdir('pages/')
 
@@ -15,6 +16,8 @@ class Page:
         self.title = self.get_title()
         self.md_backlinks = md_backlinks
         self.write_backlinks()
+        self.forward_links = self.get_forward_links()
+        self.page = self.front_matter + self.content
     
     def split(self):
         front_matter = []
@@ -41,15 +44,23 @@ class Page:
             backlinks = []
             for link in self.md_backlinks:
                 title, path = link.strip('[').strip(')').split('](')
-                backlinks.append(self.create_backlink(title, path))
+                backlinks.append(create_backlink(title, path))
             non_backlinks_lines.insert(-1, 'backlinks: ' + ''.join(backlinks))
-            print(non_backlinks_lines)
             self.front_matter = non_backlinks_lines
     
-    @staticmethod
-    def create_backlink(title, path):
-        return f'<a href="{path}">{title}</a>'
-    
+    def get_forward_links(self):
+        forward_links = []
+        for line in self.content:
+            forward_links += extract_links(line)
+        return set(sorted(forward_links))
+
+def create_backlink(title, path):
+    return f'<a href="{path}">{title}</a>'
+
+def extract_links(line):
+    return re.findall('\[[\w]*]\(/[\w]*\)', line)
+
+
 example1_page = Page(
     page = read_page('pages/example1.md'), 
     md_backlinks = ['[Example 2](/example2)', '[About](/about)']
