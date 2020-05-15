@@ -1,4 +1,4 @@
-div {
+body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: white;
     color: black;
@@ -18,12 +18,12 @@ div {
     text-align: left;
 }
 
-.container a {
+.container .internal-link {
     color:green;
     text-decoration: underline;
 }
 
-.container a:hover {
+.container .internal-link:hover {
     color:greenyellow;
     text-decoration: underline;
 }
@@ -74,6 +74,6 @@ div {
 }
 
 .tippy-box[data-theme~='light-border'] {
-    background-color: white;
+    background-color:white;
     color: black;
 }

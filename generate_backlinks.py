@@ -93,7 +93,7 @@ class Database:
         return this_page.title
     
     def make_anchor_tag(self, title, href):
-        return f'<a id="{href}" href="{href}">{title}</a>'
+        return f'<a id="{href.strip("/")}" class="internal-link" href="{href}">{title}</a>'
     
     def write_pages(self):
         for page in self.pages:
