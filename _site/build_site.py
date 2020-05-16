@@ -1,4 +1,5 @@
 import os
+import subprocess
 
 from bs4 import BeautifulSoup
 from loguru import logger
@@ -120,3 +121,4 @@ if __name__ == "__main__":
     db = Database(pages=pages)
     db.update_backlinks()
     db.write_pages()
+    subprocess.run(['bundle', 'exec', 'jekyll', 'build'])
