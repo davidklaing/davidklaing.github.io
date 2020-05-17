@@ -68,11 +68,13 @@ class Database:
     """A representation a database of pages.
 
     @param pages: A list of Page instances.
+    @param site_html_paths: A list of paths to the html pages in the _site folder.
 
     """
 
-    def __init__(self, pages: List[Page]):
+    def __init__(self, pages: List[Page], site_html_paths: List[str]):
         self.pages = pages
+        self.site_html_paths = site_html_paths
         self.titles_dict: Dict[str, str] = {page.permalink: page.title for page in self.pages}
 
     def update_backlinks(self):
@@ -103,6 +105,28 @@ class Database:
         for page in self.pages:
             path = page.permalink.strip('/') + '.md'
             write_page(filepath=f'pages/{path}', content=''.join(page.front_matter + page.content))
+    
+    def write_tooltips(self):
+        tooltips = [self.create_tooltip(path) for path in self.site_html_paths]
+        write_page(filepath='_includes/tooltips.js', content='\n\n'.join(tooltips))
+    
+    def create_tooltip(self, path):
+        template = [
+            "tippy('#about', {\n",
+            "    theme: 'light-border',\n",
+            "    allowHTML: true,\n",
+            "    placement: 'auto',\n",
+            "    touch: ['hold', 500],\n",
+            "});"
+        ]
+        suffix = '/index.html' if path != '_site/index.html' else ''
+        print(path + suffix)
+        html_page = read_page(path + suffix)
+        soup = BeautifulSoup(''.join(html_page), 'html.parser')
+        content = soup.find("div", {"class": "article-content"})
+        print(content))
+        template.insert(-1, '    content: ' + "'" + ''.join(content) + "'")
+        return ''.join(template)
 
 
 def read_page(filepath):
@@ -115,10 +139,20 @@ def write_page(filepath, content):
     with open(filepath, 'w') as f:
         return f.write(content)
 
-if __name__ == "__main__":
+def build_site():
+    subprocess.run(['bundle', 'exec', 'jekyll', 'build'])
     page_paths = os.listdir('pages/')
     pages = [Page(page = read_page(f'pages/{page_path}')) for page_path in page_paths]
-    db = Database(pages=pages)
+    site_html_paths = [
+        '_site/' + path for path in os.listdir('_site/') 
+        if path not in ['css', 'assets', 'README.md', 'build_site.py']
+    ]
+    db = Database(pages=pages, site_html_paths=site_html_paths)
     db.update_backlinks()
     db.write_pages()
+    db.write_tooltips()
     subprocess.run(['bundle', 'exec', 'jekyll', 'build'])
+
+
+if __name__ == "__main__":
+    build_site()
