@@ -1,7 +1,14 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
     background-color: white;
     color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Serif';
+}
+
+p, li {
+    font-family: 'Noto Sans';
 }
 
 .container {
@@ -18,13 +25,23 @@ body {
     text-align: left;
 }
 
-.container .internal-link {
+.internal-link {
     color:green;
     text-decoration: underline;
 }
 
-.container .internal-link:hover {
+.internal-link:hover {
     color:greenyellow;
+    text-decoration: underline;
+}
+
+a, .external-link {
+    color:blue;
+    text-decoration: underline;
+}
+
+a:hover, .external-link:hover {
+    color:purple;
     text-decoration: underline;
 }
 
@@ -76,4 +93,8 @@ body {
 .tippy-box[data-theme~='light-border'] {
     background-color:white;
     color: black;
+    overflow: scroll;
+    display: -webkit-box;
+    -webkit-line-clamp: 20;
+    -webkit-box-orient: vertical;
 }

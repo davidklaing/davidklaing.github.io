@@ -111,21 +111,23 @@ class Database:
         write_page(filepath='_includes/tooltips.js', content='\n\n'.join(tooltips))
     
     def create_tooltip(self, path):
+        tooltip_id = path.replace('_site/', '')
         template = [
-            "tippy('#about', {\n",
+            "tippy('#" + tooltip_id + "', {\n",
             "    theme: 'light-border',\n",
             "    allowHTML: true,\n",
             "    placement: 'auto',\n",
             "    touch: ['hold', 500],\n",
+            "    maxWidth: 500,\n",
+            "    interactive: true,\n",
             "});"
         ]
         suffix = '/index.html' if path != '_site/index.html' else ''
-        print(path + suffix)
         html_page = read_page(path + suffix)
         soup = BeautifulSoup(''.join(html_page), 'html.parser')
-        content = soup.find("div", {"class": "article-content"})
-        print(content))
-        template.insert(-1, '    content: ' + "'" + ''.join(content) + "'")
+        content_markup = soup.find("div", {"class": "article-content"}).contents
+        content_string = ''.join([str(element) for element in content_markup]).replace('\n', '').replace("'", "\'")
+        template.insert(-1, '    content: ' + "'" + content_string + "'\n")
         return ''.join(template)
 
 
