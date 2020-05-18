@@ -96,23 +96,42 @@ class Database:
     
     def make_anchor_tag(self, permalink: str) -> str:
         """Make an anchor tag, given a page's permalink."""
-        id = permalink.strip("/")
+        if permalink == '/':
+            id = 'home'
+        else:
+            id = permalink.strip('/')
         title = self.titles_dict[permalink]
         return f'<a id="{id}" class="internal-link" href="{permalink}">{title}</a>'
     
     def write_pages(self):
         """Write the pages back to markdown."""
         for page in self.pages:
-            path = page.permalink.strip('/') + '.md'
-            write_page(filepath=f'pages/{path}', content=''.join(page.front_matter + page.content))
+            if page.permalink == '/':
+                write_page(filepath=f'index.md', content=''.join(page.front_matter + page.content))
+            else:
+                path = page.permalink.strip('/') + '.md'
+                write_page(filepath=f'pages/{path}', content=''.join(page.front_matter + page.content))
     
     def write_tooltips(self):
         tooltips = [self.create_tooltip(path) for path in self.site_html_paths]
         write_page(filepath='_includes/tooltips.js', content='\n\n'.join(tooltips))
     
     def create_tooltip(self, path):
-        tooltip_id = path.replace('_site/', '')
-        template = [
+        if path == '_site/index.html':
+            tooltip_id = 'home'
+        else:
+            tooltip_id = path.replace('_site/', '')
+        template = self.tooltip_template(tooltip_id)
+        suffix = '/index.html' if path != '_site/index.html' else ''
+        html_page = read_page(path + suffix)
+        soup = BeautifulSoup(''.join(html_page), 'html.parser')
+        content_markup = soup.find("div", {"class": "article-content"}).contents
+        content_string = ''.join([str(element) for element in content_markup]).replace('\n', '').replace("'", "\'")
+        template.insert(-1, '    content: ' + "'" + content_string + "'\n")
+        return ''.join(template)
+    
+    def tooltip_template(self, tooltip_id):
+        return [
             "tippy('#" + tooltip_id + "', {\n",
             "    theme: 'light-border',\n",
             "    allowHTML: true,\n",
@@ -122,13 +141,6 @@ class Database:
             "    interactive: true,\n",
             "});"
         ]
-        suffix = '/index.html' if path != '_site/index.html' else ''
-        html_page = read_page(path + suffix)
-        soup = BeautifulSoup(''.join(html_page), 'html.parser')
-        content_markup = soup.find("div", {"class": "article-content"}).contents
-        content_string = ''.join([str(element) for element in content_markup]).replace('\n', '').replace("'", "\'")
-        template.insert(-1, '    content: ' + "'" + content_string + "'\n")
-        return ''.join(template)
 
 
 def read_page(filepath):
@@ -144,7 +156,8 @@ def write_page(filepath, content):
 def build_site():
     subprocess.run(['bundle', 'exec', 'jekyll', 'build'])
     page_paths = os.listdir('pages/')
-    pages = [Page(page = read_page(f'pages/{page_path}')) for page_path in page_paths]
+    pages = [Page(page=read_page('index.md'))] \
+        + [Page(page=read_page(f'pages/{page_path}')) for page_path in page_paths]
     site_html_paths = [
         '_site/' + path for path in os.listdir('_site/') 
         if path not in ['css', 'assets', 'README.md', 'build_site.py']

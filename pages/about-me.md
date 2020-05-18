@@ -2,7 +2,7 @@
 layout: page
 title: About me
 permalink: /about-me/
-backlinks: <a id="example2" class="internal-link" href="/example2/">Example 2</a>
+backlinks: <a id="home" class="internal-link" href="/">davidklaing.com</a>
 ---
 
 ## What's my story?
