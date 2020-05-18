@@ -99,6 +99,7 @@ img {
     background-color:white;
     color: black;
     overflow: scroll;
+    padding: 5px;
     display: -webkit-box;
     max-height: 500px;
     -webkit-line-clamp: 20;
