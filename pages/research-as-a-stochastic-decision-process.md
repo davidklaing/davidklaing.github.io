@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Research as a stochastic decision process — Jacob Steinhardt
+title: "Research as a stochastic decision process — Jacob Steinhardt"
 permalink: /research-as-a-stochastic-decision-process/
+published: true
+last_updated: 2019-11-20
 backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 ---
 

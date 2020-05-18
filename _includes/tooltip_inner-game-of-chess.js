@@ -1,5 +1,6 @@
 tippy('#inner-game-of-chess', {
     theme: 'light-border',
+    arrow: false,
     allowHTML: true,
     placement: 'auto',
     touch: false,

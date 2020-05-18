@@ -1,5 +1,6 @@
 tippy('#everything-i-know-about-chess', {
     theme: 'light-border',
+    arrow: false,
     allowHTML: true,
     placement: 'auto',
     touch: false,

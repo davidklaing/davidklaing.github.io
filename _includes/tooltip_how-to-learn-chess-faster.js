@@ -1,5 +1,6 @@
 tippy('#how-to-learn-chess-faster', {
     theme: 'light-border',
+    arrow: false,
     allowHTML: true,
     placement: 'auto',
     touch: false,

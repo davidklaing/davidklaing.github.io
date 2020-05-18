@@ -11,15 +11,17 @@ p, li, a {
     font-family: 'Noto Sans';
 }
 
-.container {
-    text-align: center;
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:#acd19c;
+    height: 1px;
 }
 
-.site-header {
-    float: top;
-    padding-left: 15px;
-    padding-bottom: 3px;
-    text-align: left;
+.container {
+    text-align: center;
 }
 
 .article-backlinks {
@@ -70,11 +72,11 @@ img {
     .col-s-2 {width: 16.66%;}
     .col-s-3 {width: 25%;}
     .col-s-4 {width: 33.33%;}
-    .col-s-5 img {width: 41.66%;}
+    .col-s-5 {width: 41.66%;}
     .col-s-6 {width: 50%;}
     .col-s-7 {width: 58.33%;}
     .col-s-8 {width: 66.66%;}
-    .col-s-9 {width: 75%;}
+    .col-s-9, img {width: 75%;}
     .col-s-10 {width: 83.33%;}
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
@@ -85,14 +87,21 @@ img {
     .col-2 {width: 16.66%;}
     .col-3 {width: 25%;}
     .col-4 {width: 33.33%;}
-    .col-5 {width: 41.66%;}
+    .col-5, img {width: 41.66%;}
     .col-6 {width: 50%;}
     .col-7 {width: 58.33%;}
     .col-8 {width: 66.66%;}
-    .col-9 img {width: 75%;}
+    .col-9 {width: 75%;}
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
+}
+
+.site-header {
+    float: top;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
 }
 
 .tippy-box[data-theme~='light-border'] {

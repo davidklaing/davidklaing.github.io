@@ -159,6 +159,7 @@ class Database:
         return [
             "tippy('#" + page_id + "', {\n",
             "    theme: 'light-border',\n",
+            "    arrow: false,\n",
             "    allowHTML: true,\n",
             "    placement: 'auto',\n",
             "    touch: false,\n",

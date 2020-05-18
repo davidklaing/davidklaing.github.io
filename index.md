@@ -3,9 +3,9 @@ layout: page
 title: davidklaing.com
 permalink: /
 tooltips: 
-- path: tooltip_talk-more.js
-- path: tooltip_about-me.js
 - path: tooltip_research-as-a-stochastic-decision-process.js
+- path: tooltip_about-me.js
+- path: tooltip_talk-more.js
 - path: tooltip_everything-i-know-about-chess.js
 ---
 

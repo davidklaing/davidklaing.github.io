@@ -5,7 +5,7 @@ permalink: /righteous-mind/
 published: true
 ---
 
-# Overview
+## Overview
 
 How do people think about right and wrong? This is an empirical question, and *The Righteous Mind*’s primary goal is to answer it. The psychologist Jonathan Haidt tells the story of how his research led him to formulate Moral Foundations Theory, which claims that the human mind responds to combinations of six moral “taste receptors”: Care, Liberty, Fairness, Authority, Loyalty, and Sanctity. 
 
@@ -13,23 +13,23 @@ The theory and its implications are presented in three parts. In Part I, Haidt s
 
 In the final chapter, Haidt transitions from description to prescription, offering insights into how we might recognize the shortcomings of our own moral tribes, benefit from the most sensible ideas of other tribes, and work together to design a better society that acknowledges certain crucial facts of human psychology.
 
-# Chapter Summaries
+## Chapter Summaries
 
-## Introduction
+### Introduction
 
 Because this book aims to describe the psychology of morality, it might have made sense to title it The Moral Mind. However, “righteous” better captures a feature of the mind that is crucial for understanding why we hold ourselves to certain principles: we hold each other to those principles too. We are righteous, moralistic, and judgmental. These qualities are crucial for maintaining safe and productive societies, but they also lead to much enmity and moralistic strife within our communities. In order to parlay this strife into the mutually beneficial conversations that should be possible in democratic societies, we must first recognize that we are all hypocrites, that we all mean well, and that we will understand each other better if we first understand ourselves.
 
-## Part 1: Intuitions Come First, Strategic Reasoning Second
+### Part 1: Intuitions Come First, Strategic Reasoning Second
 
 *Central metaphor: The mind is divided, like a rider on an elephant, and the rider’s job is to serve the elephant.*
 
-### Chapter 1: Where Does Morality Come From? 
+#### Chapter 1: Where Does Morality Come From? 
 
 When Haidt decided to pursue moral psychology as a graduate student in the late 1980s, the field was dominated by rationalism, the theory that morality comes from reason. Rationalists believe that people become moral by learning that since they don’t like to be harmed, it must be wrong to harm others. Harm is thus central to rationalism; without it, there is no such thing as a moral dilemma. In cultures where people seem to condemn harmless acts (e.g. masturbation), rationalists assume those people must have supernatural beliefs (e.g. belief in hell) that make those acts seem harmful.
 
 Haidt suspected that rationalism was wrong, so he conducted surveys across many cultures and reached three conclusions. First, morality varies greatly by culture, and it often concerns much more than harm. Second, people often have gut feelings about morality—often related to disgust—that they cannot justify but still hold to be true. Third, it can’t be true that morality is constructed entirely through a growing understanding of harm, or else people wouldn’t condemn acts that they themselves agree are not harmful. Thus, morality must come not from reason but from some combination of innateness and social learning. But even if this is true, a question remains: what are people doing when they reason about morality?
 
-### Chapter 2: The Intuitive Dog and Its Rational Tail
+#### Chapter 2: The Intuitive Dog and Its Rational Tail
 
 There are three hypotheses regarding the relationship between reason and intuition. One is found in Plato’s dialogue Timaeus, in which humans are described as perfect rational souls encased in imperfect emotional bodies. In Plato’s model, reason is the master and intuition is the slave. The converse of Plato’s hypothesis is that of the Scottish philosopher David Hume, who wrote in 1739 that intuition is the master and reason is the slave. A third option was put forth by Thomas Jefferson, who wrote in 1786 that reason and intuition are co-rulers of the mind.
 
@@ -37,7 +37,7 @@ Drawing on findings from cognitive psychology, Haidt argues that Hume was right.
 
 Thus, in response to rationalism, Haidt presents the social intuitionist model of moral psychology, so named because it claims that morality comes from intuitions that are shaped by genetic predispositions and social learning.
 
-### Chapter 3: Elephants Rule
+#### Chapter 3: Elephants Rule
 
 Haidt presents six empirical findings that support the social intuitionist model:
 
@@ -50,7 +50,7 @@ Haidt presents six empirical findings that support the social intuitionist model
 
 Elephants can respond to reason, especially when reason gives rise to new intuitions. But the best way to change elephants is not through argument, but through stories, art, or friendly social contexts, in which riders are not so obsessively protective of their masters.
 
-### Chapter 4: Vote for Me (Here’s Why)
+#### Chapter 4: Vote for Me (Here’s Why)
 
 The “social” part of the social intuitionist model comes from an insight of evolutionary psychology: in our ancestors’ mighty struggle to survive and find a mate, it was less important to know the truth than it was to maintain one’s reputation within the group. The rider is therefore much like a press secretary, ready at any moment to vindicate the president’s decisions. Haidt supports this view with five premises:
 
@@ -60,15 +60,15 @@ The “social” part of the social intuitionist model comes from an insight of 
 4.	When evaluating a proposition we wish to believe, we tend to ask, “can I believe it?” Our riders are creative, and they can almost always come up with a reason for the answer to be “yes.” When evaluating a proposition we don’t wish to believe, we tend to ask, “must I believe it?” Our riders can almost always come up with a reason for the answer to be “no.”
 5.	When called upon to defend and support our groups, we activate regions of our brains related to pleasure and pain depending on the type of information we encounter. For example, an extreme partisan’s brain shows increased activity in areas related to negative emotion and punishment when they see their beloved leader acting hypocritically; but when they learn new information that exonerates their leader, the partisan gets a flash of pleasure as dopamine is released. Our brains don’t care about the truth. They care about our status within our groups.
 
-## Part II: There’s More to Morality than Harm and Fairness
+### Part II: There’s More to Morality than Harm and Fairness
 
 *Central metaphor: The righteous mind is like a tongue with six taste receptors.*
 
-### Chapter 5: Beyond WEIRD Morality
+#### Chapter 5: Beyond WEIRD Morality
 
 People in societies that are WEIRD (Western, educated, industrialized, rich, and democratic) are statistical outliers on many measures of morality. Most notably, they tend to see the world as a collection of discrete, autonomous individuals, which leads their morality to focus mainly on harm, oppression, and inequality. Most other cultures see the world as a collection of relationships that ought to be protected even at the expense of the individuals who make them up. In these cultures, and in religious and conservative sub-cultures in the West, morality involves a broader set of concerns, often involving community and divinity. Moral matrices—the collection of values shared by a particular community—bind people together and blind them to the possibility that there might be other legitimate ways to judge people and organize society.
 
-### Chapter 6: Taste Buds of the Righteous Mind
+#### Chapter 6: Taste Buds of the Righteous Mind
 
 There are two predominant systems of prescriptive ethics in Western culture: utilitarianism and deontology. Utilitarianism, developed by the 18th-century English philosopher Jeremy Bentham, says that moral behavior is that which maximizes the intensity, duration, and certainty of “hedons” (measures of pleasure) and minimizes those of “dolors” (measures of pain). Deontology, developed by the 18th-century German philosopher Immanuel Kant, says that moral behavior is that which anyone could will to become a universal law.
 
@@ -76,7 +76,7 @@ Though Haidt does not wish to discount the great value that utilitarianism and d
 
 To figure out what those basic concerns are, Haidt and his research team borrowed a concept from cognitive anthropology called modularity. A module is an innate cognitive program that responds automatically to a particular perception—for example, one module is our ability to recognize faces. The first draft of any module is written in our genes by our evolutionary history, and then it gets tweaked by experience, sometimes through cultural learning. After reviewing the evidence of how people across cultures reason about morality, Haidt and his research team identified five initial candidates for modules that bear on moral psychology: care, fairness, authority, loyalty, and sanctity.
 
-### Chapter 7: The Moral Foundations of Politics
+#### Chapter 7: The Moral Foundations of Politics
 
 Haidt tells the full story of how he reasoned from our ancestors’ adaptive challenges to come up with a first draft of Moral Foundations Theory:
 
@@ -86,7 +86,7 @@ Haidt tells the full story of how he reasoned from our ancestors’ adaptive cha
 4.	Authority/subversion. This foundation helped our ancestors establish beneficial relationships within hierarchies. It gets activated when we feel respect or fear for our bosses or parents.
 5.	Sanctity/degradation. This foundation helped to protect our ancestors from pathogens and unsafe food. It gets activated when we feel disgust or reverence for people or symbols, or when we shrink away from words or ideas that are taboo.
 
-### Chapter 8: The Conservative Advantage
+#### Chapter 8: The Conservative Advantage
 
 Survey data from over 130,000 people show that liberal voters value care and fairness above all other moral foundations, and that conservative voters value all five foundations equally. This explains why the Democratic Party often has such a hard time connecting with voters. Democrats can’t understand why poor rural Americans tend to vote Republican when it is the Democrats who want to distribute money more equally. The answer is that rural Americans value all six moral foundations, which are found in Republican rhetoric but not in Democratic rhetoric. As Haidt says, “Republicans understand moral psychology. Democrats don’t.” (156)
 
@@ -97,11 +97,11 @@ Haidt received many emails from both liberals and conservatives after writing th
 1.	Liberty/oppression. This foundation helped our egalitarian hunter-gatherer ancestors to rally against tyrannical alpha males who abused their power within the hierarchy of the group. For liberals, this foundation is almost as important as Care/harm, and it motivates them to advocate for sub-groups who appear to have been oppressed by traditional social structures.
 2.	Fairness/proportionality. This foundation helped our ancestors to maintain moral communities in which people were punished and rewarded in proportion to their deeds. This foundation is valued on both sides of the political spectrum, but slightly more on the right; conservatives resent liberal policies that appear to reward free riders.
 
-## Part III: Morality Binds and Blinds
+### Part III: Morality Binds and Blinds
 
 *Central metaphor: We are 90 percent chimp and 10 percent bee.*
 
-### Chapter 9: Why Are We So Groupish?
+#### Chapter 9: Why Are We So Groupish?
 
 In The Descent of Man, Charles Darwin proposed the idea that certain moral emotions were selected for because they gave a competitive advantage to groups who could better unify to turn resources into offspring. This hypothesis is called group selection, and it fell out of favor in the 1970s when the evolutionary biologists Richard Dawkins and George Williams argued that individual selection better explains why certain groups are more successful than others. To sum up their argument, “A fast herd of deer is nothing more than a herd of fast deer” (196).
 
@@ -114,13 +114,13 @@ The debate has been revived in recent years, and Haidt believes group selection 
 
 Haidt does not claim that all of human psychology is the product of group selection—far from it. Rather, something like 90% of our mental modules resulted from individual selection over millions of years after our ancestors diverged from those of chimpanzees. But once our ancestors began to evolve alongside culture, they developed a few bee-like mental modules that bound them together into increasingly cooperative groups.
 
-### Chapter 10: The Hive Switch
+#### Chapter 10: The Hive Switch
 
 Most of the time we pursue individual goals and maintain a strong sense of self. But in certain situations, we are apt to lose ourselves and feel that we are part of a greater whole. Haidt calls this the “hive switch.” It can be activated in many ways, such as when we feel awe in nature, when we take drugs such as LSD and MDMA, or when we move in synchrony with many other people (e.g. soldiers marching in time, or dancers at a rave).
 
 Two recent findings in neuroscience support the idea of the hive switch and give some insight into how it operates. One is the hormone oxytocin, which makes us more trusting and more caring toward members of our in-groups. The other is mirror neurons, which activate when we perceive another person’s behavior and feel compelled to imitate them, especially when that person shares our moral matrix; this is why we automatically return our friends’ smiles, for example. The hive switch offers three insights for institutions that want to make their members more cooperative: increase similarity, not diversity; exploit synchrony; and create healthy competition among teams, not individuals.
 
-### Chapter 11: Religion Is a Team Sport
+#### Chapter 11: Religion Is a Team Sport
 
 After the 9/11 attacks in 2001, a profusion of new books decried religion as a parasite that preys on unscientific minds. This view was promulgated by the New Atheists—Richard Dawkins, Sam Harris, Daniel Dennett, and Christopher Hitchens—who viewed religion primarily as a set of supernatural beliefs that directly cause all religious behaviors, from peaceful congregations to suicide bombings. The New Atheists saw that religion comes with the risk of great violence, and believed that there are better ways to glean its supposed benefits. So, they claimed that the world would be better without it.
 
@@ -128,7 +128,7 @@ Haidt argues that religion was a critical innovation that evolved through cultur
 
 Evolutionary fitness isn’t the same thing as societal health, but perhaps religion deserves more credit as one of the forces that enabled our ancestors to cooperate so successfully on such a large scale. As Haidt points out, atheistic societies have never existed until recently (in parts of Europe), and they are downright horrible at turning resources (of which they have many) into offspring (of which they have few).
 
-### Chapter 12: Can’t We All Disagree More Constructively?
+#### Chapter 12: Can’t We All Disagree More Constructively?
 
 What makes a person vote liberal or conservative? Drawing from studies of identical twins separated at birth, Haidt shows that most of the variance in the relevant personality traits is attributable to genetics, not to environmental factors. As people grow up, they construct life narratives that work in tandem with their innate tendencies and make them more or less likely to identify with various political narratives. Voters all across the political spectrum are psychologically normal, they all mean well, and they all have insights into how to build a healthy society.
 
@@ -136,6 +136,6 @@ In Haidt’s opinion, liberals offer two crucial insights that other groups tend
 
 To build a healthy society, we should aim not to wipe out ideologies that differ from our own, but to recognize that each political group is made up of good people who have important things to say.
 
-## Conclusion
+### Conclusion
 
 Haidt concludes the book by reminding the reader of the central metaphors in each section. In Part I, he explained that intuitions come first, reasoning second. He advises that as a souvenir from this section of the book, we should keep a vision of ourselves and everyone around us as tiny riders on massive elephants. In Part II, he explained that there is more to morality than harm and fairness. As a souvenir from this section, we should keep a healthy suspicion of anyone who claims there is a single morality that is appropriate for all societies at all times. Lastly, in Part III, he explained that we are 90 percent chimp, 10 percent bee. As a souvenir from this final section, we should keep the image of the hive switch, which can engage our moral emotions and enable us to become selfless parts of a greater whole.

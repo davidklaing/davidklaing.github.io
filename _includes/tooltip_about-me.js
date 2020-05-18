@@ -1,5 +1,6 @@
 tippy('#about-me', {
     theme: 'light-border',
+    arrow: false,
     allowHTML: true,
     placement: 'auto',
     touch: false,
