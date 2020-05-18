@@ -16,15 +16,13 @@ class Page:
 
     def __init__(self, page: List[str], backlinks: List[str] = []):
         self.page = page
-        self.front_matter, self.content = self.separate_front_matter_from_content()
+        self.front_matter, self.content = self.separate_sections()
         self.title = self.get_attribute('title')
         self.permalink = self.get_attribute('permalink')
         self.backlinks = backlinks
-        self.write_backlinks()
         self.forward_links = self.get_forward_links()
-        self.page = self.front_matter + self.content
     
-    def separate_front_matter_from_content(self) -> Tuple[List[str], List[str]]:
+    def separate_sections(self) -> Tuple[List[str], List[str]]:
         """Separate the page's front matter from its content."""
         front_matter = []
         content = []
@@ -32,7 +30,7 @@ class Page:
         for line in self.page:
             if yaml_line_count < 2:
                 front_matter.append(line)
-            else:
+            elif yaml_line_count >= 2:
                 content.append(line)
             if line == '---\n':
                 yaml_line_count += 1
@@ -43,19 +41,12 @@ class Page:
         attribute_line, *_ = [line for line in self.front_matter if f'{attribute}: ' in line]
         return attribute_line.strip(f'{attribute}: ').strip('\n')
     
-    def write_backlinks(self) -> None:
-        """Write a new set of backlinks, based on what was passed in with this instance of the page."""
-        non_backlinks_lines = [line for line in self.front_matter if 'backlinks: ' not in line]
-        if self.backlinks:
-            non_backlinks_lines.insert(-1, 'backlinks: <ul><li>' + '</li><li>'.join(self.backlinks) + '</li></ul>\n')
-        self.front_matter = non_backlinks_lines
-    
     def get_forward_links(self) -> Set[str]:
         """Get all the links found in the content of this page."""
         forward_links = []
         for line in self.content:
             forward_links += self.extract_links(line)
-        return set(sorted(forward_links))
+        return list(set(sorted(forward_links)))
 
     @staticmethod
     def extract_links(line: str) -> List[Optional[str]]:
@@ -63,6 +54,31 @@ class Page:
         soup = BeautifulSoup(line, 'html.parser')
         links = soup.find_all('a')
         return [str(link) for link in links if link.get('href')[0] == '/'] if links else []
+    
+    def write_tooltips(self):
+        """Write a new set of tooltips."""
+        all_links = set(self.backlinks + self.forward_links) - {
+            '<a id="home" class="internal-link" href="/">davidklaing.com</a>',
+            '<a id="subscribe" class="internal-link" href="/subscribe/">Subscribe</a>'
+        }
+        non_tooltips_lines = [line for line in self.front_matter if 'tooltips: ' not in line and '- path:' not in line]
+        tooltip_script_paths = [f'tooltip_{self.find_page_id(link)}.js' for link in all_links]
+        if tooltip_script_paths:
+            non_tooltips_lines.insert(-1, 'tooltips: \n- path: ' + '\n- path: '.join(tooltip_script_paths) + '\n')
+        self.front_matter = non_tooltips_lines
+    
+    @staticmethod
+    def find_page_id(link):
+        soup = BeautifulSoup(link, 'html.parser')
+        return soup.find('a').get('id')
+    
+    def write_backlinks(self) -> None:
+        """Write a new set of backlinks, based on what was passed in with this instance of the page."""
+        non_backlinks_lines = [line for line in self.front_matter if 'backlinks: ' not in line]
+        if self.backlinks:
+            non_backlinks_lines.insert(-1, 'backlinks: <ul><li>' + '</li><li>'.join(self.backlinks) + '</li></ul>\n')
+        self.front_matter = non_backlinks_lines
+
 
 
 class Database:
@@ -86,14 +102,14 @@ class Database:
 
     def find_backlinks(self, this_page: Page) -> Set[str]:
         """Find all backlinks for a given page."""
-        references = []
+        backlinks = []
         for other_page in self.pages:
             if this_page.permalink != other_page.permalink:
                 for link in other_page.forward_links:
                     soup = BeautifulSoup(link, 'html.parser')
                     if soup.find('a').get('href') == this_page.permalink:
-                        references.append(self.make_anchor_tag(permalink=other_page.permalink))
-        return set(references)
+                        backlinks.append(self.make_anchor_tag(permalink=other_page.permalink))
+        return list(set(backlinks))
     
     def make_anchor_tag(self, permalink: str) -> str:
         """Make an anchor tag, given a page's permalink."""
@@ -103,6 +119,10 @@ class Database:
             id = permalink.strip('/')
         title = self.titles_dict[permalink]
         return f'<a id="{id}" class="internal-link" href="{permalink}">{title}</a>'
+    
+    def update_tooltips(self):
+        for page in self.pages:
+            page.write_tooltips()
     
     def write_pages(self):
         """Write the pages back to markdown."""
@@ -114,15 +134,19 @@ class Database:
                 write_page(filepath=f'pages/{path}', content=''.join(page.front_matter + page.content))
     
     def write_tooltips(self):
-        tooltips = [self.create_tooltip(path) for path in self.site_html_paths]
-        write_page(filepath='_includes/tooltips.js', content='\n\n'.join(tooltips))
+        for path in self.site_html_paths:
+            page_id = self.get_id_from_path(path=path)
+            tooltip = self.create_tooltip(path=path, page_id=page_id)
+            write_page(filepath=f'_includes/tooltip_{page_id}.js', content=tooltip)
     
-    def create_tooltip(self, path):
+    def get_id_from_path(self, path):
         if path == '_site/index.html':
-            tooltip_id = 'home'
+            return 'home'
         else:
-            tooltip_id = path.replace('_site/', '')
-        template = self.tooltip_template(tooltip_id)
+            return path.replace('_site/', '')
+    
+    def create_tooltip(self, path, page_id):
+        template = self.tooltip_template(page_id)
         suffix = '/index.html' if path != '_site/index.html' else ''
         html_page = read_page(path + suffix)
         soup = BeautifulSoup(''.join(html_page), 'html.parser')
@@ -131,13 +155,13 @@ class Database:
         template.insert(-1, '    content: ' + "'" + content_string + "'\n")
         return ''.join(template)
     
-    def tooltip_template(self, tooltip_id):
+    def tooltip_template(self, page_id):
         return [
-            "tippy('#" + tooltip_id + "', {\n",
+            "tippy('#" + page_id + "', {\n",
             "    theme: 'light-border',\n",
             "    allowHTML: true,\n",
             "    placement: 'auto',\n",
-            "    touch: ['hold', 500],\n",
+            "    touch: false,\n",
             "    maxWidth: 550,\n",
             "    interactive: true,\n",
             "});"
@@ -165,6 +189,7 @@ def build_site():
     ]
     db = Database(pages=pages, site_html_paths=site_html_paths)
     db.update_backlinks()
+    db.update_tooltips()
     db.write_pages()
     db.write_tooltips()
     subprocess.run(['bundle', 'exec', 'jekyll', 'build'])

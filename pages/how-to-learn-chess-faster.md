@@ -3,6 +3,8 @@ layout: page
 title: How to learn chess faster
 permalink: /how-to-learn-chess-faster/
 backlinks: <ul><li><a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a></li></ul>
+tooltips: 
+- path: tooltip_everything-i-know-about-chess.js
 ---
 
 1\. Only play timed games. Untimed chess is a boring war of attrition that slows your learning.

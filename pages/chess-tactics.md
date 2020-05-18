@@ -2,7 +2,10 @@
 layout: page
 title: Chess tactics
 permalink: /chess-tactics/
-backlinks: <ul><li><a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a></li><li><a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a></li></ul>
+backlinks: <ul><li><a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a></li><li><a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a></li></ul>
+tooltips: 
+- path: tooltip_inner-game-of-chess.js
+- path: tooltip_everything-i-know-about-chess.js
 ---
 
 1\. If your opponent exposes their queen in the opening, trade queens with them to prevent them from castling. (It took me SO LONG to understand why people kept doing that to me.)
