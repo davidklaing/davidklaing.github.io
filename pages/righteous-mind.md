@@ -3,7 +3,7 @@ layout: page
 title: "The Righteous Mind"
 permalink: /righteous-mind/
 published: true
-backlinks: <a id="home" class="internal-link" href="/">davidklaing.com</a>
+backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 ---
 
 # Overview

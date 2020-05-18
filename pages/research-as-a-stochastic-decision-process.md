@@ -2,7 +2,7 @@
 layout: page
 title: Research as a stochastic decision process — Jacob Steinhardt
 permalink: /research-as-a-stochastic-decision-process/
-backlinks: <a id="home" class="internal-link" href="/">davidklaing.com</a>
+backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 ---
 
 How can you maximize your impact across a set of potential projects? Arguably, the most important thing is to discover as quickly as possible which projects are dead ends. **The more efficiently you can rule out unviable projects, the more time you free up for viable ones.** This is the main insight of Jacob Steinhardt's essay, [Research as a Stochastic Decision Process](https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html).

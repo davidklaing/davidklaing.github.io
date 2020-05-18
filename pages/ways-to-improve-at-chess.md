@@ -2,7 +2,6 @@
 layout: page
 title: "40 ways to improve at chess, if you’re a beginner"
 permalink: /ways-to-improve-at-chess/
-backlinks: <a id="home" class="internal-link" href="/">davidklaing.com</a>
 ---
 
 In 2019 I started playing blitz chess on [chess.com](chess.com). After my first hundred games, I had an ELO rating of about 650, which put me in the 2nd percentile among players on chess.com. In case you think I just got mixed up on the definition of 'percentile', no: I was better than 2% of players, and worse than 98% of players.

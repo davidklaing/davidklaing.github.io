@@ -46,7 +46,8 @@ class Page:
     def write_backlinks(self) -> None:
         """Write a new set of backlinks, based on what was passed in with this instance of the page."""
         non_backlinks_lines = [line for line in self.front_matter if 'backlinks: ' not in line]
-        non_backlinks_lines.insert(-1, 'backlinks: ' + ''.join(self.backlinks) + '\n')
+        if self.backlinks:
+            non_backlinks_lines.insert(-1, 'backlinks: <ul><li>' + '</li><li>'.join(self.backlinks) + '</li></ul>\n')
         self.front_matter = non_backlinks_lines
     
     def get_forward_links(self) -> Set[str]:
@@ -137,7 +138,7 @@ class Database:
             "    allowHTML: true,\n",
             "    placement: 'auto',\n",
             "    touch: ['hold', 500],\n",
-            "    maxWidth: 500,\n",
+            "    maxWidth: 550,\n",
             "    interactive: true,\n",
             "});"
         ]
