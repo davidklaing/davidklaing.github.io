@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: #fbfffa;
     color: black;
 }
 
@@ -16,7 +16,7 @@ hr {
     clear:both;
     display:block;
     width: 100%;               
-    background-color:#acd19c;
+    background-color:#c9d4c5;
     height: 1px;
 }
 
@@ -54,7 +54,10 @@ a:hover, .external-link:hover {
 }
 
 img {
-    width: 100%
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* For mobile phones: */
@@ -76,7 +79,7 @@ img {
     .col-s-6 {width: 50%;}
     .col-s-7 {width: 58.33%;}
     .col-s-8 {width: 66.66%;}
-    .col-s-9, img {width: 75%;}
+    .col-s-9 {width: 75%;}
     .col-s-10 {width: 83.33%;}
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
@@ -87,7 +90,7 @@ img {
     .col-2 {width: 16.66%;}
     .col-3 {width: 25%;}
     .col-4 {width: 33.33%;}
-    .col-5, img {width: 41.66%;}
+    .col-5 {width: 41.66%;}
     .col-6 {width: 50%;}
     .col-7 {width: 58.33%;}
     .col-8 {width: 66.66%;}
@@ -99,15 +102,16 @@ img {
 
 .site-header {
     float: top;
-    padding: 0px;
+    padding-left: 5px;
+    padding-bottom: 2px;
     margin: 0px;
     text-align: left;
 }
 
 .tippy-box[data-theme~='light-border'] {
-    background-color:white;
+    background-color:#fbfffa;
     color: black;
-    overflow: scroll;
+    overflow-y: scroll;
     padding: 5px;
     display: -webkit-box;
     max-height: 500px;

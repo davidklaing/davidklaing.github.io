@@ -156,15 +156,20 @@ class Database:
         return ''.join(template)
     
     def tooltip_template(self, page_id):
+        if page_id in ['home', 'subscribe']:
+            placement = 'bottom'
+        else:
+            placement = 'right'
         return [
             "tippy('#" + page_id + "', {\n",
             "    theme: 'light-border',\n",
             "    arrow: false,\n",
             "    allowHTML: true,\n",
-            "    placement: 'auto',\n",
+            f"    placement: '{placement}',\n",
             "    touch: false,\n",
             "    maxWidth: 550,\n",
             "    interactive: true,\n",
+            "    interactiveBorder: 1,\n",
             "});"
         ]
 
