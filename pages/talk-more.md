@@ -2,15 +2,16 @@
 layout: page
 title: If you’re good, you need to talk more
 published: true
+last_updated: 2019-07-09
 permalink: /talk-more/
 backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 ---
 
-One evening last fall, I was invited to play a board game called [Avalon](https://www.amazon.com/Resistance-Avalon-Social-Deduction-Game/dp/B009SAAV0C). The game is a contest between a good team and a bad team. Through a series of public and private votes and discussion at the table, the bad people try to masquerade as good, while the good try to figure out who is good and who is bad.
+One evening last fall, I was invited to play a board game called <a class="external-link" target="_blank" href="https://www.amazon.com/Resistance-Avalon-Social-Deduction-Game/dp/B009SAAV0C">Avalon</a>. The game is a contest between a good team and a bad team. Through a series of public and private votes and discussion at the table, the bad people try to masquerade as good, while the good try to figure out who is good and who is bad.
 
 I was assigned to the good team. I was the only one in the group who had never played before, so I took a backseat for the first few rounds, speaking little. To my surprise, this caused many players to suspect that I was bad.
 
-“If you're good,” [one of them](https://twitter.com/kevinakwok) said to me, “you need to talk more.”
+“If you're good,” <a class="external-link" target="_blank" href="https://twitter.com/kevinakwok">one of them</a> said to me, “you need to talk more.”
 
 I protested that bad people can speak just as easily as good people. How could I convince other players to trust me when any word I said might be a lie?
 

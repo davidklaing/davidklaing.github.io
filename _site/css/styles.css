@@ -53,7 +53,7 @@ a:hover, .external-link:hover {
     text-align: left;
 }
 
-img {
+img, iframe {
     width: 80%;
     display: block;
     margin-left: auto;

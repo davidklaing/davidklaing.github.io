@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>How to get a job in data science</title>
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light-border.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+    <body>
+        <div class="container">
+            <div class="site-header">
+    <a id="home" class="internal-link" href="/">davidklaing.com</a>&nbsp&nbsp&nbsp&nbsp<a id="subscribe" class="internal-link" href="/subscribe">subscribe</a>
+</div>
+<hr>
+            <div class="content">
+                <article class="page">
+    <div class="container">
+        <div class="col-5 col-s-9 article-content">
+            
+                <h1>How to get a job in data science</h1>
+            
+            
+            <hr>
+            <em>Last updated 2019-04-11</em>
+            <hr>
+            
+            <p>It is said that when you give the same advice three times, you should write it down in a blog post. I’m often approached for advice by job seekers in data science, so this is that blog post.</p>
+
+<p>When a company hires someone, they want to know that the person 1) <em>can</em> and 2) <em>will</em> do the job. Most people’s résumés do extremely little on their own to inspire this confidence, especially in a tough job market. The good news is, you have options. You just have to display patent evidence of your <strong>skills</strong> (whether you can do the job) and your <strong>character</strong> (whether you will do it).</p>
+
+<p>The best way to create evidence of your skills is to use them and then share the artifacts of your work.</p>
+
+<p>One option is to do a project that is targeted at the company you want to work for. Read the job posting carefully to figure out what the job is, and then spend a weekend putting together a small project that demonstrates your ability to do it.</p>
+
+<p>If you’re lucky, the posting will include details about a take-home assessment that will be required as part of the interview process. 99% of people who apply to the position will just submit a résumé and a boiler-plate cover letter; they wouldn’t dream of doing the take-home assessment before even getting a first interview. So a great way to stand out is to do the project preemptively and send it in.</p>
+
+<p>Another option is to come up with a project of your own. Some people will say not to try Kaggle contests because <em>everyone</em> does Kaggle contests. I’m not convinced of that advice. The first step is to do something, anything at all. If Kaggle seems fun to you, go for it. Another option is to pick a textbook and start reading it. Summarize a chapter or two and share what you’ve learned online. You don’t need to be original. You just need to be more generative than the average job-seeker.</p>
+
+<p>The strongest evidence of your character is in your current relationships. That’s why referrals are best sought from the people you already know, especially people you’ve known for a long time or worked with previously. If you haven’t already, I recommend that you tell everyone you know that you’re looking for work.</p>
+
+<p>If this avenue dries up, you may need to get to know new people. If you’re sharing high-quality work online, you will be more likely to make serendipitous connections. Beyond that, you may decide to go to some meetups or conferences. This can work well if you’re strategic. You want to draw <em>some</em> attention to yourself, especially from people who might potentially hire or refer you, but it has to be the right kind of attention. You don’t want to just wander from person to person telling them you’re looking for work. A better strategy is to ask a thoughtful question during a talk. This will give people an ice-breaker so that they can come talk to <em>you</em>. And in the mingling sessions, just ask lots of questions and listen to the answers.</p>
+
+<p>I don’t think résumés or cover letters matter very much. One page, two pages—who cares? Just make sure there are no glaring typos, that you summarize your qualifications, and that there is information about where to learn more about you—LinkedIn, GitHub, your website, etc. Don’t go overboard describing your skills, especially soft skills. Anybody can write that stuff on a résumé, so it doesn’t convey much information.</p>
+
+<p>Most of what I’ve said applies to any job search. What about in data science specifically? What should you know, and how can you stand out? I’ll answer these questions by offering three examples of interview questions that I think would do a good job of assessing a potential data scientist, along with what I would hope to see in a candidate’s answer.</p>
+
+<blockquote>
+  <p>You work for a bank, and you’ve been asked to write a Python or R package to facilitate ongoing analysis of online surveys which are sent to customers every time they visit a branch in person. What first steps would you take to ensure that this project is successful? Be specific: what is on your to-do list for the first couple days of package development?</p>
+</blockquote>
+
+<p>This question has two purposes. The first is to get a sense of your project management skills. How deeply do you try to understand a problem before you start executing on a solution? How do you budget your time and figure out the scope of your responsibilities? How do you forestall unneeded risks or costs?</p>
+
+<p>The second purpose is to gauge your level of experience as a developer. Do you know how to set up the right directory structure? Will you use a git branching model? How will you track dependencies? Do you have a preferred testing framework?  Will you set up continuous integration? Will you set up git hooks or some other system to auto-generate documentation? These things are the bread and butter of many data science jobs.</p>
+
+<blockquote>
+  <p>A senior executive at your company has heard that one of your models, which uses the k-nearest neighbors algorithm to predict house prices, involves something called a “bias-variance tradeoff”. They want to know what this tradeoff is, and also why your algorithm seems to depend so much on “neighboring” houses, when there ought to be other relevant factors to consider. How would you explain?</p>
+</blockquote>
+
+<p>Data scientists frequently need to explain their work to decision-makers or stakeholders, and this often involves disambiguating technical terms. This question presents an opportunity to give a vivid explanation of the bias-variance tradeoff by relating it to a hyperparameter (<em>k</em>) in a relatively simple algorithm. It also tests your ability to explain, tactfully and clearly, what is meant by “neighbor” if not the traditional meaning. My advice to you for answering questions like this one is to ground your explanation in a <a href="https://davidklaing.com/blog/2017/11/10/communication-in-data-science.html">concrete example</a>.</p>
+
+<blockquote>
+  <p>You work for a company that offers a subscription-based meditation app. You have behavioral data about each user – how often they open the app, which pages they visit, etc. After creating around 20 features, one of your colleagues built a multiple logistic regression model to predict whether a user will cancel their subscription in the next month. They found that just one behavior has a statistically significant relationship with cancellation: the frequency at which the user opens the app before 9:00am. Your colleague is proposing that a notification be sent by default every morning, and wants to know your thoughts. What questions would you ask about their analysis, and what do you think of their conclusion?</p>
+</blockquote>
+
+<p>Some findings are surprising because you’ve done your job well: you uncovered something that wasn’t obvious. Some findings are surprising because they’re wrong. One of the biggest challenges in data science, especially for junior data scientists, is distinguishing between these two cases. This question challenges you to recognize the importance of correcting for multiple comparisons, considering effect sizes, choosing the right model, and testing out small-scale interventions before committing to big ones.</p>
+
+<p>Interviews are hard, and they take practice. Try not to get discouraged if you get turned down—it happens to everyone. But if you keep learning, keep sharing your work online, and maintain good relationships with the people in your network, I’m confident that you’ll find work.</p>
+
+        </div>
+        <div class="col-3 col-s-9 article-backlinks">
+            
+            <h1>Links to this page</h1>
+            <ul><li><a id="how-tos" class="internal-link" href="/how-tos/">How-tos</a></li></ul>
+            
+        </div>
+    </div>
+</article>
+            </div>
+        </div>
+        <script src="https://unpkg.com/@popperjs/core@2"></script>
+        <script src="https://unpkg.com/tippy.js@6"></script>
+        <script type="text/javascript">
+            tippy('#home', {
+    theme: 'light-border',
+    arrow: false,
+    allowHTML: true,
+    placement: 'bottom',
+    touch: false,
+    maxWidth: 550,
+    interactive: true,
+    interactiveBorder: 1,
+    content: '<p>Welcome! I’m <a class="internal-link" href="/about-me/" id="about-me">David Laing</a>. I write to share my learning, to give more life to ideas that I think are underappreciated, to make it easier for my future friends to find me, and because <a class="internal-link" href="/talk-more/" id="talk-more">if you’re good, you need to talk more</a>.</p><ul><li><p><a class="internal-link" href="/how-tos/" id="how-tos">How-tos</a></p></li><li><p><a class="internal-link" href="/commentaries/" id="commentaries">Commentaries</a></p></li><li><p><a class="internal-link" href="/bookshelf/" id="bookshelf">Bookshelf</a></p></li></ul>'
+});
+            tippy('#subscribe', {
+    theme: 'light-border',
+    arrow: false,
+    allowHTML: true,
+    placement: 'bottom',
+    touch: false,
+    maxWidth: 550,
+    interactive: true,
+    interactiveBorder: 1,
+    content: '<p>I think of my newsletter as a forcing function to help me reflect every month on the books, articles, ideas, and music that resonated with me the most. Join, if you dare!</p><iframe frameborder="0" height="320" scrolling="no" src="https://davidlaing.substack.com/embed" style="border:1px solid #EEE; background:white;" width="480"></iframe>'
+});
+        </script>
+        
+            <script type="text/javascript">
+                tippy('#how-tos', {
+    theme: 'light-border',
+    arrow: false,
+    allowHTML: true,
+    placement: 'right',
+    touch: false,
+    maxWidth: 550,
+    interactive: true,
+    interactiveBorder: 1,
+    content: '<h1>How-tos</h1><ul><li><a class="internal-link" href="/how-to-learn-chess-faster/" id="how-to-learn-chess-faster">How to learn chess faster</a></li><li><a class="internal-link" href="/how-to-get-a-job-in-data-science/" id="how-to-get-a-job-in-data-science">How to get a job in data science</a></li><li><a class="internal-link" href="/how-to-invest-in-index-funds/" id="how-to-invest-in-index-funds">How to invest in index funds, for Canadians</a></li><li><a class="internal-link" href="/how-to-wrangle-nested-data-using-the-tidyverse/" id="how-to-wrangle-nested-data-using-the-tidyverse">How to wrangle nested data using the tidyverse</a></li><li><a class="internal-link" href="/how-to-use-Roam-as-a-slip-box/" id="how-to-use-Roam-as-a-slip-box">How to use Roam as a slip-box</a></li></ul>'
+});
+            </script>
+        
+    </body>
+</html>

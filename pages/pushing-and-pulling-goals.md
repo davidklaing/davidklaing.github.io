@@ -4,6 +4,9 @@ title: "Pushing and pulling goals — Scott Alexander"
 permalink: /pushing-and-pulling-goals/
 published: true
 last_updated: 2019-09-25
+backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+tooltips: 
+- path: tooltip_commentaries.js
 ---
 
 At least once a month, I think of Scott Alexander's distinction between ["pushing" and "pulling" goals](https://slatestarcodex.com/2016/07/18/pushing-and-pulling-goals/). I'll let him define the terms:

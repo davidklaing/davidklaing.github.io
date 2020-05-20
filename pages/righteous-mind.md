@@ -2,8 +2,14 @@
 layout: page
 title: "The Righteous Mind"
 permalink: /righteous-mind/
+last_updated: 2016-09-01
 published: true
+backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+tooltips: 
+- path: tooltip_commentaries.js
 ---
+
+This is a chapter-by-chapter summary of Jonathan Haidt’s book, <a class="external-link" target="_blank" href="https://righteousmind.com/">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a>.
 
 ## Overview
 
