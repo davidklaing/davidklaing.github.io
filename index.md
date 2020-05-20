@@ -3,11 +3,11 @@ layout: page
 title: davidklaing.com
 permalink: /
 tooltips: 
-- path: tooltip_bookshelf.js
 - path: tooltip_talk-more.js
-- path: tooltip_how-tos.js
-- path: tooltip_commentaries.js
 - path: tooltip_about-me.js
+- path: tooltip_commentaries.js
+- path: tooltip_bookshelf.js
+- path: tooltip_how-tos.js
 ---
 
 Welcome! I'm <a id="about-me" class="internal-link" href="/about-me/">David Laing</a>. I write to share my learning, to give more life to ideas that I think are underappreciated, to make it easier for my future friends to find me, and because <a id="talk-more" class="internal-link" href="/talk-more/">if you're good, you need to talk more</a>.

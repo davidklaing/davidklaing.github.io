@@ -4,6 +4,9 @@ title: How to use Roam as a slip-box
 permalink: /how-to-use-roam-as-a-slip-box/
 published: true
 last_updated: 2020-02-01
+backlinks: <ul><li><a id="how-tos" class="internal-link" href="/how-tos/">How-tos</a></li></ul>
+tooltips: 
+- path: tooltip_how-tos.js
 ---
 
 ## The slip-box method
