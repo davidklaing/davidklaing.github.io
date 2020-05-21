@@ -1,60 +1,37 @@
+/* General styles --------------------------------------------------------------------------------------------------- */
+
 body {
-    background-color: #fbfffa;
+    background-color: white;
     color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+    font-family: 'Noto Sans';
+    word-wrap: break-word;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Serif';
 }
 
-p, li, a {
-    font-family: 'Noto Sans';
-}
-
-.highlight {
-    overflow-x: scroll;
-}
-
-hr {
-    border: 0;
-    clear:both;
-    display:block;
-    width: 100%;               
-    background-color:#c9d4c5;
-    height: 1px;
-}
-
-.container {
-    text-align: center;
-}
-
-.article-backlinks {
-    text-align: left;
-}
-
-.internal-link {
-    color:green;
+a {
     text-decoration: underline;
+    color: #0074D9;
 }
 
-.internal-link:hover {
-    color:greenyellow;
-    text-decoration: underline;
+p, ul, ol, li {
+    line-height: 1.6;
+    margin-block-start: 0.5rem;
+    margin-block-end: 0.5rem;
 }
 
-a, .external-link {
-    color:blue;
-    text-decoration: underline;
-}
-
-a:hover, .external-link:hover {
-    color:purple;
-    text-decoration: underline;
-}
-
-.article-content {
-    width: 100%;
-    text-align: left;
+blockquote {
+    line-height: 1.6;
+    margin: 0 0;
+    padding: 0 20px 0 20px;
+    border-left: 3px solid #0074D9;
+    margin-block-start: 0.5rem;
+    margin-block-end: 0.5rem;
 }
 
 img, iframe {
@@ -64,17 +41,78 @@ img, iframe {
     margin-right: auto;
 }
 
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:#AAAAAA;
+    height: 1px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Utilities -------------------------------------------------------------------------------------------------------- */
+
+.article-content {
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+}
+
+.highlight {
+    overflow-x: scroll;
+}
+
+.internal-link {
+    color:#2ECC40;
+}
+
+.internal-link:hover {
+    color:rgb(103, 199, 114);
+}
+
+a:hover, .external-link:hover {
+    color:rgb(74, 150, 216);
+}
+
+.site-header {
+    float: top;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+}
+
+.tippy-box[data-theme~='light-border'] {
+    background-color:white;
+    color: black;
+    overflow-y: scroll;
+    padding: 5px;
+    display: -webkit-box;
+    max-height: 500px;
+    -webkit-line-clamp: 20;
+    -webkit-box-orient: vertical;
+}
+
+/* Media queries ---------------------------------------------------------------------------------------------------- */
+
 /* For mobile phones: */
 [class*="col-"] {
-    width: 100%;
+    width: 95%;
     padding: 15px;
     margin-top: 0;
     display: inline-grid;
-    text-align: left;
+    text-align: justify;
 }
   
+/* For tablets: */
 @media only screen and (min-width: 600px) {
-    /* For tablets: */
     .col-s-1 {width: 8.33%;}
     .col-s-2 {width: 16.66%;}
     .col-s-3 {width: 25%;}
@@ -87,9 +125,28 @@ img, iframe {
     .col-s-10 {width: 83.33%;}
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
+    body {width: 90%;}
 }
-@media only screen and (min-width: 768px) {
-    /* For desktop: */
+
+/* For medium-sized desktop: */
+@media only screen and (min-width: 800px) {
+    .col-m-1 {width: 8.33%;}
+    .col-m-2 {width: 16.66%;}
+    .col-m-3 {width: 25%;}
+    .col-m-4 {width: 33.33%;}
+    .col-m-5 {width: 41.66%;}
+    .col-m-6 {width: 50%;}
+    .col-m-7 {width: 58.33%;}
+    .col-m-8 {width: 66.66%;}
+    .col-m-9 {width: 75%;}
+    .col-m-10 {width: 83.33%;}
+    .col-m-11 {width: 91.66%;}
+    .col-m-12 {width: 100%;}
+    body {width: 90%;}
+}
+
+/* For large desktop: */
+@media only screen and (min-width: 1100px) {
     .col-1 {width: 8.33%;}
     .col-2 {width: 16.66%;}
     .col-3 {width: 25%;}
@@ -102,23 +159,5 @@ img, iframe {
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
-}
-
-.site-header {
-    float: top;
-    padding-left: 5px;
-    padding-bottom: 2px;
-    margin: 0px;
-    text-align: left;
-}
-
-.tippy-box[data-theme~='light-border'] {
-    background-color:#fbfffa;
-    color: black;
-    overflow-y: scroll;
-    padding: 5px;
-    display: -webkit-box;
-    max-height: 500px;
-    -webkit-line-clamp: 20;
-    -webkit-box-orient: vertical;
+    body {width: 71%;}
 }

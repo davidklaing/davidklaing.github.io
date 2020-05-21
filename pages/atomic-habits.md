@@ -35,19 +35,19 @@ Each stage of this cycle is a lever you can pull to influence your behaviour. To
 
 The book is broken into four sections, one for each stage of the habit cycle. Each chapter begins with a short vignette about a historical figure, and then dives into a related piece of advice. If you've done some thinking or reading about habit formation before, then you might be familiar with many of these ideas already. This was the case for me. However, even if you feel like you know the landscape well, I think you would find at least one actionable idea in the book. For the rest of this post, I'll describe the ideas that I've implemented myself since reading it.
 
-### Habit stacking
+## Habit stacking
 
 One of the easiest ways to build a new habit is to attach it to an existing one. By resolving to start performing a new habit directly following another one that is already ingrained, you turn the old habit's reward into the new habit's cue; you make it obvious. After enough repetitions, the new habit is woven into your life.
 
 Last year, I developed a stable habit of doing push-ups and kettlebell swings after every 25-minute work block throughout my workday. When I read about habit stacking, I recognized an opportunity to use these existing habits as foundations for a new one: drinking more water. Now, every time I do my push-ups and kettlebell swings, I drink a small glass of water. I'm more hydrated than ever.
 
-### Implementation intentions
+## Implementation intentions
 
 In a study, two groups were asked to make to-do lists, but one group was given a small tweak that resulted in them accomplishing many more tasks than the other. They were told to write down with each task the time and location where they intended to complete it. They created an implementation intention. This is another way to make a behaviour more obvious, this time by associating the action with a context that can be perceived as the cue.
 
 I've started writing down implementation intentions every time I add an item to my to-do list. Instead of *Call the bank to order a new debit card*, it's *Call the bank to order a new debit card in the living room on Saturday morning*. While there are still plenty of overdue tasks on my to-do list, this new habit of writing down where and when I intend to complete each task has helped me cross a number of them off.
 
-### Prime your environment
+## Prime your environment
 
 I first learned the value of this lesson three years ago when I lived in a tiny coach house in Welland, Ontario. I had always struggled to get out of bed on time, but I was teaching courses of my own for the first time and couldn't afford to be late for class. So I came up with a solution. Each night before bed, I prepared my stovetop espresso maker and put it on the stove, alongside a clean mug and my phone (my alarm). When my alarm started ringing, I had to get out of bed and walk over to the stove to turn it off. Immediately, I would turn on the stove element and go back to bed for a snooze. Ten minutes later I would be woken again by the gurgling of the espresso, as well as the fear that it would boil over if I didn't get up to turn off the element. My reward for getting up the second time was a fresh cup of coffee. Ever since then I've been completely cured of my snoozing habit.
 
@@ -58,7 +58,7 @@ As Clear explains, priming your environment for its next use is a great way to m
 - Filling up a big water jug next to my desk at the end of each work day. (This makes it easier to stay hydrated the next day. Note that putting the water jug there also makes my drinking habit more obvious.)
 - Placing a novel on my pillow after making my bed each morning. (I'm trying to build the habit of reading fiction before bed because I find that it helps me sleep.)
 
-### Make it small
+## Make it small
 
 I've used various habit trackers for about four years now, and I've just about settled on [TaskLife](https://play.google.com/store/apps/details?id=uk.amimetic.tasklife&hl=en) as my favourite. I define a list of behaviours, and each day the app asks me whether I've done them. The beauty of it is that I can choose the frequency with which I want to perform each task, as well as the time period over which to calculate that frequency. It's like Andy Matuschak's system of [smoothly ratcheting targets with teeth](http://blog.andymatuschak.org/post/169043084412/successful-habits-through-smoothly-ratcheting), minus a bit of smoothness and all the teeth.
 
@@ -75,7 +75,7 @@ The most common reason that I've failed to hit my target frequency has been the 
 - Did you read at least one page of nonfiction? (40%)
 - Did you walk through the doors of the gym? (25%)
 
-### Automate it
+## Automate it
 
 Lastly, the easiest way to make a task easier is to delegate it to a machine. As a data scientist, I have obviously implemented this one before, too. I've automated my health insurance payments, my donations to charity, my bus pass top-ups, my [memorization efforts](https://apps.ankiweb.net/), my [sleep tracking, my exercise tracking](https://www.fitbit.com), and my rebalancing calculations in my investment accounts. But there are always more things to automate, and Clear's chapter on the subject got me to reflect on what else I could do. Since reading the chapter, I've set up automatic payments on all of my regular bills, and on my to-do list (with an implementation intention!) is the task of setting up automatic monthly transfers into my investment accounts.
 
