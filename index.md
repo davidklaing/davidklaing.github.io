@@ -31,7 +31,7 @@ I write about <a id="bookshelf" class="internal-link" href="/bookshelf/">books</
 
 I write about my hobbies and passion projects. See <a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">everything I know about chess</a>, <a id="how-to-use-roam-as-a-slip-box" class="internal-link" href="/how-to-use-roam-as-a-slip-box/">how to use Roam as a slip-box</a>, and <a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn't just be for musicians</a>.
 
-Lastly, I write <a id="notes" class="internal-link" href="/notes/">notes</a>. I think of them as atomic proto-essays, or mega-tweets, in the style of Andy Matuschak's <a class="external-link" href="https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C">evergreen notes</a>, which inspired both the content and form of this site. Here are a few that are on my mind:
+Lastly, I write <a id="notes" class="internal-link" href="/notes/">notes</a>. I think of them as atomic proto-essays, or mega-tweets, in the style of Andy Matuschak's <a class="external-link" href="https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C">evergreen notes</a>, which inspired the form of this site. Here are a few notes that are on my mind:
 
 * <a id="aesthetic-bullseye" class="internal-link" href="/aesthetic-bullseye/">The aesthetic bullseye</a>
 * <a id="tidy-up" class="internal-link" href="/tidy-up/">Tidy up so you can make a useful mess</a>
