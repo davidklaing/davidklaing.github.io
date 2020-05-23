@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Communication in data science is more than just the final report"
+title: Communication in data science is more than just the final report
 permalink: /communication-in-data-science/
 published: true
 last_updated: 2017-11-10

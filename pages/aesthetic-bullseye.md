@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "The Aesthetic Bullseye"
+title: The Aesthetic Bullseye
 permalink: /aesthetic-bullseye/
 published: true
 last_updated: 2019-10-30
-backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 tooltips: 
 - path: tooltip_commentaries.js
 ---

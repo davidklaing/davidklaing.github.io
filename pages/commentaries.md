@@ -4,16 +4,16 @@ title: Commentaries
 permalink: /commentaries/
 backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 tooltips: 
-- path: tooltip_righteous-mind.js
-- path: tooltip_solved-conversations.js
-- path: tooltip_levels-of-action.js
 - path: tooltip_research-as-a-stochastic-decision-process.js
-- path: tooltip_pushing-and-pulling-goals.js
-- path: tooltip_the-machine-stops.js
-- path: tooltip_aesthetic-bullseye.js
-- path: tooltip_prototyping-at-the-speed-of-thought.js
-- path: tooltip_ideological-turing-test.js
+- path: tooltip_solved-conversations.js
 - path: tooltip_deep-laziness.js
+- path: tooltip_prototyping-at-the-speed-of-thought.js
+- path: tooltip_aesthetic-bullseye.js
+- path: tooltip_levels-of-action.js
+- path: tooltip_righteous-mind.js
+- path: tooltip_pushing-and-pulling-goals.js
+- path: tooltip_ideological-turing-test.js
+- path: tooltip_the-machine-stops.js
 - path: tooltip_godel-escher-bach.js
 - path: tooltip_atomic-habits.js
 ---

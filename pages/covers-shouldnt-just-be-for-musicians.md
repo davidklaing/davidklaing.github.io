@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Covers shouldn’t just be for musicians"
+title: Covers shouldn’t just be for musicians
 permalink: /covers-shouldnt-just-be-for-musicians/
 published: true
 last_updated: 2019-12-04
+backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 tooltips: 
-- path: tooltip_solved-conversations.js
 - path: tooltip_research-as-a-stochastic-decision-process.js
+- path: tooltip_solved-conversations.js
 - path: tooltip_deep-laziness.js
 ---
 

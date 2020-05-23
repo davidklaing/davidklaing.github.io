@@ -1,4 +1,43 @@
-tippy('#home', {
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Notes</title>
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light-border.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+    <body>
+        <div class="container">
+            <div class="site-header">
+    <a id="home" class="internal-link" href="/">davidklaing.com</a>&nbsp&nbsp&nbsp&nbsp<a id="subscribe" class="internal-link" href="/subscribe">subscribe</a>
+</div>
+<hr>
+            <div class="content">
+                <article class="page">
+    <div class="container">
+        <div class="col-7 col-m-7 col-s-11 article-content">
+            
+                <h1>Notes</h1>
+            
+            
+            
+
+        </div>
+        <div class="col-4 col-m-3 col-s-11 article-backlinks">
+            
+            <h1>Links to this page</h1>
+            <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
+            
+        </div>
+    </div>
+</article>
+            </div>
+        </div>
+        <script src="https://unpkg.com/@popperjs/core@2"></script>
+        <script src="https://unpkg.com/tippy.js@6"></script>
+        <script type="text/javascript">
+            tippy('#home', {
     theme: 'light-border',
     arrow: false,
     allowHTML: true,
@@ -9,3 +48,18 @@ tippy('#home', {
     interactiveBorder: 1,
     content: '<p>Welcome! I’m <a class="internal-link" href="/about-me/" id="about-me">David Laing</a>. I write to share my learning, to give more life to ideas that I think are underappreciated, and to make it easier for my future friends to find me.</p><p>The most important thing I’ve ever written is my essay, <a class="internal-link" href="/talk-more/" id="talk-more">If you’re good, you need to talk more</a>.</p><p>I write <a class="internal-link" href="/commentaries/" id="commentaries">commentaries</a> on notable essays from around the web. My favourites are the ones on Sarah Perry’s idea of <a class="internal-link" href="/deep-laziness/" id="deep-laziness">deep laziness</a>, and Alyssa Vance’s idea of <a class="internal-link" href="/levels-of-action/" id="levels-of-action">levels of action</a>.</p><p>I write about <a class="internal-link" href="/bookshelf/" id="bookshelf">books</a>. See my review of <a class="internal-link" href="/atomic-habits/" id="atomic-habits">Atomic Habits</a>, and my summaries of <a class="internal-link" href="/righteous-mind/" id="righteous-mind">The Righteous Mind</a> and <a class="internal-link" href="/godel-escher-bach/" id="godel-escher-bach">Gödel, Escher, Bach</a>.</p><p>I write about my hobbies and passion projects. See <a class="internal-link" href="/everything-i-know-about-chess/" id="everything-i-know-about-chess">everything I know about chess</a>, <a class="internal-link" href="/how-to-use-roam-as-a-slip-box/" id="how-to-use-roam-as-a-slip-box">how to use Roam as a slip-box</a>, and <a class="internal-link" href="/covers-shouldnt-just-be-for-musicians/" id="covers-shouldnt-just-be-for-musicians">Covers shouldn’t just be for musicians</a>.</p><p>Lastly, I write <a class="internal-link" href="/notes/" id="notes">notes</a>. I think of them as atomic proto-essays, or mega-tweets, in the style of Andy Matuschak’s <a class="external-link" href="https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C">evergreen notes</a>, which inspired both the content and form of this site. Here are a few that are on my mind:</p><ul><li><a class="internal-link" href="/aesthetic-bullseye/" id="aesthetic-bullseye">The aesthetic bullseye</a></li><li><a class="internal-link" href="/tidy-up/" id="tidy-up">Tidy up so you can make a useful mess</a></li><li><a class="internal-link" href="/personal-phd/" id="personal-phd">The personal PhD</a></li></ul>'
 });
+            tippy('#subscribe', {
+    theme: 'light-border',
+    arrow: false,
+    allowHTML: true,
+    placement: 'bottom',
+    touch: false,
+    maxWidth: 550,
+    interactive: true,
+    interactiveBorder: 1,
+    content: '<p>I think of my newsletter as a forcing function to help me reflect every month on the books, articles, ideas, and music that resonated with me the most. Join, if you dare!</p><iframe frameborder="0" height="320" scrolling="no" src="https://davidlaing.substack.com/embed" style="border:1px solid #EEE; background:white;" width="480"></iframe>'
+});
+        </script>
+        
+    </body>
+</html>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "E.M. Forster foresaw 2020 in 1909"
+title: E.M. Forster foresaw 2020 in 1909
 published: true
 permalink: /the-machine-stops/
 last_updated: 2020-04-05

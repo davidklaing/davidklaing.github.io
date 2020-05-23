@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My laptop setup"
+title: My laptop setup
 permalink: /laptop-setup/
 published: true
 last_updated: 2018-12-16

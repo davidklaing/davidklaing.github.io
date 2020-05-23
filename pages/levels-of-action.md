@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Levels of Action — Alyssa Vance"
+title: Levels of Action — Alyssa Vance
 permalink: /levels-of-action/
 published: true
 last_updated: 2019-08-28
-backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 tooltips: 
 - path: tooltip_commentaries.js
 ---

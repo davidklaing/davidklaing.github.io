@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pushing and pulling goals — Scott Alexander"
+title: Pushing and pulling goals — Scott Alexander
 permalink: /pushing-and-pulling-goals/
 published: true
 last_updated: 2019-09-25

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Gödel, Escher, Bach in 34 propositions"
+title: Gödel, Escher, Bach in 34 propositions
 permalink: /godel-escher-bach/
 published: true
 last_updated: 2020-01-02
-backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 tooltips: 
 - path: tooltip_commentaries.js
 ---

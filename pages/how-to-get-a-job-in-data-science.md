@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How to get a job in data science"
+title: How to get a job in data science
 permalink: /how-to-get-a-job-in-data-science/
 published: true
 last_updated: 2019-04-11
