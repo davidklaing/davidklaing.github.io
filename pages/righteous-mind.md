@@ -9,7 +9,7 @@ tooltips:
 - path: tooltip_commentaries.js
 ---
 
-This is a chapter-by-chapter summary of Jonathan Haidt’s book, <a class="external-link" target="_blank" href="https://righteousmind.com/">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a>.
+This is a chapter-by-chapter summary of Jonathan Haidt’s book, <a class="external-link" target="_self" href="https://righteousmind.com/">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a>.
 
 ## Overview
 
