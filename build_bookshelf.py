@@ -14,5 +14,5 @@ def get_lastname(author):
 read_list['author_lastname'] = [get_lastname(author) for author in read_list['Author']]
 
 for index, row in read_list.sort_values(by='author_lastname').iterrows():
-    if row['My Rating'] >= 4:
+    if row['My Rating'] <= 3:
         print(f"* {row['author_lastname']}, *{row['Title']}*, ({str(row['Original Publication Year'])[:-2]})")
