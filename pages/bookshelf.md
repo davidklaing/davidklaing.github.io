@@ -14,8 +14,7 @@ backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</
 * Beckett, *Waiting for Godot* (1952)
 * Borges, *The Library of Babel*, (1941)
 * Bradbury, *Fahrenheit 451* (1953)
-* Butler, *Wild Seed (Patternmaster, #1)*, (1980)
-
+* Butler, *Wild Seed*, (1980)
 * Camus, *The Plague* (1947)
 * Carroll, *Alice's Adventures in Wonderland & Through the Looking-Glass* (1871)
 * Chabon, *The Amazing Adventures of Kavalier & Clay* (2000)
