@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Memoirs"
+title: "Memoirs"
 published: true
 permalink: /bookshelf-memoirs/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Adams, *How to Fail at Almost Everything and Still Win Big* (2013)

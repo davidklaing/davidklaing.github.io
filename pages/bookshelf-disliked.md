@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: disliked"
+title: "Disliked"
 published: true
 permalink: /bookshelf-disliked/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Banks, *The Player of Games* (1988)

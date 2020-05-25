@@ -1,0 +1,11 @@
+tippy('#bookshelf-science', {
+    theme: 'light-border',
+    arrow: false,
+    allowHTML: true,
+    placement: 'right',
+    touch: false,
+    maxWidth: 550,
+    interactive: true,
+    interactiveBorder: 1,
+    content: '<div class="article-component"><h1>Science</h1><ul><li>Asimov, <em>Nightfall</em> (1990)</li><li>Banks, <em>The Player of Games</em> (1988)</li><li>Card, <em>Ender’s Shadow</em> (1999) ★</li><li>Card, <em>Ender’s Saga</em> (1996) ★</li><li>Christian, <em>Algorithms to Live By</em> (2016) ★</li><li>Clarke, <em>2001: A Space Odyssey</em> (1968)</li><li>Crichton, <em>Jurassic Park</em> (1990)</li><li>Dawkins, <em>Unweaving the Rainbow</em> (1998)</li><li>Forster, <em>The Machine Stops</em> (1909) ★</li><li>Gibson &amp; Sterling, <em>The Difference Engine</em> (1990) ★</li><li>Gladwell, <em>Outliers</em> (2008)</li><li>Gleick, <em>Chaos</em> (1987)</li><li>Gleick, <em>Isaac Newton</em> (2003) ★</li><li>Gleick, <em>The Information</em> (2011) ★</li><li>Goleman, <em>Altered Traits</em> (2017)</li><li>Guin, <em>The Ones Who Walk Away from Omelas</em> (1973)</li><li>Guin, <em>The Left Hand of Darkness</em> (1969)</li><li>Harris, <em>The Nurture Assumption</em> (1998)</li><li>Herbert, <em>Dune</em> (1965)</li><li>Kahneman, <em>Thinking, Fast and Slow</em> (2011)</li><li>Keyes, <em>Flowers for Algernon</em> (1966)</li><li>Lightman, <em>Einstein’s Dreams</em> (1992)</li><li>McGrayne, <em>The Theory That Would Not Die</em> (2011)</li><li>Medina, <em>Brain Rules</em> (2008)</li><li>Nielsen, <em>Reinventing Discovery</em> (2011) ★</li><li>Olson, <em>Houston, We Have a Narrative</em> (2015)</li><li>Pinker, <em>How the Mind Works</em> (1997) ★</li><li>Pinker, <em>The Language Instinct</em> (1994) ★</li><li>Ritchie, <em>Intelligence</em> (2015)</li><li>Sapolsky, <em>Behave</em> (2017)</li><li>Schneier, <em>Data and Goliath</em> (2015)</li><li>Silver, <em>The Signal and the Noise</em> (2012)</li><li>Stephens-Davidowitz, <em>Everybody Lies</em> (2017)</li><li>Stephenson, <em>Snow Crash</em> (1992)</li><li>Verne, <em>Twenty Thousand Leagues Under the Sea</em> (1869)</li><li>Wells, <em>The Island of Doctor Moreau</em> (1896)</li><li>Wickham, <em>Advanced R</em> (2014) ★</li><li>Wilson, <em>Spin</em> (2005)</li></ul></div>'
+});

@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Historical Fiction"
+title: "Historical Fiction"
 published: true
 permalink: /bookshelf-historical-fiction/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Clavell, *Tai-Pan* (1966)

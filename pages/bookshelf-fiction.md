@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Fiction"
+title: "Fiction"
 published: true
 permalink: /bookshelf-fiction/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Adams, *The Hitchhiker's Guide to the Galaxy* (1979)
@@ -41,7 +43,7 @@ backlinks:
 * Gaiman, *Coraline* (2002)
 * Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gaiman, *Stardust* (1997)
-* Gibson & Sterling, *The Difference Engine * (1990) ★
+* Gibson & Sterling, *The Difference Engine* (1990) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Guin, *A Wizard of Earthsea* (1968)
 * Guin, *The Ones Who Walk Away from Omelas* (1973)

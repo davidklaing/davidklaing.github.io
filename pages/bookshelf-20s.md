@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: read in my 20s"
+title: "20s"
 published: true
-permalink: /bookshelf-read-in-my-20s/
-backlinks: 
+permalink: /bookshelf-20s/
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Aurelius, *Meditations* (180)
@@ -50,7 +52,7 @@ backlinks:
 * Gaiman, *Coraline* (2002)
 * Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gaiman, *Stardust* (1997)
-* Gibson & Sterling, *The Difference Engine * (1990) ★
+* Gibson & Sterling, *The Difference Engine* (1990) ★
 * Gilbert, *Stumbling on Happiness* (2006)
 * Gladwell, *Outliers* (2008)
 * Gleick, *Chaos* (1987)
@@ -65,7 +67,7 @@ backlinks:
 * Haidt, *The Happiness Hypothesis* (2005) ★
 * Harari, *Sapiens* (2011)
 * Harari, *Homo Deus* (2017)
-* Hargrove, *Playing With Movement* (n)
+* Hargrove, *Playing With Movement* (2014)
 * Harris, *The Nurture Assumption* (1998)
 * Harris, *Free Will* (2012) ★
 * Harris, *Waking Up* (2014) ★

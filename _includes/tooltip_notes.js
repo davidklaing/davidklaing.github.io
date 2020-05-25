@@ -7,5 +7,5 @@ tippy('#notes', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<h1>Notes</h1>'
+    content: '<div class="article-component"><h1>Notes</h1></div>'
 });

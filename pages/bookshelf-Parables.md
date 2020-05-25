@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Parables"
+title: "Parables"
 published: true
 permalink: /bookshelf-parables/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Bach, *Jonathan Livingston Seagull* (1970) ★

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Bookshelf: Plays"
+title: "Plays"
 published: true
 permalink: /bookshelf-plays/
-backlinks: 
 ---
 
 * Beckett, *Waiting for Godot* (1952)

@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Business"
+title: "Business"
 published: true
 permalink: /bookshelf-business/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Clear, *Atomic Habits* (2018)

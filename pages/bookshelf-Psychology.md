@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Bookshelf: Psychology"
+title: "Psychology"
 published: true
 permalink: /bookshelf-psychology/
-backlinks: 
 ---
 
 * Ariely, *Predictably Irrational* (2008)

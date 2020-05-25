@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Science-Fiction"
+title: "Science-Fiction"
 published: true
 permalink: /bookshelf-science-fiction/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Asimov, *Nightfall* (1990)
@@ -13,7 +15,7 @@ backlinks:
 * Clarke, *2001: A Space Odyssey* (1968)
 * Crichton, *Jurassic Park* (1990)
 * Forster, *The Machine Stops* (1909) ★
-* Gibson & Sterling, *The Difference Engine * (1990) ★
+* Gibson & Sterling, *The Difference Engine* (1990) ★
 * Guin, *The Ones Who Walk Away from Omelas* (1973)
 * Guin, *The Left Hand of Darkness* (1969)
 * Herbert, *Dune* (1965)

@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Comics"
+title: "Comics"
 published: true
 permalink: /bookshelf-comics/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Larson, *The Far Side Gallery* (1984)

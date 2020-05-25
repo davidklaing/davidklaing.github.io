@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Religion"
+title: "Religion"
 published: true
 permalink: /bookshelf-religion/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Dawkins, *The God Delusion* (2006)

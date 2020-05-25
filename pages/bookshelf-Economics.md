@@ -1,11 +1,14 @@
 ---
 layout: page
-title: "Bookshelf: Economics"
+title: "Economics"
 published: true
 permalink: /bookshelf-economics/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Ariely, *Predictably Irrational* (2008)
 * Cowen, *Discover Your Inner Economist* (2007)
+* Kahneman, *Thinking, Fast and Slow* (2011)
 * Thaler, *Nudge* (2008)

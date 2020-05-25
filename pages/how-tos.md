@@ -6,9 +6,8 @@ permalink: /how-tos/
 tooltips: 
 - path: tooltip_how-to-learn-chess-faster.js
 - path: tooltip_how-to-get-a-job-in-data-science.js
-- path: tooltip_how-to-wrangle-nested-data-using-the-tidyverse.js
-- path: tooltip_how-to-invest-in-index-funds.js
 - path: tooltip_how-to-use-roam-as-a-slip-box.js
+- path: tooltip_how-to-invest-in-index-funds.js
 ---
 
 * <a id="how-to-learn-chess-faster" class="internal-link" href="/how-to-learn-chess-faster/">How to learn chess faster</a>

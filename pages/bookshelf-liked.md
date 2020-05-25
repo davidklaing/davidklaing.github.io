@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: liked"
+title: "Liked"
 published: true
 permalink: /bookshelf-liked/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Adams, *The Hitchhiker's Guide to the Galaxy* (1979)
@@ -37,7 +39,7 @@ backlinks:
 * Guin, *A Wizard of Earthsea* (1968)
 * Guin, *The Ones Who Walk Away from Omelas* (1973)
 * Guin, *The Left Hand of Darkness* (1969)
-* Hargrove, *Playing With Movement* (n)
+* Hargrove, *Playing With Movement* (2014)
 * Harris, *The Nurture Assumption* (1998)
 * Hesse, *Siddhartha* (1922)
 * Hill, *The Book of Negroes* (2007)

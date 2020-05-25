@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Non-Fiction"
+title: "Non-Fiction"
 published: true
 permalink: /bookshelf-non-fiction/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Aurelius, *Meditations* (180)
@@ -46,7 +48,7 @@ backlinks:
 * Haidt, *The Happiness Hypothesis* (2005) ★
 * Harari, *Sapiens* (2011)
 * Harari, *Homo Deus* (2017)
-* Hargrove, *Playing With Movement* (n)
+* Hargrove, *Playing With Movement* (2014)
 * Harris, *The Nurture Assumption* (1998)
 * Harris, *Free Will* (2012) ★
 * Harris, *Waking Up* (2014) ★

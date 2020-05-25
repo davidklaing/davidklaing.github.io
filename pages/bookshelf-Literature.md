@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Literature"
+title: "Literature"
 published: true
 permalink: /bookshelf-literature/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Adams, *The Hitchhiker's Guide to the Galaxy* (1979)

@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: read in my childhood"
+title: "Childhood"
 published: true
-permalink: /bookshelf-read-in-my-childhood/
-backlinks: 
+permalink: /bookshelf-childhood/
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Adams, *The Hitchhiker's Guide to the Galaxy* (1979)

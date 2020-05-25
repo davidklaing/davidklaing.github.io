@@ -4,9 +4,6 @@ title: How to wrangle nested data using the tidyverse
 permalink: /how-to-wrangle-nested-data-using-the-tidyverse/
 published: true
 last_updated: 2019-02-25
-backlinks: <ul><li><a id="how-tos" class="internal-link" href="/how-tos/">How-tos</a></li></ul>
-tooltips: 
-- path: tooltip_how-tos.js
 ---
 
 Most of my R training involved operations on dataframes, usually with `dplyr` functions like `filter`, `select`, `mutate`, `group_by`, and `summarize`. These are wonderful tools that I use every day. However, there is a second set of tools that have become equally important in my day-to-day data manipulation work in R: those for working with lists.

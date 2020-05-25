@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Philosophy"
+title: "Philosophy"
 published: true
 permalink: /bookshelf-philosophy/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Aurelius, *Meditations* (180)

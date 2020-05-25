@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Bookshelf: Writing"
+title: "Writing"
 published: true
 permalink: /bookshelf-writing/
-backlinks: 
 ---
 
 * Ahrens, *How to Take Smart Notes* (2017)

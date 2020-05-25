@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: Science"
+title: "Science"
 published: true
 permalink: /bookshelf-science/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Asimov, *Nightfall* (1990)
@@ -15,7 +17,7 @@ backlinks:
 * Crichton, *Jurassic Park* (1990)
 * Dawkins, *Unweaving the Rainbow* (1998)
 * Forster, *The Machine Stops* (1909) ★
-* Gibson & Sterling, *The Difference Engine * (1990) ★
+* Gibson & Sterling, *The Difference Engine* (1990) ★
 * Gladwell, *Outliers* (2008)
 * Gleick, *Chaos* (1987)
 * Gleick, *Isaac Newton* (2003) ★

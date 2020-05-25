@@ -32,33 +32,34 @@ class Shelf:
             'published: true\n',
             f'permalink: /{id}/\n',
             'backlinks: \n',
-            '---\n\n'
+            '---\n',
+            '\n'
         ]
         for index, book in self.shelf.iterrows():
             string = f"* {book['author_surname']}, *{book['title']}* ({book['publication_year']})"
             if self.rating is None:
-                if book['rating'] == 'loved':
+                if book['rating'] == 'Loved':
                     string += ' ★'
             page.append(string + '\n')
         return page
     
     def make_yaml_attributes(self):
         if self.rating is not None:
-            return f'bookshelf-{self.rating}', f'Bookshelf: {self.rating}'
+            return f'bookshelf-{self.rating.lower()}', f'{self.rating}'
         if self.period_of_my_life is not None:
             return (
-                f'bookshelf-read-in-my-{self.period_of_my_life}', 
-                f'Bookshelf: read in my {self.period_of_my_life}'
+                f'bookshelf-{self.period_of_my_life.lower()}', 
+                f'{self.period_of_my_life}'
             )
         if self.genre is not None:
             return (
                 f'bookshelf-{self.genre.lower()}', 
-                f'Bookshelf: {self.genre}'
+                f'{self.genre}'
             )
         if self.subgenre is not None:
             return (
-                f'bookshelf-{self.subgenre.lower().replace(" ", "-").replace("&", "")}', 
-                f'Bookshelf: {self.subgenre}'
+                f'bookshelf-{self.subgenre.lower().replace(" ", "-").replace("&", "and")}', 
+                f'{self.subgenre}'
             )
         else:
             return (
@@ -73,13 +74,13 @@ def write_page(filepath, content):
 
 all_books = Shelf(library)
 
-for rating in ['loved', 'liked', 'disliked']:
+for rating in ['Loved', 'Liked', 'Disliked']:
     shelf = Shelf(library, rating=rating)
     id, title = shelf.make_yaml_attributes()
     page = shelf.make_page()
     write_page(filepath=f'pages/{id}.md', content=''.join(page))
 
-for period in ['childhood', 'teens', '20s']:
+for period in ['Childhood', 'Teens', '20s']:
     shelf = Shelf(library, period_of_my_life=period)
     id, title = shelf.make_yaml_attributes()
     page = shelf.make_page()
@@ -115,6 +116,7 @@ subgenres = [
     'Science-Fiction',
     'Self-Help',
     'Short Stories',
+    'Statistics',
     'Westerns',
     'Writing'
 ]

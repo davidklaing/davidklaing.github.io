@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Bookshelf: loved"
+title: "Loved"
 published: true
 permalink: /bookshelf-loved/
-backlinks: 
+backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+tooltips: 
+- path: tooltip_library.js
 ---
 
 * Bach, *Jonathan Livingston Seagull* (1970)
@@ -18,7 +20,7 @@ backlinks:
 * Forster, *The Machine Stops* (1909)
 * Frank, *The Diary of a Young Girl* (1947)
 * Gaiman, *The Ocean at the End of the Lane* (2013)
-* Gibson & Sterling, *The Difference Engine * (1990)
+* Gibson & Sterling, *The Difference Engine* (1990)
 * Gleick, *Isaac Newton* (2003)
 * Gleick, *The Information* (2011)
 * Golding, *Lord of the Flies* (1954)
