@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Computer Science & Programming"
 published: true
-permalink: /bookshelf-Computer Science & Programming/
+permalink: /bookshelf-computer-science--programming/
 backlinks: 
 ---
 

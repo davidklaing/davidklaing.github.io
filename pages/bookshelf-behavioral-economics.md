@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Behavioral Economics"
 published: true
-permalink: /bookshelf-Behavioral Economics/
+permalink: /bookshelf-behavioral-economics/
 backlinks: 
 ---
 

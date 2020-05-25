@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Economics"
 published: true
-permalink: /bookshelf-Economics/
+permalink: /bookshelf-economics/
 backlinks: 
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Westerns"
 published: true
-permalink: /bookshelf-Westerns/
+permalink: /bookshelf-westerns/
 backlinks: 
 ---
 

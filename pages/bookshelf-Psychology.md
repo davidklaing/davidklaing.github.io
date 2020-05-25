@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Psychology"
 published: true
-permalink: /bookshelf-Psychology/
+permalink: /bookshelf-psychology/
 backlinks: 
 ---
 
@@ -18,5 +18,5 @@ backlinks:
 * Pinker, *The Language Instinct* (1994) ★
 * Ritchie, *Intelligence* (2015)
 * Sapolsky, *Behave* (2017)
-* Simler, *The Elephant in the Brain* (2017)
+* Simler & Hanson, *The Elephant in the Brain* (2017)
 * Thaler, *Nudge* (2008)

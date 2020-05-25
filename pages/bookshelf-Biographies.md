@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Biographies"
 published: true
-permalink: /bookshelf-Biographies/
+permalink: /bookshelf-biographies/
 backlinks: 
 ---
 

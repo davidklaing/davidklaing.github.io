@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Self-Help"
 published: true
-permalink: /bookshelf-Self-Help/
+permalink: /bookshelf-self-help/
 backlinks: 
 ---
 

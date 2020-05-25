@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Religion"
 published: true
-permalink: /bookshelf-Religion/
+permalink: /bookshelf-religion/
 backlinks: 
 ---
 

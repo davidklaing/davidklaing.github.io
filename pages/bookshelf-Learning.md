@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Learning"
 published: true
-permalink: /bookshelf-Learning/
+permalink: /bookshelf-learning/
 backlinks: 
 ---
 

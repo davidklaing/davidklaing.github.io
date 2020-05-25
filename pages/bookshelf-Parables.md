@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Parables"
 published: true
-permalink: /bookshelf-Parables/
+permalink: /bookshelf-parables/
 backlinks: 
 ---
 

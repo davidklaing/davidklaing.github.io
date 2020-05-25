@@ -4,11 +4,11 @@ library = pd.read_csv('library.csv')
 
 class Shelf:
 
-    def __init__(self, library, rating = None, period_of_my_life = None, main_genre = None, subgenre = None):
+    def __init__(self, library, rating = None, period_of_my_life = None, genre = None, subgenre = None):
         self.shelf = library
         self.rating = rating
         self.period_of_my_life = period_of_my_life
-        self.main_genre = main_genre
+        self.genre = genre
         self.subgenre = subgenre
         self.prune_shelf()
     
@@ -17,8 +17,8 @@ class Shelf:
             self.shelf = self.shelf[self.shelf['rating'] == self.rating]
         if self.period_of_my_life is not None:
             self.shelf = self.shelf[self.shelf['period_of_my_life'] == self.period_of_my_life]
-        if self.main_genre is not None:
-            self.shelf = self.shelf[self.shelf['main_genre'] == self.main_genre]
+        if self.genre is not None:
+            self.shelf = self.shelf[self.shelf['genre'] == self.genre]
         if self.subgenre is not None:
             self.shelf = self.shelf[self.shelf['subgenres'].str.contains(self.subgenre)]
         self.shelf.sort_values(by='author_surname')
@@ -50,14 +50,14 @@ class Shelf:
                 f'bookshelf-read-in-my-{self.period_of_my_life}', 
                 f'Bookshelf: read in my {self.period_of_my_life}'
             )
-        if self.main_genre is not None:
+        if self.genre is not None:
             return (
-                f'bookshelf: {self.main_genre}', 
-                f'Bookshelf: {self.main_genre}'
+                f'bookshelf-{self.genre.lower()}', 
+                f'Bookshelf: {self.genre}'
             )
         if self.subgenre is not None:
             return (
-                f'bookshelf-{self.subgenre}', 
+                f'bookshelf-{self.subgenre.lower().replace(" ", "-").replace("&", "")}', 
                 f'Bookshelf: {self.subgenre}'
             )
         else:
@@ -85,8 +85,8 @@ for period in ['childhood', 'teens', '20s']:
     page = shelf.make_page()
     write_page(filepath=f'pages/{id}.md', content=''.join(page))
 
-for main_genre in ['Fiction', 'Non-Fiction']:
-    shelf = Shelf(library, main_genre=main_genre)
+for genre in ['Fiction', 'Non-Fiction']:
+    shelf = Shelf(library, genre=genre)
     id, title = shelf.make_yaml_attributes()
     page = shelf.make_page()
     write_page(filepath=f'pages/{id}.md', content=''.join(page))
@@ -95,6 +95,7 @@ subgenres = [
     'Behavioral Economics',
     'Biographies',
     'Business',
+    'Comics',
     'Computer Science & Programming',
     'Economics',
     'Essays',

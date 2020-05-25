@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Philosophy"
 published: true
-permalink: /bookshelf-Philosophy/
+permalink: /bookshelf-philosophy/
 backlinks: 
 ---
 
@@ -25,7 +25,7 @@ backlinks:
 * Nielsen, *Reinventing Discovery* (2011) ★
 * Schneier, *Data and Goliath* (2015)
 * Silver, *The Signal and the Noise* (2012)
-* Simler, *The Elephant in the Brain* (2017)
+* Simler & Hanson, *The Elephant in the Brain* (2017)
 * Stephens-Davidowitz, *Everybody Lies* (2017)
 * Taleb, *The Black Swan* (2007)
 * Thiel, *Zero to One* (2014) ★

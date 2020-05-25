@@ -2,7 +2,7 @@
 layout: page
 title: "Bookshelf: Science-Fiction"
 published: true
-permalink: /bookshelf-Science-Fiction/
+permalink: /bookshelf-science-fiction/
 backlinks: 
 ---
 
@@ -13,7 +13,7 @@ backlinks:
 * Clarke, *2001: A Space Odyssey* (1968)
 * Crichton, *Jurassic Park* (1990)
 * Forster, *The Machine Stops* (1909) ★
-* Gibson, *The Difference Engine * (1990) ★
+* Gibson & Sterling, *The Difference Engine * (1990) ★
 * Guin, *The Ones Who Walk Away from Omelas* (1973)
 * Guin, *The Left Hand of Darkness* (1969)
 * Herbert, *Dune* (1965)
