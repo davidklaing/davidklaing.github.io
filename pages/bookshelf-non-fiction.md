@@ -67,6 +67,7 @@ tooltips:
 * Miller, *Know My Name* (2019) ★
 * Moss, *The Rookie* (n)
 * Nielsen, *Reinventing Discovery* (2011) ★
+* O'Shaughnessy, *Millennial Money* (2014)
 * Oakley, *A Mind for Numbers* (2014)
 * Olson, *Houston, We Have a Narrative* (2015)
 * Pinker, *How the Mind Works* (1997) ★
@@ -97,4 +98,3 @@ tooltips:
 * Wright, *A Short History of Progress* (2004)
 * Yudkowsky, *Inadequate Equilibria* (2017)
 * Yudkowsky, *Rationality From AI to Zombies* (2015) ★
-* O'Shaughnessy, *Millennial Money* (2014)

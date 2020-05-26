@@ -26,6 +26,7 @@ tooltips:
 * Forster, *A Room with a View* (1908)
 * Golding, *Lord of the Flies* (1954) ★
 * Goldstein, *The Mind-Body Problem* (1983)
+* Gowdy, *Disneyland* (1989) ★
 * Hawley, *Before the Fall* (2016) ★
 * Hemingway, *The Old Man and the Sea* (1952)
 * Hesse, *Siddhartha* (1922)
@@ -36,7 +37,8 @@ tooltips:
 * Irving, *A Prayer for Owen Meany* (1989) ★
 * Ishiguro, *Never Let Me Go* (2005)
 * Jones, *Mister Pip* (2006)
-* Joyce, *Dubliners* (1914)
+* Joyce, *Araby* (1914) ★
+* Joyce, *The Dead* (1914) ★
 * Kadare, *Broken April* (1978)
 * Kafka, *The Metamorphosis* (1915)
 * Kleist, *The Marquise of O* (1808)

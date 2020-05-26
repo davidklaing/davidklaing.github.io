@@ -8,7 +8,4 @@ tooltips:
 - path: tooltip_library.js
 ---
 
-* Ariely, *Predictably Irrational* (2008)
 * Cowen, *Discover Your Inner Economist* (2007)
-* Kahneman, *Thinking, Fast and Slow* (2011)
-* Thaler, *Nudge* (2008)

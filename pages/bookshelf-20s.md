@@ -60,6 +60,7 @@ tooltips:
 * Gleick, *The Information* (2011) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Goleman, *Altered Traits* (2017)
+* Gowdy, *Disneyland* (1989) ★
 * Guin, *A Wizard of Earthsea* (1968)
 * Guin, *The Ones Who Walk Away from Omelas* (1973)
 * Guin, *The Left Hand of Darkness* (1969)
@@ -79,7 +80,8 @@ tooltips:
 * Jemisin, *The Fifth Season* (2015)
 * Johnstone, *Impro* (1979)
 * Jones, *Mister Pip* (2006)
-* Joyce, *Dubliners* (1914)
+* Joyce, *Araby* (1914) ★
+* Joyce, *The Dead* (1914) ★
 * Kabat-Zinn, *Full Catastrophe Living* (1990)
 * Kafka, *The Metamorphosis* (1915)
 * Kahneman, *Thinking, Fast and Slow* (2011)
@@ -100,6 +102,7 @@ tooltips:
 * Murakami, *Sputnik Sweetheart* (1999)
 * Márquez, *One Hundred Years of Solitude* (1967)
 * Nielsen, *Reinventing Discovery* (2011) ★
+* O'Shaughnessy, *Millennial Money* (2014)
 * Oakley, *A Mind for Numbers* (2014)
 * Olson, *Houston, We Have a Narrative* (2015)
 * Orwell, *Animal Farm* (1945)
@@ -131,6 +134,7 @@ tooltips:
 * Wallace, *Oblivion* (2004) ★
 * Wallace, *Infinite Jest* (1996) ★
 * Wallace, *Both Flesh and Not: Essays* (2012) ★
+* Weir, *Artemis* (2017)
 * Wells, *The Island of Doctor Moreau* (1896)
 * Westover, *Educated* (2018) ★
 * Wickham, *Advanced R* (2014) ★
@@ -140,4 +144,3 @@ tooltips:
 * Yudkowsky, *Inadequate Equilibria* (2017)
 * Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★
-* O'Shaughnessy, *Millennial Money* (2014)

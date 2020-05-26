@@ -24,6 +24,7 @@ tooltips:
 * Lewis, *The Chronicles of Narnia* (1956)
 * MacDonald, *The Princess and the Goblin* (1872)
 * Nicholson, *The Wind on Fire Trilogy* (2002)
+* Nimmo, *Children of the Red King 1-5* (2002-2006) ★
 * Paolini, *The Inheritance Cycle 1-3* (2002)
 * Pullman, *His Dark Materials* (2000) ★
 * Rowling, *Harry Potter 1-7* (2007) ★

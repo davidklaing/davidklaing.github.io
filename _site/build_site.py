@@ -186,7 +186,7 @@ def write_page(filepath, content):
 
 def build_site():
     subprocess.run(['bundle', 'exec', 'jekyll', 'build'])
-    page_paths = os.listdir('pages/')
+    page_paths = [path for path in os.listdir('pages/') if path != '.DS_Store']
     pages = [Page(page=read_page('index.md'))] \
         + [Page(page=read_page(f'pages/{page_path}')) for page_path in page_paths]
     site_html_paths = [

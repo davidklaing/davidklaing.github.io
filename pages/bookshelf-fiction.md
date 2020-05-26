@@ -45,6 +45,7 @@ tooltips:
 * Gaiman, *Stardust* (1997)
 * Gibson & Sterling, *The Difference Engine* (1990) ★
 * Goldstein, *The Mind-Body Problem* (1983)
+* Gowdy, *Disneyland* (1989) ★
 * Guin, *A Wizard of Earthsea* (1968)
 * Guin, *The Ones Who Walk Away from Omelas* (1973)
 * Guin, *The Left Hand of Darkness* (1969)
@@ -61,7 +62,8 @@ tooltips:
 * Jemisin, *The Fifth Season* (2015)
 * Jones, *Mister Pip* (2006)
 * Jordan, *The Wheel of Time 1-3* (1990)
-* Joyce, *Dubliners* (1914)
+* Joyce, *Araby* (1914) ★
+* Joyce, *The Dead* (1914) ★
 * Kadare, *Broken April* (1978)
 * Kafka, *The Metamorphosis* (1915)
 * Kay, *The Fionavar Tapestry* (1986)
@@ -82,6 +84,7 @@ tooltips:
 * Murakami, *Sputnik Sweetheart* (1999)
 * Márquez, *One Hundred Years of Solitude* (1967)
 * Nicholson, *The Wind on Fire Trilogy* (2002)
+* Nimmo, *Children of the Red King 1-5* (2002-2006) ★
 * Oppel, *Silverwing* (1997)
 * Orwell, *Animal Farm* (1945)
 * Orwell, *1984* (1949)
@@ -111,6 +114,7 @@ tooltips:
 * Wallace, *Oblivion* (2004) ★
 * Wallace, *Infinite Jest* (1996) ★
 * Watterson, *Calvin and Hobbes* (1985-1995) ★
+* Weir, *Artemis* (2017)
 * Wells, *The Island of Doctor Moreau* (1896)
 * Wiesel, *Night* (1956)
 * Wilde, *The Picture of Dorian Gray* (1890)

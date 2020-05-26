@@ -9,5 +9,5 @@ tooltips:
 ---
 
 * Chilton, *The Wealthy Barber Returns* (2011)
-* Robbins, *MONEY Master the Game* (2014)
 * O'Shaughnessy, *Millennial Money* (2014)
+* Robbins, *MONEY Master the Game* (2014)

@@ -23,5 +23,6 @@ tooltips:
 * Lightman, *Einstein's Dreams* (1992)
 * Stephenson, *Snow Crash* (1992)
 * Verne, *Twenty Thousand Leagues Under the Sea* (1869)
+* Weir, *Artemis* (2017)
 * Wells, *The Island of Doctor Moreau* (1896)
 * Wilson, *Spin* (2005)

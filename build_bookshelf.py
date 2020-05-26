@@ -45,7 +45,7 @@ class Shelf:
     
     def make_yaml_attributes(self):
         if self.rating is not None:
-            return f'bookshelf-{self.rating.lower()}', f'{self.rating}'
+            return f'bookshelf-{self.rating.lower().replace(" ", "-")}', f'{self.rating}'
         if self.period_of_my_life is not None:
             return (
                 f'bookshelf-{self.period_of_my_life.lower()}', 
@@ -74,7 +74,7 @@ def write_page(filepath, content):
 
 all_books = Shelf(library)
 
-for rating in ['Loved', 'Liked', 'Disliked']:
+for rating in ['Loved', 'Liked', 'Mixed Feelings', 'Disliked', 'Indifferent']:
     shelf = Shelf(library, rating=rating)
     id, title = shelf.make_yaml_attributes()
     page = shelf.make_page()
@@ -93,7 +93,6 @@ for genre in ['Fiction', 'Non-Fiction']:
     write_page(filepath=f'pages/{id}.md', content=''.join(page))
 
 subgenres = [
-    'Behavioral Economics',
     'Biographies',
     'Business',
     'Comics',
