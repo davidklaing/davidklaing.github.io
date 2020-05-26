@@ -4,7 +4,7 @@ title: The Righteous Mind
 permalink: /righteous-mind/
 last_updated: 2016-09-01
 published: true
-backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 tooltips: 
 - path: tooltip_commentaries.js
 ---

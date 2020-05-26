@@ -45,7 +45,10 @@ class Shelf:
     
     def make_yaml_attributes(self):
         if self.rating is not None:
-            return f'bookshelf-{self.rating.lower()}', f'{self.rating}'
+            return (
+                f'bookshelf-{self.rating.lower().replace(" ", "-")}', 
+                f'{self.rating}'
+            )
         if self.period_of_my_life is not None:
             return (
                 f'bookshelf-{self.period_of_my_life.lower()}', 

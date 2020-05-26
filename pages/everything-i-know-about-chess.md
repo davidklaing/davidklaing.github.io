@@ -6,8 +6,8 @@ backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</
 tooltips: 
 - path: tooltip_chess-strategy.js
 - path: tooltip_inner-game-of-chess.js
-- path: tooltip_how-to-learn-chess-faster.js
 - path: tooltip_chess-tactics.js
+- path: tooltip_how-to-learn-chess-faster.js
 ---
 
 * <a id="chess-strategy" class="internal-link" href="/chess-strategy/">Chess strategy</a>

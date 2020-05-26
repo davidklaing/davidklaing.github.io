@@ -3,20 +3,20 @@ layout: page
 title: davidklaing.com
 permalink: /
 tooltips: 
-- path: tooltip_deep-laziness.js
-- path: tooltip_atomic-habits.js
-- path: tooltip_aesthetic-bullseye.js
-- path: tooltip_how-to-use-roam-as-a-slip-box.js
-- path: tooltip_about-me.js
-- path: tooltip_everything-i-know-about-chess.js
 - path: tooltip_personal-phd.js
-- path: tooltip_tidy-up.js
-- path: tooltip_bookshelf.js
+- path: tooltip_everything-i-know-about-chess.js
 - path: tooltip_levels-of-action.js
+- path: tooltip_how-to-use-roam-as-a-slip-box.js
 - path: tooltip_covers-shouldnt-just-be-for-musicians.js
+- path: tooltip_deep-laziness.js
 - path: tooltip_commentaries.js
+- path: tooltip_bookshelf.js
+- path: tooltip_tidy-up.js
+- path: tooltip_about-me.js
 - path: tooltip_righteous-mind.js
 - path: tooltip_talk-more.js
+- path: tooltip_atomic-habits.js
+- path: tooltip_aesthetic-bullseye.js
 - path: tooltip_notes.js
 ---
 

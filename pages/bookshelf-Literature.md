@@ -15,6 +15,7 @@ tooltips:
 * Brown, *The Da Vinci Code* (2003)
 * Camus, *The Plague* (1947)
 * Carroll, *Alice's Adventures in Wonderland & Through the Looking-Glass* (1871)
+* de Cervantes, *Don Quixote* (1615)
 * Chabon, *The Amazing Adventures of Kavalier & Clay* (2000) ★
 * Coelho, *The Alchemist* (1988)
 * Conrad, *Heart of Darkness* (1899)
@@ -70,5 +71,6 @@ tooltips:
 * Wallace, *Infinite Jest* (1996) ★
 * Wiesel, *Night* (1956)
 * Wilde, *The Picture of Dorian Gray* (1890)
+* Wolf, *Cassandra* (1983)
 * Woolf, *Mrs. Dalloway* (1925)
 * Wyndham, *The Chrysalids* (1955)

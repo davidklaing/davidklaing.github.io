@@ -9,6 +9,7 @@ tooltips:
 ---
 
 * Asimov, *Nightfall* (1990)
+* Asimov, *Prelude to Foundation* (1988)
 * Banks, *The Player of Games* (1988)
 * Card, *Ender's Shadow* (1999) ★
 * Card, *Ender's Saga* (1996) ★
@@ -23,17 +24,18 @@ tooltips:
 * Gleick, *Isaac Newton* (2003) ★
 * Gleick, *The Information* (2011) ★
 * Goleman, *Altered Traits* (2017)
-* Guin, *The Ones Who Walk Away from Omelas* (1973)
-* Guin, *The Left Hand of Darkness* (1969)
 * Harris, *The Nurture Assumption* (1998)
 * Herbert, *Dune* (1965)
 * Kahneman, *Thinking, Fast and Slow* (2011)
 * Keyes, *Flowers for Algernon* (1966)
+* Le Guin, *The Ones Who Walk Away from Omelas* (1973)
+* Le Guin, *The Left Hand of Darkness* (1969)
 * Lightman, *Einstein's Dreams* (1992)
 * McGrayne, *The Theory That Would Not Die* (2011)
 * Medina, *Brain Rules* (2008)
 * Nielsen, *Reinventing Discovery* (2011) ★
 * Olson, *Houston, We Have a Narrative* (2015)
+* Patterson, *Maximum Ride* (2005)
 * Pinker, *How the Mind Works* (1997) ★
 * Pinker, *The Language Instinct* (1994) ★
 * Ritchie, *Intelligence* (2015)

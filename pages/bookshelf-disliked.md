@@ -8,6 +8,7 @@ tooltips:
 - path: tooltip_library.js
 ---
 
+* Asimov, *Prelude to Foundation* (1988)
 * Banks, *The Player of Games* (1988)
 * Barnes, *Flaubert's Parrot* (1984)
 * Beckett, *Waiting for Godot* (1952)
@@ -24,3 +25,4 @@ tooltips:
 * Sapolsky, *Behave* (2017)
 * Stephenson, *Snow Crash* (1992)
 * Verne, *Twenty Thousand Leagues Under the Sea* (1869)
+* Wolf, *Cassandra* (1983)

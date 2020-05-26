@@ -16,11 +16,11 @@ tooltips:
 * Gaiman, *Coraline* (2002)
 * Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gaiman, *Stardust* (1997)
-* Guin, *A Wizard of Earthsea* (1968)
 * Jemisin, *The Fifth Season* (2015)
 * Jordan, *The Wheel of Time 1-3* (1990)
 * Kay, *The Fionavar Tapestry* (1986)
 * Kay, *Ysabel* (2007)
+* Le Guin, *A Wizard of Earthsea* (1968)
 * Lewis, *The Chronicles of Narnia* (1956)
 * MacDonald, *The Princess and the Goblin* (1872)
 * Nicholson, *The Wind on Fire Trilogy* (2002)

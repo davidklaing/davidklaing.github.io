@@ -5,6 +5,7 @@ Adams,Scott Adams,How to Fail at Almost Everything and Still Win Big,2013,Liked,
 Ahrens,Sönke Ahrens,How to Take Smart Notes,2017,Liked,20s,Non-Fiction,"Self-Help, Writing, Learning"
 Ariely,Dan Ariely,Predictably Irrational,2008,Liked,20s,Non-Fiction,Psychology
 Asimov,Isaac Asimov,Nightfall,1990,Liked,20s,Non-Fiction,Science-Fiction
+Asimov,Isaac Asimov,Prelude to Foundation,1988,Disliked,20s,Fiction,Science-Fiction
 Bach,Richard Bach,Jonathan Livingston Seagull,1970,Loved,20s,Fiction,Parables
 Bach,Richard Bach,Illusions,1977,Liked,20s,Fiction,Parables
 Banks,Iain M. Banks,The Player of Games,1988,Disliked,20s,Fiction,Science-Fiction
@@ -28,6 +29,7 @@ Carnegie,Dale Carnegie,How to Win Friends and Influence People,1936,Loved,20s,No
 Caro,Robert A. Caro,The Path to Power,1982,Loved,20s,Non-Fiction,"History, Biographies"
 Carroll,Lewis Carroll,Alice's Adventures in Wonderland & Through the Looking-Glass,1871,Indifferent,20s,Fiction,Literature
 Catmull,Ed Catmull,"Creativity, Inc.",2009,Liked,Teens,Non-Fiction,Memoirs
+de Cervantes,Miguel de Cervantes,Don Quixote,1615,Liked,20s,Fiction,Literature
 Chabon,Michael Chabon,The Amazing Adventures of Kavalier & Clay,2000,Loved,20s,Fiction,Literature
 Chiang,Ted Chiang,Exhalation: Stories,2019,Loved,20s,Fiction,Short Stories
 Chilton,David Chilton,The Wealthy Barber Returns,2011,Liked,20s,Non-Fiction,"Self-Help, Personal Finance"
@@ -73,9 +75,6 @@ Golding,William Golding,Lord of the Flies,1954,Loved,Teens,Non-Fiction,Literatur
 Goldstein,Rebecca Goldstein,The Mind-Body Problem,1983,Disliked,20s,Fiction,Literature
 Goleman,Daniel Goleman,Altered Traits,2017,Disliked,20s,Non-Fiction,"Psychology, Science"
 Gowdy,Barbara Gowdy,Disneyland,1989,Loved,20s,Fiction,"Literature, Short Stories"
-Guin,Ursula K. Le Guin,A Wizard of Earthsea,1968,Liked,20s,Fiction,Fantasy
-Guin,Ursula K. Le Guin,The Ones Who Walk Away from Omelas,1973,Liked,20s,Fiction,Science-Fiction
-Guin,Ursula K. Le Guin,The Left Hand of Darkness,1969,Liked,20s,Fiction,Science-Fiction
 Haidt,Jonathan Haidt,The Righteous Mind,2012,Loved,20s,Non-Fiction,Psychology
 Haidt,Jonathan Haidt,The Happiness Hypothesis,2005,Loved,20s,Non-Fiction,Psychology
 Harari,Yuval Noah Harari,Sapiens,2011,Disliked,20s,Non-Fiction,Philosophy
@@ -116,6 +115,9 @@ King,Stephen King,On Writing,2000,Loved,20s,Non-Fiction,"Memoirs, Writing"
 Kleist,Heinrich von Kleist,The Marquise of O,1808,Liked,20s,Fiction,Literature
 Larson,Gary Larson,The Far Side Gallery,1984,Liked,Teens,Fiction,Comics
 Lee,Harper Lee,To Kill a Mockingbird,1960,Liked,Teens,Fiction,Literature
+Le Guin,Ursula K. Le Guin,A Wizard of Earthsea,1968,Liked,20s,Fiction,Fantasy
+Le Guin,Ursula K. Le Guin,The Ones Who Walk Away from Omelas,1973,Liked,20s,Fiction,Science-Fiction
+Le Guin,Ursula K. Le Guin,The Left Hand of Darkness,1969,Liked,20s,Fiction,Science-Fiction
 Levi,Primo Levi,Survival in Auschwitz,1947,Liked,20s,Non-Fiction,"Memoirs, History"
 Lewis,C.S. Lewis,The Chronicles of Narnia,1956,Liked,Childhood,Fiction,Fantasy
 Lightman,Alan Lightman,Einstein's Dreams,1992,Liked,Teens,Fiction,Science-Fiction
@@ -143,6 +145,7 @@ Orwell,George Orwell,Animal Farm,1945,Liked,20s,Fiction,Literature
 Orwell,George Orwell,1984,1949,Liked,20s,Fiction,Literature
 Palahniuk,Chuck Palahniuk,Fight Club,1996,Liked,Teens,Fiction,Literature
 Paolini,Christopher Paolini,The Inheritance Cycle 1-3,2002,Liked,Teens,Fiction,Fantasy
+Patterson,James Patterson,Maximum Ride,2005,Liked,Teens,Fiction,Science-Fiction
 Paulsen,Gary Paulsen,Brian's Saga 1-2,1996,Liked,Teens,Fiction,Literature
 Pinker,Steven Pinker,How the Mind Works,1997,Loved,20s,Non-Fiction,"Psychology, Science"
 Pinker,Steven Pinker,The Better Angels of Our Nature,2010,Liked,20s,Non-Fiction,History
@@ -197,6 +200,7 @@ Wickham,Hadley Wickham,Advanced R,2014,Loved,20s,Non-Fiction,Computer Science & 
 Wiesel,Elie Wiesel,Night,1956,Indifferent,20s,Fiction,Literature
 Wilde,Oscar Wilde,The Picture of Dorian Gray,1890,Liked,20s,Fiction,Literature
 Wilson,Robert Charles Wilson,Spin,2005,Liked,Teens,Fiction,Science-Fiction
+Wolf,Christa Wolf,Cassandra,1983,Disliked,20s,Fiction,Literature
 Woolf,Virginia Woolf,Mrs. Dalloway,1925,Liked,20s,Fiction,Literature
 Wright,Ronald Wright,A Short History of Progress,2004,Indifferent,Teens,Non-Fiction,"Philosophy, History"
 Wyndham,John Wyndham,The Chrysalids,1955,Liked,Teens,Fiction,Literature

@@ -48,6 +48,7 @@ tooltips:
 * Millhauser, *Martin Dressler* (1996)
 * Palahniuk, *Fight Club* (1996)
 * Paolini, *The Inheritance Cycle 1-3* (2002)
+* Patterson, *Maximum Ride* (2005)
 * Paulsen, *Brian's Saga 1-2* (1996)
 * Pullman, *His Dark Materials* (2000) ★
 * Rushdie, *The Satanic Verses* (1988)

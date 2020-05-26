@@ -9,6 +9,7 @@ tooltips:
 ---
 
 * Adams, *The Hitchhiker's Guide to the Galaxy* (1979)
+* Asimov, *Prelude to Foundation* (1988)
 * Bach, *Jonathan Livingston Seagull* (1970) ★
 * Bach, *Illusions* (1977)
 * Banks, *The Player of Games* (1988)
@@ -25,6 +26,7 @@ tooltips:
 * Card, *Ender's Shadow* (1999) ★
 * Card, *Ender's Saga* (1996) ★
 * Carroll, *Alice's Adventures in Wonderland & Through the Looking-Glass* (1871)
+* de Cervantes, *Don Quixote* (1615)
 * Chabon, *The Amazing Adventures of Kavalier & Clay* (2000) ★
 * Chiang, *Exhalation: Stories* (2019) ★
 * Clarke, *2001: A Space Odyssey* (1968)
@@ -46,9 +48,6 @@ tooltips:
 * Gibson & Sterling, *The Difference Engine* (1990) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Gowdy, *Disneyland* (1989) ★
-* Guin, *A Wizard of Earthsea* (1968)
-* Guin, *The Ones Who Walk Away from Omelas* (1973)
-* Guin, *The Left Hand of Darkness* (1969)
 * Hawley, *Before the Fall* (2016) ★
 * Hemingway, *The Old Man and the Sea* (1952)
 * Herbert, *Dune* (1965)
@@ -72,6 +71,9 @@ tooltips:
 * Kleist, *The Marquise of O* (1808)
 * Larson, *The Far Side Gallery* (1984)
 * Lee, *To Kill a Mockingbird* (1960)
+* Le Guin, *A Wizard of Earthsea* (1968)
+* Le Guin, *The Ones Who Walk Away from Omelas* (1973)
+* Le Guin, *The Left Hand of Darkness* (1969)
 * Lewis, *The Chronicles of Narnia* (1956)
 * Lightman, *Einstein's Dreams* (1992)
 * MacDonald, *The Princess and the Goblin* (1872)
@@ -90,6 +92,7 @@ tooltips:
 * Orwell, *1984* (1949)
 * Palahniuk, *Fight Club* (1996)
 * Paolini, *The Inheritance Cycle 1-3* (2002)
+* Patterson, *Maximum Ride* (2005)
 * Paulsen, *Brian's Saga 1-2* (1996)
 * Pullman, *His Dark Materials* (2000) ★
 * Rowling, *Harry Potter 1-7* (2007) ★
@@ -119,6 +122,7 @@ tooltips:
 * Wiesel, *Night* (1956)
 * Wilde, *The Picture of Dorian Gray* (1890)
 * Wilson, *Spin* (2005)
+* Wolf, *Cassandra* (1983)
 * Woolf, *Mrs. Dalloway* (1925)
 * Wyndham, *The Chrysalids* (1955)
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★

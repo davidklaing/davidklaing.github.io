@@ -13,6 +13,7 @@ tooltips:
 * Ahrens, *How to Take Smart Notes* (2017)
 * Ariely, *Predictably Irrational* (2008)
 * Asimov, *Nightfall* (1990)
+* Asimov, *Prelude to Foundation* (1988)
 * Bach, *Jonathan Livingston Seagull* (1970) ★
 * Bach, *Illusions* (1977)
 * Banks, *The Player of Games* (1988)
@@ -26,6 +27,7 @@ tooltips:
 * Carnegie, *How to Win Friends and Influence People* (1936) ★
 * Caro, *The Path to Power* (1982) ★
 * Carroll, *Alice's Adventures in Wonderland & Through the Looking-Glass* (1871)
+* de Cervantes, *Don Quixote* (1615)
 * Chabon, *The Amazing Adventures of Kavalier & Clay* (2000) ★
 * Chiang, *Exhalation: Stories* (2019) ★
 * Chilton, *The Wealthy Barber Returns* (2011)
@@ -61,9 +63,6 @@ tooltips:
 * Goldstein, *The Mind-Body Problem* (1983)
 * Goleman, *Altered Traits* (2017)
 * Gowdy, *Disneyland* (1989) ★
-* Guin, *A Wizard of Earthsea* (1968)
-* Guin, *The Ones Who Walk Away from Omelas* (1973)
-* Guin, *The Left Hand of Darkness* (1969)
 * Haidt, *The Righteous Mind* (2012) ★
 * Haidt, *The Happiness Hypothesis* (2005) ★
 * Harari, *Sapiens* (2011)
@@ -90,6 +89,9 @@ tooltips:
 * Keyes, *Flowers for Algernon* (1966)
 * King, *On Writing* (2000) ★
 * Kleist, *The Marquise of O* (1808)
+* Le Guin, *A Wizard of Earthsea* (1968)
+* Le Guin, *The Ones Who Walk Away from Omelas* (1973)
+* Le Guin, *The Left Hand of Darkness* (1969)
 * Levi, *Survival in Auschwitz* (1947)
 * MacDonald, *The Princess and the Goblin* (1872)
 * McCarthy, *The Road* (2006) ★
@@ -140,6 +142,7 @@ tooltips:
 * Wickham, *Advanced R* (2014) ★
 * Wiesel, *Night* (1956)
 * Wilde, *The Picture of Dorian Gray* (1890)
+* Wolf, *Cassandra* (1983)
 * Woolf, *Mrs. Dalloway* (1925)
 * Yudkowsky, *Inadequate Equilibria* (2017)
 * Yudkowsky, *Rationality From AI to Zombies* (2015) ★
