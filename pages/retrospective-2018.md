@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Retrospective: 2018"
+title: 2018 retrospective
 permalink: /retrospective-2018/
 published: true
 last_updated: 2018-12-31

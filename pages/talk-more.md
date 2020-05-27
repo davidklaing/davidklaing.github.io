@@ -4,8 +4,9 @@ title: If you’re good, you need to talk more
 published: true
 last_updated: 2019-07-09
 permalink: /talk-more/
-backlinks: <ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>
+backlinks: <ul><li><a id="retrospective-2019" class="internal-link" href="/retrospective-2019/">"2019 retrospective"</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>
 tooltips: 
+- path: tooltip_retrospective-2019.js
 - path: tooltip_essays.js
 ---
 

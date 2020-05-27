@@ -53,6 +53,7 @@ tooltips:
 * Homer, *The Iliad* (-750)
 * Homer, *The Odyssey* (-700)
 * Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)
+* James et al., *An Introduction to Statistical Learning* (2017)
 * Johnstone, *Impro* (1979)
 * Jones, *Mister Pip* (2006)
 * Jordan, *The Wheel of Time 1-3* (1990)

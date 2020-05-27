@@ -103,6 +103,7 @@ backlinks:
 * Irving, *A Prayer for Owen Meany* (1989) ★
 * Ishiguro, *Never Let Me Go* (2005)
 * Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)
+* James et al., *An Introduction to Statistical Learning* (2017)
 * Jemisin, *The Fifth Season* (2015)
 * Johnstone, *Impro* (1979)
 * Jones, *Mister Pip* (2006)

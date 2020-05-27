@@ -55,6 +55,7 @@ tooltips:
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Holt, *Why Does the World Exist?* (2011)
 * Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)
+* James et al., *An Introduction to Statistical Learning* (2017)
 * Johnstone, *Impro* (1979)
 * Kabat-Zinn, *Full Catastrophe Living* (1990)
 * Kahneman, *Thinking, Fast and Slow* (2011)

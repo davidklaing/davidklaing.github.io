@@ -18,7 +18,6 @@ tooltips:
 * Goleman, *Altered Traits* (2017)
 * Harari, *Sapiens* (2011)
 * Harari, *Homo Deus* (2017)
-* Ishiguro, *Never Let Me Go* (2005)
 * Kalanithi, *When Breath Becomes Air* (2016)
 * McGrayne, *The Theory That Would Not Die* (2011)
 * Murakami, *Sputnik Sweetheart* (1999)

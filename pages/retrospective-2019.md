@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Retrospective: 2019"
+title: 2019 retrospective
 permalink: /retrospective-2019/
 published: true
 last_updated: 2019-12-31
 backlinks: <ul><li><a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a></li></ul>
 tooltips: 
 - path: tooltip_yearly-retrospectives.js
+- path: tooltip_talk-more.js
 ---
 
 **Table of Contents**
@@ -34,7 +35,7 @@ tooltips:
 
 ## Activities
 
-* **Writing.** I finally solidified my writing habit. Across my blog and newsletter, I published about 16,000 words. I recently looked at the analytics for this website, and was surprised to see that over 1700 unique people visited it in 2019, and about 450 were repeat visitors. These numbers are tiny by internet standards, but in real terms they're huge—more than enough to be taking my writing seriously. If you're interested, see my [most viewed posts of 2019](https://davidklaing.com/best-of/#most-viewed-posts-of-2019).
+* **Writing.** I finally solidified my writing habit. Across my blog and newsletter, I published about 16,000 words. I recently looked at the analytics for this website, and was surprised to see that over 1700 unique people visited it in 2019, and about 450 were repeat visitors. These numbers are tiny by internet standards, but in real terms they're huge—more than enough to be taking my writing seriously.
 * **Bouldering.** I joined a bouldering gym in the summer, and it's the most fun I've ever had doing strength-based exercise. It's very gamelike; each route is unique, but composed of moves and techniques that can be abstracted. Barely any equipment is required. Socializing and collaboration are built into the experience. It takes a while to build up the grip strength and the callouses to have fun with it, but once you do, you're hooked.
 * **Travel.** I was fortunate to travel a lot, both for work and for pleasure. I spent time in Los Angeles, Phoenix, Montreal, St. John's, Toronto, Hamilton, Peterborough, Oliphant, Squamish, Salt Spring Island, Victoria, Deep Cove, and Nelson. 
 * **Chess**. On Christmas of 2018 I signed up for chess.com, thinking I might play a game or two against a friend over the holidays. But chess turned into something of an obsession for me. I played thousands of online blitz games, watched hours of YouTube tutorials, drilled myself with spaced repetition, and went to several meetups at the Vancouver Central Library. I learned and improved steadily for the first six months, but then hit a plateau and haven't improved much since. I'm happy with where I am, and I love playing daily games with my mother from across the continent, but in 2020 I'll be playing much less.
@@ -180,7 +181,7 @@ Ranked by how much I loved them.
 
 🆕 **Note-taking**. After reading Sönke Ahrens' book [How to Take Smart Notes](https://www.goodreads.com/review/show/3085392000), I want to give the slip-box method a test drive. By April 1st I would like to have written 60 literature notes and 30 permanent notes. I'll reassess my trajectory at that point.
 
-**↗** **Goal-setting & monthly/quarterly reviews**. In the second half of 2019 I got in the swing of doing weekly reviews, but haven't habitually done monthly or quarterly reviews, or completed any significant side projects. In 2020 I would like to do this consistently. To that end, I'll share concrete quarterly goals on my [About me](https://davidklaing.com/about-me) page on April 1st, July 1st, and September 1st, and where relevant I will update any progress trackers every month.
+**↗** **Goal-setting & monthly/quarterly reviews**. In the second half of 2019 I got in the swing of doing weekly reviews, but haven't habitually done monthly or quarterly reviews, or completed any significant side projects. In 2020 I would like to do this consistently.
 
 **↗** **Blogging**. In 2019 I published 7 blog posts, for a total of 6700 words. By the end of 2020 I would like to have published 15,000 words, an average of 1250 every month.
 
@@ -192,7 +193,7 @@ Ranked by how much I loved them.
 
 **→** **Newsletter**. I started my newsletter on August 15th 2019, and I sent one issue per week for 19 weeks straight, taking a one-week break during the Christmas holidays. In 2020 I plan to keep the same schedule, with perhaps one additional buffer week at some point, for a total of 50 issues.
 
-**→** **Twitter**. In 2019 I spent much more time on Twitter than ever before, especially after publishing [If you're good, you need to talk more](https://davidklaing.com/blog/2019/07/09/talk-more.html). I plan to continue using it as much as I have been, but won't be too heavy-handed with myself if I feel like ramping up or down throughout the year.
+**→** **Twitter**. In 2019 I spent much more time on Twitter than ever before, especially after publishing <a id="talk-more" class="internal-link" href="/talk-more/">If you're good, you need to talk more</a>. I plan to continue using it as much as I have been, but won't be too heavy-handed with myself if I feel like ramping up or down throughout the year.
 
 **→** **Bouldering**. Unless I stop enjoying it, I plan to go the bouldering gym at least 100 times in 2020.
 
