@@ -27,6 +27,7 @@ tooltips:
 * Carnegie, *How to Win Friends and Influence People* (1936) ★
 * Caro, *The Path to Power* (1982) ★
 * Carroll, *Alice's Adventures in Wonderland & Through the Looking-Glass* (1871)
+* Catmull, *Creativity, Inc.* (2009)
 * de Cervantes, *Don Quixote* (1615)
 * Chabon, *The Amazing Adventures of Kavalier & Clay* (2000) ★
 * Chiang, *Exhalation: Stories* (2019) ★

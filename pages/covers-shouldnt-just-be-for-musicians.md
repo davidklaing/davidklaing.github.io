@@ -6,8 +6,8 @@ published: true
 last_updated: 2019-12-04
 backlinks: <ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>
 tooltips: 
-- path: tooltip_research-as-a-stochastic-decision-process.js
 - path: tooltip_solved-conversations.js
+- path: tooltip_research-as-a-stochastic-decision-process.js
 - path: tooltip_deep-laziness.js
 - path: tooltip_essays.js
 ---

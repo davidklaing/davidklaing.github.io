@@ -17,7 +17,6 @@ tooltips:
 * Campbell, *A Joseph Campbell Companion* (1991)
 * Card, *Ender's Shadow* (1999) ★
 * Card, *Ender's Saga* (1996) ★
-* Catmull, *Creativity, Inc.* (2009)
 * Clarke, *2001: A Space Odyssey* (1968)
 * Clavell, *Tai-Pan* (1966)
 * Crichton, *Jurassic Park* (1990)
