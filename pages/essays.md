@@ -4,10 +4,10 @@ title: Essays
 permalink: /essays/
 backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 tooltips: 
-- path: tooltip_tidy-up.js
 - path: tooltip_aesthetic-bullseye.js
 - path: tooltip_covers-shouldnt-just-be-for-musicians.js
 - path: tooltip_talk-more.js
+- path: tooltip_tidy-up.js
 - path: tooltip_communication-in-data-science.js
 - path: tooltip_how-to-get-a-job-in-data-science.js
 - path: tooltip_personal-phd.js
