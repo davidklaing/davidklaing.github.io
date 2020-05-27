@@ -2,11 +2,12 @@
 layout: page
 title: Everything I know about chess
 permalink: /everything-i-know-about-chess/
-backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
+backlinks: <ul><li><a id="scrapbook" class="internal-link" href="/scrapbook/">Scrapbook</a></li></ul>
 tooltips: 
+- path: tooltip_scrapbook.js
+- path: tooltip_chess-tactics.js
 - path: tooltip_chess-strategy.js
 - path: tooltip_inner-game-of-chess.js
-- path: tooltip_chess-tactics.js
 - path: tooltip_how-to-learn-chess-faster.js
 ---
 

@@ -4,9 +4,9 @@ title: The inner game of chess
 permalink: /inner-game-of-chess/
 backlinks: <ul><li><a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a></li></ul>
 tooltips: 
-- path: tooltip_chess-tactics.js
-- path: tooltip_everything-i-know-about-chess.js
 - path: tooltip_chess-strategy.js
+- path: tooltip_everything-i-know-about-chess.js
+- path: tooltip_chess-tactics.js
 ---
 
 1\. Use your opponent's time for <a id="chess-strategy" class="internal-link" href="/chess-strategy/">strategizing</a>; use your own time for <a id="chess-tactics" class="internal-link" href="/chess-tactics/">tactics</a>.

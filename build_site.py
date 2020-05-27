@@ -160,8 +160,6 @@ class Database:
             placement = 'bottom'
         else:
             placement = 'right'
-        if 'mixed' in page_id:
-            print(page_id)
         return [
             "tippy('#" + page_id + "', {\n",
             "    theme: 'light-border',\n",

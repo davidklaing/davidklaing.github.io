@@ -4,6 +4,9 @@ title: My laptop setup
 permalink: /laptop-setup/
 published: true
 last_updated: 2018-12-16
+backlinks: <ul><li><a id="scrapbook" class="internal-link" href="/scrapbook/">Scrapbook</a></li></ul>
+tooltips: 
+- path: tooltip_scrapbook.js
 ---
 
 After setting myself up on four laptops in the space of two years, I figured it was time to write this all down. [Mike Gelbart's setup](https://github.com/mgelbart/misc/blob/master/laptop_setup.md) has been useful to me, so maybe mine will be useful to you.

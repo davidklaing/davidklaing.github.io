@@ -61,8 +61,8 @@ class Shelf:
             )
         if self.subgenre is not None:
             return (
-                f'bookshelf-{self.subgenre.lower().replace(" ", "-").replace("&", "and")}', 
-                f'{self.subgenre}'
+                f'bookshelf-{self.subgenre.strip("{}").lower().replace(" ", "-").replace("&", "and")}', 
+                f'{self.subgenre.strip("{}")}'
             )
         else:
             return (
@@ -75,56 +75,77 @@ def write_page(filepath, content):
     with open(filepath, 'w') as f:
         return f.write(content)
 
-all_books = Shelf(library)
 
-for rating in ['Loved', 'Liked', 'Mixed Feelings', 'Disliked', 'Indifferent']:
-    shelf = Shelf(library, rating=rating)
-    id, title = shelf.make_yaml_attributes()
-    page = shelf.make_page()
-    write_page(filepath=f'pages/{id}.md', content=''.join(page))
+def make_rating_pages():
+    for rating in ['Loved', 'Liked', 'Mixed Feelings', 'Disliked', 'Indifferent']:
+        shelf = Shelf(library, rating=rating)
+        id, title = shelf.make_yaml_attributes()
+        page = shelf.make_page()
+        write_page(filepath=f'pages/{id}.md', content=''.join(page))
 
-for period in ['Childhood', 'Teens', '20s']:
-    shelf = Shelf(library, period_of_my_life=period)
-    id, title = shelf.make_yaml_attributes()
-    page = shelf.make_page()
-    write_page(filepath=f'pages/{id}.md', content=''.join(page))
 
-for genre in ['Fiction', 'Non-Fiction']:
-    shelf = Shelf(library, genre=genre)
-    id, title = shelf.make_yaml_attributes()
-    page = shelf.make_page()
-    write_page(filepath=f'pages/{id}.md', content=''.join(page))
+def make_period_pages():
+    for period in ['Childhood', 'Teens', '20s']:
+        shelf = Shelf(library, period_of_my_life=period)
+        id, title = shelf.make_yaml_attributes()
+        page = shelf.make_page()
+        write_page(filepath=f'pages/{id}.md', content=''.join(page))
 
-subgenres = [
-    'Biographies',
-    'Business',
-    'Comics',
-    'Computer Science & Programming',
-    'Economics',
-    'Essays',
-    'Fantasy',
-    'Historical Fiction',
-    'History',
-    'Learning',
-    'Literature',
-    'Memoirs',
-    'Parables',
-    'Personal Finance',
-    'Philosophy', 
-    'Plays',
-    'Psychology', 
-    'Religion',
-    'Science', 
-    'Science-Fiction',
-    'Self-Help',
-    'Short Stories',
-    'Statistics',
-    'Westerns',
-    'Writing'
-]
 
-for subgenre in subgenres:
-    shelf = Shelf(library, subgenre=subgenre)
-    id, title = shelf.make_yaml_attributes()
-    page = shelf.make_page()
-    write_page(filepath=f'pages/{id}.md', content=''.join(page))
+def make_genre_pages():
+    for genre in ['Fiction', 'Non-Fiction']:
+        shelf = Shelf(library, genre=genre)
+        id, title = shelf.make_yaml_attributes()
+        page = shelf.make_page()
+        write_page(filepath=f'pages/{id}.md', content=''.join(page))
+
+
+def make_subgenre_pages():
+    subgenres = [
+        '{Biographies}',
+        '{Business}',
+        '{Comics}',
+        '{Computer Science & Programming}',
+        '{Economics}',
+        '{Essays}',
+        '{Fantasy}',
+        '{Historical Fiction}',
+        '{History}',
+        '{Learning}',
+        '{Literature}',
+        '{Memoirs}',
+        '{Parables}',
+        '{Personal Finance}',
+        '{Philosophy}', 
+        '{Plays}',
+        '{Psychology}', 
+        '{Religion}',
+        '{Science}', 
+        '{Science-Fiction}',
+        '{Self-Help}',
+        '{Short Stories}',
+        '{Statistics}',
+        '{Westerns}',
+        '{Writin}'
+    ]
+    for subgenre in subgenres:
+        shelf = Shelf(library, subgenre=subgenre)
+        id, title = shelf.make_yaml_attributes()
+        page = shelf.make_page()
+        write_page(filepath=f'pages/{id}.md', content=''.join(page))
+
+
+def build_library():
+    all_books = Shelf(library)
+    page = all_books.make_page()
+    write_page(filepath=f'pages/bookshelf-all-books.md', content=''.join(page))
+    make_rating_pages()
+    make_period_pages()
+    make_genre_pages()
+    make_subgenre_pages()
+
+
+if __name__ == "__main__":
+    build_library()
+
+'(Science)'.strip('()')

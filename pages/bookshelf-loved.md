@@ -34,7 +34,7 @@ tooltips:
 * Irving, *A Prayer for Owen Meany* (1989)
 * Joyce, *Araby* (1914)
 * Joyce, *The Dead* (1914)
-* King, *On Writing* (2000)
+* King, *On {Writing}* (2000)
 * Martel, *Life of Pi* (2001)
 * McCarthy, *The Road* (2006)
 * McMurtry, *Lonesome Dove* (1985)

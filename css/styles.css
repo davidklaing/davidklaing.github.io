@@ -14,6 +14,66 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Serif';
 }
 
+h1 {
+    display: block;
+    font-size: 1.75em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h3 {
+    display: block;
+    font-size: 1.25em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h4 {
+    display: block;
+    font-size: 1.15em;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h5 {
+    display: block;
+    font-size: 1.05em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h6 {
+    display: block;
+    font-size: 1.00em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
 a {
     text-decoration: underline;
     color: #0074D9;
@@ -167,5 +227,5 @@ a:hover, .external-link:hover {
     .col-10 {width: 82.33%;}
     .col-11 {width: 90.66%;}
     .col-12 {width: 100%;}
-    .content {width: 71%;}
+    .content {width: 71%; max-width: 900px;}
 }

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: How to use Roam as a slip-box
-permalink: /how-to-use-roam-as-a-slip-box/
+title: Roam as a slip-box
+permalink: /roam-as-a-slip-box/
 published: true
 last_updated: 2020-02-01
-backlinks: <ul><li><a id="how-tos" class="internal-link" href="/how-tos/">How-tos</a></li><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
+backlinks: <ul><li><a id="scrapbook" class="internal-link" href="/scrapbook/">Scrapbook</a></li></ul>
 tooltips: 
-- path: tooltip_how-tos.js
+- path: tooltip_scrapbook.js
 ---
 
 ## The slip-box method
