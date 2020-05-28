@@ -1,1 +1,6 @@
+url: "https://davidklaing.github.io"
+
 markdown: kramdown
+
+plugins: 
+  - jekyll-twitter-plugin
