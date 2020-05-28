@@ -194,6 +194,12 @@ a:hover, .external-link:hover {
     .col-s-11 {width: 90.66%;}
     .col-s-12 {width: 100%;}
     .content {width: 90%;}
+    img, iframe {
+        width: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 /* For medium-sized desktop: */
@@ -211,12 +217,6 @@ a:hover, .external-link:hover {
     .col-m-11 {width: 90.66%;}
     .col-m-12 {width: 100%;}
     .content {width: 90%;}
-    img, iframe {
-        width: 100%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
 }
 
 /* For large desktop: */
