@@ -95,7 +95,7 @@ blockquote {
 }
 
 img, iframe {
-    width: 80%;
+    width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -211,6 +211,12 @@ a:hover, .external-link:hover {
     .col-m-11 {width: 90.66%;}
     .col-m-12 {width: 100%;}
     .content {width: 90%;}
+    img, iframe {
+        width: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 /* For large desktop: */
