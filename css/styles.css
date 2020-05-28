@@ -140,11 +140,11 @@ hr {
 }
 
 .internal-link:hover {
-    color:rgb(103, 199, 114);
+    color:rgb(138, 236, 147);
 }
 
 a:hover, .external-link:hover {
-    color:rgb(74, 150, 216);
+    color:rgb(133, 194, 248);
 }
 
 .site-header {

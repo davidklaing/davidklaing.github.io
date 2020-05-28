@@ -95,7 +95,7 @@ blockquote {
 }
 
 img, iframe {
-    width: 80%;
+    width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -140,11 +140,11 @@ hr {
 }
 
 .internal-link:hover {
-    color:rgb(103, 199, 114);
+    color:rgb(138, 236, 147);
 }
 
 a:hover, .external-link:hover {
-    color:rgb(74, 150, 216);
+    color:rgb(133, 194, 248);
 }
 
 .site-header {
@@ -211,6 +211,12 @@ a:hover, .external-link:hover {
     .col-m-11 {width: 90.66%;}
     .col-m-12 {width: 100%;}
     .content {width: 90%;}
+    img, iframe {
+        width: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 /* For large desktop: */
