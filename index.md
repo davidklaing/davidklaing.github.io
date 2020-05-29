@@ -4,10 +4,10 @@ title: davidklaing.com
 permalink: /
 tooltips: 
 - path: tooltip_about-me.js
+- path: tooltip_yearly-retrospectives.js
 - path: tooltip_essays.js
 - path: tooltip_scrapbook.js
 - path: tooltip_library.js
-- path: tooltip_yearly-retrospectives.js
 - path: tooltip_commentaries.js
 ---
 

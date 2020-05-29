@@ -46,6 +46,7 @@ tooltips:
 * Dostoyevsky, *Crime and Punishment* (1866)
 * Durant, *The Lessons of History* (1968)
 * Ellenberg, *How Not to Be Wrong* (2014)
+* Ferrante, *My Brilliant Friend* (2011) ★
 * Feynman, *Surely You're Joking, Mr. Feynman!* (1985)
 * Finnegan, *Barbarian Days* (2015)
 * Fitzgerald, *The Great Gatsby* (1925)

@@ -22,6 +22,7 @@ tooltips:
 * Czuchlewski, *The Muse Asylum* (2001)
 * Dickens, *Great Expectations* (1861)
 * Dostoyevsky, *Crime and Punishment* (1866)
+* Ferrante, *My Brilliant Friend* (2011) ★
 * Findley, *The Butterfly Plague* (1969)
 * Fitzgerald, *The Great Gatsby* (1925)
 * Forster, *A Room with a View* (1908)

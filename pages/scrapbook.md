@@ -4,8 +4,8 @@ title: Scrapbook
 permalink: /scrapbook/
 backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 tooltips: 
-- path: tooltip_everything-i-know-about-chess.js
 - path: tooltip_roam-as-a-slip-box.js
+- path: tooltip_everything-i-know-about-chess.js
 - path: tooltip_how-to-invest-in-index-funds.js
 ---
 

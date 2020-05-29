@@ -17,6 +17,7 @@ tooltips:
 * Chabon, *The Amazing Adventures of Kavalier & Clay* (2000)
 * Chiang, *Exhalation: Stories* (2019)
 * Christian, *Algorithms to Live By* (2016)
+* Ferrante, *My Brilliant Friend* (2011)
 * Forster, *The Machine Stops* (1909)
 * Frank, *The Diary of a Young Girl* (1947)
 * Gaiman, *The Ocean at the End of the Lane* (2013)
