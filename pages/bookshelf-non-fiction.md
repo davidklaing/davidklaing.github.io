@@ -61,7 +61,7 @@ tooltips:
 * Kahneman, *Thinking, Fast and Slow* (2011)
 * Kalanithi, *When Breath Becomes Air* (2016)
 * Kaufman, *The Personal MBA* (2010)
-* King, *On {Writing}* (2000) ★
+* King, *On Writing* (2000) ★
 * Levi, *Survival in Auschwitz* (1947)
 * McGrayne, *The Theory That Would Not Die* (2011)
 * Medina, *Brain Rules* (2008)

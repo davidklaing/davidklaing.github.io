@@ -90,7 +90,7 @@ tooltips:
 * Kalanithi, *When Breath Becomes Air* (2016)
 * Kaufman, *The Personal MBA* (2010)
 * Keyes, *Flowers for Algernon* (1966)
-* King, *On {Writing}* (2000) ★
+* King, *On Writing* (2000) ★
 * Kleist, *The Marquise of O* (1808)
 * Le Guin, *A Wizard of Earthsea* (1968)
 * Le Guin, *The Ones Who Walk Away from Omelas* (1973)

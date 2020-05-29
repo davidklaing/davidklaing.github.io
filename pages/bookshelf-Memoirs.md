@@ -17,7 +17,7 @@ tooltips:
 * Frank, *The Diary of a Young Girl* (1947) ★
 * Franklin, *The Autobiography of Benjamin Franklin* (1791)
 * Kalanithi, *When Breath Becomes Air* (2016)
-* King, *On {Writing}* (2000) ★
+* King, *On Writing* (2000) ★
 * Levi, *Survival in Auschwitz* (1947)
 * Miller, *Know My Name* (2019) ★
 * Moss, *The Rookie* (n)

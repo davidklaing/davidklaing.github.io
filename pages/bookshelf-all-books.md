@@ -120,7 +120,7 @@ backlinks:
 * Kay, *The Fionavar Tapestry* (1986)
 * Kay, *Ysabel* (2007)
 * Keyes, *Flowers for Algernon* (1966)
-* King, *On {Writing}* (2000) ★
+* King, *On Writing* (2000) ★
 * Kleist, *The Marquise of O* (1808)
 * Larson, *The Far Side Gallery* (1984)
 * Lee, *To Kill a Mockingbird* (1960)
