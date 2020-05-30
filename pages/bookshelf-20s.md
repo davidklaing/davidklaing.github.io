@@ -10,7 +10,6 @@ tooltips:
 
 * Aurelius, *Meditations* (180)
 * Adams, *How to Fail at Almost Everything and Still Win Big* (2013)
-* Ahrens, *How to Take Smart Notes* (2017)
 * Ariely, *Predictably Irrational* (2008)
 * Asimov, *Nightfall* (1990)
 * Asimov, *Prelude to Foundation* (1988)
@@ -21,16 +20,11 @@ tooltips:
 * Beckett, *Waiting for Godot* (1952)
 * Borges, *The Library of Babel* (1941)
 * Bostrom, *Superintelligence* (2014)
-* Browder, *Red Notice* (2014)
-* Butler, *Wild Seed* (1980)
 * Camus, *The Plague* (1947)
 * Carnegie, *How to Win Friends and Influence People* (1936) ★
-* Caro, *The Path to Power* (1982) ★
 * Carroll, *Alice's Adventures in Wonderland & Through the Looking-Glass* (1871)
-* Catmull, *Creativity, Inc.* (2009)
 * de Cervantes, *Don Quixote* (1615)
 * Chabon, *The Amazing Adventures of Kavalier & Clay* (2000) ★
-* Chiang, *Exhalation: Stories* (2019) ★
 * Chilton, *The Wealthy Barber Returns* (2011)
 * Christian, *Algorithms to Live By* (2016) ★
 * Cialdini, *Influence* (1984)
@@ -46,9 +40,7 @@ tooltips:
 * Dostoyevsky, *Crime and Punishment* (1866)
 * Durant, *The Lessons of History* (1968)
 * Ellenberg, *How Not to Be Wrong* (2014)
-* Ferrante, *My Brilliant Friend* (2011) ★
 * Feynman, *Surely You're Joking, Mr. Feynman!* (1985)
-* Finnegan, *Barbarian Days* (2015)
 * Fitzgerald, *The Great Gatsby* (1925)
 * Forster, *The Machine Stops* (1909) ★
 * Forster, *A Room with a View* (1908)
@@ -64,12 +56,12 @@ tooltips:
 * Gleick, *The Information* (2011) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Goleman, *Altered Traits* (2017)
+* Gopen, *The Sense of Structure* (2004)
 * Gowdy, *Disneyland* (1989) ★
 * Haidt, *The Righteous Mind* (2012) ★
 * Haidt, *The Happiness Hypothesis* (2005) ★
 * Harari, *Sapiens* (2011)
 * Harari, *Homo Deus* (2017)
-* Hargrove, *Playing With Movement* (2014)
 * Harris, *The Nurture Assumption* (1998)
 * Harris, *Free Will* (2012) ★
 * Harris, *Waking Up* (2014) ★
@@ -77,9 +69,7 @@ tooltips:
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Irving, *A Prayer for Owen Meany* (1989) ★
 * Ishiguro, *Never Let Me Go* (2005)
-* Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)
 * James et al., *An Introduction to Statistical Learning* (2017)
-* Jemisin, *The Fifth Season* (2015)
 * Johnstone, *Impro* (1979)
 * Jones, *Mister Pip* (2006)
 * Joyce, *Araby* (1914) ★
@@ -99,12 +89,9 @@ tooltips:
 * MacDonald, *The Princess and the Goblin* (1872)
 * McCarthy, *The Road* (2006) ★
 * McGrayne, *The Theory That Would Not Die* (2011)
-* McMurtry, *Lonesome Dove* (1985) ★
 * Medina, *Brain Rules* (2008)
-* Miller, *Know My Name* (2019) ★
 * Morrison, *Beloved* (1987)
 * Moss, *The Rookie* (n)
-* Murakami, *Sputnik Sweetheart* (1999)
 * Márquez, *One Hundred Years of Solitude* (1967)
 * Nielsen, *Reinventing Discovery* (2011) ★
 * O'Shaughnessy, *Millennial Money* (2014)
@@ -150,3 +137,4 @@ tooltips:
 * Yudkowsky, *Inadequate Equilibria* (2017)
 * Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★
+* Zinsser, *On Writing Well* (1976)

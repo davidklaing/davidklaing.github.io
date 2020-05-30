@@ -4,12 +4,11 @@ library = pd.read_csv('library.csv')
 
 class Shelf:
 
-    def __init__(self, library, rating = None, period_of_my_life = None, genre = None, subgenre = None):
+    def __init__(self, library, rating = None, period_of_my_life = None, tag = None):
         self.shelf = library
         self.rating = rating
         self.period_of_my_life = period_of_my_life
-        self.genre = genre
-        self.subgenre = subgenre
+        self.tag = tag
         self.prune_shelf()
     
     def prune_shelf(self):
@@ -17,11 +16,9 @@ class Shelf:
             self.shelf = self.shelf[self.shelf['rating'] == self.rating]
         if self.period_of_my_life is not None:
             self.shelf = self.shelf[self.shelf['period_of_my_life'] == self.period_of_my_life]
-        if self.genre is not None:
-            self.shelf = self.shelf[self.shelf['genre'] == self.genre]
-        if self.subgenre is not None:
-            self.shelf = self.shelf[self.shelf['subgenres'].str.contains(self.subgenre)]
-        self.shelf.sort_values(by='author_surname')
+        if self.tag is not None:
+            self.shelf = self.shelf[self.shelf['tags'].str.contains(self.tag)]
+        self.shelf.sort_values(by='creator_key')
     
     def make_page(self):
         id, title = self.make_yaml_attributes()
@@ -36,7 +33,7 @@ class Shelf:
             '\n'
         ]
         for index, book in self.shelf.iterrows():
-            string = f"* {book['author_surname']}, *{book['title']}* ({book['publication_year']})"
+            string = f"* {book['creator_key']}, *{book['title']}* ({book['publication_year']})"
             if self.rating is None:
                 if book['rating'] == 'Loved':
                     string += ' ★'
@@ -51,18 +48,13 @@ class Shelf:
             )
         if self.period_of_my_life is not None:
             return (
-                f'bookshelf-{self.period_of_my_life.lower()}', 
+                f'bookshelf-{self.period_of_my_life.lower().replace(" ", "-")}', 
                 f'{self.period_of_my_life}'
             )
-        if self.genre is not None:
+        if self.tag is not None:
             return (
-                f'bookshelf-{self.genre.lower()}', 
-                f'{self.genre}'
-            )
-        if self.subgenre is not None:
-            return (
-                f'bookshelf-{self.subgenre.strip("{}").lower().replace(" ", "-").replace("&", "and")}', 
-                f'{self.subgenre.strip("{}")}'
+                f'bookshelf-{self.tag.strip("{}").lower().replace(" ", "-").replace("&", "and")}', 
+                f'{self.tag.strip("{}")}'
             )
         else:
             return (
@@ -77,7 +69,7 @@ def write_page(filepath, content):
 
 
 def make_rating_pages():
-    for rating in ['Loved', 'Liked', 'Mixed Feelings', 'Disliked', 'Indifferent']:
+    for rating in ['Loved', 'Liked', 'Mixed feelings', 'Disliked', 'Indifferent']:
         shelf = Shelf(library, rating=rating)
         id, title = shelf.make_yaml_attributes()
         page = shelf.make_page()
@@ -85,23 +77,15 @@ def make_rating_pages():
 
 
 def make_period_pages():
-    for period in ['Childhood', 'Teens', '20s']:
+    for period in ['Childhood', 'Teens', '20s', 'In the past year']:
         shelf = Shelf(library, period_of_my_life=period)
         id, title = shelf.make_yaml_attributes()
         page = shelf.make_page()
         write_page(filepath=f'pages/{id}.md', content=''.join(page))
 
 
-def make_genre_pages():
-    for genre in ['Fiction', 'Non-Fiction']:
-        shelf = Shelf(library, genre=genre)
-        id, title = shelf.make_yaml_attributes()
-        page = shelf.make_page()
-        write_page(filepath=f'pages/{id}.md', content=''.join(page))
-
-
-def make_subgenre_pages():
-    subgenres = [
+def make_tag_pages():
+    tags = [
         '{Biographies}',
         '{Business}',
         '{Comics}',
@@ -109,11 +93,13 @@ def make_subgenre_pages():
         '{Economics}',
         '{Essays}',
         '{Fantasy}',
+        '{Fiction}',
         '{Historical Fiction}',
         '{History}',
         '{Learning}',
         '{Literature}',
         '{Memoirs}',
+        '{Non-Fiction}',
         '{Parables}',
         '{Personal Finance}',
         '{Philosophy}', 
@@ -126,10 +112,10 @@ def make_subgenre_pages():
         '{Short Stories}',
         '{Statistics}',
         '{Westerns}',
-        '{Writin}'
+        '{Writing}'
     ]
-    for subgenre in subgenres:
-        shelf = Shelf(library, subgenre=subgenre)
+    for tag in tags:
+        shelf = Shelf(library, tag=tag)
         id, title = shelf.make_yaml_attributes()
         page = shelf.make_page()
         write_page(filepath=f'pages/{id}.md', content=''.join(page))
@@ -141,11 +127,8 @@ def build_library():
     write_page(filepath=f'pages/bookshelf-all-books.md', content=''.join(page))
     make_rating_pages()
     make_period_pages()
-    make_genre_pages()
-    make_subgenre_pages()
+    make_tag_pages()
 
 
 if __name__ == "__main__":
     build_library()
-
-'(Science)'.strip('()')

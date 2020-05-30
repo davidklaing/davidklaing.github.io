@@ -1,211 +1,213 @@
-author_surname,author,title,publication_year,rating,period_of_my_life,genre,subgenres
-Aurelius,Marcus Aurelius,Meditations,180,Indifferent,20s,Non-Fiction,{Philosophy}
-Adams,Douglas Adams,The Hitchhiker's Guide to the Galaxy,1979,Liked,Childhood,Fiction,{Literature}
-Adams,Scott Adams,How to Fail at Almost Everything and Still Win Big,2013,Liked,20s,Non-Fiction,"{Self-Help}, {Memoirs}"
-Ahrens,Sönke Ahrens,How to Take Smart Notes,2017,Liked,20s,Non-Fiction,"{Self-Help}, {Writing}, {Learning}"
-Ariely,Dan Ariely,Predictably Irrational,2008,Liked,20s,Non-Fiction,{Psychology}
-Asimov,Isaac Asimov,Nightfall,1990,Liked,20s,Non-Fiction,{Science-Fiction}
-Asimov,Isaac Asimov,Prelude to Foundation,1988,Disliked,20s,Fiction,{Science-Fiction}
-Bach,Richard Bach,Jonathan Livingston Seagull,1970,Loved,20s,Fiction,{Parables}
-Bach,Richard Bach,Illusions,1977,Liked,20s,Fiction,{Parables}
-Banks,Iain M. Banks,The Player of Games,1988,Disliked,20s,Fiction,{Science-Fiction}
-Barnes,Julian Barnes,Flaubert's Parrot,1984,Disliked,20s,Fiction,{Literature}
-Barron,T.A. Barron,The Lost Years of Merlin Saga,2000,Loved,Teens,Fiction,{Fantasy}
-Barron,T.A. Barron,The Great Tree of Avalon trilogy,2006,Liked,Teens,Fiction,{Fantasy}
-Beckett,Samuel Beckett,Waiting for Godot,1952,Disliked,20s,Non-Fiction,{Plays}
-Bock,Dennis Bock,The Ash Garden,2001,Liked,Teens,Fiction,{Literature}
-Borges,Jorge Luis Borges,The Library of Babel,1941,Liked,20s,Fiction,{Short Stories}
-Bostrom,Nick Bostrom,Superintelligence,2014,Mixed Feelings,20s,Non-Fiction,{Philosophy}
-Bradbury,Ray Bradbury,Fahrenheit 451,1953,Liked,Teens,Fiction,{Literature}
-Brooks,Terry Brooks,The Sword of Shannara,1977,Liked,Teens,Fiction,{Fantasy}
-Browder,Bill Browder,Red Notice,2014,Indifferent,20s,Non-Fiction,{Memoirs}
-Brown,Dan Brown,The Da Vinci Code,2003,Liked,Teens,Fiction,{Literature}
-Butler,Octavia E. Butler,Wild Seed,1980,Mixed Feelings,20s,Fiction,{Fantasy}
-Campbell,Joseph Campbell,A Joseph Campbell Companion,1991,Indifferent,Teens,Non-Fiction,{Philosophy}
-Camus,Albert Camus,The Plague,1947,Liked,20s,Fiction,{Literature}
-Card,Orson Scott Card,Ender's Shadow,1999,Loved,Teens,Fiction,{Science-Fiction}
-Card,Orson Scott Card,Ender's Saga,1996,Loved,Teens,Fiction,{Science-Fiction}
-Carnegie,Dale Carnegie,How to Win Friends and Influence People,1936,Loved,20s,Non-Fiction,{Self-Help}
-Caro,Robert A. Caro,The Path to Power,1982,Loved,20s,Non-Fiction,"{History}, {Biographies}"
-Carroll,Lewis Carroll,Alice's Adventures in Wonderland & Through the Looking-Glass,1871,Indifferent,20s,Fiction,{Literature}
-Catmull,Ed Catmull,"Creativity, Inc.",2009,Liked,20s,Non-Fiction,{Memoirs}
-de Cervantes,Miguel de Cervantes,Don Quixote,1615,Liked,20s,Fiction,{Literature}
-Chabon,Michael Chabon,The Amazing Adventures of Kavalier & Clay,2000,Loved,20s,Fiction,{Literature}
-Chiang,Ted Chiang,Exhalation: Stories,2019,Loved,20s,Fiction,{Short Stories}
-Chilton,David Chilton,The Wealthy Barber Returns,2011,Liked,20s,Non-Fiction,"{Self-Help}, {Personal Finance}"
-Christian,Brian Christian,Algorithms to Live By,2016,Loved,20s,Non-Fiction,"{Self-Help}, {Computer Science & Programming}"
-Cialdini,Robert B. Cialdini,Influence,1984,Liked,20s,Non-Fiction,{Psychology}
-Clarke,Arthur C. Clarke,2001: A Space Odyssey,1968,Indifferent,Teens,Fiction,{Science-Fiction}
-Clavell,James Clavell,Tai-Pan,1966,Liked,Teens,Fiction,{Historical Fiction}
-Clear,James Clear,Atomic Habits,2018,Liked,20s,Non-Fiction,"{Self-Help}, {Business}"
-Coelho,Paulo Coelho,The Alchemist,1988,Disliked,20s,Fiction,"{Parables}, {Literature}"
-Collins,Suzanne Collins,The Hunger Games,2008,Liked,20s,Fiction,{Fantasy}
-Confucius,Confucius,The Analects,-429,Indifferent,20s,Non-Fiction,{Philosophy}
-Conrad,Joseph Conrad,Heart of Darkness,1899,Indifferent,20s,Fiction,{Literature}
-Cowen,Tyler Cowen,Stubborn Attachments,n,Liked,20s,Non-Fiction,{Philosophy}
-Cowen,Tyler Cowen,Discover Your Inner Economist,2007,Liked,20s,Non-Fiction,{Economics}
-Crichton,Michael Crichton,Jurassic Park,1990,Liked,Teens,Fiction,{Science-Fiction}
-Czuchlewski,David Czuchlewski,The Muse Asylum,2001,Liked,Teens,Fiction,{Literature}
-Dawkins,Richard Dawkins,Unweaving the Rainbow,1998,Liked,Teens,Non-Fiction,{Science}
-Dawkins,Richard Dawkins,The God Delusion,2006,Liked,Teens,Non-Fiction,"{Philosophy}, {Religion}"
-Dickens,Charles Dickens,Great Expectations,1861,Indifferent,20s,Fiction,{Literature}
-Dillard,Annie Dillard,Pilgrim at Tinker Creek,1974,Liked,20s,Non-Fiction,{Memoirs}
-Dostoyevsky,Fyodor Dostoyevsky,Crime and Punishment,1866,Liked,20s,Fiction,{Literature}
-Durant,Will Durant,The Lessons of History,1968,Liked,20s,Non-Fiction,{History}
-Ellenberg,Jordan Ellenberg,How Not to Be Wrong,2014,Disliked,20s,Non-Fiction,"{Philosophy}, {Self-Help}, {Statistics}"
-Emerson,Ralph Waldo Emerson,Self-Reliance and Other Essays,1844,Indifferent,Teens,Non-Fiction,"{Philosophy}, {Essays}"
-Ferrante,Elena Ferrante,My Brilliant Friend,2011,Loved,20s,Fiction,"{Literature}"
-Feynman,Richard P. Feynman,"Surely You're Joking, Mr. Feynman!",1985,Liked,20s,Non-Fiction,{Memoirs}
-Findley,Timothy Findley,The Butterfly Plague,1969,Liked,Teens,Fiction,{Literature}
-Finnegan,William Finnegan,Barbarian Days,2015,Mixed Feelings,20s,Non-Fiction,{Memoirs}
-Fitzgerald,F. Scott Fitzgerald,The Great Gatsby,1925,Liked,20s,Fiction,{Literature}
-Forster,E.M. Forster,The Machine Stops,1909,Loved,20s,Fiction,{Science-Fiction}
-Forster,E.M. Forster,A Room with a View,1908,Indifferent,20s,Fiction,{Literature}
-Frank,Anne Frank,The Diary of a Young Girl,1947,Loved,20s,Non-Fiction,{Memoirs}
-Franklin,Benjamin Franklin,The Autobiography of Benjamin Franklin,1791,Liked,Teens,Non-Fiction,"{Memoirs}, {Biographies}"
-Gaiman,Neil Gaiman,Coraline,2002,Indifferent,20s,Fiction,{Fantasy}
-Gaiman,Neil Gaiman,The Ocean at the End of the Lane,2013,Loved,20s,Fiction,{Fantasy}
-Gaiman,Neil Gaiman,Stardust,1997,Liked,20s,Fiction,{Fantasy}
-Gibson & Sterling,William Gibson & Bruce Sterling,The Difference Engine,1990,Loved,20s,Fiction,{Science-Fiction}
-Gilbert,Daniel Todd Gilbert,Stumbling on Happiness,2006,Liked,20s,Non-Fiction,{Psychology}
-Gladwell,Malcolm Gladwell,Outliers,2008,Liked,20s,Non-Fiction,{Science}
-Gleick,James Gleick,Chaos,1987,Indifferent,20s,Non-Fiction,"{History}, {Science}"
-Gleick,James Gleick,Isaac Newton,2003,Loved,20s,Non-Fiction,"{Biographies}, {Science}"
-Gleick,James Gleick,The Information,2011,Loved,20s,Non-Fiction,"{History}, {Science}"
-Golding,William Golding,Lord of the Flies,1954,Loved,Teens,Non-Fiction,{Literature}
-Goldstein,Rebecca Goldstein,The Mind-Body Problem,1983,Disliked,20s,Fiction,{Literature}
-Goleman,Daniel Goleman,Altered Traits,2017,Disliked,20s,Non-Fiction,"{Psychology}, {Science}"
-Gowdy,Barbara Gowdy,Disneyland,1989,Loved,20s,Fiction,"{Literature}, {Short Stories}"
-Haidt,Jonathan Haidt,The Righteous Mind,2012,Loved,20s,Non-Fiction,{Psychology}
-Haidt,Jonathan Haidt,The Happiness Hypothesis,2005,Loved,20s,Non-Fiction,{Psychology}
-Harari,Yuval Noah Harari,Sapiens,2011,Disliked,20s,Non-Fiction,{Philosophy}
-Harari,Yuval Noah Harari,Homo Deus,2017,Disliked,20s,Non-Fiction,{Philosophy}
-Hargrove,Todd Hargrove,Playing With Movement,2014,Liked,20s,Non-Fiction,"{Self-Help}, Exercise"
-Harris,Judith Rich Harris,The Nurture Assumption,1998,Liked,20s,Non-Fiction,{Science}
-Harris,Sam Harris,Free Will,2012,Loved,20s,Non-Fiction,{Philosophy}
-Harris,Sam Harris,Waking Up,2014,Loved,20s,Non-Fiction,"{Philosophy}, {Religion}"
-Hawley,Noah Hawley,Before the Fall,2016,Loved,20s,Fiction,{Literature}
-Hemingway,Ernest Hemingway,The Old Man and the Sea,1952,Indifferent,Teens,Fiction,{Literature}
-Herbert,Frank Herbert,Dune,1965,Indifferent,Teens,Fiction,{Science-Fiction}
-Hesse,Hermann Hesse,Siddhartha,1922,Liked,Teens,Fiction,"{Parables}, {Literature}"
-Hill,Lawrence Hill,The Book of Negroes,2007,Liked,Teens,Fiction,"{Literature}, {Historical Fiction}"
-Hinton,S.E. Hinton,The Outsiders,1967,Liked,Teens,Fiction,{Literature}
-Hofstadter,Douglas R. Hofstadter,"Gödel, Escher, Bach",1979,Loved,20s,Non-Fiction,{Philosophy}
-Holt,Jim Holt,Why Does the World Exist?,2011,Liked,Teens,Non-Fiction,{Philosophy}
-Homer,Homer,The Iliad,-750,Liked,Teens,Fiction,{Literature}
-Homer,Homer,The Odyssey,-700,Liked,Teens,Fiction,{Literature}
-Irving,John Irving,A Prayer for Owen Meany,1989,Loved,20s,Fiction,{Literature}
-Ishiguro,Kazuo Ishiguro,Never Let Me Go,2005,Mixed Feelings,20s,Fiction,{Literature}
-Jacobs,Alan Jacobs,The Pleasures of Reading in an Age of Distraction,2011,Liked,20s,Non-Fiction,"{Philosophy}, {Self-Help}"
-James et al.,"Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",An Introduction to Statistical Learning,2017,Liked,20s,Non-Fiction,"{Statistics}, {Computer Science & Programming}"
-Jemisin,N.K. Jemisin,The Fifth Season,2015,Mixed Feelings,20s,Fiction,{Fantasy}
-Johnstone,Keith Johnstone,Impro,1979,Liked,20s,Non-Fiction,"Philsosophy, {Self-Help}"
-Jones,Lloyd Jones,Mister Pip,2006,Liked,20s,Fiction,{Literature}
-Jordan,Robert Jordan,The Wheel of Time 1-3,1990,Liked,Teens,Fiction,{Fantasy}
-Joyce,James Joyce,Araby,1914,Loved,20s,Fiction,"{Literature}, {Short Stories}"
-Joyce,James Joyce,The Dead,1914,Loved,20s,Fiction,"{Literature}, {Short Stories}"
-Kabat-Zinn,Jon Kabat-Zinn,Full Catastrophe Living,1990,Indifferent,20s,Non-Fiction,{Philosophy}
-Kadare,Ismail Kadare,Broken April,1978,Liked,Teens,Fiction,{Literature}
-Kafka,Franz Kafka,The Metamorphosis,1915,Liked,20s,Fiction,{Literature}
-Kahneman,Daniel Kahneman,"Thinking, Fast and Slow",2011,Liked,20s,Non-Fiction,"{Psychology}, {Science}"
-Kalanithi,Paul Kalanithi,When Breath Becomes Air,2016,Disliked,20s,Non-Fiction,{Memoirs}
-Kaufman,Josh Kaufman,The Personal MBA,2010,Liked,20s,Non-Fiction,"{Self-Help}, {Business}"
-Kay,Guy Gavriel Kay,The Fionavar Tapestry,1986,Liked,Teens,Fiction,{Fantasy}
-Kay,Guy Gavriel Kay,Ysabel,2007,Liked,Teens,Fiction,{Fantasy}
-Keyes,Daniel Keyes,Flowers for Algernon,1966,Liked,20s,Fiction,{Science-Fiction}
-King,Stephen King,On Writing,2000,Loved,20s,Non-Fiction,"{Memoirs}, {Writing}"
-Kleist,Heinrich von Kleist,The Marquise of O,1808,Liked,20s,Fiction,{Literature}
-Larson,Gary Larson,The Far Side Gallery,1984,Liked,Teens,Fiction,{Comics}
-Lee,Harper Lee,To Kill a Mockingbird,1960,Liked,Teens,Fiction,{Literature}
-Le Guin,Ursula K. Le Guin,A Wizard of Earthsea,1968,Liked,20s,Fiction,{Fantasy}
-Le Guin,Ursula K. Le Guin,The Ones Who Walk Away from Omelas,1973,Liked,20s,Fiction,{Science-Fiction}
-Le Guin,Ursula K. Le Guin,The Left Hand of Darkness,1969,Liked,20s,Fiction,{Science-Fiction}
-Levi,Primo Levi,Survival in Auschwitz,1947,Liked,20s,Non-Fiction,"{Memoirs}, {History}"
-Lewis,C.S. Lewis,The Chronicles of Narnia,1956,Liked,Childhood,Fiction,{Fantasy}
-Lightman,Alan Lightman,Einstein's Dreams,1992,Liked,Teens,Fiction,{Science-Fiction}
-MacDonald,George MacDonald,The Princess and the Goblin,1872,Indifferent,20s,Fiction,{Fantasy}
-Martel,Yann Martel,Life of Pi,2001,Loved,Teens,Fiction,{Literature}
-McCarthy,Cormac McCarthy,The Road,2006,Loved,20s,Fiction,"{Literature}, {Westerns}"
-McGrayne,Sharon Bertsch McGrayne,The Theory That Would Not Die,2011,Disliked,20s,Non-Fiction,"{History}, {Science}, {Statistics}"
-McMurtry,Larry McMurtry,Lonesome Dove,1985,Loved,20s,Fiction,"{Westerns}, {Literature}"
-Medina,John Medina,Brain Rules,2008,Liked,20s,Non-Fiction,"{Science}, {Psychology}, {Learning}, {Self-Help}"
-Miller,Chanel Miller,Know My Name,2019,Loved,20s,Non-Fiction,{Memoirs}
-Miller,Arthur  Miller,The Crucible,1953,Indifferent,Teens,Fiction,{Plays}
-Millhauser,Steven Millhauser,Martin Dressler,1996,Liked,Teens,Fiction,{Literature}
-Morrison,Toni Morrison,Beloved,1987,Liked,20s,Fiction,{Literature}
-Moss,Stephen Moss,The Rookie,n,Liked,20s,Non-Fiction,{Memoirs}
-Murakami,Haruki Murakami,Sputnik Sweetheart,1999,Disliked,20s,Fiction,{Literature}
-Márquez,Gabriel García Márquez,One Hundred Years of Solitude,1967,Liked,20s,Fiction,{Literature}
-Nicholson,William Nicholson,The Wind on Fire Trilogy,2002,Liked,Childhood,Fiction,{Fantasy}
-Nielsen,Michael Nielsen,Reinventing Discovery,2011,Loved,20s,Non-Fiction,"{Philosophy}, {Science}"
-Nimmo,Jenny Nimmo,Children of the Red King 1-5,2002-2006,Loved,Childhood,Fiction,{Fantasy}
-O'Shaughnessy,Patrick O'Shaughnessy,Millennial Money,2014,Liked,20s,Non-Fiction,{Personal Finance}
-Oakley,Barbara Oakley,A Mind for Numbers,2014,Liked,20s,Non-Fiction,"{Learning}, {Self-Help}"
-Olson,Randy Olson,"Houston, We Have a Narrative",2015,Liked,20s,Non-Fiction,"{Writing}, {Self-Help}, {Science}"
-Oppel,Kenneth Oppel,Silverwing,1997,Liked,Childhood,Fiction,{Literature}
-Orwell,George Orwell,Animal Farm,1945,Liked,20s,Fiction,{Literature}
-Orwell,George Orwell,1984,1949,Liked,20s,Fiction,{Literature}
-Palahniuk,Chuck Palahniuk,Fight Club,1996,Liked,Teens,Fiction,{Literature}
-Paolini,Christopher Paolini,The Inheritance Cycle 1-3,2002,Liked,Teens,Fiction,{Fantasy}
-Patterson,James Patterson,Maximum Ride,2005,Liked,Teens,Fiction,{Science-Fiction}
-Paulsen,Gary Paulsen,Brian's Saga 1-2,1996,Liked,Teens,Fiction,{Literature}
-Pinker,Steven Pinker,How the Mind Works,1997,Loved,20s,Non-Fiction,"{Psychology}, {Science}"
-Pinker,Steven Pinker,The Better Angels of Our Nature,2010,Liked,20s,Non-Fiction,{History}
-Pinker,Steven Pinker,The Language Instinct,1994,Loved,20s,Non-Fiction,"{Psychology}, {Science}"
-Pinker,Steven Pinker,The Sense of Style,2014,Loved,20s,Non-Fiction,"{Writing}, {Self-Help}"
-Pullman,Philip Pullman,His Dark Materials,2000,Loved,Teens,Fiction,{Fantasy}
-Ritchie,Stuart Ritchie,Intelligence,2015,Liked,20s,Non-Fiction,"{Psychology}, {Science}"
-Robbins,Anthony Robbins,MONEY Master the Game,2014,Liked,20s,Non-Fiction,"{Self-Help}, {Personal Finance}"
-Rowling,J.K. Rowling,Harry Potter 1-7,2007,Loved,Childhood,Fiction,{Fantasy}
-Rushdie,Salman Rushdie,The Satanic Verses,1988,Liked,Teens,Fiction,{Literature}
-Sachar,Louis Sachar,Holes,1998,Liked,Childhood,Fiction,{Literature}
-Saint-Exupéry,Antoine de Saint-Exupéry,The Little Prince,1943,Liked,Teens,Fiction,{Literature}
-Salinger,J.D. Salinger,The Catcher in the Rye,1951,Liked,Teens,Fiction,{Literature}
-Sapolsky,Robert M. Sapolsky,Behave,2017,Disliked,20s,Non-Fiction,"{Science}, {Psychology}"
-Schneier,Bruce Schneier,Data and Goliath,2015,Liked,20s,Non-Fiction,"{Philosophy}, {Science}, {Computer Science & Programming}"
-Shakespeare,William Shakespeare,Hamlet,1603,Liked,Teens,Fiction,{Plays}
-Shakespeare,William Shakespeare,Romeo and Juliet,1595,Liked,Teens,Fiction,{Plays}
-Shakespeare,William Shakespeare,A Midsummer Night's Dream,1595,Liked,Teens,Fiction,{Plays}
-Shelley,Mary Wollstonecraft Shelley,Frankenstein,1818,Liked,20s,Fiction,{Literature}
-Silver,Nate Silver,The Signal and the Noise,2012,Liked,20s,Non-Fiction,"{Philosophy}, {Science}, {Statistics}"
-Simler & Hanson,Kevin Simler & Robin Hanson,The Elephant in the Brain,2017,Liked,20s,Non-Fiction,"{Psychology}, {Philosophy}"
-Smith,Huston Smith,The World's Religions,1958,Indifferent,Teens,Non-Fiction,{Religion}
-Spong,John Shelby Spong,A New Christianity for a New World,2001,Liked,Teens,Non-Fiction,{Religion}
-Steinbeck,John Steinbeck,Of Mice and Men,1937,Liked,20s,Fiction,{Literature}
-Stephens-Davidowitz,Seth Stephens-Davidowitz,Everybody Lies,2017,Liked,20s,Non-Fiction,"{Philosophy}, {Science}"
-Stephenson,Neal Stephenson,Snow Crash,1992,Disliked,20s,Fiction,{Science-Fiction}
-Strunk,William Strunk Jr.,The Elements of Style,1918,Liked,20s,Non-Fiction,"{Writing}, {Self-Help}"
-Swift,Jonathan Swift,Gulliver's Travels,1726,Liked,Teens,Fiction,{Literature}
-Taleb,Nassim Nicholas Taleb,The Black Swan,2007,Liked,20s,Non-Fiction,"{Philosophy}, {Statistics}"
-Thaler,Richard H. Thaler,Nudge,2008,Liked,20s,Non-Fiction,{Psychology}
-Thiel,Peter Thiel,Zero to One,2014,Loved,20s,Non-Fiction,"{Philosophy}, {Business}"
-Thoreau,Henry David Thoreau,Walden,1854,Liked,Teens,Non-Fiction,"{Philosophy}, {Memoirs}"
-Tolkien,J.R.R. Tolkien,The Lord of the Rings,1955,Liked,Teens,Fiction,{Fantasy}
-Tolkien,J.R.R. Tolkien,The Hobbit,1937,Liked,Childhood,Fiction,{Fantasy}
-Tzu,Sun Tzu,The Art of War,-500,Liked,20s,Non-Fiction,{Philosophy}
-Tzu,Lao Tzu,Tao Te Ching,-600,Liked,20s,Non-Fiction,{Philosophy}
-Vance,Ashlee Vance,Elon Musk,2015,Liked,20s,Non-Fiction,{Biographies}
-Verne,Jules Verne,Twenty Thousand Leagues Under the Sea,1869,Disliked,Teens,Fiction,{Science-Fiction}
-Voltaire,Voltaire,Candide,1759,Liked,Teens,Fiction,"{Parables}, {Philosophy}, {Literature}"
-Vonnegut,Kurt Vonnegut Jr.,Cat's Cradle,1963,Liked,20s,Fiction,{Literature}
-Vonnegut,Kurt Vonnegut Jr.,"God Bless You, Mr. Rosewater",1965,Liked,Teens,Fiction,{Literature}
-Vonnegut,Kurt Vonnegut Jr.,Slaughterhouse-Five,1969,Liked,20s,Fiction,{Literature}
-Voss,Chris Voss,Never Split the Difference,2016,Liked,20s,Non-Fiction,"{Self-Help}, {Business}"
-Wallace,David Foster Wallace,Oblivion,2004,Loved,20s,Fiction,"{Literature}, {Short Stories}"
-Wallace,David Foster Wallace,Infinite Jest,1996,Loved,20s,Fiction,{Literature}
-Wallace,David Foster Wallace,Both Flesh and Not: Essays,2012,Loved,20s,Non-Fiction,{Essays}
-Watterson,Bill Watterson,Calvin and Hobbes,1985-1995,Loved,Childhood,Fiction,{Comics}
-Weir,Andy Weir,Artemis,2017,Indifferent,20s,Fiction,{Science-Fiction}
-Wells,H.G. Wells,The Island of Doctor Moreau,1896,Indifferent,20s,Fiction,{Science-Fiction}
-Westover,Tara Westover,Educated,2018,Loved,20s,Non-Fiction,{Memoirs}
-Wickham,Hadley Wickham,Advanced R,2014,Loved,20s,Non-Fiction,{Computer Science & Programming}
-Wiesel,Elie Wiesel,Night,1956,Indifferent,20s,Fiction,{Literature}
-Wilde,Oscar Wilde,The Picture of Dorian Gray,1890,Liked,20s,Fiction,{Literature}
-Wilson,Robert Charles Wilson,Spin,2005,Liked,Teens,Fiction,{Science-Fiction}
-Wolf,Christa Wolf,Cassandra,1983,Disliked,20s,Fiction,{Literature}
-Woolf,Virginia Woolf,Mrs. Dalloway,1925,Liked,20s,Fiction,{Literature}
-Wright,Ronald Wright,A Short History of Progress,2004,Indifferent,Teens,Non-Fiction,"{Philosophy}, {History}"
-Wyndham,John Wyndham,The Chrysalids,1955,Liked,Teens,Fiction,{Literature}
-Yudkowsky,Eliezer Yudkowsky,Inadequate Equilibria,2017,Liked,20s,Non-Fiction,{Philosophy}
-Yudkowsky,Eliezer Yudkowsky,Rationality From AI to Zombies,2015,Loved,20s,Non-Fiction,{Philosophy}
-Yudkowsky,Eliezer Yudkowsky,Harry Potter and the Methods of Rationality,2015,Loved,20s,Fiction,{Fantasy}
+creator_key,creator,title,publication_year,rating,period_of_my_life,tags
+Aurelius,Marcus Aurelius,Meditations,180,Indifferent,20s,"{Non-Fiction},{Philosophy}"
+Adams,Douglas Adams,The Hitchhiker's Guide to the Galaxy,1979,Liked,Childhood,"{Fiction},{Literature}"
+Adams,Scott Adams,How to Fail at Almost Everything and Still Win Big,2013,Liked,20s,"{Non-Fiction},{Self-Help},{Memoirs}"
+Ahrens,Sönke Ahrens,How to Take Smart Notes,2017,Liked,In the past year,"{Non-Fiction},{Self-Help},{Writing},{Learning}"
+Ariely,Dan Ariely,Predictably Irrational,2008,Liked,20s,"{Non-Fiction},{Psychology}"
+Asimov,Isaac Asimov,Nightfall,1990,Liked,20s,"{Non-Fiction},{Science-Fiction}"
+Asimov,Isaac Asimov,Prelude to Foundation,1988,Disliked,20s,"{Fiction},{Science-Fiction}"
+Bach,Richard Bach,Jonathan Livingston Seagull,1970,Loved,20s,"{Fiction},{Parables}"
+Bach,Richard Bach,Illusions,1977,Liked,20s,"{Fiction},{Parables}"
+Banks,Iain M. Banks,The Player of Games,1988,Disliked,20s,"{Fiction},{Science-Fiction}"
+Barnes,Julian Barnes,Flaubert's Parrot,1984,Disliked,20s,"{Fiction},{Literature}"
+Barron,T.A. Barron,The Lost Years of Merlin Saga,2000,Loved,Teens,"{Fiction},{Fantasy}"
+Barron,T.A. Barron,The Great Tree of Avalon trilogy,2006,Liked,Teens,"{Fiction},{Fantasy}"
+Beckett,Samuel Beckett,Waiting for Godot,1952,Disliked,20s,"{Fiction},{Plays}"
+Bock,Dennis Bock,The Ash Garden,2001,Liked,Teens,"{Fiction},{Literature}"
+Borges,Jorge Luis Borges,The Library of Babel,1941,Liked,20s,"{Fiction},{Short Stories}"
+Bostrom,Nick Bostrom,Superintelligence,2014,Mixed feelings,20s,"{Non-Fiction},{Philosophy}"
+Bradbury,Ray Bradbury,Fahrenheit 451,1953,Liked,Teens,"{Fiction},{Literature}"
+Brooks,Terry Brooks,The Sword of Shannara,1977,Liked,Teens,"{Fiction},{Fantasy}"
+Browder,Bill Browder,Red Notice,2014,Indifferent,In the past year,"{Non-Fiction},{Memoirs}"
+Brown,Dan Brown,The Da Vinci Code,2003,Liked,Teens,"{Fiction},{Literature}"
+Butler,Octavia E. Butler,Wild Seed,1980,Mixed feelings,In the past year,"{Fiction},{Fantasy}"
+Campbell,Joseph Campbell,A Joseph Campbell Companion,1991,Indifferent,Teens,"{Non-Fiction},{Philosophy}"
+Camus,Albert Camus,The Plague,1947,Liked,20s,"{Fiction},{Literature}"
+Card,Orson Scott Card,Ender's Shadow,1999,Loved,Teens,"{Fiction},{Science-Fiction}"
+Card,Orson Scott Card,Ender's Saga,1996,Loved,Teens,"{Fiction},{Science-Fiction}"
+Carnegie,Dale Carnegie,How to Win Friends and Influence People,1936,Loved,20s,"{Non-Fiction},{Self-Help}"
+Caro,Robert A. Caro,The Path to Power,1982,Loved,In the past year,"{Non-Fiction},{History},{Biographies}"
+Carroll,Lewis Carroll,Alice's Adventures in Wonderland & Through the Looking-Glass,1871,Indifferent,20s,"{Fiction},{Literature}"
+Catmull,Ed Catmull,"Creativity, Inc.",2009,Liked,In the past year,"{Non-Fiction},{Memoirs}"
+de Cervantes,Miguel de Cervantes,Don Quixote,1615,Liked,20s,"{Fiction},{Literature}"
+Chabon,Michael Chabon,The Amazing Adventures of Kavalier & Clay,2000,Loved,20s,"{Fiction},{Literature}"
+Chiang,Ted Chiang,Exhalation: Stories,2019,Loved,In the past year,"{Fiction},{Short Stories}"
+Chilton,David Chilton,The Wealthy Barber Returns,2011,Liked,20s,"{Non-Fiction},{Self-Help},{Personal Finance}"
+Christian,Brian Christian,Algorithms to Live By,2016,Loved,20s,"{Non-Fiction},{Self-Help},{Computer Science & Programming}"
+Cialdini,Robert B. Cialdini,Influence,1984,Liked,20s,"{Non-Fiction},{Psychology}"
+Clarke,Arthur C. Clarke,2001: A Space Odyssey,1968,Indifferent,Teens,"{Fiction},{Science-Fiction}"
+Clavell,James Clavell,Tai-Pan,1966,Liked,Teens,"{Fiction},{Historical Fiction}"
+Clear,James Clear,Atomic Habits,2018,Liked,20s,"{Non-Fiction},{Self-Help},{Business}"
+Coelho,Paulo Coelho,The Alchemist,1988,Disliked,20s,"{Fiction},{Parables},{Literature}"
+Collins,Suzanne Collins,The Hunger Games,2008,Liked,20s,"{Fiction},{Fantasy}"
+Confucius,Confucius,The Analects,-429,Indifferent,20s,"{Non-Fiction},{Philosophy}"
+Conrad,Joseph Conrad,Heart of Darkness,1899,Indifferent,20s,"{Fiction},{Literature}"
+Cowen,Tyler Cowen,Stubborn Attachments,n,Liked,20s,"{Non-Fiction},{Philosophy}"
+Cowen,Tyler Cowen,Discover Your Inner Economist,2007,Liked,20s,"{Non-Fiction},{Economics}"
+Crichton,Michael Crichton,Jurassic Park,1990,Liked,Teens,"{Fiction},{Science-Fiction}"
+Czuchlewski,David Czuchlewski,The Muse Asylum,2001,Liked,Teens,"{Fiction},{Literature}"
+Dawkins,Richard Dawkins,Unweaving the Rainbow,1998,Liked,Teens,"{Non-Fiction},{Science}"
+Dawkins,Richard Dawkins,The God Delusion,2006,Liked,Teens,"{Non-Fiction},{Philosophy},{Religion}"
+Dickens,Charles Dickens,Great Expectations,1861,Indifferent,20s,"{Fiction},{Literature}"
+Dillard,Annie Dillard,Pilgrim at Tinker Creek,1974,Liked,20s,"{Non-Fiction},{Memoirs}"
+Dostoyevsky,Fyodor Dostoyevsky,Crime and Punishment,1866,Liked,20s,"{Fiction},{Literature}"
+Durant,Will Durant,The Lessons of History,1968,Liked,20s,"{Non-Fiction},{History}"
+Ellenberg,Jordan Ellenberg,How Not to Be Wrong,2014,Disliked,20s,"{Non-Fiction},{Philosophy},{Self-Help},{Statistics}"
+Emerson,Ralph Waldo Emerson,Self-Reliance and Other Essays,1844,Indifferent,Teens,"{Non-Fiction},{Philosophy},{Essays}"
+Ferrante,Elena Ferrante,My Brilliant Friend,2011,Loved,In the past year,"{Fiction},{Literature}"
+Feynman,Richard P. Feynman,"Surely You're Joking, Mr. Feynman!",1985,Liked,20s,"{Non-Fiction},{Memoirs}"
+Findley,Timothy Findley,The Butterfly Plague,1969,Liked,Teens,"{Fiction},{Literature}"
+Finnegan,William Finnegan,Barbarian Days,2015,Mixed feelings,In the past year,"{Non-Fiction},{Memoirs}"
+Fitzgerald,F. Scott Fitzgerald,The Great Gatsby,1925,Liked,20s,"{Fiction},{Literature}"
+Forster,E.M. Forster,The Machine Stops,1909,Loved,20s,"{Fiction},{Science-Fiction}"
+Forster,E.M. Forster,A Room with a View,1908,Indifferent,20s,"{Fiction},{Literature}"
+Frank,Anne Frank,The Diary of a Young Girl,1947,Loved,20s,"{Non-Fiction},{Memoirs}"
+Franklin,Benjamin Franklin,The Autobiography of Benjamin Franklin,1791,Liked,Teens,"{Non-Fiction},{Memoirs},{Biographies}"
+Gaiman,Neil Gaiman,Coraline,2002,Indifferent,20s,"{Fiction},{Fantasy}"
+Gaiman,Neil Gaiman,The Ocean at the End of the Lane,2013,Loved,20s,"{Fiction},{Fantasy}"
+Gaiman,Neil Gaiman,Stardust,1997,Liked,20s,"{Fiction},{Fantasy}"
+Gibson & Sterling,William Gibson & Bruce Sterling,The Difference Engine,1990,Loved,20s,"{Fiction},{Science-Fiction}"
+Gilbert,Daniel Todd Gilbert,Stumbling on Happiness,2006,Liked,20s,"{Non-Fiction},{Psychology}"
+Gladwell,Malcolm Gladwell,Outliers,2008,Liked,20s,"{Non-Fiction},{Science}"
+Gleick,James Gleick,Chaos,1987,Indifferent,20s,"{Non-Fiction},{History},{Science}"
+Gleick,James Gleick,Isaac Newton,2003,Loved,20s,"{Non-Fiction},{Biographies},{Science}"
+Gleick,James Gleick,The Information,2011,Loved,20s,"{Non-Fiction},{History},{Science}"
+Golding,William Golding,Lord of the Flies,1954,Loved,Teens,"{Non-Fiction},{Literature}"
+Goldstein,Rebecca Goldstein,The Mind-Body Problem,1983,Disliked,20s,"{Fiction},{Literature}"
+Goleman,Daniel Goleman,Altered Traits,2017,Disliked,20s,"{Non-Fiction},{Psychology},{Science}"
+Gopen,George D. Gopen,The Sense of Structure,2004,Liked,20s,"{Non-Fiction},{Writing}"
+Gowdy,Barbara Gowdy,Disneyland,1989,Loved,20s,"{Fiction},{Literature},{Short Stories}"
+Haidt,Jonathan Haidt,The Righteous Mind,2012,Loved,20s,"{Non-Fiction},{Psychology}"
+Haidt,Jonathan Haidt,The Happiness Hypothesis,2005,Loved,20s,"{Non-Fiction},{Psychology}"
+Harari,Yuval Noah Harari,Sapiens,2011,Disliked,20s,"{Non-Fiction},{Philosophy}"
+Harari,Yuval Noah Harari,Homo Deus,2017,Disliked,20s,"{Non-Fiction},{Philosophy}"
+Hargrove,Todd Hargrove,Playing With Movement,2014,Liked,In the past year,"{Non-Fiction},{Self-Help}, Exercise"
+Harris,Judith Rich Harris,The Nurture Assumption,1998,Liked,20s,"{Non-Fiction},{Science}"
+Harris,Sam Harris,Free Will,2012,Loved,20s,"{Non-Fiction},{Philosophy}"
+Harris,Sam Harris,Waking Up,2014,Loved,20s,"{Non-Fiction},{Philosophy},{Religion}"
+Hawley,Noah Hawley,Before the Fall,2016,Loved,20s,"{Fiction},{Literature}"
+Hemingway,Ernest Hemingway,The Old Man and the Sea,1952,Indifferent,Teens,"{Fiction},{Literature}"
+Herbert,Frank Herbert,Dune,1965,Indifferent,Teens,"{Fiction},{Science-Fiction}"
+Hesse,Hermann Hesse,Siddhartha,1922,Liked,Teens,"{Fiction},{Parables},{Literature}"
+Hill,Lawrence Hill,The Book of Negroes,2007,Liked,Teens,"{Fiction},{Literature},{Historical Fiction}"
+Hinton,S.E. Hinton,The Outsiders,1967,Liked,Teens,"{Fiction},{Literature}"
+Hofstadter,Douglas R. Hofstadter,"Gödel, Escher, Bach",1979,Loved,20s,"{Non-Fiction},{Philosophy}"
+Holt,Jim Holt,Why Does the World Exist?,2011,Liked,Teens,"{Non-Fiction},{Philosophy}"
+Homer,Homer,The Iliad,-750,Liked,Teens,"{Fiction},{Literature}"
+Homer,Homer,The Odyssey,-700,Liked,Teens,"{Fiction},{Literature}"
+Irving,John Irving,A Prayer for Owen Meany,1989,Loved,20s,"{Fiction},{Literature}"
+Ishiguro,Kazuo Ishiguro,Never Let Me Go,2005,Mixed feelings,20s,"{Fiction},{Literature}"
+Jacobs,Alan Jacobs,The Pleasures of Reading in an Age of Distraction,2011,Liked,In the past year,"{Non-Fiction},{Philosophy},{Self-Help}"
+James et al.,"Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",An Introduction to Statistical Learning,2017,Liked,20s,"{Non-Fiction},{Statistics},{Computer Science & Programming}"
+Jemisin,N.K. Jemisin,The Fifth Season,2015,Mixed feelings,In the past year,"{Fiction},{Fantasy}"
+Johnstone,Keith Johnstone,Impro,1979,Liked,20s,"{Non-Fiction},Philsosophy,{Self-Help}"
+Jones,Lloyd Jones,Mister Pip,2006,Liked,20s,"{Fiction},{Literature}"
+Jordan,Robert Jordan,The Wheel of Time 1-3,1990,Liked,Teens,"{Fiction},{Fantasy}"
+Joyce,James Joyce,Araby,1914,Loved,20s,"{Fiction},{Literature},{Short Stories}"
+Joyce,James Joyce,The Dead,1914,Loved,20s,"{Fiction},{Literature},{Short Stories}"
+Kabat-Zinn,Jon Kabat-Zinn,Full Catastrophe Living,1990,Indifferent,20s,"{Non-Fiction},{Philosophy}"
+Kadare,Ismail Kadare,Broken April,1978,Liked,Teens,"{Fiction},{Literature}"
+Kafka,Franz Kafka,The Metamorphosis,1915,Liked,20s,"{Fiction},{Literature}"
+Kahneman,Daniel Kahneman,"Thinking, Fast and Slow",2011,Liked,20s,"{Non-Fiction},{Psychology},{Science}"
+Kalanithi,Paul Kalanithi,When Breath Becomes Air,2016,Disliked,20s,"{Non-Fiction},{Memoirs}"
+Kaufman,Josh Kaufman,The Personal MBA,2010,Liked,20s,"{Non-Fiction},{Self-Help},{Business}"
+Kay,Guy Gavriel Kay,The Fionavar Tapestry,1986,Liked,Teens,"{Fiction},{Fantasy}"
+Kay,Guy Gavriel Kay,Ysabel,2007,Liked,Teens,"{Fiction},{Fantasy}"
+Keyes,Daniel Keyes,Flowers for Algernon,1966,Liked,20s,"{Fiction},{Science-Fiction}"
+King,Stephen King,On Writing,2000,Loved,20s,"{Non-Fiction},{Memoirs},{Writing}"
+Kleist,Heinrich von Kleist,The Marquise of O,1808,Liked,20s,"{Fiction},{Literature}"
+Larson,Gary Larson,The Far Side Gallery,1984,Liked,Teens,"{Fiction},{Comics}"
+Lee,Harper Lee,To Kill a Mockingbird,1960,Liked,Teens,"{Fiction},{Literature}"
+Le Guin,Ursula K. Le Guin,A Wizard of Earthsea,1968,Liked,20s,"{Fiction},{Fantasy}"
+Le Guin,Ursula K. Le Guin,The Ones Who Walk Away from Omelas,1973,Liked,20s,"{Fiction},{Science-Fiction}"
+Le Guin,Ursula K. Le Guin,The Left Hand of Darkness,1969,Liked,20s,"{Fiction},{Science-Fiction}"
+Levi,Primo Levi,Survival in Auschwitz,1947,Liked,20s,"{Non-Fiction},{Memoirs},{History}"
+Lewis,C.S. Lewis,The Chronicles of Narnia,1956,Liked,Childhood,"{Fiction},{Fantasy}"
+Lightman,Alan Lightman,Einstein's Dreams,1992,Liked,Teens,"{Fiction},{Science-Fiction}"
+MacDonald,George MacDonald,The Princess and the Goblin,1872,Indifferent,20s,"{Fiction},{Fantasy}"
+Martel,Yann Martel,Life of Pi,2001,Loved,Teens,"{Fiction},{Literature}"
+McCarthy,Cormac McCarthy,The Road,2006,Loved,20s,"{Fiction},{Literature},{Westerns}"
+McGrayne,Sharon Bertsch McGrayne,The Theory That Would Not Die,2011,Disliked,20s,"{Non-Fiction},{History},{Science},{Statistics}"
+McMurtry,Larry McMurtry,Lonesome Dove,1985,Loved,In the past year,"{Fiction},{Westerns},{Literature}"
+Medina,John Medina,Brain Rules,2008,Liked,20s,"{Non-Fiction},{Science},{Psychology},{Learning},{Self-Help}"
+Miller,Chanel Miller,Know My Name,2019,Loved,In the past year,"{Non-Fiction},{Memoirs}"
+Miller,Arthur  Miller,The Crucible,1953,Indifferent,Teens,"{Fiction},{Plays}"
+Millhauser,Steven Millhauser,Martin Dressler,1996,Liked,In the past year,"{Fiction},{Literature}"
+Morrison,Toni Morrison,Beloved,1987,Liked,20s,"{Fiction},{Literature}"
+Moss,Stephen Moss,The Rookie,n,Liked,20s,"{Non-Fiction},{Memoirs}"
+Murakami,Haruki Murakami,Sputnik Sweetheart,1999,Disliked,In the past year,"{Fiction},{Literature}"
+Márquez,Gabriel García Márquez,One Hundred Years of Solitude,1967,Liked,20s,"{Fiction},{Literature}"
+Nicholson,William Nicholson,The Wind on Fire Trilogy,2002,Liked,Childhood,"{Fiction},{Fantasy}"
+Nielsen,Michael Nielsen,Reinventing Discovery,2011,Loved,20s,"{Non-Fiction},{Philosophy},{Science}"
+Nimmo,Jenny Nimmo,Children of the Red King 1-5,2002-2006,Loved,Childhood,"{Fiction},{Fantasy}"
+O'Shaughnessy,Patrick O'Shaughnessy,Millennial Money,2014,Liked,20s,"{Non-Fiction},{Personal Finance}"
+Oakley,Barbara Oakley,A Mind for Numbers,2014,Liked,20s,"{Non-Fiction},{Learning},{Self-Help}"
+Olson,Randy Olson,"Houston, We Have a Narrative",2015,Liked,20s,"{Non-Fiction},{Writing},{Self-Help},{Science}"
+Oppel,Kenneth Oppel,Silverwing,1997,Liked,Childhood,"{Fiction},{Literature}"
+Orwell,George Orwell,Animal Farm,1945,Liked,20s,"{Fiction},{Literature}"
+Orwell,George Orwell,1984,1949,Liked,20s,"{Fiction},{Literature}"
+Palahniuk,Chuck Palahniuk,Fight Club,1996,Liked,Teens,"{Fiction},{Literature}"
+Paolini,Christopher Paolini,The Inheritance Cycle 1-3,2002,Liked,Teens,"{Fiction},{Fantasy}"
+Patterson,James Patterson,Maximum Ride,2005,Liked,Teens,"{Fiction},{Science-Fiction}"
+Paulsen,Gary Paulsen,Brian's Saga 1-2,1996,Liked,Teens,"{Fiction},{Literature}"
+Pinker,Steven Pinker,How the Mind Works,1997,Loved,20s,"{Non-Fiction},{Psychology},{Science}"
+Pinker,Steven Pinker,The Better Angels of Our Nature,2010,Liked,20s,"{Non-Fiction},{History}"
+Pinker,Steven Pinker,The Language Instinct,1994,Loved,20s,"{Non-Fiction},{Psychology},{Science}"
+Pinker,Steven Pinker,The Sense of Style,2014,Loved,20s,"{Non-Fiction},{Writing},{Self-Help}"
+Pullman,Philip Pullman,His Dark Materials,2000,Loved,Teens,"{Fiction},{Fantasy}"
+Ritchie,Stuart Ritchie,Intelligence,2015,Liked,20s,"{Non-Fiction},{Psychology},{Science}"
+Robbins,Anthony Robbins,MONEY Master the Game,2014,Liked,20s,"{Non-Fiction},{Self-Help},{Personal Finance}"
+Rowling,J.K. Rowling,Harry Potter 1-7,2007,Loved,Childhood,"{Fiction},{Fantasy}"
+Rushdie,Salman Rushdie,The Satanic Verses,1988,Liked,Teens,"{Fiction},{Literature}"
+Sachar,Louis Sachar,Holes,1998,Liked,Childhood,"{Fiction},{Literature}"
+Saint-Exupéry,Antoine de Saint-Exupéry,The Little Prince,1943,Liked,Teens,"{Fiction},{Literature}"
+Salinger,J.D. Salinger,The Catcher in the Rye,1951,Liked,Teens,"{Fiction},{Literature}"
+Sapolsky,Robert M. Sapolsky,Behave,2017,Disliked,20s,"{Non-Fiction},{Science},{Psychology}"
+Schneier,Bruce Schneier,Data and Goliath,2015,Liked,20s,"{Non-Fiction},{Philosophy},{Science},{Computer Science & Programming}"
+Shakespeare,William Shakespeare,Hamlet,1603,Liked,Teens,"{Fiction},{Plays}"
+Shakespeare,William Shakespeare,Romeo and Juliet,1595,Liked,Teens,"{Fiction},{Plays}"
+Shakespeare,William Shakespeare,A Midsummer Night's Dream,1595,Liked,Teens,"{Fiction},{Plays}"
+Shelley,Mary Wollstonecraft Shelley,Frankenstein,1818,Liked,20s,"{Fiction},{Literature}"
+Silver,Nate Silver,The Signal and the Noise,2012,Liked,20s,"{Non-Fiction},{Philosophy},{Science},{Statistics}"
+Simler & Hanson,Kevin Simler & Robin Hanson,The Elephant in the Brain,2017,Liked,20s,"{Non-Fiction},{Psychology},{Philosophy}"
+Smith,Huston Smith,The World's Religions,1958,Indifferent,Teens,"{Non-Fiction},{Religion}"
+Spong,John Shelby Spong,A New Christianity for a New World,2001,Liked,Teens,"{Non-Fiction},{Religion}"
+Steinbeck,John Steinbeck,Of Mice and Men,1937,Liked,20s,"{Fiction},{Literature}"
+Stephens-Davidowitz,Seth Stephens-Davidowitz,Everybody Lies,2017,Liked,20s,"{Non-Fiction},{Philosophy},{Science}"
+Stephenson,Neal Stephenson,Snow Crash,1992,Disliked,20s,"{Fiction},{Science-Fiction}"
+Strunk,William Strunk Jr.,The Elements of Style,1918,Liked,20s,"{Non-Fiction},{Writing},{Self-Help}"
+Swift,Jonathan Swift,Gulliver's Travels,1726,Liked,Teens,"{Fiction},{Literature}"
+Taleb,Nassim Nicholas Taleb,The Black Swan,2007,Liked,20s,"{Non-Fiction},{Philosophy},{Statistics}"
+Thaler,Richard H. Thaler,Nudge,2008,Liked,20s,"{Non-Fiction},{Psychology}"
+Thiel,Peter Thiel,Zero to One,2014,Loved,20s,"{Non-Fiction},{Philosophy},{Business}"
+Thoreau,Henry David Thoreau,Walden,1854,Liked,Teens,"{Non-Fiction},{Philosophy},{Memoirs}"
+Tolkien,J.R.R. Tolkien,The Lord of the Rings,1955,Liked,Teens,"{Fiction},{Fantasy}"
+Tolkien,J.R.R. Tolkien,The Hobbit,1937,Liked,Childhood,"{Fiction},{Fantasy}"
+Tzu,Sun Tzu,The Art of War,-500,Liked,20s,"{Non-Fiction},{Philosophy}"
+Tzu,Lao Tzu,Tao Te Ching,-600,Liked,20s,"{Non-Fiction},{Philosophy}"
+Vance,Ashlee Vance,Elon Musk,2015,Liked,20s,"{Non-Fiction},{Biographies}"
+Verne,Jules Verne,Twenty Thousand Leagues Under the Sea,1869,Disliked,Teens,"{Fiction},{Science-Fiction}"
+Voltaire,Voltaire,Candide,1759,Liked,Teens,"{Fiction},{Parables},{Philosophy},{Literature}"
+Vonnegut,Kurt Vonnegut Jr.,Cat's Cradle,1963,Liked,20s,"{Fiction},{Literature}"
+Vonnegut,Kurt Vonnegut Jr.,"God Bless You, Mr. Rosewater",1965,Liked,Teens,"{Fiction},{Literature}"
+Vonnegut,Kurt Vonnegut Jr.,Slaughterhouse-Five,1969,Liked,20s,"{Fiction},{Literature}"
+Voss,Chris Voss,Never Split the Difference,2016,Liked,20s,"{Non-Fiction},{Self-Help},{Business}"
+Wallace,David Foster Wallace,Oblivion,2004,Loved,20s,"{Fiction},{Literature},{Short Stories}"
+Wallace,David Foster Wallace,Infinite Jest,1996,Loved,20s,"{Fiction},{Literature}"
+Wallace,David Foster Wallace,Both Flesh and Not: Essays,2012,Loved,20s,"{Non-Fiction},{Essays}"
+Watterson,Bill Watterson,Calvin and Hobbes,1985-1995,Loved,Childhood,"{Fiction},{Comics}"
+Weir,Andy Weir,Artemis,2017,Indifferent,20s,"{Fiction},{Science-Fiction}"
+Wells,H.G. Wells,The Island of Doctor Moreau,1896,Indifferent,20s,"{Fiction},{Science-Fiction}"
+Westover,Tara Westover,Educated,2018,Loved,20s,"{Non-Fiction},{Memoirs}"
+Wickham,Hadley Wickham,Advanced R,2014,Loved,20s,"{Non-Fiction},{Computer Science & Programming}"
+Wiesel,Elie Wiesel,Night,1956,Indifferent,20s,"{Fiction},{Literature}"
+Wilde,Oscar Wilde,The Picture of Dorian Gray,1890,Liked,20s,"{Fiction},{Literature}"
+Wilson,Robert Charles Wilson,Spin,2005,Liked,Teens,"{Fiction},{Science-Fiction}"
+Wolf,Christa Wolf,Cassandra,1983,Disliked,20s,"{Fiction},{Literature}"
+Woolf,Virginia Woolf,Mrs. Dalloway,1925,Liked,20s,"{Fiction},{Literature}"
+Wright,Ronald Wright,A Short History of Progress,2004,Indifferent,Teens,"{Non-Fiction},{Philosophy},{History}"
+Wyndham,John Wyndham,The Chrysalids,1955,Liked,Teens,"{Fiction},{Literature}"
+Yudkowsky,Eliezer Yudkowsky,Inadequate Equilibria,2017,Liked,20s,"{Non-Fiction},{Philosophy}"
+Yudkowsky,Eliezer Yudkowsky,Rationality From AI to Zombies,2015,Loved,20s,"{Non-Fiction},{Philosophy}"
+Yudkowsky,Eliezer Yudkowsky,Harry Potter and the Methods of Rationality,2015,Loved,20s,"{Fiction},{Fantasy}"
+Zinsser,William Zinsser,On Writing Well,1976,Liked,20s,"{Non-Fiction},{Writing}"

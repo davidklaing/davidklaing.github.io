@@ -13,7 +13,6 @@ tooltips:
 * Ahrens, *How to Take Smart Notes* (2017)
 * Ariely, *Predictably Irrational* (2008)
 * Asimov, *Nightfall* (1990)
-* Beckett, *Waiting for Godot* (1952)
 * Bostrom, *Superintelligence* (2014)
 * Browder, *Red Notice* (2014)
 * Campbell, *A Joseph Campbell Companion* (1991)
@@ -44,6 +43,7 @@ tooltips:
 * Gleick, *The Information* (2011) ★
 * Golding, *Lord of the Flies* (1954) ★
 * Goleman, *Altered Traits* (2017)
+* Gopen, *The Sense of Structure* (2004)
 * Haidt, *The Righteous Mind* (2012) ★
 * Haidt, *The Happiness Hypothesis* (2005) ★
 * Harari, *Sapiens* (2011)
@@ -99,3 +99,4 @@ tooltips:
 * Wright, *A Short History of Progress* (2004)
 * Yudkowsky, *Inadequate Equilibria* (2017)
 * Yudkowsky, *Rationality From AI to Zombies* (2015) ★
+* Zinsser, *On Writing Well* (1976)

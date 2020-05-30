@@ -16,6 +16,7 @@ tooltips:
 * Barnes, *Flaubert's Parrot* (1984)
 * Barron, *The Lost Years of Merlin Saga* (2000) ★
 * Barron, *The Great Tree of Avalon trilogy* (2006)
+* Beckett, *Waiting for Godot* (1952)
 * Bock, *The Ash Garden* (2001)
 * Borges, *The Library of Babel* (1941)
 * Bradbury, *Fahrenheit 451* (1953)

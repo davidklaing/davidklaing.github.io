@@ -82,6 +82,7 @@ backlinks:
 * Golding, *Lord of the Flies* (1954) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Goleman, *Altered Traits* (2017)
+* Gopen, *The Sense of Structure* (2004)
 * Gowdy, *Disneyland* (1989) ★
 * Haidt, *The Righteous Mind* (2012) ★
 * Haidt, *The Happiness Hypothesis* (2005) ★
@@ -216,3 +217,4 @@ backlinks:
 * Yudkowsky, *Inadequate Equilibria* (2017)
 * Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★
+* Zinsser, *On Writing Well* (1976)

@@ -7,5 +7,5 @@ tippy('#bookshelf-mixed-feelings', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Mixed Feelings</h1><ul><li>Bostrom, <em>Superintelligence</em> (2014)</li><li>Butler, <em>Wild Seed</em> (1980)</li><li>Finnegan, <em>Barbarian Days</em> (2015)</li><li>Ishiguro, <em>Never Let Me Go</em> (2005)</li><li>Jemisin, <em>The Fifth Season</em> (2015)</li></ul></div>'
+    content: '<div class="article-component"><h1>Mixed feelings</h1><ul><li>Bostrom, <em>Superintelligence</em> (2014)</li><li>Butler, <em>Wild Seed</em> (1980)</li><li>Finnegan, <em>Barbarian Days</em> (2015)</li><li>Ishiguro, <em>Never Let Me Go</em> (2005)</li><li>Jemisin, <em>The Fifth Season</em> (2015)</li></ul></div>'
 });

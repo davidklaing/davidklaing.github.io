@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mixed Feelings"
+title: "Mixed feelings"
 published: true
 permalink: /bookshelf-mixed-feelings/
 backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>

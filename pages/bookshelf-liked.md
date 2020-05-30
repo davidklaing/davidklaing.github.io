@@ -44,6 +44,7 @@ tooltips:
 * Gaiman, *Stardust* (1997)
 * Gilbert, *Stumbling on Happiness* (2006)
 * Gladwell, *Outliers* (2008)
+* Gopen, *The Sense of Structure* (2004)
 * Hargrove, *Playing With Movement* (2014)
 * Harris, *The Nurture Assumption* (1998)
 * Hesse, *Siddhartha* (1922)
@@ -126,3 +127,4 @@ tooltips:
 * Woolf, *Mrs. Dalloway* (1925)
 * Wyndham, *The Chrysalids* (1955)
 * Yudkowsky, *Inadequate Equilibria* (2017)
+* Zinsser, *On Writing Well* (1976)

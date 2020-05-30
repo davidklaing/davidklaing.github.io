@@ -44,7 +44,6 @@ tooltips:
 * Lightman, *Einstein's Dreams* (1992)
 * Martel, *Life of Pi* (2001) ★
 * Miller, *The Crucible* (1953)
-* Millhauser, *Martin Dressler* (1996)
 * Palahniuk, *Fight Club* (1996)
 * Paolini, *The Inheritance Cycle 1-3* (2002)
 * Patterson, *Maximum Ride* (2005)
