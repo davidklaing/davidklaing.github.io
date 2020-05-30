@@ -109,7 +109,7 @@ class Database:
                     soup = BeautifulSoup(link, 'html.parser')
                     if soup.find('a').get('href') == this_page.permalink:
                         backlinks.append(self.make_anchor_tag(permalink=other_page.permalink))
-        return list(set(backlinks))
+        return sorted(list(set(backlinks)))
     
     def make_anchor_tag(self, permalink: str) -> str:
         """Make an anchor tag, given a page's permalink."""
