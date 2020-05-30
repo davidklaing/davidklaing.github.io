@@ -9,8 +9,8 @@ tooltips:
 ---
 
 * Daft Punk, *Random Access Memories* (2013)
-* KC Roberts & the Live Revolution, *Good Life* (2010)
 * KC Roberts & the Live Revolution, *Between the Cracks* (2012)
+* KC Roberts & the Live Revolution, *Good Life* (2010)
 * KC Roberts & the Live Revolution, *Parkdale Funk 2* (2013)
 * Lawrence, *Breakfast* (2017)
 * Lawrence, *Living Room* (2018)

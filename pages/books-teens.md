@@ -8,21 +8,21 @@ tooltips:
 - path: tooltip_books.js
 ---
 
-* Barron, *The Lost Years of Merlin Saga* (2000) ★
 * Barron, *The Great Tree of Avalon trilogy* (2006)
+* Barron, *The Lost Years of Merlin Saga* (2000) ★
 * Bock, *The Ash Garden* (2001)
 * Bradbury, *Fahrenheit 451* (1953)
 * Brooks, *The Sword of Shannara* (1977)
 * Brown, *The Da Vinci Code* (2003)
 * Campbell, *A Joseph Campbell Companion* (1991)
-* Card, *Ender's Shadow* (1999) ★
 * Card, *Ender's Saga* (1996) ★
+* Card, *Ender's Shadow* (1999) ★
 * Clarke, *2001: A Space Odyssey* (1968)
 * Clavell, *Tai-Pan* (1966)
 * Crichton, *Jurassic Park* (1990)
 * Czuchlewski, *The Muse Asylum* (2001)
-* Dawkins, *Unweaving the Rainbow* (1998)
 * Dawkins, *The God Delusion* (2006)
+* Dawkins, *Unweaving the Rainbow* (1998)
 * Emerson, *Self-Reliance and Other Essays* (1844)
 * Findley, *The Butterfly Plague* (1969)
 * Franklin, *The Autobiography of Benjamin Franklin* (1791)
@@ -52,9 +52,9 @@ tooltips:
 * Rushdie, *The Satanic Verses* (1988)
 * Saint-Exupéry, *The Little Prince* (1943)
 * Salinger, *The Catcher in the Rye* (1951)
-* Shakespeare, *Romeo and Juliet* (1595)
-* Shakespeare, *Hamlet* (1603)
 * Shakespeare, *A Midsummer Night's Dream* (1595)
+* Shakespeare, *Hamlet* (1603)
+* Shakespeare, *Romeo and Juliet* (1595)
 * Smith, *The World's Religions* (1958)
 * Spong, *A New Christianity for a New World* (2001)
 * Swift, *Gulliver's Travels* (1726)

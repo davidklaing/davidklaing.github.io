@@ -25,10 +25,10 @@ tooltips:
 * Cialdini, *Influence* (1984)
 * Clear, *Atomic Habits* (2018)
 * Confucius, *The Analects* (-429)
-* Cowen, *Stubborn Attachments* (n)
 * Cowen, *Discover Your Inner Economist* (2007)
-* Dawkins, *Unweaving the Rainbow* (1998)
+* Cowen, *Stubborn Attachments* (n)
 * Dawkins, *The God Delusion* (2006)
+* Dawkins, *Unweaving the Rainbow* (1998)
 * Dillard, *Pilgrim at Tinker Creek* (1974)
 * Durant, *The Lessons of History* (1968)
 * Ellenberg, *How Not to Be Wrong* (2014)
@@ -39,9 +39,9 @@ tooltips:
 * Franklin, *The Autobiography of Benjamin Franklin* (1791)
 * Gilbert, *Stumbling on Happiness* (2006)
 * Gladwell, *Outliers* (2008)
-* Gleick, *The Information* (2011) ★
 * Gleick, *Chaos* (1987)
 * Gleick, *Isaac Newton* (2003) ★
+* Gleick, *The Information* (2011) ★
 * Golding, *Lord of the Flies* (1954) ★
 * Goleman, *Altered Traits* (2017)
 * Gopen, *The Sense of Structure* (2004)
@@ -50,8 +50,8 @@ tooltips:
 * Harari, *Homo Deus* (2017)
 * Harari, *Sapiens* (2011)
 * Hargrove, *Playing With Movement* (2014)
-* Harris, *The Nurture Assumption* (1998)
 * Harris, *Free Will* (2012) ★
+* Harris, *The Nurture Assumption* (1998)
 * Harris, *Waking Up* (2014) ★
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Holt, *Why Does the World Exist?* (2011)
@@ -90,14 +90,14 @@ tooltips:
 * Thaler, *Nudge* (2008)
 * Thiel, *Zero to One* (2014) ★
 * Thoreau, *Walden* (1854)
-* Tzu, *The Art of War* (-500)
 * Tzu, *Tao Te Ching* (-600)
+* Tzu, *The Art of War* (-500)
 * Vance, *Elon Musk* (2015)
 * Voss, *Never Split the Difference* (2016)
 * Wallace, *Both Flesh and Not: Essays* (2012) ★
 * Westover, *Educated* (2018) ★
 * Wickham, *Advanced R* (2014) ★
 * Wright, *A Short History of Progress* (2004)
-* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Inadequate Equilibria* (2017)
+* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Zinsser, *On Writing Well* (1976)

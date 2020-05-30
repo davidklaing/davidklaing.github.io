@@ -8,8 +8,8 @@ tooltips:
 - path: tooltip_albums.js
 ---
 
-* Ariana Grande, *thank u, next* (2019)
 * Ariana Grande, *Sweetener* (2018)
+* Ariana Grande, *thank u, next* (2019)
 * Bruno Mars, *24K Magic* (2016)
 * Carly Rae Jepsen, *E-mo-tion* (2015)
 * Charlie Puth, *Voicenotes* (2018)

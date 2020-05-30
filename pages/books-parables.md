@@ -8,8 +8,8 @@ tooltips:
 - path: tooltip_books.js
 ---
 
-* Bach, *Jonathan Livingston Seagull* (1970) ★
 * Bach, *Illusions* (1977)
+* Bach, *Jonathan Livingston Seagull* (1970) ★
 * Coelho, *The Alchemist* (1988)
 * Hesse, *Siddhartha* (1922)
 * Voltaire, *Candide* (1759)

@@ -11,8 +11,8 @@ tooltips:
 * Asimov, *Nightfall* (1990)
 * Asimov, *Prelude to Foundation* (1988)
 * Banks, *The Player of Games* (1988)
-* Card, *Ender's Shadow* (1999) ★
 * Card, *Ender's Saga* (1996) ★
+* Card, *Ender's Shadow* (1999) ★
 * Clarke, *2001: A Space Odyssey* (1968)
 * Crichton, *Jurassic Park* (1990)
 * Forster, *The Machine Stops* (1909) ★

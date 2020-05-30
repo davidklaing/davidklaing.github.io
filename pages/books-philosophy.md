@@ -32,9 +32,9 @@ tooltips:
 * Taleb, *The Black Swan* (2007)
 * Thiel, *Zero to One* (2014) ★
 * Thoreau, *Walden* (1854)
-* Tzu, *The Art of War* (-500)
 * Tzu, *Tao Te Ching* (-600)
+* Tzu, *The Art of War* (-500)
 * Voltaire, *Candide* (1759)
 * Wright, *A Short History of Progress* (2004)
-* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Inadequate Equilibria* (2017)
+* Yudkowsky, *Rationality From AI to Zombies* (2015) ★

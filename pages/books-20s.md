@@ -13,8 +13,8 @@ tooltips:
 * Asimov, *Nightfall* (1990)
 * Asimov, *Prelude to Foundation* (1988)
 * Aurelius, *Meditations* (180)
-* Bach, *Jonathan Livingston Seagull* (1970) ★
 * Bach, *Illusions* (1977)
+* Bach, *Jonathan Livingston Seagull* (1970) ★
 * Banks, *The Player of Games* (1988)
 * Barnes, *Flaubert's Parrot* (1984)
 * Beckett, *Waiting for Godot* (1952)
@@ -32,8 +32,8 @@ tooltips:
 * Collins, *The Hunger Games* (2008)
 * Confucius, *The Analects* (-429)
 * Conrad, *Heart of Darkness* (1899)
-* Cowen, *Stubborn Attachments* (n)
 * Cowen, *Discover Your Inner Economist* (2007)
+* Cowen, *Stubborn Attachments* (n)
 * Dickens, *Great Expectations* (1861)
 * Dillard, *Pilgrim at Tinker Creek* (1974)
 * Dostoyevsky, *Crime and Punishment* (1866)
@@ -45,14 +45,14 @@ tooltips:
 * Forster, *The Machine Stops* (1909) ★
 * Frank, *The Diary of a Young Girl* (1947) ★
 * Gaiman, *Coraline* (2002)
-* Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gaiman, *Stardust* (1997)
+* Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gibson & Sterling, *The Difference Engine* (1990) ★
 * Gilbert, *Stumbling on Happiness* (2006)
 * Gladwell, *Outliers* (2008)
-* Gleick, *The Information* (2011) ★
 * Gleick, *Chaos* (1987)
 * Gleick, *Isaac Newton* (2003) ★
+* Gleick, *The Information* (2011) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Goleman, *Altered Traits* (2017)
 * Gopen, *The Sense of Structure* (2004)
@@ -61,8 +61,8 @@ tooltips:
 * Haidt, *The Righteous Mind* (2012) ★
 * Harari, *Homo Deus* (2017)
 * Harari, *Sapiens* (2011)
-* Harris, *The Nurture Assumption* (1998)
 * Harris, *Free Will* (2012) ★
+* Harris, *The Nurture Assumption* (1998)
 * Harris, *Waking Up* (2014) ★
 * Hawley, *Before the Fall* (2016) ★
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
@@ -81,8 +81,8 @@ tooltips:
 * Keyes, *Flowers for Algernon* (1966)
 * King, *On Writing* (2000) ★
 * Kleist, *The Marquise of O* (1808)
-* Le Guin, *The Left Hand of Darkness* (1969)
 * Le Guin, *A Wizard of Earthsea* (1968)
+* Le Guin, *The Left Hand of Darkness* (1969)
 * Le Guin, *The Ones Who Walk Away from Omelas* (1973)
 * Levi, *Survival in Auschwitz* (1947)
 * MacDonald, *The Princess and the Goblin* (1872)
@@ -96,8 +96,8 @@ tooltips:
 * O'Shaughnessy, *Millennial Money* (2014)
 * Oakley, *A Mind for Numbers* (2014)
 * Olson, *Houston, We Have a Narrative* (2015)
-* Orwell, *Animal Farm* (1945)
 * Orwell, *1984* (1949)
+* Orwell, *Animal Farm* (1945)
 * Pinker, *How the Mind Works* (1997) ★
 * Pinker, *The Better Angels of Our Nature* (2010)
 * Pinker, *The Language Instinct* (1994) ★
@@ -116,8 +116,8 @@ tooltips:
 * Taleb, *The Black Swan* (2007)
 * Thaler, *Nudge* (2008)
 * Thiel, *Zero to One* (2014) ★
-* Tzu, *The Art of War* (-500)
 * Tzu, *Tao Te Ching* (-600)
+* Tzu, *The Art of War* (-500)
 * Vance, *Elon Musk* (2015)
 * Vonnegut, *Cat's Cradle* (1963)
 * Vonnegut, *Slaughterhouse-Five* (1969)
@@ -134,7 +134,7 @@ tooltips:
 * Wolf, *Cassandra* (1983)
 * Woolf, *Mrs. Dalloway* (1925)
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★
-* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Inadequate Equilibria* (2017)
+* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Zinsser, *On Writing Well* (1976)
 * de Cervantes, *Don Quixote* (1615)

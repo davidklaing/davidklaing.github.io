@@ -10,12 +10,12 @@ tooltips:
 
 * Adams, *The Hitchhiker's Guide to the Galaxy* (1979)
 * Asimov, *Prelude to Foundation* (1988)
-* Bach, *Jonathan Livingston Seagull* (1970) ★
 * Bach, *Illusions* (1977)
+* Bach, *Jonathan Livingston Seagull* (1970) ★
 * Banks, *The Player of Games* (1988)
 * Barnes, *Flaubert's Parrot* (1984)
-* Barron, *The Lost Years of Merlin Saga* (2000) ★
 * Barron, *The Great Tree of Avalon trilogy* (2006)
+* Barron, *The Lost Years of Merlin Saga* (2000) ★
 * Beckett, *Waiting for Godot* (1952)
 * Bock, *The Ash Garden* (2001)
 * Borges, *The Library of Babel* (1941)
@@ -24,8 +24,8 @@ tooltips:
 * Brown, *The Da Vinci Code* (2003)
 * Butler, *Wild Seed* (1980)
 * Camus, *The Plague* (1947)
-* Card, *Ender's Shadow* (1999) ★
 * Card, *Ender's Saga* (1996) ★
+* Card, *Ender's Shadow* (1999) ★
 * Carroll, *Alice's Adventures in Wonderland & Through the Looking-Glass* (1871)
 * Chabon, *The Amazing Adventures of Kavalier & Clay* (2000) ★
 * Chiang, *Exhalation: Stories* (2019) ★
@@ -44,8 +44,8 @@ tooltips:
 * Forster, *A Room with a View* (1908)
 * Forster, *The Machine Stops* (1909) ★
 * Gaiman, *Coraline* (2002)
-* Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gaiman, *Stardust* (1997)
+* Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gibson & Sterling, *The Difference Engine* (1990) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Gowdy, *Disneyland* (1989) ★
@@ -71,8 +71,8 @@ tooltips:
 * Keyes, *Flowers for Algernon* (1966)
 * Kleist, *The Marquise of O* (1808)
 * Larson, *The Far Side Gallery* (1984)
-* Le Guin, *The Left Hand of Darkness* (1969)
 * Le Guin, *A Wizard of Earthsea* (1968)
+* Le Guin, *The Left Hand of Darkness* (1969)
 * Le Guin, *The Ones Who Walk Away from Omelas* (1973)
 * Lee, *To Kill a Mockingbird* (1960)
 * Lewis, *The Chronicles of Narnia* (1956)
@@ -89,8 +89,8 @@ tooltips:
 * Nicholson, *The Wind on Fire Trilogy* (2002)
 * Nimmo, *Children of the Red King 1-5* (2002-2006) ★
 * Oppel, *Silverwing* (1997)
-* Orwell, *Animal Farm* (1945)
 * Orwell, *1984* (1949)
+* Orwell, *Animal Farm* (1945)
 * Palahniuk, *Fight Club* (1996)
 * Paolini, *The Inheritance Cycle 1-3* (2002)
 * Patterson, *Maximum Ride* (2005)
@@ -101,15 +101,15 @@ tooltips:
 * Sachar, *Holes* (1998)
 * Saint-Exupéry, *The Little Prince* (1943)
 * Salinger, *The Catcher in the Rye* (1951)
-* Shakespeare, *Romeo and Juliet* (1595)
-* Shakespeare, *Hamlet* (1603)
 * Shakespeare, *A Midsummer Night's Dream* (1595)
+* Shakespeare, *Hamlet* (1603)
+* Shakespeare, *Romeo and Juliet* (1595)
 * Shelley, *Frankenstein* (1818)
 * Steinbeck, *Of Mice and Men* (1937)
 * Stephenson, *Snow Crash* (1992)
 * Swift, *Gulliver's Travels* (1726)
-* Tolkien, *The Lord of the Rings* (1955)
 * Tolkien, *The Hobbit* (1937)
+* Tolkien, *The Lord of the Rings* (1955)
 * Verne, *Twenty Thousand Leagues Under the Sea* (1869)
 * Voltaire, *Candide* (1759)
 * Vonnegut, *Cat's Cradle* (1963)
