@@ -18,5 +18,5 @@ permalink: /albums-teens/
 * Michael McDonald, *Motown* (2003)
 * Neutral Milk Hotel, *In the Aeroplane Over the Sea* (1998)
 * Taylor Swift, *Red* (2012)
-* Wax, *Eviction Notice* (2011)
 * Wax, *Scrublife* (2011)
+* Wax, *Eviction Notice* (2011)

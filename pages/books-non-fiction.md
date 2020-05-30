@@ -25,10 +25,10 @@ tooltips:
 * Cialdini, *Influence* (1984)
 * Clear, *Atomic Habits* (2018)
 * Confucius, *The Analects* (-429)
-* Cowen, *Discover Your Inner Economist* (2007)
 * Cowen, *Stubborn Attachments* (n)
-* Dawkins, *The God Delusion* (2006)
+* Cowen, *Discover Your Inner Economist* (2007)
 * Dawkins, *Unweaving the Rainbow* (1998)
+* Dawkins, *The God Delusion* (2006)
 * Dillard, *Pilgrim at Tinker Creek* (1974)
 * Durant, *The Lessons of History* (1968)
 * Ellenberg, *How Not to Be Wrong* (2014)
@@ -39,20 +39,20 @@ tooltips:
 * Franklin, *The Autobiography of Benjamin Franklin* (1791)
 * Gilbert, *Stumbling on Happiness* (2006)
 * Gladwell, *Outliers* (2008)
-* Gleick, *Chaos* (1987)
 * Gleick, *Isaac Newton* (2003) ★
+* Gleick, *Chaos* (1987)
 * Gleick, *The Information* (2011) ★
 * Golding, *Lord of the Flies* (1954) ★
 * Goleman, *Altered Traits* (2017)
 * Gopen, *The Sense of Structure* (2004)
-* Haidt, *The Righteous Mind* (2012) ★
 * Haidt, *The Happiness Hypothesis* (2005) ★
-* Harari, *Sapiens* (2011)
+* Haidt, *The Righteous Mind* (2012) ★
 * Harari, *Homo Deus* (2017)
+* Harari, *Sapiens* (2011)
 * Hargrove, *Playing With Movement* (2014)
-* Harris, *Waking Up* (2014) ★
-* Harris, *Free Will* (2012) ★
 * Harris, *The Nurture Assumption* (1998)
+* Harris, *Free Will* (2012) ★
+* Harris, *Waking Up* (2014) ★
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Holt, *Why Does the World Exist?* (2011)
 * Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)

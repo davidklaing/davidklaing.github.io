@@ -41,11 +41,11 @@ tooltips:
 * Ferrante, *My Brilliant Friend* (2011) ★
 * Findley, *The Butterfly Plague* (1969)
 * Fitzgerald, *The Great Gatsby* (1925)
-* Forster, *The Machine Stops* (1909) ★
 * Forster, *A Room with a View* (1908)
+* Forster, *The Machine Stops* (1909) ★
 * Gaiman, *Coraline* (2002)
-* Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gaiman, *Stardust* (1997)
+* Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gibson & Sterling, *The Difference Engine* (1990) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Gowdy, *Disneyland* (1989) ★
@@ -55,25 +55,25 @@ tooltips:
 * Hesse, *Siddhartha* (1922)
 * Hill, *The Book of Negroes* (2007)
 * Hinton, *The Outsiders* (1967)
-* Homer, *The Iliad* (-750)
 * Homer, *The Odyssey* (-700)
+* Homer, *The Iliad* (-750)
 * Irving, *A Prayer for Owen Meany* (1989) ★
 * Ishiguro, *Never Let Me Go* (2005)
 * Jemisin, *The Fifth Season* (2015)
 * Jones, *Mister Pip* (2006)
 * Jordan, *The Wheel of Time 1-3* (1990)
-* Joyce, *The Dead* (1914) ★
 * Joyce, *Araby* (1914) ★
+* Joyce, *The Dead* (1914) ★
 * Kadare, *Broken April* (1978)
 * Kafka, *The Metamorphosis* (1915)
-* Kay, *Ysabel* (2007)
 * Kay, *The Fionavar Tapestry* (1986)
+* Kay, *Ysabel* (2007)
 * Keyes, *Flowers for Algernon* (1966)
 * Kleist, *The Marquise of O* (1808)
 * Larson, *The Far Side Gallery* (1984)
+* Le Guin, *The Left Hand of Darkness* (1969)
 * Le Guin, *A Wizard of Earthsea* (1968)
 * Le Guin, *The Ones Who Walk Away from Omelas* (1973)
-* Le Guin, *The Left Hand of Darkness* (1969)
 * Lee, *To Kill a Mockingbird* (1960)
 * Lewis, *The Chronicles of Narnia* (1956)
 * Lightman, *Einstein's Dreams* (1992)
@@ -89,8 +89,8 @@ tooltips:
 * Nicholson, *The Wind on Fire Trilogy* (2002)
 * Nimmo, *Children of the Red King 1-5* (2002-2006) ★
 * Oppel, *Silverwing* (1997)
-* Orwell, *1984* (1949)
 * Orwell, *Animal Farm* (1945)
+* Orwell, *1984* (1949)
 * Palahniuk, *Fight Club* (1996)
 * Paolini, *The Inheritance Cycle 1-3* (2002)
 * Patterson, *Maximum Ride* (2005)
@@ -108,13 +108,13 @@ tooltips:
 * Steinbeck, *Of Mice and Men* (1937)
 * Stephenson, *Snow Crash* (1992)
 * Swift, *Gulliver's Travels* (1726)
-* Tolkien, *The Lord of the Rings* (1955)
 * Tolkien, *The Hobbit* (1937)
+* Tolkien, *The Lord of the Rings* (1955)
 * Verne, *Twenty Thousand Leagues Under the Sea* (1869)
 * Voltaire, *Candide* (1759)
-* Vonnegut, *Slaughterhouse-Five* (1969)
 * Vonnegut, *God Bless You, Mr. Rosewater* (1965)
 * Vonnegut, *Cat's Cradle* (1963)
+* Vonnegut, *Slaughterhouse-Five* (1969)
 * Wallace, *Infinite Jest* (1996) ★
 * Wallace, *Oblivion* (2004) ★
 * Watterson, *Calvin and Hobbes* (1985-1995) ★

@@ -16,10 +16,10 @@ tooltips:
 * Dawkins, *The God Delusion* (2006)
 * Ellenberg, *How Not to Be Wrong* (2014)
 * Emerson, *Self-Reliance and Other Essays* (1844)
-* Harari, *Sapiens* (2011)
 * Harari, *Homo Deus* (2017)
-* Harris, *Waking Up* (2014) ★
+* Harari, *Sapiens* (2011)
 * Harris, *Free Will* (2012) ★
+* Harris, *Waking Up* (2014) ★
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Holt, *Why Does the World Exist?* (2011)
 * Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)

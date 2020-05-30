@@ -11,6 +11,6 @@ tooltips:
 * Borges, *The Library of Babel* (1941)
 * Chiang, *Exhalation: Stories* (2019) ★
 * Gowdy, *Disneyland* (1989) ★
-* Joyce, *The Dead* (1914) ★
 * Joyce, *Araby* (1914) ★
+* Joyce, *The Dead* (1914) ★
 * Wallace, *Oblivion* (2004) ★

@@ -33,13 +33,13 @@ tooltips:
 * Hesse, *Siddhartha* (1922)
 * Hill, *The Book of Negroes* (2007)
 * Hinton, *The Outsiders* (1967)
-* Homer, *The Iliad* (-750)
 * Homer, *The Odyssey* (-700)
+* Homer, *The Iliad* (-750)
 * Irving, *A Prayer for Owen Meany* (1989) ★
 * Ishiguro, *Never Let Me Go* (2005)
 * Jones, *Mister Pip* (2006)
-* Joyce, *The Dead* (1914) ★
 * Joyce, *Araby* (1914) ★
+* Joyce, *The Dead* (1914) ★
 * Kadare, *Broken April* (1978)
 * Kafka, *The Metamorphosis* (1915)
 * Kleist, *The Marquise of O* (1808)
@@ -52,8 +52,8 @@ tooltips:
 * Murakami, *Sputnik Sweetheart* (1999)
 * Márquez, *One Hundred Years of Solitude* (1967)
 * Oppel, *Silverwing* (1997)
-* Orwell, *1984* (1949)
 * Orwell, *Animal Farm* (1945)
+* Orwell, *1984* (1949)
 * Palahniuk, *Fight Club* (1996)
 * Paulsen, *Brian's Saga 1-2* (1996)
 * Rushdie, *The Satanic Verses* (1988)
@@ -64,9 +64,9 @@ tooltips:
 * Steinbeck, *Of Mice and Men* (1937)
 * Swift, *Gulliver's Travels* (1726)
 * Voltaire, *Candide* (1759)
-* Vonnegut, *Slaughterhouse-Five* (1969)
 * Vonnegut, *God Bless You, Mr. Rosewater* (1965)
 * Vonnegut, *Cat's Cradle* (1963)
+* Vonnegut, *Slaughterhouse-Five* (1969)
 * Wallace, *Infinite Jest* (1996) ★
 * Wallace, *Oblivion* (2004) ★
 * Wiesel, *Night* (1956)

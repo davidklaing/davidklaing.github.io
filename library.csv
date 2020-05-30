@@ -260,7 +260,7 @@ Inlet Sound,Inlet Sound,The Romantics,Album,2012,Loved,Teens,{Folk}
 Jack Johnson,Jack Johnson,In Between Dreams,Album,2005,Loved,Teens,{Folk}
 John Mayer,John Mayer,The Search for Everything,Album,2017,Loved,20s,{Rock}
 John Mayer,John Mayer,Room for Squares,Album,2001,Loved,Teens,{Rock}
-John Williams,John Williams,Harry Potter and the Sorcer's Stone Original Motion Picture Soundtrack,Album,2001,Loved,Childhood,{Classical}
+John Williams,John Williams,Harry Potter and the Sorcer's Stone Original Motion Picture Soundtrack,Album,2001,Loved,Childhood,"{Classical},{Soundtrack}"
 Kacey Musgraves,Kacey Musgraves,Golden Hour,Album,2018,Loved,20s,"{Folk},{Country}"
 Kruger Brothers,Kruger Brothers,"The Suite, Vol. 1",Album,2007,Loved,Teens,"{Folk},{Bluegrass}"
 Lawrence,Lawrence,Breakfast,Album,2017,Loved,20s,"{Funk},{Pop}"
@@ -318,3 +318,4 @@ Neutral Milk Hotel,Neutral Milk Hotel,In the Aeroplane Over the Sea,Album,1998,L
 Daft Punk,Daft Punk,Alive 2007,Album,2007,Loved,20s,"{Electronic},{Live}"
 Daft Punk,Daft Punk,Random Access Memories,Album,2013,Loved,20s,"{Electronic},{Funk},{Rock}"
 Daft Punk,Daft Punk,Discovery,Album,2001,Loved,20s,"{Electronic}"
+Phil Collins & Mark Mancina,Phil Collins & Mark Mancina,Tarzan,Album,1999,Loved,Childhood,"{Soundtrack},{Rock}"

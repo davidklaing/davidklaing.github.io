@@ -14,12 +14,12 @@ tooltips:
 * Butler, *Wild Seed* (1980)
 * Collins, *The Hunger Games* (2008)
 * Gaiman, *Coraline* (2002)
-* Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Gaiman, *Stardust* (1997)
+* Gaiman, *The Ocean at the End of the Lane* (2013) ★
 * Jemisin, *The Fifth Season* (2015)
 * Jordan, *The Wheel of Time 1-3* (1990)
-* Kay, *Ysabel* (2007)
 * Kay, *The Fionavar Tapestry* (1986)
+* Kay, *Ysabel* (2007)
 * Le Guin, *A Wizard of Earthsea* (1968)
 * Lewis, *The Chronicles of Narnia* (1956)
 * MacDonald, *The Princess and the Goblin* (1872)
@@ -28,6 +28,6 @@ tooltips:
 * Paolini, *The Inheritance Cycle 1-3* (2002)
 * Pullman, *His Dark Materials* (2000) ★
 * Rowling, *Harry Potter 1-7* (2007) ★
-* Tolkien, *The Lord of the Rings* (1955)
 * Tolkien, *The Hobbit* (1937)
+* Tolkien, *The Lord of the Rings* (1955)
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★

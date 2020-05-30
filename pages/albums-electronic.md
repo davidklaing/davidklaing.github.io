@@ -9,6 +9,6 @@ tooltips:
 ---
 
 * The Avalanches, *Since I Left You* (2000)
+* Daft Punk, *Discovery* (2001)
 * Daft Punk, *Alive 2007* (2007)
 * Daft Punk, *Random Access Memories* (2013)
-* Daft Punk, *Discovery* (2001)

@@ -11,6 +11,6 @@ tooltips:
 * LCD Soundsystem, *Sound of Silver* (2007)
 * Neutral Milk Hotel, *In the Aeroplane Over the Sea* (1998)
 * Radiohead, *In Rainbows* (2007)
-* Sufjan Stevens, *Carrie & Lowell* (2015)
 * Sufjan Stevens, *Michigan* (2003)
+* Sufjan Stevens, *Carrie & Lowell* (2015)
 * Tame Impala, *Currents* (2015)

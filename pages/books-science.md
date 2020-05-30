@@ -10,8 +10,8 @@ tooltips:
 
 * Dawkins, *Unweaving the Rainbow* (1998)
 * Gladwell, *Outliers* (2008)
-* Gleick, *Chaos* (1987)
 * Gleick, *Isaac Newton* (2003) ★
+* Gleick, *Chaos* (1987)
 * Gleick, *The Information* (2011) ★
 * Goleman, *Altered Traits* (2017)
 * Harris, *The Nurture Assumption* (1998)
