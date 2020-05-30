@@ -30,9 +30,9 @@ If it’s here, I love it.
 ## When I first hear it
 
 * <a id="albums-in-the-past-year" class="internal-link" href="/albums-in-the-past-year/">In the past year</a>
-* <a id="albums-20s" class="internal-link" href="/albums-20s/"></a>
-* <a id="albums-teens" class="internal-link" href="/albums-teens/"></a>
-* <a id="albums-childhood" class="internal-link" href="/albums-childhood/"></a>
+* <a id="albums-20s" class="internal-link" href="/albums-20s/">20s</a>
+* <a id="albums-teens" class="internal-link" href="/albums-teens/">Teens</a>
+* <a id="albums-childhood" class="internal-link" href="/albums-childhood/">Childhood</a>
 
 ## Genres
 
