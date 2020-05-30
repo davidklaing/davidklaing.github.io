@@ -73,14 +73,14 @@ tooltips:
 * Frank, *The Diary of a Young Girl* (1947) ★
 * Franklin, *The Autobiography of Benjamin Franklin* (1791)
 * Gaiman, *Coraline* (2002)
-* Gaiman, *Stardust* (1997)
 * Gaiman, *The Ocean at the End of the Lane* (2013) ★
+* Gaiman, *Stardust* (1997)
 * Gibson & Sterling, *The Difference Engine* (1990) ★
 * Gilbert, *Stumbling on Happiness* (2006)
 * Gladwell, *Outliers* (2008)
-* Gleick, *Isaac Newton* (2003) ★
-* Gleick, *Chaos* (1987)
 * Gleick, *The Information* (2011) ★
+* Gleick, *Chaos* (1987)
+* Gleick, *Isaac Newton* (2003) ★
 * Golding, *Lord of the Flies* (1954) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Goleman, *Altered Traits* (2017)
@@ -102,8 +102,8 @@ tooltips:
 * Hinton, *The Outsiders* (1967)
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Holt, *Why Does the World Exist?* (2011)
-* Homer, *The Odyssey* (-700)
 * Homer, *The Iliad* (-750)
+* Homer, *The Odyssey* (-700)
 * Irving, *A Prayer for Owen Meany* (1989) ★
 * Ishiguro, *Never Let Me Go* (2005)
 * Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)
@@ -173,8 +173,8 @@ tooltips:
 * Salinger, *The Catcher in the Rye* (1951)
 * Sapolsky, *Behave* (2017)
 * Schneier, *Data and Goliath* (2015)
-* Shakespeare, *Hamlet* (1603)
 * Shakespeare, *Romeo and Juliet* (1595)
+* Shakespeare, *Hamlet* (1603)
 * Shakespeare, *A Midsummer Night's Dream* (1595)
 * Shelley, *Frankenstein* (1818)
 * Silver, *The Signal and the Noise* (2012)
@@ -190,15 +190,15 @@ tooltips:
 * Thaler, *Nudge* (2008)
 * Thiel, *Zero to One* (2014) ★
 * Thoreau, *Walden* (1854)
-* Tolkien, *The Hobbit* (1937)
 * Tolkien, *The Lord of the Rings* (1955)
-* Tzu, *Tao Te Ching* (-600)
+* Tolkien, *The Hobbit* (1937)
 * Tzu, *The Art of War* (-500)
+* Tzu, *Tao Te Ching* (-600)
 * Vance, *Elon Musk* (2015)
 * Verne, *Twenty Thousand Leagues Under the Sea* (1869)
 * Voltaire, *Candide* (1759)
-* Vonnegut, *God Bless You, Mr. Rosewater* (1965)
 * Vonnegut, *Cat's Cradle* (1963)
+* Vonnegut, *God Bless You, Mr. Rosewater* (1965)
 * Vonnegut, *Slaughterhouse-Five* (1969)
 * Voss, *Never Split the Difference* (2016)
 * Wallace, *Both Flesh and Not: Essays* (2012) ★
@@ -216,8 +216,8 @@ tooltips:
 * Woolf, *Mrs. Dalloway* (1925)
 * Wright, *A Short History of Progress* (2004)
 * Wyndham, *The Chrysalids* (1955)
-* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★
+* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Inadequate Equilibria* (2017)
 * Zinsser, *On Writing Well* (1976)
 * de Cervantes, *Don Quixote* (1615)

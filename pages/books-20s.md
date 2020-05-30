@@ -45,14 +45,14 @@ tooltips:
 * Forster, *The Machine Stops* (1909) ★
 * Frank, *The Diary of a Young Girl* (1947) ★
 * Gaiman, *Coraline* (2002)
-* Gaiman, *Stardust* (1997)
 * Gaiman, *The Ocean at the End of the Lane* (2013) ★
+* Gaiman, *Stardust* (1997)
 * Gibson & Sterling, *The Difference Engine* (1990) ★
 * Gilbert, *Stumbling on Happiness* (2006)
 * Gladwell, *Outliers* (2008)
-* Gleick, *Isaac Newton* (2003) ★
-* Gleick, *Chaos* (1987)
 * Gleick, *The Information* (2011) ★
+* Gleick, *Chaos* (1987)
+* Gleick, *Isaac Newton* (2003) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Goleman, *Altered Traits* (2017)
 * Gopen, *The Sense of Structure* (2004)
@@ -116,8 +116,8 @@ tooltips:
 * Taleb, *The Black Swan* (2007)
 * Thaler, *Nudge* (2008)
 * Thiel, *Zero to One* (2014) ★
-* Tzu, *Tao Te Ching* (-600)
 * Tzu, *The Art of War* (-500)
+* Tzu, *Tao Te Ching* (-600)
 * Vance, *Elon Musk* (2015)
 * Vonnegut, *Cat's Cradle* (1963)
 * Vonnegut, *Slaughterhouse-Five* (1969)
@@ -133,8 +133,8 @@ tooltips:
 * Wilde, *The Picture of Dorian Gray* (1890)
 * Wolf, *Cassandra* (1983)
 * Woolf, *Mrs. Dalloway* (1925)
-* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★
+* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Inadequate Equilibria* (2017)
 * Zinsser, *On Writing Well* (1976)
 * de Cervantes, *Don Quixote* (1615)

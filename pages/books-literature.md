@@ -33,8 +33,8 @@ tooltips:
 * Hesse, *Siddhartha* (1922)
 * Hill, *The Book of Negroes* (2007)
 * Hinton, *The Outsiders* (1967)
-* Homer, *The Odyssey* (-700)
 * Homer, *The Iliad* (-750)
+* Homer, *The Odyssey* (-700)
 * Irving, *A Prayer for Owen Meany* (1989) ★
 * Ishiguro, *Never Let Me Go* (2005)
 * Jones, *Mister Pip* (2006)
@@ -64,8 +64,8 @@ tooltips:
 * Steinbeck, *Of Mice and Men* (1937)
 * Swift, *Gulliver's Travels* (1726)
 * Voltaire, *Candide* (1759)
-* Vonnegut, *God Bless You, Mr. Rosewater* (1965)
 * Vonnegut, *Cat's Cradle* (1963)
+* Vonnegut, *God Bless You, Mr. Rosewater* (1965)
 * Vonnegut, *Slaughterhouse-Five* (1969)
 * Wallace, *Infinite Jest* (1996) ★
 * Wallace, *Oblivion* (2004) ★

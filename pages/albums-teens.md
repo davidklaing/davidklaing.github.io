@@ -6,8 +6,8 @@ permalink: /albums-teens/
 ---
 
 * Bruce Hornsby, *Halcyon Days* (2004)
-* Coldplay, *Parachutes* (2000)
 * Coldplay, *Viva La Vida* (2008)
+* Coldplay, *Parachutes* (2000)
 * Counting Crows, *Hard Candy* (2002)
 * Inlet Sound, *The Romantics* (2012)
 * Jack Johnson, *In Between Dreams* (2005)

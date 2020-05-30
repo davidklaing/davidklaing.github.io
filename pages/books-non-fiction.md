@@ -39,9 +39,9 @@ tooltips:
 * Franklin, *The Autobiography of Benjamin Franklin* (1791)
 * Gilbert, *Stumbling on Happiness* (2006)
 * Gladwell, *Outliers* (2008)
-* Gleick, *Isaac Newton* (2003) ★
-* Gleick, *Chaos* (1987)
 * Gleick, *The Information* (2011) ★
+* Gleick, *Chaos* (1987)
+* Gleick, *Isaac Newton* (2003) ★
 * Golding, *Lord of the Flies* (1954) ★
 * Goleman, *Altered Traits* (2017)
 * Gopen, *The Sense of Structure* (2004)
@@ -90,8 +90,8 @@ tooltips:
 * Thaler, *Nudge* (2008)
 * Thiel, *Zero to One* (2014) ★
 * Thoreau, *Walden* (1854)
-* Tzu, *Tao Te Ching* (-600)
 * Tzu, *The Art of War* (-500)
+* Tzu, *Tao Te Ching* (-600)
 * Vance, *Elon Musk* (2015)
 * Voss, *Never Split the Difference* (2016)
 * Wallace, *Both Flesh and Not: Essays* (2012) ★

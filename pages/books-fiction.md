@@ -44,8 +44,8 @@ tooltips:
 * Forster, *A Room with a View* (1908)
 * Forster, *The Machine Stops* (1909) ★
 * Gaiman, *Coraline* (2002)
-* Gaiman, *Stardust* (1997)
 * Gaiman, *The Ocean at the End of the Lane* (2013) ★
+* Gaiman, *Stardust* (1997)
 * Gibson & Sterling, *The Difference Engine* (1990) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Gowdy, *Disneyland* (1989) ★
@@ -55,8 +55,8 @@ tooltips:
 * Hesse, *Siddhartha* (1922)
 * Hill, *The Book of Negroes* (2007)
 * Hinton, *The Outsiders* (1967)
-* Homer, *The Odyssey* (-700)
 * Homer, *The Iliad* (-750)
+* Homer, *The Odyssey* (-700)
 * Irving, *A Prayer for Owen Meany* (1989) ★
 * Ishiguro, *Never Let Me Go* (2005)
 * Jemisin, *The Fifth Season* (2015)
@@ -101,19 +101,19 @@ tooltips:
 * Sachar, *Holes* (1998)
 * Saint-Exupéry, *The Little Prince* (1943)
 * Salinger, *The Catcher in the Rye* (1951)
-* Shakespeare, *Hamlet* (1603)
 * Shakespeare, *Romeo and Juliet* (1595)
+* Shakespeare, *Hamlet* (1603)
 * Shakespeare, *A Midsummer Night's Dream* (1595)
 * Shelley, *Frankenstein* (1818)
 * Steinbeck, *Of Mice and Men* (1937)
 * Stephenson, *Snow Crash* (1992)
 * Swift, *Gulliver's Travels* (1726)
-* Tolkien, *The Hobbit* (1937)
 * Tolkien, *The Lord of the Rings* (1955)
+* Tolkien, *The Hobbit* (1937)
 * Verne, *Twenty Thousand Leagues Under the Sea* (1869)
 * Voltaire, *Candide* (1759)
-* Vonnegut, *God Bless You, Mr. Rosewater* (1965)
 * Vonnegut, *Cat's Cradle* (1963)
+* Vonnegut, *God Bless You, Mr. Rosewater* (1965)
 * Vonnegut, *Slaughterhouse-Five* (1969)
 * Wallace, *Infinite Jest* (1996) ★
 * Wallace, *Oblivion* (2004) ★
