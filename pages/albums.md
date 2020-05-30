@@ -27,7 +27,7 @@ If it’s here, I love it.
 
 * <a id="all-albums" class="internal-link" href="/all-albums/">All albums</a>
 
-## When I first hear it
+## When I first heard it
 
 * <a id="albums-in-the-past-year" class="internal-link" href="/albums-in-the-past-year/">In the past year</a>
 * <a id="albums-20s" class="internal-link" href="/albums-20s/">20s</a>
