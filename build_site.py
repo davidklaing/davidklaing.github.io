@@ -61,7 +61,7 @@ class Page:
             '<a id="home" class="internal-link" href="/">davidklaing.com</a>',
             '<a id="subscribe" class="internal-link" href="/subscribe/">Subscribe</a>'
         }
-        all_links_sorted = sorted(all_links_set)
+        all_links_sorted = sorted(list(all_links_set))
         non_tooltips_lines = [line for line in self.front_matter if 'tooltips: ' not in line and '- path:' not in line]
         tooltip_script_paths = [f'tooltip_{self.find_page_id(link)}.js' for link in all_links_sorted]
         if tooltip_script_paths:

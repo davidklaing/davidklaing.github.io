@@ -19,8 +19,8 @@ tooltips:
 * Gibson & Sterling, *The Difference Engine* (1990) ★
 * Herbert, *Dune* (1965)
 * Keyes, *Flowers for Algernon* (1966)
-* Le Guin, *The Left Hand of Darkness* (1969)
 * Le Guin, *The Ones Who Walk Away from Omelas* (1973)
+* Le Guin, *The Left Hand of Darkness* (1969)
 * Lightman, *Einstein's Dreams* (1992)
 * Patterson, *Maximum Ride* (2005)
 * Stephenson, *Snow Crash* (1992)

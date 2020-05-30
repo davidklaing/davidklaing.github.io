@@ -61,9 +61,9 @@ tooltips:
 * Haidt, *The Happiness Hypothesis* (2005) ★
 * Harari, *Sapiens* (2011)
 * Harari, *Homo Deus* (2017)
+* Harris, *Waking Up* (2014) ★
 * Harris, *Free Will* (2012) ★
 * Harris, *The Nurture Assumption* (1998)
-* Harris, *Waking Up* (2014) ★
 * Hawley, *Before the Fall* (2016) ★
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Irving, *A Prayer for Owen Meany* (1989) ★
@@ -81,9 +81,9 @@ tooltips:
 * Keyes, *Flowers for Algernon* (1966)
 * King, *On Writing* (2000) ★
 * Kleist, *The Marquise of O* (1808)
-* Le Guin, *The Left Hand of Darkness* (1969)
-* Le Guin, *The Ones Who Walk Away from Omelas* (1973)
 * Le Guin, *A Wizard of Earthsea* (1968)
+* Le Guin, *The Ones Who Walk Away from Omelas* (1973)
+* Le Guin, *The Left Hand of Darkness* (1969)
 * Levi, *Survival in Auschwitz* (1947)
 * MacDonald, *The Princess and the Goblin* (1872)
 * McCarthy, *The Road* (2006) ★
@@ -96,12 +96,12 @@ tooltips:
 * O'Shaughnessy, *Millennial Money* (2014)
 * Oakley, *A Mind for Numbers* (2014)
 * Olson, *Houston, We Have a Narrative* (2015)
-* Orwell, *Animal Farm* (1945)
 * Orwell, *1984* (1949)
+* Orwell, *Animal Farm* (1945)
+* Pinker, *How the Mind Works* (1997) ★
 * Pinker, *The Better Angels of Our Nature* (2010)
 * Pinker, *The Language Instinct* (1994) ★
 * Pinker, *The Sense of Style* (2014) ★
-* Pinker, *How the Mind Works* (1997) ★
 * Ritchie, *Intelligence* (2015)
 * Robbins, *MONEY Master the Game* (2014)
 * Sapolsky, *Behave* (2017)
@@ -116,11 +116,11 @@ tooltips:
 * Taleb, *The Black Swan* (2007)
 * Thaler, *Nudge* (2008)
 * Thiel, *Zero to One* (2014) ★
-* Tzu, *The Art of War* (-500)
 * Tzu, *Tao Te Ching* (-600)
+* Tzu, *The Art of War* (-500)
 * Vance, *Elon Musk* (2015)
-* Vonnegut, *Cat's Cradle* (1963)
 * Vonnegut, *Slaughterhouse-Five* (1969)
+* Vonnegut, *Cat's Cradle* (1963)
 * Voss, *Never Split the Difference* (2016)
 * Wallace, *Both Flesh and Not: Essays* (2012) ★
 * Wallace, *Infinite Jest* (1996) ★

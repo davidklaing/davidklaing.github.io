@@ -18,8 +18,8 @@ tooltips:
 * Emerson, *Self-Reliance and Other Essays* (1844)
 * Harari, *Sapiens* (2011)
 * Harari, *Homo Deus* (2017)
-* Harris, *Free Will* (2012) ★
 * Harris, *Waking Up* (2014) ★
+* Harris, *Free Will* (2012) ★
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Holt, *Why Does the World Exist?* (2011)
 * Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)
@@ -32,8 +32,8 @@ tooltips:
 * Taleb, *The Black Swan* (2007)
 * Thiel, *Zero to One* (2014) ★
 * Thoreau, *Walden* (1854)
-* Tzu, *The Art of War* (-500)
 * Tzu, *Tao Te Ching* (-600)
+* Tzu, *The Art of War* (-500)
 * Voltaire, *Candide* (1759)
 * Wright, *A Short History of Progress* (2004)
 * Yudkowsky, *Rationality From AI to Zombies* (2015) ★

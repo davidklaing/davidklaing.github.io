@@ -50,9 +50,9 @@ tooltips:
 * Harari, *Sapiens* (2011)
 * Harari, *Homo Deus* (2017)
 * Hargrove, *Playing With Movement* (2014)
+* Harris, *Waking Up* (2014) ★
 * Harris, *Free Will* (2012) ★
 * Harris, *The Nurture Assumption* (1998)
-* Harris, *Waking Up* (2014) ★
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Holt, *Why Does the World Exist?* (2011)
 * Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)
@@ -72,10 +72,10 @@ tooltips:
 * O'Shaughnessy, *Millennial Money* (2014)
 * Oakley, *A Mind for Numbers* (2014)
 * Olson, *Houston, We Have a Narrative* (2015)
+* Pinker, *How the Mind Works* (1997) ★
 * Pinker, *The Better Angels of Our Nature* (2010)
 * Pinker, *The Language Instinct* (1994) ★
 * Pinker, *The Sense of Style* (2014) ★
-* Pinker, *How the Mind Works* (1997) ★
 * Ritchie, *Intelligence* (2015)
 * Robbins, *MONEY Master the Game* (2014)
 * Sapolsky, *Behave* (2017)
@@ -90,8 +90,8 @@ tooltips:
 * Thaler, *Nudge* (2008)
 * Thiel, *Zero to One* (2014) ★
 * Thoreau, *Walden* (1854)
-* Tzu, *The Art of War* (-500)
 * Tzu, *Tao Te Ching* (-600)
+* Tzu, *The Art of War* (-500)
 * Vance, *Elon Musk* (2015)
 * Voss, *Never Split the Difference* (2016)
 * Wallace, *Both Flesh and Not: Essays* (2012) ★

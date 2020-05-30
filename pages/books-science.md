@@ -20,8 +20,8 @@ tooltips:
 * Medina, *Brain Rules* (2008)
 * Nielsen, *Reinventing Discovery* (2011) ★
 * Olson, *Houston, We Have a Narrative* (2015)
-* Pinker, *The Language Instinct* (1994) ★
 * Pinker, *How the Mind Works* (1997) ★
+* Pinker, *The Language Instinct* (1994) ★
 * Ritchie, *Intelligence* (2015)
 * Sapolsky, *Behave* (2017)
 * Schneier, *Data and Goliath* (2015)

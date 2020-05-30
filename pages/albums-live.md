@@ -9,4 +9,5 @@ tooltips:
 ---
 
 * Bruce Hornsby & the Noisemakers, *Bride of the Noisemakers* (2011)
+* Daft Punk, *Alive 2007* (2007)
 * Theo Katzman, *My Heart Is Live in Berlin* (2019)
