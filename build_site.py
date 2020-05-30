@@ -156,7 +156,7 @@ class Database:
         return ''.join(template)
     
     def tooltip_template(self, page_id):
-        if page_id in ['home', 'subscribe']:
+        if page_id in ['home']:
             placement = 'bottom'
         else:
             placement = 'right'

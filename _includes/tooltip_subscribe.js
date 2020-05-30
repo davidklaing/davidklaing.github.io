@@ -2,7 +2,7 @@ tippy('#subscribe', {
     theme: 'light-border',
     arrow: false,
     allowHTML: true,
-    placement: 'bottom',
+    placement: 'right',
     touch: false,
     maxWidth: 550,
     interactive: true,
