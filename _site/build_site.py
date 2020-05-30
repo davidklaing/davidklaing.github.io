@@ -19,7 +19,7 @@ class Page:
         self.front_matter, self.content = self.separate_sections()
         self.title = self.get_attribute('title')
         self.permalink = self.get_attribute('permalink')
-        self.backlinks = backlinks
+        self.backlinks = sorted(backlinks)
         self.forward_links = self.get_forward_links()
     
     def separate_sections(self) -> Tuple[List[str], List[str]]:
