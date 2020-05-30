@@ -1,0 +1,58 @@
+---
+layout: page
+title: "Loved"
+published: true
+permalink: /books-loved/
+backlinks: <ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>
+tooltips: 
+- path: tooltip_books.js
+---
+
+* Bach, *Jonathan Livingston Seagull* (1970)
+* Barron, *The Lost Years of Merlin Saga* (2000)
+* Card, *Ender's Shadow* (1999)
+* Card, *Ender's Saga* (1996)
+* Carnegie, *How to Win Friends and Influence People* (1936)
+* Caro, *The Path to Power* (1982)
+* Chabon, *The Amazing Adventures of Kavalier & Clay* (2000)
+* Chiang, *Exhalation: Stories* (2019)
+* Christian, *Algorithms to Live By* (2016)
+* Ferrante, *My Brilliant Friend* (2011)
+* Forster, *The Machine Stops* (1909)
+* Frank, *The Diary of a Young Girl* (1947)
+* Gaiman, *The Ocean at the End of the Lane* (2013)
+* Gibson & Sterling, *The Difference Engine* (1990)
+* Gleick, *Isaac Newton* (2003)
+* Gleick, *The Information* (2011)
+* Golding, *Lord of the Flies* (1954)
+* Gowdy, *Disneyland* (1989)
+* Haidt, *The Righteous Mind* (2012)
+* Haidt, *The Happiness Hypothesis* (2005)
+* Harris, *Free Will* (2012)
+* Harris, *Waking Up* (2014)
+* Hawley, *Before the Fall* (2016)
+* Hofstadter, *Gödel, Escher, Bach* (1979)
+* Irving, *A Prayer for Owen Meany* (1989)
+* Joyce, *The Dead* (1914)
+* Joyce, *Araby* (1914)
+* King, *On Writing* (2000)
+* Martel, *Life of Pi* (2001)
+* McCarthy, *The Road* (2006)
+* McMurtry, *Lonesome Dove* (1985)
+* Miller, *Know My Name* (2019)
+* Nielsen, *Reinventing Discovery* (2011)
+* Nimmo, *Children of the Red King 1-5* (2002-2006)
+* Pinker, *The Language Instinct* (1994)
+* Pinker, *The Sense of Style* (2014)
+* Pinker, *How the Mind Works* (1997)
+* Pullman, *His Dark Materials* (2000)
+* Rowling, *Harry Potter 1-7* (2007)
+* Thiel, *Zero to One* (2014)
+* Wallace, *Both Flesh and Not: Essays* (2012)
+* Wallace, *Infinite Jest* (1996)
+* Wallace, *Oblivion* (2004)
+* Watterson, *Calvin and Hobbes* (1985-1995)
+* Westover, *Educated* (2018)
+* Wickham, *Advanced R* (2014)
+* Yudkowsky, *Harry Potter and the Methods of Rationality* (2015)
+* Yudkowsky, *Rationality From AI to Zombies* (2015)

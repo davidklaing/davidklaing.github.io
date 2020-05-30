@@ -3,15 +3,19 @@ layout: page
 title: "All books"
 published: true
 permalink: /all-books/
+backlinks: <ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>
+tooltips: 
+- path: tooltip_books.js
 ---
 
-* Aurelius, *Meditations* (180)
 * Adams, *The Hitchhiker's Guide to the Galaxy* (1979)
 * Adams, *How to Fail at Almost Everything and Still Win Big* (2013)
+* Adler & Van Doren, *How to Read a Book* (1972)
 * Ahrens, *How to Take Smart Notes* (2017)
 * Ariely, *Predictably Irrational* (2008)
 * Asimov, *Nightfall* (1990)
 * Asimov, *Prelude to Foundation* (1988)
+* Aurelius, *Meditations* (180)
 * Bach, *Jonathan Livingston Seagull* (1970) ★
 * Bach, *Illusions* (1977)
 * Banks, *The Player of Games* (1988)
@@ -35,7 +39,6 @@ permalink: /all-books/
 * Caro, *The Path to Power* (1982) ★
 * Carroll, *Alice's Adventures in Wonderland & Through the Looking-Glass* (1871)
 * Catmull, *Creativity, Inc.* (2009)
-* de Cervantes, *Don Quixote* (1615)
 * Chabon, *The Amazing Adventures of Kavalier & Clay* (2000) ★
 * Chiang, *Exhalation: Stories* (2019) ★
 * Chilton, *The Wealthy Barber Returns* (2011)
@@ -48,18 +51,19 @@ permalink: /all-books/
 * Collins, *The Hunger Games* (2008)
 * Confucius, *The Analects* (-429)
 * Conrad, *Heart of Darkness* (1899)
-* Cowen, *Stubborn Attachments* (n)
 * Cowen, *Discover Your Inner Economist* (2007)
+* Cowen, *Stubborn Attachments* (n)
 * Crichton, *Jurassic Park* (1990)
 * Czuchlewski, *The Muse Asylum* (2001)
-* Dawkins, *Unweaving the Rainbow* (1998)
 * Dawkins, *The God Delusion* (2006)
+* Dawkins, *Unweaving the Rainbow* (1998)
 * Dickens, *Great Expectations* (1861)
 * Dillard, *Pilgrim at Tinker Creek* (1974)
 * Dostoyevsky, *Crime and Punishment* (1866)
 * Durant, *The Lessons of History* (1968)
 * Ellenberg, *How Not to Be Wrong* (2014)
 * Emerson, *Self-Reliance and Other Essays* (1844)
+* Ferrante, *My Brilliant Friend* (2011) ★
 * Feynman, *Surely You're Joking, Mr. Feynman!* (1985)
 * Findley, *The Butterfly Plague* (1969)
 * Finnegan, *Barbarian Days* (2015)
@@ -80,14 +84,15 @@ permalink: /all-books/
 * Golding, *Lord of the Flies* (1954) ★
 * Goldstein, *The Mind-Body Problem* (1983)
 * Goleman, *Altered Traits* (2017)
+* Gopen, *The Sense of Structure* (2004)
 * Gowdy, *Disneyland* (1989) ★
 * Haidt, *The Righteous Mind* (2012) ★
 * Haidt, *The Happiness Hypothesis* (2005) ★
 * Harari, *Sapiens* (2011)
 * Harari, *Homo Deus* (2017)
 * Hargrove, *Playing With Movement* (2014)
-* Harris, *The Nurture Assumption* (1998)
 * Harris, *Free Will* (2012) ★
+* Harris, *The Nurture Assumption* (1998)
 * Harris, *Waking Up* (2014) ★
 * Hawley, *Before the Fall* (2016) ★
 * Hemingway, *The Old Man and the Sea* (1952)
@@ -97,17 +102,18 @@ permalink: /all-books/
 * Hinton, *The Outsiders* (1967)
 * Hofstadter, *Gödel, Escher, Bach* (1979) ★
 * Holt, *Why Does the World Exist?* (2011)
-* Homer, *The Iliad* (-750)
 * Homer, *The Odyssey* (-700)
+* Homer, *The Iliad* (-750)
 * Irving, *A Prayer for Owen Meany* (1989) ★
 * Ishiguro, *Never Let Me Go* (2005)
 * Jacobs, *The Pleasures of Reading in an Age of Distraction* (2011)
+* James et al., *An Introduction to Statistical Learning* (2017)
 * Jemisin, *The Fifth Season* (2015)
 * Johnstone, *Impro* (1979)
 * Jones, *Mister Pip* (2006)
 * Jordan, *The Wheel of Time 1-3* (1990)
-* Joyce, *Araby* (1914) ★
 * Joyce, *The Dead* (1914) ★
+* Joyce, *Araby* (1914) ★
 * Kabat-Zinn, *Full Catastrophe Living* (1990)
 * Kadare, *Broken April* (1978)
 * Kafka, *The Metamorphosis* (1915)
@@ -120,10 +126,10 @@ permalink: /all-books/
 * King, *On Writing* (2000) ★
 * Kleist, *The Marquise of O* (1808)
 * Larson, *The Far Side Gallery* (1984)
-* Lee, *To Kill a Mockingbird* (1960)
-* Le Guin, *A Wizard of Earthsea* (1968)
-* Le Guin, *The Ones Who Walk Away from Omelas* (1973)
 * Le Guin, *The Left Hand of Darkness* (1969)
+* Le Guin, *The Ones Who Walk Away from Omelas* (1973)
+* Le Guin, *A Wizard of Earthsea* (1968)
+* Lee, *To Kill a Mockingbird* (1960)
 * Levi, *Survival in Auschwitz* (1947)
 * Lewis, *The Chronicles of Narnia* (1956)
 * Lightman, *Einstein's Dreams* (1992)
@@ -153,10 +159,10 @@ permalink: /all-books/
 * Paolini, *The Inheritance Cycle 1-3* (2002)
 * Patterson, *Maximum Ride* (2005)
 * Paulsen, *Brian's Saga 1-2* (1996)
-* Pinker, *How the Mind Works* (1997) ★
 * Pinker, *The Better Angels of Our Nature* (2010)
 * Pinker, *The Language Instinct* (1994) ★
 * Pinker, *The Sense of Style* (2014) ★
+* Pinker, *How the Mind Works* (1997) ★
 * Pullman, *His Dark Materials* (2000) ★
 * Ritchie, *Intelligence* (2015)
 * Robbins, *MONEY Master the Game* (2014)
@@ -184,8 +190,8 @@ permalink: /all-books/
 * Thaler, *Nudge* (2008)
 * Thiel, *Zero to One* (2014) ★
 * Thoreau, *Walden* (1854)
-* Tolkien, *The Lord of the Rings* (1955)
 * Tolkien, *The Hobbit* (1937)
+* Tolkien, *The Lord of the Rings* (1955)
 * Tzu, *The Art of War* (-500)
 * Tzu, *Tao Te Ching* (-600)
 * Vance, *Elon Musk* (2015)
@@ -195,9 +201,9 @@ permalink: /all-books/
 * Vonnegut, *God Bless You, Mr. Rosewater* (1965)
 * Vonnegut, *Slaughterhouse-Five* (1969)
 * Voss, *Never Split the Difference* (2016)
-* Wallace, *Oblivion* (2004) ★
-* Wallace, *Infinite Jest* (1996) ★
 * Wallace, *Both Flesh and Not: Essays* (2012) ★
+* Wallace, *Infinite Jest* (1996) ★
+* Wallace, *Oblivion* (2004) ★
 * Watterson, *Calvin and Hobbes* (1985-1995) ★
 * Weir, *Artemis* (2017)
 * Wells, *The Island of Doctor Moreau* (1896)
@@ -210,6 +216,8 @@ permalink: /all-books/
 * Woolf, *Mrs. Dalloway* (1925)
 * Wright, *A Short History of Progress* (2004)
 * Wyndham, *The Chrysalids* (1955)
-* Yudkowsky, *Inadequate Equilibria* (2017)
-* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★
+* Yudkowsky, *Rationality From AI to Zombies* (2015) ★
+* Yudkowsky, *Inadequate Equilibria* (2017)
+* Zinsser, *On Writing Well* (1976)
+* de Cervantes, *Don Quixote* (1615)

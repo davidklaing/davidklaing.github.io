@@ -4,13 +4,13 @@ title: Commentaries
 permalink: /commentaries/
 backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
 tooltips: 
-- path: tooltip_levels-of-action.js
-- path: tooltip_deep-laziness.js
-- path: tooltip_pushing-and-pulling-goals.js
-- path: tooltip_research-as-a-stochastic-decision-process.js
-- path: tooltip_solved-conversations.js
 - path: tooltip_ideological-turing-test.js
 - path: tooltip_prototyping-at-the-speed-of-thought.js
+- path: tooltip_levels-of-action.js
+- path: tooltip_solved-conversations.js
+- path: tooltip_deep-laziness.js
+- path: tooltip_research-as-a-stochastic-decision-process.js
+- path: tooltip_pushing-and-pulling-goals.js
 ---
 
 1. <a id="solved-conversations" class="internal-link" href="/solved-conversations/">Solved conversations — Aaron Z. Lewis</a>

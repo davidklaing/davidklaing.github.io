@@ -213,13 +213,13 @@ Yudkowsky,Eliezer Yudkowsky,Rationality From AI to Zombies,Book,2015,Loved,20s,"
 Yudkowsky,Eliezer Yudkowsky,Harry Potter and the Methods of Rationality,Book,2015,Loved,20s,"{Fiction},{Fantasy}"
 Zinsser,William Zinsser,On Writing Well,Book,1976,Liked,20s,"{Non-Fiction},{Writing}"
 La's,The La's,The La's,Album,1990,Loved,Childhood,{Rock}
-Sufjan Stevens,Sufjan Stevens,Carrie & Lowell,Album,2015,Loved,20s,{Folk}
+Sufjan Stevens,Sufjan Stevens,Carrie & Lowell,Album,2015,Loved,20s,"{Folk},{Alternative}"
 Punch Brothers,Punch Brothers,The Phosphorescent Blues,Album,2015,Loved,20s,"{Folk},{Bluegrass}"
 Punch Brothers,Punch Brothers,All Ashore,Album,2018,Loved,20s,"{Folk},{Bluegrass}"
 Punch Brothers,Punch Brothers,Who's Feeling Young Now?,Album,2012,Loved,20s,"{Folk},{Bluegrass}"
 Punch Brothers,Punch Brothers,Antifogmatic,Album,2010,Loved,20s,"{Folk},{Bluegrass}"
-Radiohead,Radiohead,In Rainbows,Album,2007,Loved,20s,{Rock}
-Tame Impala,Tame Impala,Currents,Album,2015,Loved,20s,{Rock}
+Radiohead,Radiohead,In Rainbows,Album,2007,Loved,20s,"{Rock},{Alternative}"
+Tame Impala,Tame Impala,Currents,Album,2015,Loved,20s,"{Rock},{Alternative}"
 James Taylor,James Taylor,October Road,Album,2002,Loved,20s,{Folk}
 Vulfpeck,Vulfpeck,Thrill of the Arts,Album,2015,Loved,20s,{Funk}
 Vulfpeck,Vulfpeck,The Beautiful Game,Album,2016,Loved,20s,{Funk}
@@ -230,7 +230,7 @@ Theo Katzman,Theo Katzman,My Heart Is Live in Berlin,Album,2019,Loved,20s,"{Rock
 Theo Katzman,Theo Katzman,Modern Johnny Sings,Album,2020,Loved,20s,{Rock}
 Theo Katzman,Theo Katzman,Romance Without Finance,Album,2011,Loved,20s,{Rock}
 Steely Dan,Steely Dan,Aja,Album,1977,Loved,20s,{Rock}
-LCD Soundsystem,LCD Soundsystem,Sound of Silver,Album,2007,Loved,Teens,{Rock}
+LCD Soundsystem,LCD Soundsystem,Sound of Silver,Album,2007,Loved,Teens,"{Rock},{Alternative}"
 KC Roberts & the Live Revolution,KC Roberts & the Live Revolution,Parkdale Funk 2,Album,2013,Loved,20s,"{Funk},{Rock}"
 KC Roberts & the Live Revolution,KC Roberts & the Live Revolution,Between the Cracks,Album,2012,Loved,20s,"{Funk},{Rock}"
 KC Roberts & the Live Revolution,KC Roberts & the Live Revolution,Good Life,Album,2010,Loved,20s,"{Funk},{Rock}"
@@ -277,13 +277,13 @@ Pink Floyd,Pink Floyd,The Dark Side of the Moon,Album,1973,Loved,Childhood,{Rock
 Run the Jewels,Run the Jewels,Run the Jewels,Album,2013,Loved,20s,{Rap}
 Run the Jewels,Run the Jewels,Run the Jewels 2,Album,2014,Loved,20s,{Rap}
 Stevie Wonder,Stevie Wonder,Songs In The Key Of Life,Album,1976,Loved,20s,"{R&B},{Funk}"
-Sufjan Stevens,Sufjan Stevens,Michigan,Album,2003,Loved,20s,{Folk}
+Sufjan Stevens,Sufjan Stevens,Michigan,Album,2003,Loved,20s,"{Folk},{Alternative},{Indie}"
 Taylor Swift,Taylor Swift,Red,Album,2012,Loved,Teens,{Pop}
 Tom Misch,Tom Misch,Geography,Album,2018,Loved,20s,{R&B}
 Vampire Weekend,Vampire Weekend,Father of the Bride,Album,2019,Loved,20s,{Rock}
 Vampire Weekend,Vampire Weekend,Modern Vampires of the City,Album,2013,Loved,20s,{Rock}
 Van Morrison,Van Morrison,Avalon Sunset,Album,1989,Loved,Childhood,{Rock}
-Lin-Manuel Miranda,Lin-Manuel Miranda,Hamilton,Album,2015,Loved,20s,"{Musical},{Rap}"
+Lin-Manuel Miranda,Lin-Manuel Miranda,Hamilton,Album,2015,Loved,20s,"{Musicals},{Rap}"
 Wax,Wax,The Cookout Chronicles,Album,2016,Loved,20s,{Rap}
 Wax,Wax,Scrublife,Album,2011,Loved,Teens,{Rap}
 Whitney,Whitney,Light Upon the Lake,Album,2016,Loved,20s,{Folk}
@@ -314,3 +314,4 @@ Beatles,The Beatles,Magical Mystery Tour,Album,1967,Loved,Childhood,{Rock}
 Beatles,The Beatles,The White Album,Album,1968,Loved,Childhood,{Rock}
 Beatles,The Beatles,Abbey Road,Album,1969,Loved,Childhood,{Rock}
 Beatles,The Beatles,Let It Be,Album,1970,Loved,Childhood,{Rock}
+Neutral Milk Hotel,Neutral Milk Hotel,In the Aeroplane Over the Sea,Album,1998,Loved,Teens,"{Rock},{Alternative}"

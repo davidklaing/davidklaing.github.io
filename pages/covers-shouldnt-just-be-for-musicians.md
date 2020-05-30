@@ -6,10 +6,10 @@ published: true
 last_updated: 2019-12-04
 backlinks: <ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>
 tooltips: 
-- path: tooltip_deep-laziness.js
-- path: tooltip_essays.js
 - path: tooltip_research-as-a-stochastic-decision-process.js
 - path: tooltip_solved-conversations.js
+- path: tooltip_essays.js
+- path: tooltip_deep-laziness.js
 ---
 
 When aspiring musicians first learn to play their instruments, they rarely start composing their own songs immediately. Most start by learning to play the songs of others. This allows them to focus on skills like intonation, dynamics, and tempo. The skill of composition can wait until they have developed good playing technique.
