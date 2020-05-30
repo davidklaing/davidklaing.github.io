@@ -46,7 +46,7 @@ On all pages except those for ratings, books I loved are marked with a ★. Happ
 
 * <a id="all-books" class="internal-link" href="/all-books/">All books</a>
 
-### My ratings
+## My ratings
 
 * <a id="books-loved" class="internal-link" href="/books-loved/">Loved</a>
 * <a id="books-liked" class="internal-link" href="/books-liked/">Liked</a>
@@ -54,14 +54,14 @@ On all pages except those for ratings, books I loved are marked with a ★. Happ
 * <a id="books-disliked" class="internal-link" href="/books-disliked/">Disliked</a>
 * <a id="books-indifferent" class="internal-link" href="/books-indifferent/">Indifferent</a>
 
-### Periods of my life
+## When I first read it
 
 * <a id="books-in-the-past-year" class="internal-link" href="/books-in-the-past-year/">In the past year</a>
 * <a id="books-20s" class="internal-link" href="/books-20s/">20s</a>
 * <a id="books-teens" class="internal-link" href="/books-teens/">Teens</a>
 * <a id="books-childhood" class="internal-link" href="/books-childhood/">Childhood</a>
 
-### Fiction
+## Fiction
 
 * <a id="books-fiction" class="internal-link" href="/books-fiction/">All Fiction</a>
 * <a id="books-comics" class="internal-link" href="/books-comics/">Comics</a>
@@ -73,7 +73,7 @@ On all pages except those for ratings, books I loved are marked with a ★. Happ
 * <a id="books-short-stories" class="internal-link" href="/books-short-stories/">Short Stories</a>
 * <a id="books-westerns" class="internal-link" href="/books-westerns/">Westerns</a>
 
-### Non-Fiction
+## Non-Fiction
 
 * <a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">All Non-Fiction</a>
 * <a id="books-biographies" class="internal-link" href="/books-biographies/">Biographies</a>

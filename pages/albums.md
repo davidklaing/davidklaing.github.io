@@ -26,6 +26,16 @@ tooltips:
 If it’s here, I love it.
 
 * <a id="all-albums" class="internal-link" href="/all-albums/">All albums</a>
+
+## When I first hear it
+
+* <a id="albums-in-the-past-year" class="internal-link" href="/albums-in-the-past-year/">In the past year</a>
+* <a id="albums-20s" class="internal-link" href="/albums-20s/"></a>
+* <a id="albums-teens" class="internal-link" href="/albums-teens/"></a>
+* <a id="albums-childhood" class="internal-link" href="/albums-childhood/"></a>
+
+## Genres
+
 * <a id="albums-alternative" class="internal-link" href="/albums-alternative/">Alternative</a>
 * <a id="albums-bluegrass" class="internal-link" href="/albums-bluegrass/">Bluegrass</a>
 * <a id="albums-christmas" class="internal-link" href="/albums-christmas/">Christmas</a>
