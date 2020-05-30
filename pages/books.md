@@ -5,41 +5,41 @@ published: true
 permalink: /books/
 backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
 tooltips: 
-- path: tooltip_books-self-help.js
-- path: tooltip_books-indifferent.js
-- path: tooltip_books-in-the-past-year.js
-- path: tooltip_books-business.js
-- path: tooltip_books-20s.js
-- path: tooltip_books-fantasy.js
-- path: tooltip_books-loved.js
-- path: tooltip_books-non-fiction.js
-- path: tooltip_books-childhood.js
-- path: tooltip_books-teens.js
-- path: tooltip_books-literature.js
-- path: tooltip_books-liked.js
-- path: tooltip_books-statistics.js
-- path: tooltip_books-computer-science-and-programming.js
-- path: tooltip_books-parables.js
-- path: tooltip_books-westerns.js
-- path: tooltip_books-economics.js
-- path: tooltip_books-learning.js
-- path: tooltip_books-short-stories.js
-- path: tooltip_books-fiction.js
-- path: tooltip_books-disliked.js
-- path: tooltip_books-philosophy.js
-- path: tooltip_books-memoirs.js
-- path: tooltip_books-comics.js
-- path: tooltip_books-religion.js
-- path: tooltip_books-science.js
-- path: tooltip_books-science-fiction.js
 - path: tooltip_all-books.js
-- path: tooltip_books-mixed-feelings.js
-- path: tooltip_books-writing.js
-- path: tooltip_books-personal-finance.js
-- path: tooltip_library.js
-- path: tooltip_books-history.js
-- path: tooltip_books-historical-fiction.js
+- path: tooltip_books-20s.js
 - path: tooltip_books-biographies.js
+- path: tooltip_books-business.js
+- path: tooltip_books-childhood.js
+- path: tooltip_books-comics.js
+- path: tooltip_books-computer-science-and-programming.js
+- path: tooltip_books-disliked.js
+- path: tooltip_books-economics.js
+- path: tooltip_books-fantasy.js
+- path: tooltip_books-fiction.js
+- path: tooltip_books-historical-fiction.js
+- path: tooltip_books-history.js
+- path: tooltip_books-in-the-past-year.js
+- path: tooltip_books-indifferent.js
+- path: tooltip_books-learning.js
+- path: tooltip_books-liked.js
+- path: tooltip_books-literature.js
+- path: tooltip_books-loved.js
+- path: tooltip_books-memoirs.js
+- path: tooltip_books-mixed-feelings.js
+- path: tooltip_books-non-fiction.js
+- path: tooltip_books-parables.js
+- path: tooltip_books-personal-finance.js
+- path: tooltip_books-philosophy.js
+- path: tooltip_books-religion.js
+- path: tooltip_books-science-fiction.js
+- path: tooltip_books-science.js
+- path: tooltip_books-self-help.js
+- path: tooltip_books-short-stories.js
+- path: tooltip_books-statistics.js
+- path: tooltip_books-teens.js
+- path: tooltip_books-westerns.js
+- path: tooltip_books-writing.js
+- path: tooltip_library.js
 ---
 
 On all pages except those for ratings, books I loved are marked with a ★. Happy browsing!

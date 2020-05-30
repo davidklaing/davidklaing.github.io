@@ -4,23 +4,23 @@ title: Albums
 permalink: /albums/
 backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
 tooltips: 
-- path: tooltip_albums-r-and-b.js
-- path: tooltip_albums-classical.js
-- path: tooltip_albums-jazz.js
-- path: tooltip_albums-pop.js
-- path: tooltip_albums-bluegrass.js
-- path: tooltip_albums-musicals.js
 - path: tooltip_albums-alternative.js
-- path: tooltip_albums-live.js
-- path: tooltip_albums-folk.js
+- path: tooltip_albums-bluegrass.js
 - path: tooltip_albums-christmas.js
+- path: tooltip_albums-classical.js
 - path: tooltip_albums-country.js
-- path: tooltip_albums-rap.js
 - path: tooltip_albums-electronic.js
-- path: tooltip_albums-rock.js
-- path: tooltip_library.js
+- path: tooltip_albums-folk.js
 - path: tooltip_albums-funk.js
+- path: tooltip_albums-jazz.js
+- path: tooltip_albums-live.js
+- path: tooltip_albums-musicals.js
+- path: tooltip_albums-pop.js
+- path: tooltip_albums-r-and-b.js
+- path: tooltip_albums-rap.js
+- path: tooltip_albums-rock.js
 - path: tooltip_all-albums.js
+- path: tooltip_library.js
 ---
 
 If it’s here, I loved it.

@@ -57,12 +57,13 @@ class Page:
     
     def write_tooltips(self):
         """Write a new set of tooltips."""
-        all_links = set(self.backlinks + self.forward_links) - {
+        all_links_set = set(self.backlinks + self.forward_links) - {
             '<a id="home" class="internal-link" href="/">davidklaing.com</a>',
             '<a id="subscribe" class="internal-link" href="/subscribe/">Subscribe</a>'
         }
+        all_links_sorted = sorted(all_links_set)
         non_tooltips_lines = [line for line in self.front_matter if 'tooltips: ' not in line and '- path:' not in line]
-        tooltip_script_paths = [f'tooltip_{self.find_page_id(link)}.js' for link in all_links]
+        tooltip_script_paths = [f'tooltip_{self.find_page_id(link)}.js' for link in all_links_sorted]
         if tooltip_script_paths:
             non_tooltips_lines.insert(-1, 'tooltips: \n- path: ' + '\n- path: '.join(tooltip_script_paths) + '\n')
         self.front_matter = non_tooltips_lines

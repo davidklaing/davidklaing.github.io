@@ -6,8 +6,8 @@ published: true
 last_updated: 2019-12-31
 backlinks: <ul><li><a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a></li></ul>
 tooltips: 
-- path: tooltip_yearly-retrospectives.js
 - path: tooltip_talk-more.js
+- path: tooltip_yearly-retrospectives.js
 ---
 
 **Table of Contents**
