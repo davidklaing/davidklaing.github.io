@@ -4,14 +4,17 @@ title: Albums
 permalink: /albums/
 backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
 tooltips: 
+- path: tooltip_albums-20s.js
 - path: tooltip_albums-alternative.js
 - path: tooltip_albums-bluegrass.js
+- path: tooltip_albums-childhood.js
 - path: tooltip_albums-christmas.js
 - path: tooltip_albums-classical.js
 - path: tooltip_albums-country.js
 - path: tooltip_albums-electronic.js
 - path: tooltip_albums-folk.js
 - path: tooltip_albums-funk.js
+- path: tooltip_albums-in-the-past-year.js
 - path: tooltip_albums-jazz.js
 - path: tooltip_albums-live.js
 - path: tooltip_albums-musicals.js
@@ -19,6 +22,7 @@ tooltips:
 - path: tooltip_albums-r-and-b.js
 - path: tooltip_albums-rap.js
 - path: tooltip_albums-rock.js
+- path: tooltip_albums-teens.js
 - path: tooltip_all-albums.js
 - path: tooltip_library.js
 ---

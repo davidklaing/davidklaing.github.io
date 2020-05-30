@@ -3,6 +3,9 @@ layout: page
 title: "20s"
 published: true
 permalink: /albums-20s/
+backlinks: <ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>
+tooltips: 
+- path: tooltip_albums.js
 ---
 
 * Anderson .Paak, *Malibu* (2016)
@@ -63,7 +66,6 @@ permalink: /albums-20s/
 * Theo Katzman, *My Heart Is Live in Berlin* (2019)
 * Theo Katzman, *Romance Without Finance* (2011)
 * Tom Misch, *Geography* (2018)
-* Vampire Weekend, *Father of the Bride* (2019)
 * Vampire Weekend, *Modern Vampires of the City* (2013)
 * Vince Guaraldi Trio, *A Charlie Brown Christmas* (1965)
 * Vulfpeck, *Hill Climber* (2018)
@@ -72,4 +74,3 @@ permalink: /albums-20s/
 * Vulfpeck, *Thrill of the Arts* (2015)
 * Wax, *The Cookout Chronicles* (2016)
 * Whitney, *Light Upon the Lake* (2016)
-* Woody Goss, *A Very Vulfy Christmas* (2019)

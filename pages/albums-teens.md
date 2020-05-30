@@ -3,6 +3,9 @@ layout: page
 title: "Teens"
 published: true
 permalink: /albums-teens/
+backlinks: <ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>
+tooltips: 
+- path: tooltip_albums.js
 ---
 
 * Bruce Hornsby, *Halcyon Days* (2004)
