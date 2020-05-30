@@ -23,7 +23,7 @@ tooltips:
 - path: tooltip_library.js
 ---
 
-If it’s here, I loved it.
+If it’s here, I love it.
 
 * <a id="all-albums" class="internal-link" href="/all-albums/">All albums</a>
 * <a id="albums-alternative" class="internal-link" href="/albums-alternative/">Alternative</a>
