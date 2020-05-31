@@ -146,20 +146,22 @@ class Shelf:
             '---\n',
             '\n'
         ]
-        if self.media_type in ['Article', 'Book', 'Podcast']:
-            creator_indicated_by = 'creator_key'
-        elif self.media_type == 'Album':
-            creator_indicated_by = 'creator'
         for index, item in self.shelf.iterrows():
+            if self.media_type in ['Article', 'Book']:
+                creator_string = f"{item['creator_key']}, "
+            elif self.media_type == 'Album':
+                creator_string = f"{item['creator']}, "
+            elif self.media_type == 'Podcast':
+                creator_string = ''
             if not pd.isnull(item['url']):
-                title_string = f'*[{item["title"]}]({item["url"]})*'
+                title_string = f'*[{item["title"]}]({item["url"]})* '
             else:
-                title_string = f'*{item["title"]}*'
+                title_string = f'*{item["title"]}* '
             if not pd.isnull(item['publication_year']):
                 year_string = f'({item["publication_year"]})'
             else:
                 year_string = ''
-            string = f"* {item[creator_indicated_by]}, {title_string} {year_string}"
+            string = f"* {creator_string}{title_string}{year_string}"
             if self.rating is None and self.media_type == 'Book':
                 if item['rating'] == 'Loved':
                     string += ' ★'

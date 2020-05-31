@@ -20,8 +20,6 @@ tooltips:
 - path: tooltip_library.js
 ---
 
-These pages contain the best articles I've read on the internet.
-
 * <a id="all-articles" class="internal-link" href="/all-articles/">All articles</a>
 
 ## Topics
