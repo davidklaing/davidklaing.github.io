@@ -176,7 +176,7 @@ a:hover, .external-link:hover {
     width: 95%;
     margin-top: 0;
     display: inline-grid;
-    text-align: justify;
+    text-align: left;
 }
   
 /* For tablets: */
