@@ -1,13 +1,13 @@
 ---
 layout: page
-title: davidklaing.com
+title: Home
 permalink: /
 tooltips: 
 - path: tooltip_about-me.js
 - path: tooltip_commentaries.js
 - path: tooltip_essays.js
 - path: tooltip_library.js
-- path: tooltip_scrapbook.js
+- path: tooltip_notes.js
 - path: tooltip_yearly-retrospectives.js
 ---
 
@@ -15,6 +15,6 @@ Welcome! I'm <a id="about-me" class="internal-link" href="/about-me/">David Lain
 
 * <a id="essays" class="internal-link" href="/essays/">Essays</a>
 * <a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a>
-* <a id="scrapbook" class="internal-link" href="/scrapbook/">Scrapbook</a>
+* <a id="notes" class="internal-link" href="/notes/">Notes</a>
 * <a id="library" class="internal-link" href="/library/">Library</a>
 * <a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a>

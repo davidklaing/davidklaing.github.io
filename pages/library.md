@@ -3,10 +3,11 @@ layout: page
 title: Library
 published: true
 permalink: /library/
-backlinks: <ul><li><a id="home" class="internal-link" href="/">davidklaing.com</a></li></ul>
+backlinks: <ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>
 tooltips: 
 - path: tooltip_albums.js
 - path: tooltip_books.js
+- path: tooltip_home.js
 ---
 
 * <a id="books" class="internal-link" href="/books/">Books</a>

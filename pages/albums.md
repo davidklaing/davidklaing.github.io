@@ -27,7 +27,7 @@ tooltips:
 - path: tooltip_library.js
 ---
 
-If it’s here, I love it.
+For now, I'm only keeping track of albums I love. So, if it's listed on any of these pages, I love it.
 
 * <a id="all-albums" class="internal-link" href="/all-albums/">All albums</a>
 

@@ -4,9 +4,9 @@ title: Roam as a slip-box
 permalink: /roam-as-a-slip-box/
 published: true
 last_updated: 2020-02-01
-backlinks: <ul><li><a id="scrapbook" class="internal-link" href="/scrapbook/">Scrapbook</a></li></ul>
+backlinks: <ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>
 tooltips: 
-- path: tooltip_scrapbook.js
+- path: tooltip_notes.js
 ---
 
 ## The slip-box method

@@ -2,13 +2,13 @@
 layout: page
 title: Everything I know about chess
 permalink: /everything-i-know-about-chess/
-backlinks: <ul><li><a id="scrapbook" class="internal-link" href="/scrapbook/">Scrapbook</a></li></ul>
+backlinks: <ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>
 tooltips: 
 - path: tooltip_chess-strategy.js
 - path: tooltip_chess-tactics.js
 - path: tooltip_how-to-learn-chess-faster.js
 - path: tooltip_inner-game-of-chess.js
-- path: tooltip_scrapbook.js
+- path: tooltip_notes.js
 ---
 
 * <a id="chess-strategy" class="internal-link" href="/chess-strategy/">Chess strategy</a>

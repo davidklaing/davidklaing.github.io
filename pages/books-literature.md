@@ -25,7 +25,7 @@ tooltips:
 * Findley, *The Butterfly Plague* (1969)
 * Fitzgerald, *The Great Gatsby* (1925)
 * Forster, *A Room with a View* (1908)
-* Golding, *Lord of the Flies* (1954) ★
+* Golding, *Lord of the Flies* (1954)
 * Goldstein, *The Mind-Body Problem* (1983)
 * Gowdy, *Disneyland* (1989) ★
 * Hawley, *Before the Fall* (2016) ★

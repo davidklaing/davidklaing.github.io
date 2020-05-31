@@ -4,9 +4,9 @@ title: Tidy up so you can make a useful mess
 permalink: /tidy-up/
 published: true
 last_updated: 2019-11-24
-backlinks: <ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>
+backlinks: <ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>
 tooltips: 
-- path: tooltip_essays.js
+- path: tooltip_notes.js
 ---
 
 An underappreciated benefit of habitually tidying up is that it gives you more confidence to make useful messes. A few examples:

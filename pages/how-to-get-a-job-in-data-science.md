@@ -6,6 +6,7 @@ published: true
 last_updated: 2019-04-11
 backlinks: <ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>
 tooltips: 
+- path: tooltip_communication-in-data-science.js
 - path: tooltip_essays.js
 ---
 
@@ -37,7 +38,7 @@ The second purpose is to gauge your level of experience as a developer. Do you k
 
 > A senior executive at your company has heard that one of your models, which uses the k-nearest neighbors algorithm to predict house prices, involves something called a "bias-variance tradeoff". They want to know what this tradeoff is, and also why your algorithm seems to depend so much on "neighboring" houses, when there ought to be other relevant factors to consider. How would you explain?
 
-Data scientists frequently need to explain their work to decision-makers or stakeholders, and this often involves disambiguating technical terms. This question presents an opportunity to give a vivid explanation of the bias-variance tradeoff by relating it to a hyperparameter (*k*) in a relatively simple algorithm. It also tests your ability to explain, tactfully and clearly, what is meant by "neighbor" if not the traditional meaning. My advice to you for answering questions like this one is to ground your explanation in a [concrete example](https://davidklaing.com/blog/2017/11/10/communication-in-data-science.html).
+Data scientists frequently need to explain their work to decision-makers or stakeholders, and this often involves disambiguating technical terms. This question presents an opportunity to give a vivid explanation of the bias-variance tradeoff by relating it to a hyperparameter (*k*) in a relatively simple algorithm. It also tests your ability to explain, tactfully and clearly, what is meant by "neighbor" if not the traditional meaning. My advice to you for answering questions like this one is to ground your explanation in a <a id="communication-in-data-science" class="internal-link" href="/communication-in-data-science/">concrete example</a>.
 
 > You work for a company that offers a subscription-based meditation app. You have behavioral data about each user – how often they open the app, which pages they visit, etc. After creating around 20 features, one of your colleagues built a multiple logistic regression model to predict whether a user will cancel their subscription in the next month. They found that just one behavior has a statistically significant relationship with cancellation: the frequency at which the user opens the app before 9:00am. Your colleague is proposing that a notification be sent by default every morning, and wants to know your thoughts. What questions would you ask about their analysis, and what do you think of their conclusion?
 

@@ -43,6 +43,7 @@ tooltips:
 * Gaiman, *Stardust* (1997)
 * Gilbert, *Stumbling on Happiness* (2006)
 * Gladwell, *Outliers* (2008)
+* Golding, *Lord of the Flies* (1954)
 * Gopen, *The Sense of Structure* (2004)
 * Hargrove, *Playing With Movement* (2014)
 * Harris, *The Nurture Assumption* (1998)

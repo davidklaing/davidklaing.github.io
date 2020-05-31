@@ -26,7 +26,7 @@ tooltips:
 * Emerson, *Self-Reliance and Other Essays* (1844)
 * Findley, *The Butterfly Plague* (1969)
 * Franklin, *The Autobiography of Benjamin Franklin* (1791)
-* Golding, *Lord of the Flies* (1954) ★
+* Golding, *Lord of the Flies* (1954)
 * Hemingway, *The Old Man and the Sea* (1952)
 * Herbert, *Dune* (1965)
 * Hesse, *Siddhartha* (1922)

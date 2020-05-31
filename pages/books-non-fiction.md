@@ -42,7 +42,7 @@ tooltips:
 * Gleick, *Chaos* (1987)
 * Gleick, *Isaac Newton* (2003) ★
 * Gleick, *The Information* (2011) ★
-* Golding, *Lord of the Flies* (1954) ★
+* Golding, *Lord of the Flies* (1954)
 * Goleman, *Altered Traits* (2017)
 * Gopen, *The Sense of Structure* (2004)
 * Haidt, *The Happiness Hypothesis* (2005) ★

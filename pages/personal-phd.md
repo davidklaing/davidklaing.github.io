@@ -4,9 +4,9 @@ title: The personal PhD
 permalink: /personal-phd/
 published: true
 last_updated: 2019-07-16
-backlinks: <ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>
+backlinks: <ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>
 tooltips: 
-- path: tooltip_essays.js
+- path: tooltip_notes.js
 ---
 
 Lots of people aspire to do a "personal master's degree," but I've never seen anyone describe an attempt to do a "personal PhD." With the caveat that I haven't done a PhD myself, it appears to me that many components of it are achievable outside a traditional program. I think people who are drawn to PhD programs should consider whether they can assemble the key ingredients on their own.

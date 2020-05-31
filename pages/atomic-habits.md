@@ -4,6 +4,9 @@ title: Atomic Habits
 permalink: /atomic-habits/
 published: true
 last_updated: 2019-01-14
+backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+tooltips: 
+- path: tooltip_commentaries.js
 ---
 
 In an [episode of the North Star Podcast with David Perrell](https://www.listennotes.com/podcasts/north-star-podcast/daniel-gross-dreams-and-e8iC1HhrjDt/), the software entrepreneur Daniel Gross said something that I thought was very wise:

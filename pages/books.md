@@ -42,7 +42,7 @@ tooltips:
 - path: tooltip_library.js
 ---
 
-On all pages except those for ratings, books I loved are marked with a ★. Happy browsing!
+My library contains all the books I've read enough of to have formed an opinion on. On all pages except those for my ratings, books I loved are marked with a ★. Happy browsing!
 
 * <a id="all-books" class="internal-link" href="/all-books/">All books</a>
 
