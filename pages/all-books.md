@@ -52,7 +52,7 @@ tooltips:
 * Confucius, *The Analects* (-429)
 * Conrad, *Heart of Darkness* (1899)
 * Cowen, *Discover Your Inner Economist* (2007)
-* Cowen, *Stubborn Attachments* (n)
+* Cowen, *Stubborn Attachments* (2018)
 * Crichton, *Jurassic Park* (1990)
 * Czuchlewski, *The Muse Asylum* (2001)
 * Dawkins, *The God Delusion* (2006)
@@ -218,6 +218,7 @@ tooltips:
 * Wyndham, *The Chrysalids* (1955)
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★
 * Yudkowsky, *Inadequate Equilibria* (2017)
+* Yudkowsky, *[Intelligent Characters](https://yudkowsky.tumblr.com/writing)* (2014) ★
 * Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Zinsser, *On Writing Well* (1976)
 * de Cervantes, *Don Quixote* (1615)

@@ -12,7 +12,7 @@ tooltips:
 * Bostrom, *Superintelligence* (2014)
 * Campbell, *A Joseph Campbell Companion* (1991)
 * Confucius, *The Analects* (-429)
-* Cowen, *Stubborn Attachments* (n)
+* Cowen, *Stubborn Attachments* (2018)
 * Dawkins, *The God Delusion* (2006)
 * Ellenberg, *How Not to Be Wrong* (2014)
 * Emerson, *Self-Reliance and Other Essays* (1844)

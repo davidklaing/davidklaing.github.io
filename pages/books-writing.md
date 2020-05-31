@@ -14,4 +14,5 @@ tooltips:
 * Olson, *Houston, We Have a Narrative* (2015)
 * Pinker, *The Sense of Style* (2014) ★
 * Strunk, *The Elements of Style* (1918)
+* Yudkowsky, *[Intelligent Characters](https://yudkowsky.tumblr.com/writing)* (2014) ★
 * Zinsser, *On Writing Well* (1976)

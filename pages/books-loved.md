@@ -54,4 +54,5 @@ tooltips:
 * Westover, *Educated* (2018)
 * Wickham, *Advanced R* (2014)
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015)
+* Yudkowsky, *[Intelligent Characters](https://yudkowsky.tumblr.com/writing)* (2014)
 * Yudkowsky, *Rationality From AI to Zombies* (2015)

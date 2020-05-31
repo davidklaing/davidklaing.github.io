@@ -1,323 +1,363 @@
-creator_key,creator,title,media_type,publication_year,rating,period_of_my_life,tags
-Aurelius,Marcus Aurelius,Meditations,Book,180,Indifferent,20s,"{Non-Fiction},{Philosophy}"
-Adams,Douglas Adams,The Hitchhiker's Guide to the Galaxy,Book,1979,Liked,Childhood,"{Fiction},{Literature}"
-Adams,Scott Adams,How to Fail at Almost Everything and Still Win Big,Book,2013,Liked,20s,"{Non-Fiction},{Self-Help},{Memoirs}"
-Ahrens,Sönke Ahrens,How to Take Smart Notes,Book,2017,Liked,In the past year,"{Non-Fiction},{Self-Help},{Writing},{Learning}"
-Adler & Van Doren,Mortimer J. Adler and Charles Van Doren,How to Read a Book,Book,1972,Mixed feelings,In the past year,"{Non-Fiction},{Self-Help},{Learning}"
-Ariely,Dan Ariely,Predictably Irrational,Book,2008,Liked,20s,"{Non-Fiction},{Psychology}"
-Asimov,Isaac Asimov,Nightfall,Book,1990,Liked,20s,"{Non-Fiction},{Science-Fiction}"
-Asimov,Isaac Asimov,Prelude to Foundation,Book,1988,Disliked,20s,"{Fiction},{Science-Fiction}"
-Bach,Richard Bach,Jonathan Livingston Seagull,Book,1970,Loved,20s,"{Fiction},{Parables}"
-Bach,Richard Bach,Illusions,Book,1977,Liked,20s,"{Fiction},{Parables}"
-Banks,Iain M. Banks,The Player of Games,Book,1988,Disliked,20s,"{Fiction},{Science-Fiction}"
-Barnes,Julian Barnes,Flaubert's Parrot,Book,1984,Disliked,20s,"{Fiction},{Literature}"
-Barron,T.A. Barron,The Lost Years of Merlin Saga,Book,2000,Loved,Teens,"{Fiction},{Fantasy}"
-Barron,T.A. Barron,The Great Tree of Avalon trilogy,Book,2006,Liked,Teens,"{Fiction},{Fantasy}"
-Beckett,Samuel Beckett,Waiting for Godot,Book,1952,Disliked,20s,"{Fiction},{Plays}"
-Bock,Dennis Bock,The Ash Garden,Book,2001,Liked,Teens,"{Fiction},{Literature}"
-Borges,Jorge Luis Borges,The Library of Babel,Book,1941,Liked,20s,"{Fiction},{Short Stories}"
-Bostrom,Nick Bostrom,Superintelligence,Book,2014,Mixed feelings,20s,"{Non-Fiction},{Philosophy}"
-Bradbury,Ray Bradbury,Fahrenheit 451,Book,1953,Liked,Teens,"{Fiction},{Literature}"
-Brooks,Terry Brooks,The Sword of Shannara,Book,1977,Liked,Teens,"{Fiction},{Fantasy}"
-Browder,Bill Browder,Red Notice,Book,2014,Indifferent,In the past year,"{Non-Fiction},{Memoirs}"
-Brown,Dan Brown,The Da Vinci Code,Book,2003,Liked,Teens,"{Fiction},{Literature}"
-Butler,Octavia E. Butler,Wild Seed,Book,1980,Mixed feelings,In the past year,"{Fiction},{Fantasy}"
-Campbell,Joseph Campbell,A Joseph Campbell Companion,Book,1991,Indifferent,Teens,"{Non-Fiction},{Philosophy}"
-Camus,Albert Camus,The Plague,Book,1947,Liked,20s,"{Fiction},{Literature}"
-Card,Orson Scott Card,Ender's Shadow,Book,1999,Loved,Teens,"{Fiction},{Science-Fiction}"
-Card,Orson Scott Card,Ender's Saga,Book,1996,Loved,Teens,"{Fiction},{Science-Fiction}"
-Carnegie,Dale Carnegie,How to Win Friends and Influence People,Book,1936,Loved,20s,"{Non-Fiction},{Self-Help}"
-Caro,Robert A. Caro,The Path to Power,Book,1982,Loved,In the past year,"{Non-Fiction},{History},{Biographies}"
-Carroll,Lewis Carroll,Alice's Adventures in Wonderland & Through the Looking-Glass,Book,1871,Indifferent,20s,"{Fiction},{Literature}"
-Catmull,Ed Catmull,"Creativity, Inc.",Book,2009,Liked,In the past year,"{Non-Fiction},{Memoirs}"
-de Cervantes,Miguel de Cervantes,Don Quixote,Book,1615,Liked,20s,"{Fiction},{Literature}"
-Chabon,Michael Chabon,The Amazing Adventures of Kavalier & Clay,Book,2000,Loved,20s,"{Fiction},{Literature}"
-Chiang,Ted Chiang,Exhalation: Stories,Book,2019,Loved,In the past year,"{Fiction},{Short Stories}"
-Chilton,David Chilton,The Wealthy Barber Returns,Book,2011,Liked,20s,"{Non-Fiction},{Self-Help},{Personal Finance}"
-Christian,Brian Christian,Algorithms to Live By,Book,2016,Loved,20s,"{Non-Fiction},{Self-Help},{Computer Science & Programming}"
-Cialdini,Robert B. Cialdini,Influence,Book,1984,Liked,20s,"{Non-Fiction},{Psychology}"
-Clarke,Arthur C. Clarke,2001: A Space Odyssey,Book,1968,Indifferent,Teens,"{Fiction},{Science-Fiction}"
-Clavell,James Clavell,Tai-Pan,Book,1966,Liked,Teens,"{Fiction},{Historical Fiction}"
-Clear,James Clear,Atomic Habits,Book,2018,Liked,20s,"{Non-Fiction},{Self-Help},{Business}"
-Coelho,Paulo Coelho,The Alchemist,Book,1988,Disliked,20s,"{Fiction},{Parables},{Literature}"
-Collins,Suzanne Collins,The Hunger Games,Book,2008,Liked,20s,"{Fiction},{Fantasy}"
-Confucius,Confucius,The Analects,Book,-429,Indifferent,20s,"{Non-Fiction},{Philosophy}"
-Conrad,Joseph Conrad,Heart of Darkness,Book,1899,Indifferent,20s,"{Fiction},{Literature}"
-Cowen,Tyler Cowen,Stubborn Attachments,Book,n,Liked,20s,"{Non-Fiction},{Philosophy}"
-Cowen,Tyler Cowen,Discover Your Inner Economist,Book,2007,Liked,20s,"{Non-Fiction},{Economics}"
-Crichton,Michael Crichton,Jurassic Park,Book,1990,Liked,Teens,"{Fiction},{Science-Fiction}"
-Czuchlewski,David Czuchlewski,The Muse Asylum,Book,2001,Liked,Teens,"{Fiction},{Literature}"
-Dawkins,Richard Dawkins,Unweaving the Rainbow,Book,1998,Liked,Teens,"{Non-Fiction},{Science}"
-Dawkins,Richard Dawkins,The God Delusion,Book,2006,Liked,Teens,"{Non-Fiction},{Philosophy},{Religion}"
-Dickens,Charles Dickens,Great Expectations,Book,1861,Indifferent,20s,"{Fiction},{Literature}"
-Dillard,Annie Dillard,Pilgrim at Tinker Creek,Book,1974,Liked,20s,"{Non-Fiction},{Memoirs}"
-Dostoyevsky,Fyodor Dostoyevsky,Crime and Punishment,Book,1866,Liked,20s,"{Fiction},{Literature}"
-Durant,Will Durant,The Lessons of History,Book,1968,Liked,20s,"{Non-Fiction},{History}"
-Ellenberg,Jordan Ellenberg,How Not to Be Wrong,Book,2014,Disliked,20s,"{Non-Fiction},{Philosophy},{Self-Help},{Statistics}"
-Emerson,Ralph Waldo Emerson,Self-Reliance and Other Essays,Book,1844,Indifferent,Teens,"{Non-Fiction},{Philosophy},{Essays}"
-Ferrante,Elena Ferrante,My Brilliant Friend,Book,2011,Loved,In the past year,"{Fiction},{Literature}"
-Feynman,Richard P. Feynman,"Surely You're Joking, Mr. Feynman!",Book,1985,Liked,20s,"{Non-Fiction},{Memoirs}"
-Findley,Timothy Findley,The Butterfly Plague,Book,1969,Liked,Teens,"{Fiction},{Literature}"
-Finnegan,William Finnegan,Barbarian Days,Book,2015,Mixed feelings,In the past year,"{Non-Fiction},{Memoirs}"
-Fitzgerald,F. Scott Fitzgerald,The Great Gatsby,Book,1925,Liked,20s,"{Fiction},{Literature}"
-Forster,E.M. Forster,The Machine Stops,Book,1909,Loved,20s,"{Fiction},{Science-Fiction}"
-Forster,E.M. Forster,A Room with a View,Book,1908,Indifferent,20s,"{Fiction},{Literature}"
-Frank,Anne Frank,The Diary of a Young Girl,Book,1947,Loved,20s,"{Non-Fiction},{Memoirs}"
-Franklin,Benjamin Franklin,The Autobiography of Benjamin Franklin,Book,1791,Liked,Teens,"{Non-Fiction},{Memoirs},{Biographies}"
-Gaiman,Neil Gaiman,Coraline,Book,2002,Indifferent,20s,"{Fiction},{Fantasy}"
-Gaiman,Neil Gaiman,The Ocean at the End of the Lane,Book,2013,Loved,20s,"{Fiction},{Fantasy}"
-Gaiman,Neil Gaiman,Stardust,Book,1997,Liked,20s,"{Fiction},{Fantasy}"
-Gibson & Sterling,William Gibson & Bruce Sterling,The Difference Engine,Book,1990,Loved,20s,"{Fiction},{Science-Fiction}"
-Gilbert,Daniel Todd Gilbert,Stumbling on Happiness,Book,2006,Liked,20s,"{Non-Fiction},{Psychology}"
-Gladwell,Malcolm Gladwell,Outliers,Book,2008,Liked,20s,"{Non-Fiction},{Science}"
-Gleick,James Gleick,Chaos,Book,1987,Indifferent,20s,"{Non-Fiction},{History},{Science}"
-Gleick,James Gleick,Isaac Newton,Book,2003,Loved,20s,"{Non-Fiction},{Biographies},{Science}"
-Gleick,James Gleick,The Information,Book,2011,Loved,20s,"{Non-Fiction},{History},{Science}"
-Golding,William Golding,Lord of the Flies,Book,1954,Liked,Teens,"{Non-Fiction},{Literature}"
-Goldstein,Rebecca Goldstein,The Mind-Body Problem,Book,1983,Disliked,20s,"{Fiction},{Literature}"
-Goleman,Daniel Goleman,Altered Traits,Book,2017,Disliked,20s,"{Non-Fiction},{Psychology},{Science}"
-Gopen,George D. Gopen,The Sense of Structure,Book,2004,Liked,20s,"{Non-Fiction},{Writing}"
-Gowdy,Barbara Gowdy,Disneyland,Book,1989,Loved,20s,"{Fiction},{Literature},{Short Stories}"
-Haidt,Jonathan Haidt,The Righteous Mind,Book,2012,Loved,20s,"{Non-Fiction},{Psychology}"
-Haidt,Jonathan Haidt,The Happiness Hypothesis,Book,2005,Loved,20s,"{Non-Fiction},{Psychology}"
-Harari,Yuval Noah Harari,Sapiens,Book,2011,Disliked,20s,"{Non-Fiction},{Philosophy}"
-Harari,Yuval Noah Harari,Homo Deus,Book,2017,Disliked,20s,"{Non-Fiction},{Philosophy}"
-Hargrove,Todd Hargrove,Playing With Movement,Book,2014,Liked,In the past year,"{Non-Fiction},{Self-Help}, Exercise"
-Harris,Judith Rich Harris,The Nurture Assumption,Book,1998,Liked,20s,"{Non-Fiction},{Science}"
-Harris,Sam Harris,Free Will,Book,2012,Loved,20s,"{Non-Fiction},{Philosophy}"
-Harris,Sam Harris,Waking Up,Book,2014,Loved,20s,"{Non-Fiction},{Philosophy},{Religion}"
-Hawley,Noah Hawley,Before the Fall,Book,2016,Loved,20s,"{Fiction},{Literature}"
-Hemingway,Ernest Hemingway,The Old Man and the Sea,Book,1952,Indifferent,Teens,"{Fiction},{Literature}"
-Herbert,Frank Herbert,Dune,Book,1965,Indifferent,Teens,"{Fiction},{Science-Fiction}"
-Hesse,Hermann Hesse,Siddhartha,Book,1922,Liked,Teens,"{Fiction},{Parables},{Literature}"
-Hill,Lawrence Hill,The Book of Negroes,Book,2007,Liked,Teens,"{Fiction},{Literature},{Historical Fiction}"
-Hinton,S.E. Hinton,The Outsiders,Book,1967,Liked,Teens,"{Fiction},{Literature}"
-Hofstadter,Douglas R. Hofstadter,"Gödel, Escher, Bach",Book,1979,Loved,20s,"{Non-Fiction},{Philosophy}"
-Holt,Jim Holt,Why Does the World Exist?,Book,2011,Liked,Teens,"{Non-Fiction},{Philosophy}"
-Homer,Homer,The Iliad,Book,-750,Liked,Teens,"{Fiction},{Literature}"
-Homer,Homer,The Odyssey,Book,-700,Liked,Teens,"{Fiction},{Literature}"
-Irving,John Irving,A Prayer for Owen Meany,Book,1989,Loved,20s,"{Fiction},{Literature}"
-Ishiguro,Kazuo Ishiguro,Never Let Me Go,Book,2005,Mixed feelings,20s,"{Fiction},{Literature}"
-Jacobs,Alan Jacobs,The Pleasures of Reading in an Age of Distraction,Book,2011,Liked,In the past year,"{Non-Fiction},{Philosophy},{Self-Help}"
-James et al.,"Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",An Introduction to Statistical Learning,Book,2017,Liked,20s,"{Non-Fiction},{Statistics},{Computer Science & Programming},{Textbooks}"
-Jemisin,N.K. Jemisin,The Fifth Season,Book,2015,Mixed feelings,In the past year,"{Fiction},{Fantasy}"
-Johnstone,Keith Johnstone,Impro,Book,1979,Liked,20s,"{Non-Fiction},Philsosophy,{Self-Help}"
-Jones,Lloyd Jones,Mister Pip,Book,2006,Liked,20s,"{Fiction},{Literature}"
-Jordan,Robert Jordan,The Wheel of Time 1-3,Book,1990,Liked,Teens,"{Fiction},{Fantasy}"
-Joyce,James Joyce,Araby,Book,1914,Loved,20s,"{Fiction},{Literature},{Short Stories}"
-Joyce,James Joyce,The Dead,Book,1914,Loved,20s,"{Fiction},{Literature},{Short Stories}"
-Kabat-Zinn,Jon Kabat-Zinn,Full Catastrophe Living,Book,1990,Indifferent,20s,"{Non-Fiction},{Philosophy}"
-Kadare,Ismail Kadare,Broken April,Book,1978,Liked,Teens,"{Fiction},{Literature}"
-Kafka,Franz Kafka,The Metamorphosis,Book,1915,Liked,20s,"{Fiction},{Literature}"
-Kahneman,Daniel Kahneman,"Thinking, Fast and Slow",Book,2011,Liked,20s,"{Non-Fiction},{Psychology},{Science}"
-Kalanithi,Paul Kalanithi,When Breath Becomes Air,Book,2016,Disliked,20s,"{Non-Fiction},{Memoirs}"
-Kaufman,Josh Kaufman,The Personal MBA,Book,2010,Liked,20s,"{Non-Fiction},{Self-Help},{Business}"
-Kay,Guy Gavriel Kay,The Fionavar Tapestry,Book,1986,Liked,Teens,"{Fiction},{Fantasy}"
-Kay,Guy Gavriel Kay,Ysabel,Book,2007,Liked,Teens,"{Fiction},{Fantasy}"
-Keyes,Daniel Keyes,Flowers for Algernon,Book,1966,Liked,20s,"{Fiction},{Science-Fiction}"
-King,Stephen King,On Writing,Book,2000,Loved,20s,"{Non-Fiction},{Memoirs},{Writing}"
-Kleist,Heinrich von Kleist,The Marquise of O,Book,1808,Liked,20s,"{Fiction},{Literature}"
-Larson,Gary Larson,The Far Side Gallery,Book,1984,Liked,Teens,"{Fiction},{Comics}"
-Lee,Harper Lee,To Kill a Mockingbird,Book,1960,Liked,Teens,"{Fiction},{Literature}"
-Le Guin,Ursula K. Le Guin,A Wizard of Earthsea,Book,1968,Liked,20s,"{Fiction},{Fantasy}"
-Le Guin,Ursula K. Le Guin,The Ones Who Walk Away from Omelas,Book,1973,Liked,20s,"{Fiction},{Science-Fiction}"
-Le Guin,Ursula K. Le Guin,The Left Hand of Darkness,Book,1969,Liked,20s,"{Fiction},{Science-Fiction}"
-Levi,Primo Levi,Survival in Auschwitz,Book,1947,Liked,20s,"{Non-Fiction},{Memoirs},{History}"
-Lewis,C.S. Lewis,The Chronicles of Narnia,Book,1956,Liked,Childhood,"{Fiction},{Fantasy}"
-Lightman,Alan Lightman,Einstein's Dreams,Book,1992,Liked,Teens,"{Fiction},{Science-Fiction}"
-MacDonald,George MacDonald,The Princess and the Goblin,Book,1872,Indifferent,20s,"{Fiction},{Fantasy}"
-Martel,Yann Martel,Life of Pi,Book,2001,Loved,Teens,"{Fiction},{Literature}"
-McCarthy,Cormac McCarthy,The Road,Book,2006,Loved,20s,"{Fiction},{Literature},{Westerns}"
-McGrayne,Sharon Bertsch McGrayne,The Theory That Would Not Die,Book,2011,Disliked,20s,"{Non-Fiction},{History},{Science},{Statistics}"
-McMurtry,Larry McMurtry,Lonesome Dove,Book,1985,Loved,In the past year,"{Fiction},{Westerns},{Literature}"
-Medina,John Medina,Brain Rules,Book,2008,Liked,20s,"{Non-Fiction},{Science},{Psychology},{Learning},{Self-Help}"
-Miller,Chanel Miller,Know My Name,Book,2019,Loved,In the past year,"{Non-Fiction},{Memoirs}"
-Miller,Arthur  Miller,The Crucible,Book,1953,Indifferent,Teens,"{Fiction},{Plays}"
-Millhauser,Steven Millhauser,Martin Dressler,Book,1996,Liked,In the past year,"{Fiction},{Literature}"
-Morrison,Toni Morrison,Beloved,Book,1987,Liked,20s,"{Fiction},{Literature}"
-Moss,Stephen Moss,The Rookie,Book,n,Liked,20s,"{Non-Fiction},{Memoirs}"
-Murakami,Haruki Murakami,Sputnik Sweetheart,Book,1999,Disliked,In the past year,"{Fiction},{Literature}"
-Márquez,Gabriel García Márquez,One Hundred Years of Solitude,Book,1967,Liked,20s,"{Fiction},{Literature}"
-Nicholson,William Nicholson,The Wind on Fire Trilogy,Book,2002,Liked,Childhood,"{Fiction},{Fantasy}"
-Nielsen,Michael Nielsen,Reinventing Discovery,Book,2011,Loved,20s,"{Non-Fiction},{Philosophy},{Science}"
-Nimmo,Jenny Nimmo,Children of the Red King 1-5,Book,2002-2006,Loved,Childhood,"{Fiction},{Fantasy}"
-O'Shaughnessy,Patrick O'Shaughnessy,Millennial Money,Book,2014,Liked,20s,"{Non-Fiction},{Personal Finance}"
-Oakley,Barbara Oakley,A Mind for Numbers,Book,2014,Liked,20s,"{Non-Fiction},{Learning},{Self-Help}"
-Olson,Randy Olson,"Houston, We Have a Narrative",Book,2015,Liked,20s,"{Non-Fiction},{Writing},{Self-Help},{Science}"
-Oppel,Kenneth Oppel,Silverwing,Book,1997,Liked,Childhood,"{Fiction},{Literature}"
-Orwell,George Orwell,Animal Farm,Book,1945,Liked,20s,"{Fiction},{Literature}"
-Orwell,George Orwell,1984,Book,1949,Liked,20s,"{Fiction},{Literature}"
-Palahniuk,Chuck Palahniuk,Fight Club,Book,1996,Liked,Teens,"{Fiction},{Literature}"
-Paolini,Christopher Paolini,The Inheritance Cycle 1-3,Book,2002,Liked,Teens,"{Fiction},{Fantasy}"
-Patterson,James Patterson,Maximum Ride,Book,2005,Liked,Teens,"{Fiction},{Science-Fiction}"
-Paulsen,Gary Paulsen,Brian's Saga 1-2,Book,1996,Liked,Teens,"{Fiction},{Literature}"
-Pinker,Steven Pinker,How the Mind Works,Book,1997,Loved,20s,"{Non-Fiction},{Psychology},{Science}"
-Pinker,Steven Pinker,The Better Angels of Our Nature,Book,2010,Liked,20s,"{Non-Fiction},{History}"
-Pinker,Steven Pinker,The Language Instinct,Book,1994,Loved,20s,"{Non-Fiction},{Psychology},{Science}"
-Pinker,Steven Pinker,The Sense of Style,Book,2014,Loved,20s,"{Non-Fiction},{Writing},{Self-Help}"
-Pullman,Philip Pullman,His Dark Materials,Book,2000,Loved,Teens,"{Fiction},{Fantasy}"
-Ritchie,Stuart Ritchie,Intelligence,Book,2015,Liked,20s,"{Non-Fiction},{Psychology},{Science}"
-Robbins,Anthony Robbins,MONEY Master the Game,Book,2014,Liked,20s,"{Non-Fiction},{Self-Help},{Personal Finance}"
-Rowling,J.K. Rowling,Harry Potter 1-7,Book,2007,Loved,Childhood,"{Fiction},{Fantasy}"
-Rushdie,Salman Rushdie,The Satanic Verses,Book,1988,Liked,Teens,"{Fiction},{Literature}"
-Sachar,Louis Sachar,Holes,Book,1998,Liked,Childhood,"{Fiction},{Literature}"
-Saint-Exupéry,Antoine de Saint-Exupéry,The Little Prince,Book,1943,Liked,Teens,"{Fiction},{Literature}"
-Salinger,J.D. Salinger,The Catcher in the Rye,Book,1951,Liked,Teens,"{Fiction},{Literature}"
-Sapolsky,Robert M. Sapolsky,Behave,Book,2017,Disliked,20s,"{Non-Fiction},{Science},{Psychology}"
-Schneier,Bruce Schneier,Data and Goliath,Book,2015,Liked,20s,"{Non-Fiction},{Philosophy},{Science},{Computer Science & Programming}"
-Shakespeare,William Shakespeare,Hamlet,Book,1603,Liked,Teens,"{Fiction},{Plays}"
-Shakespeare,William Shakespeare,Romeo and Juliet,Book,1595,Liked,Teens,"{Fiction},{Plays}"
-Shakespeare,William Shakespeare,A Midsummer Night's Dream,Book,1595,Liked,Teens,"{Fiction},{Plays}"
-Shelley,Mary Wollstonecraft Shelley,Frankenstein,Book,1818,Liked,20s,"{Fiction},{Literature}"
-Silver,Nate Silver,The Signal and the Noise,Book,2012,Liked,20s,"{Non-Fiction},{Philosophy},{Science},{Statistics}"
-Simler & Hanson,Kevin Simler & Robin Hanson,The Elephant in the Brain,Book,2017,Liked,20s,"{Non-Fiction},{Psychology},{Philosophy}"
-Smith,Huston Smith,The World's Religions,Book,1958,Indifferent,Teens,"{Non-Fiction},{Religion}"
-Spong,John Shelby Spong,A New Christianity for a New World,Book,2001,Liked,Teens,"{Non-Fiction},{Religion}"
-Steinbeck,John Steinbeck,Of Mice and Men,Book,1937,Liked,20s,"{Fiction},{Literature}"
-Stephens-Davidowitz,Seth Stephens-Davidowitz,Everybody Lies,Book,2017,Liked,20s,"{Non-Fiction},{Philosophy},{Science}"
-Stephenson,Neal Stephenson,Snow Crash,Book,1992,Disliked,20s,"{Fiction},{Science-Fiction}"
-Strunk,William Strunk Jr.,The Elements of Style,Book,1918,Liked,20s,"{Non-Fiction},{Writing},{Self-Help}"
-Swift,Jonathan Swift,Gulliver's Travels,Book,1726,Liked,Teens,"{Fiction},{Literature}"
-Taleb,Nassim Nicholas Taleb,The Black Swan,Book,2007,Liked,20s,"{Non-Fiction},{Philosophy},{Statistics}"
-Thaler,Richard H. Thaler,Nudge,Book,2008,Liked,20s,"{Non-Fiction},{Psychology}"
-Thiel,Peter Thiel,Zero to One,Book,2014,Loved,20s,"{Non-Fiction},{Philosophy},{Business}"
-Thoreau,Henry David Thoreau,Walden,Book,1854,Liked,Teens,"{Non-Fiction},{Philosophy},{Memoirs}"
-Tolkien,J.R.R. Tolkien,The Lord of the Rings,Book,1955,Liked,Teens,"{Fiction},{Fantasy}"
-Tolkien,J.R.R. Tolkien,The Hobbit,Book,1937,Liked,Childhood,"{Fiction},{Fantasy}"
-Tzu,Sun Tzu,The Art of War,Book,-500,Liked,20s,"{Non-Fiction},{Philosophy}"
-Tzu,Lao Tzu,Tao Te Ching,Book,-600,Liked,20s,"{Non-Fiction},{Philosophy}"
-Vance,Ashlee Vance,Elon Musk,Book,2015,Liked,20s,"{Non-Fiction},{Biographies}"
-Verne,Jules Verne,Twenty Thousand Leagues Under the Sea,Book,1869,Disliked,Teens,"{Fiction},{Science-Fiction}"
-Voltaire,Voltaire,Candide,Book,1759,Liked,Teens,"{Fiction},{Parables},{Philosophy},{Literature}"
-Vonnegut,Kurt Vonnegut Jr.,Cat's Cradle,Book,1963,Liked,20s,"{Fiction},{Literature}"
-Vonnegut,Kurt Vonnegut Jr.,"God Bless You, Mr. Rosewater",Book,1965,Liked,Teens,"{Fiction},{Literature}"
-Vonnegut,Kurt Vonnegut Jr.,Slaughterhouse-Five,Book,1969,Liked,20s,"{Fiction},{Literature}"
-Voss,Chris Voss,Never Split the Difference,Book,2016,Liked,20s,"{Non-Fiction},{Self-Help},{Business}"
-Wallace,David Foster Wallace,Oblivion,Book,2004,Loved,20s,"{Fiction},{Literature},{Short Stories}"
-Wallace,David Foster Wallace,Infinite Jest,Book,1996,Loved,20s,"{Fiction},{Literature}"
-Wallace,David Foster Wallace,Both Flesh and Not: Essays,Book,2012,Loved,20s,"{Non-Fiction},{Essays}"
-Watterson,Bill Watterson,Calvin and Hobbes,Book,1985-1995,Loved,Childhood,"{Fiction},{Comics}"
-Weir,Andy Weir,Artemis,Book,2017,Indifferent,20s,"{Fiction},{Science-Fiction}"
-Wells,H.G. Wells,The Island of Doctor Moreau,Book,1896,Indifferent,20s,"{Fiction},{Science-Fiction}"
-Westover,Tara Westover,Educated,Book,2018,Loved,20s,"{Non-Fiction},{Memoirs}"
-Wickham,Hadley Wickham,Advanced R,Book,2014,Loved,20s,"{Non-Fiction},{Computer Science & Programming},{Textbooks}"
-Wiesel,Elie Wiesel,Night,Book,1956,Indifferent,20s,"{Fiction},{Literature}"
-Wilde,Oscar Wilde,The Picture of Dorian Gray,Book,1890,Liked,20s,"{Fiction},{Literature}"
-Wilson,Robert Charles Wilson,Spin,Book,2005,Liked,Teens,"{Fiction},{Science-Fiction}"
-Wolf,Christa Wolf,Cassandra,Book,1983,Disliked,20s,"{Fiction},{Literature}"
-Woolf,Virginia Woolf,Mrs. Dalloway,Book,1925,Liked,20s,"{Fiction},{Literature}"
-Wright,Ronald Wright,A Short History of Progress,Book,2004,Indifferent,Teens,"{Non-Fiction},{Philosophy},{History}"
-Wyndham,John Wyndham,The Chrysalids,Book,1955,Liked,Teens,"{Fiction},{Literature}"
-Yudkowsky,Eliezer Yudkowsky,Inadequate Equilibria,Book,2017,Liked,20s,"{Non-Fiction},{Philosophy}"
-Yudkowsky,Eliezer Yudkowsky,Rationality From AI to Zombies,Book,2015,Loved,20s,"{Non-Fiction},{Philosophy}"
-Yudkowsky,Eliezer Yudkowsky,Harry Potter and the Methods of Rationality,Book,2015,Loved,20s,"{Fiction},{Fantasy}"
-Zinsser,William Zinsser,On Writing Well,Book,1976,Liked,20s,"{Non-Fiction},{Writing}"
-La's,The La's,The La's,Album,1990,Loved,Childhood,{Rock}
-Sufjan Stevens,Sufjan Stevens,Carrie & Lowell,Album,2015,Loved,20s,"{Folk},{Alternative}"
-Punch Brothers,Punch Brothers,The Phosphorescent Blues,Album,2015,Loved,20s,"{Folk},{Bluegrass}"
-Punch Brothers,Punch Brothers,All Ashore,Album,2018,Loved,20s,"{Folk},{Bluegrass}"
-Punch Brothers,Punch Brothers,Who's Feeling Young Now?,Album,2012,Loved,20s,"{Folk},{Bluegrass}"
-Punch Brothers,Punch Brothers,Antifogmatic,Album,2010,Loved,20s,"{Folk},{Bluegrass}"
-Radiohead,Radiohead,In Rainbows,Album,2007,Loved,20s,"{Rock},{Alternative}"
-Tame Impala,Tame Impala,Currents,Album,2015,Loved,20s,"{Rock},{Alternative}"
-James Taylor,James Taylor,October Road,Album,2002,Loved,20s,{Folk}
-Vulfpeck,Vulfpeck,Thrill of the Arts,Album,2015,Loved,20s,{Funk}
-Vulfpeck,Vulfpeck,The Beautiful Game,Album,2016,Loved,20s,{Funk}
-Vulfpeck,Vulfpeck,Mr. Finish Line,Album,2017,Loved,20s,{Funk}
-Vulfpeck,Vulfpeck,Hill Climber,Album,2018,Loved,20s,{Funk}
-Theo Katzman,Theo Katzman,Heartbreak Hits,Album,2017,Loved,20s,{Rock}
-Theo Katzman,Theo Katzman,My Heart Is Live in Berlin,Album,2019,Loved,20s,"{Rock},{Live}"
-Theo Katzman,Theo Katzman,Modern Johnny Sings,Album,2020,Loved,20s,{Rock}
-Theo Katzman,Theo Katzman,Romance Without Finance,Album,2011,Loved,20s,{Rock}
-Steely Dan,Steely Dan,Aja,Album,1977,Loved,20s,{Rock}
-LCD Soundsystem,LCD Soundsystem,Sound of Silver,Album,2007,Loved,Teens,"{Rock},{Alternative}"
-KC Roberts & the Live Revolution,KC Roberts & the Live Revolution,Parkdale Funk 2,Album,2013,Loved,20s,"{Funk},{Rock}"
-KC Roberts & the Live Revolution,KC Roberts & the Live Revolution,Between the Cracks,Album,2012,Loved,20s,"{Funk},{Rock}"
-KC Roberts & the Live Revolution,KC Roberts & the Live Revolution,Good Life,Album,2010,Loved,20s,"{Funk},{Rock}"
-Kendrick Lamar,Kendrick Lamar,Section.80,Album,2011,Loved,20s,{Rap}
-Kendrick Lamar,Kendrick Lamar,"good kid, m.A.A.d city",Album,2012,Loved,20s,{Rap}
-Kendrick Lamar,Kendrick Lamar,To Pimp A Butterfly,Album,2015,Loved,20s,{Rap}
-Kanye West,Kanye West,The College Dropout,Album,2004,Loved,20s,{Rap}
-Kanye West,Kanye West,Late Registration,Album,2005,Loved,20s,{Rap}
-Kanye West,Kanye West,Graduation,Album,2007,Loved,20s,{Rap}
-Kanye West,Kanye West,My Beautiful Dark Twisted Fantasy,Album,2010,Loved,20s,{Rap}
-Kanye West,Kanye West,The Life of Pablo,Album,2016,Loved,20s,{Rap}
-Carly Rae Jepsen,Carly Rae Jepsen,E-mo-tion,Album,2015,Loved,20s,{Pop}
-Anderson .Paak,Anderson .Paak,Malibu,Album,2016,Loved,20s,"{Rap},{R & B}"
-Ariana Grande,Ariana Grande,Sweetener,Album,2018,Loved,20s,{Pop}
-Ariana Grande,Ariana Grande,"thank u, next",Album,2019,Loved,20s,{Pop}
-Avalanches,The Avalanches,Since I Left You,Album,2000,Loved,20s,{Electronic}
-Beths,The Beths,Future Me Hates Me,Album,2018,Loved,20s,{Rock}
-Chance the Rapper,Chance the Rapper,Acid Rap,Album,2013,Loved,20s,{Rap}
-Charlie Puth,Charlie Puth,Voicenotes,Album,2018,Loved,20s,{Pop}
-Childish Gambino,Childish Gambino,"""Awaken, My Love!""",Album,2016,Loved,20s,{R & B}
-Coldplay,Coldplay,Viva La Vida,Album,2008,Loved,Teens,{Rock}
-Coldplay,Coldplay,Parachutes,Album,2000,Loved,Teens,{Rock}
-Counting Crows,Counting Crows,Hard Candy,Album,2002,Loved,Teens,{Rock}
-Frank Ocean,Frank Ocean,Channel Orange,Album,2012,Loved,20s,{R & B}
-Frank Ocean,Frank Ocean,Blonde,Album,2016,Loved,20s,{R & B}
-Inlet Sound,Inlet Sound,The Romantics,Album,2012,Loved,Teens,{Folk}
-Jack Johnson,Jack Johnson,In Between Dreams,Album,2005,Loved,Teens,{Folk}
-John Mayer,John Mayer,The Search for Everything,Album,2017,Loved,20s,{Rock}
-John Mayer,John Mayer,Room for Squares,Album,2001,Loved,Teens,{Rock}
-John Williams,John Williams,Harry Potter and the Sorcer's Stone Original Motion Picture Soundtrack,Album,2001,Loved,Childhood,"{Classical},{Soundtrack}"
-Kacey Musgraves,Kacey Musgraves,Golden Hour,Album,2018,Loved,20s,"{Folk},{Country}"
-Kruger Brothers,Kruger Brothers,"The Suite, Vol. 1",Album,2007,Loved,Teens,"{Folk},{Bluegrass}"
-Lawrence,Lawrence,Breakfast,Album,2017,Loved,20s,"{Funk},{Pop}"
-Lawrence,Lawrence,Living Room,Album,2018,Loved,20s,"{Funk},{Pop}"
-Lou Bega,Lou Bega,A Little Bit of Mambo,Album,1999,Loved,Childhood,{R & B}
-Madison Cunningham,Madison Cunningham,For The Sake Of The Rhyme,Album,2019,Loved,20s,{Folk}
-Mark Knopfler & Emmylou Harris,Mark Knopfler & Emmylou Harris,All The Roadrunning,Album,2006,Loved,Teens,"{Rock},{Country}"
-Mark Knopfler,Mark Knopfler,The Ragpicker's Dream,Album,2002,Loved,Childhood,"{Rock},{Folk}"
-Michael McDonald,Michael McDonald,Motown,Album,2003,Loved,Teens,{R & B}
-Moonchild,Moonchild,Voyager,Album,2017,Loved,20s,{R & B}
-Nickel Creek,Nickel Creek,A Dotted Line,Album,2014,Loved,20s,"{Folk},{Bluegrass}"
-Paramore,Paramore,After Laughter,Album,2017,Loved,20s,{Rock}
-Pink Floyd,Pink Floyd,The Dark Side of the Moon,Album,1973,Loved,Childhood,{Rock}
-Run the Jewels,Run the Jewels,Run the Jewels,Album,2013,Loved,20s,{Rap}
-Run the Jewels,Run the Jewels,Run the Jewels 2,Album,2014,Loved,20s,{Rap}
-Stevie Wonder,Stevie Wonder,Songs In The Key Of Life,Album,1976,Loved,20s,"{R & B},{Funk}"
-Sufjan Stevens,Sufjan Stevens,Michigan,Album,2003,Loved,20s,"{Folk},{Alternative},{Indie}"
-Taylor Swift,Taylor Swift,Red,Album,2012,Loved,Teens,{Pop}
-Tom Misch,Tom Misch,Geography,Album,2018,Loved,20s,{R & B}
-Vampire Weekend,Vampire Weekend,Father of the Bride,Album,2019,Loved,In the past year,{Rock}
-Vampire Weekend,Vampire Weekend,Modern Vampires of the City,Album,2013,Loved,20s,{Rock}
-Van Morrison,Van Morrison,Avalon Sunset,Album,1989,Loved,Childhood,{Rock}
-Lin-Manuel Miranda,Lin-Manuel Miranda,Hamilton,Album,2015,Loved,20s,"{Musicals},{Rap}"
-Wax,Wax,The Cookout Chronicles,Album,2016,Loved,20s,{Rap}
-Wax,Wax,Scrublife,Album,2011,Loved,Teens,{Rap}
-Whitney,Whitney,Light Upon the Lake,Album,2016,Loved,20s,{Folk}
-Wax,Wax,Eviction Notice,Album,2011,Loved,Teens,{Rap}
-Oh Hellos,The Oh Hellos,The Oh Hellos' Family Christmas Album,Album,2014,Loved,20s,"{Folk},{Christmas}"
-Woody Goss,Woody Goss,A Very Vulfy Christmas,Album,2019,Loved,In the past year,"{Jazz},{Christmas}"
-Vince Guaraldi Trio,Vince Guaraldi Trio,A Charlie Brown Christmas,Album,1965,Loved,20s,"{Jazz},{Christmas}"
-Fleetwood Mac,Fleetwood Mac,Dreams,Album,1977,Loved,20s,"{Folk},{Rock}"
-BROCKHAMPTON,BROCKHAMPTON,"SATURATION I, II, & III",Album,2017,Loved,20s,{Rap}
-Bruce Hornsby,Bruce Hornsby,Halcyon Days,Album,2004,Loved,Teens,{Rock}
-Bruno Mars,Bruno Mars,24K Magic,Album,2016,Loved,20s,{Pop}
-Bruce Hornsby & the Noisemakers,Bruce Hornsby & the Noisemakers,Bride of the Noisemakers,Album,2011,Loved,20s,"{Rock},{Live}"
-James Taylor,James Taylor,Before This World,Album,2015,Loved,20s,{Folk}
-James Taylor,James Taylor,Hourglass,Album,1997,Loved,Childhood,{Folk}
-James Taylor,James Taylor,Never Die Young,Album,1988,Loved,Childhood,{Folk}
-James Taylor,James Taylor,JT,Album,1977,Loved,Childhood,{Folk}
-James Taylor,James Taylor,Gorilla,Album,1975,Loved,Childhood,{Folk}
-James Taylor,James Taylor,Sweet Baby James,Album,1970,Loved,Childhood,{Folk}
-Beatles,The Beatles,Please Please Me,Album,1963,Loved,Childhood,{Rock}
-Beatles,The Beatles,With The Beatles,Album,1963,Loved,Childhood,{Rock}
-Beatles,The Beatles,A Hard Day's Night,Album,1964,Loved,Childhood,{Rock}
-Beatles,The Beatles,Beatles For Sale,Album,1964,Loved,Childhood,{Rock}
-Beatles,The Beatles,Help!,Album,1965,Loved,Childhood,{Rock}
-Beatles,The Beatles,Rubber Soul,Album,1965,Loved,Childhood,{Rock}
-Beatles,The Beatles,Revolver,Album,1966,Loved,Childhood,{Rock}
-Beatles,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,Album,1967,Loved,Childhood,{Rock}
-Beatles,The Beatles,Magical Mystery Tour,Album,1967,Loved,Childhood,{Rock}
-Beatles,The Beatles,The White Album,Album,1968,Loved,Childhood,{Rock}
-Beatles,The Beatles,Abbey Road,Album,1969,Loved,Childhood,{Rock}
-Beatles,The Beatles,Let It Be,Album,1970,Loved,Childhood,{Rock}
-Neutral Milk Hotel,Neutral Milk Hotel,In the Aeroplane Over the Sea,Album,1998,Loved,Teens,"{Rock},{Alternative}"
-Daft Punk,Daft Punk,Alive 2007,Album,2007,Loved,20s,"{Electronic},{Live}"
-Daft Punk,Daft Punk,Random Access Memories,Album,2013,Loved,20s,"{Electronic},{Funk},{Rock}"
-Daft Punk,Daft Punk,Discovery,Album,2001,Loved,20s,{Electronic}
-Phil Collins & Mark Mancina,Phil Collins & Mark Mancina,Tarzan,Album,1999,Loved,Childhood,"{Soundtrack},{Rock}"
-Bryan Adams,Bryan Adams,The Best of Me,Album,1999,Loved,Childhood,{Rock}
-Phil Collins,Phil Collins,Testify,Album,2002,Loved,Childhood,{Rock}
+creator_key,creator,title,media_type,publication_year,rating,period_of_my_life,tags,url
+Aurelius,Marcus Aurelius,Meditations,Book,180,Indifferent,20s,"{Non-Fiction},{Philosophy}",
+Adams,Scott Adams,How to Fail at Almost Everything and Still Win Big,Book,2013,Liked,20s,"{Non-Fiction},{Self-Help},{Memoirs}",
+Adams,Douglas Adams,The Hitchhiker's Guide to the Galaxy,Book,1979,Liked,Childhood,"{Fiction},{Literature}",
+Alexander,Scott Alexander,Pushing And Pulling Goals,Article,2016,Loved,20s,"{Self-improvement},{Strategy},{Goal-setting}",https://slatestarcodex.com/2016/07/18/pushing-and-pulling-goals/
+Alexander,Scott Alexander,The Parable of the Talents,Article,2015,Loved,20s,"{Self-improvement},{Skill development}",https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/
+Alexander,Scott Alexander,Nonfiction Writing Advice,Article,2016,Loved,20s,{Communication},https://slatestarcodex.com/2016/02/20/writing-advice/
+Anderson .Paak,Anderson .Paak,Malibu,Album,2016,Loved,20s,"{Rap},{R & B}",
+Ariana Grande,Ariana Grande,Sweetener,Album,2018,Loved,20s,{Pop},
+Ariana Grande,Ariana Grande,"thank u, next",Album,2019,Loved,20s,{Pop},
+Ahrens,Sönke Ahrens,How to Take Smart Notes,Book,2017,Liked,In the past year,"{Non-Fiction},{Self-Help},{Writing},{Learning}",
+Adler & Van Doren,Mortimer J. Adler and Charles Van Doren,How to Read a Book,Book,1972,Mixed feelings,In the past year,"{Non-Fiction},{Self-Help},{Learning}",
+Ariely,Dan Ariely,Predictably Irrational,Book,2008,Liked,20s,"{Non-Fiction},{Psychology}",
+Barnes,Julian Barnes,Flaubert's Parrot,Book,1984,Disliked,20s,"{Fiction},{Literature}",
+Avalanches,The Avalanches,Since I Left You,Album,2000,Loved,20s,{Electronic},
+Asimov,Isaac Asimov,Nightfall,Book,1990,Liked,20s,"{Non-Fiction},{Science-Fiction}",
+Asimov,Isaac Asimov,Prelude to Foundation,Book,1988,Disliked,20s,"{Fiction},{Science-Fiction}",
+Bach,Richard Bach,Jonathan Livingston Seagull,Book,1970,Loved,20s,"{Fiction},{Parables}",
+Bach,Richard Bach,Illusions,Book,1977,Liked,20s,"{Fiction},{Parables}",
+Banks,Iain M. Banks,The Player of Games,Book,1988,Disliked,20s,"{Fiction},{Science-Fiction}",
+Barron,T.A. Barron,The Lost Years of Merlin Saga,Book,2000,Loved,Teens,"{Fiction},{Fantasy}",
+Beatles,The Beatles,Please Please Me,Album,1963,Loved,Childhood,{Rock},
+Beatles,The Beatles,With The Beatles,Album,1963,Loved,Childhood,{Rock},
+Beatles,The Beatles,A Hard Day's Night,Album,1964,Loved,Childhood,{Rock},
+Beatles,The Beatles,Beatles For Sale,Album,1964,Loved,Childhood,{Rock},
+Beatles,The Beatles,Help!,Album,1965,Loved,Childhood,{Rock},
+Beatles,The Beatles,Rubber Soul,Album,1965,Loved,Childhood,{Rock},
+Beatles,The Beatles,Revolver,Album,1966,Loved,Childhood,{Rock},
+Beatles,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,Album,1967,Loved,Childhood,{Rock},
+Beatles,The Beatles,Magical Mystery Tour,Album,1967,Loved,Childhood,{Rock},
+Beatles,The Beatles,The White Album,Album,1968,Loved,Childhood,{Rock},
+Beatles,The Beatles,Abbey Road,Album,1969,Loved,Childhood,{Rock},
+Beatles,The Beatles,Let It Be,Album,1970,Loved,Childhood,{Rock},
+Barron,T.A. Barron,The Great Tree of Avalon trilogy,Book,2006,Liked,Teens,"{Fiction},{Fantasy}",
+Beths,The Beths,Future Me Hates Me,Album,2018,Loved,20s,{Rock},
+Beckett,Samuel Beckett,Waiting for Godot,Book,1952,Disliked,20s,"{Fiction},{Plays}",
+Bock,Dennis Bock,The Ash Garden,Book,2001,Liked,Teens,"{Fiction},{Literature}",
+Borges,Jorge Luis Borges,The Library of Babel,Book,1941,Liked,20s,"{Fiction},{Short Stories}",
+Bostrom,Nick Bostrom,Superintelligence,Book,2014,Mixed feelings,20s,"{Non-Fiction},{Philosophy}",
+Branwen,Gwern Branwen,My Ordinary LIfe: Improvements Since the 1990s,Article,,Loved,20s,{Progress},https://www.gwern.net/Improvements
+BROCKHAMPTON,BROCKHAMPTON,"SATURATION I, II, & III",Album,2017,Loved,20s,{Rap},
+Bradbury,Ray Bradbury,Fahrenheit 451,Book,1953,Liked,Teens,"{Fiction},{Literature}",
+Brooks,Terry Brooks,The Sword of Shannara,Book,1977,Liked,Teens,"{Fiction},{Fantasy}",
+Browder,Bill Browder,Red Notice,Book,2014,Indifferent,In the past year,"{Non-Fiction},{Memoirs}",
+Bruce Hornsby,Bruce Hornsby,Halcyon Days,Album,2004,Loved,Teens,{Rock},
+Bruce Hornsby & the Noisemakers,Bruce Hornsby & the Noisemakers,Bride of the Noisemakers,Album,2011,Loved,20s,"{Rock},{Live}",
+Bruno Mars,Bruno Mars,24K Magic,Album,2016,Loved,20s,{Pop},
+Bryan Adams,Bryan Adams,The Best of Me,Album,1999,Loved,Childhood,{Rock},
+Brown,Dan Brown,The Da Vinci Code,Book,2003,Liked,Teens,"{Fiction},{Literature}",
+Butler,Octavia E. Butler,Wild Seed,Book,1980,Mixed feelings,In the past year,"{Fiction},{Fantasy}",
+Campbell,Joseph Campbell,A Joseph Campbell Companion,Book,1991,Indifferent,Teens,"{Non-Fiction},{Philosophy}",
+Caplan,Bryan Caplan,The Ideological Turing Test,Article,2011,Loved,20s,{Epistemology},https://www.econlib.org/archives/2011/06/the_ideological.html
+Camus,Albert Camus,The Plague,Book,1947,Liked,20s,"{Fiction},{Literature}",
+Card,Orson Scott Card,Ender's Shadow,Book,1999,Loved,Teens,"{Fiction},{Science-Fiction}",
+Carly Rae Jepsen,Carly Rae Jepsen,E-mo-tion,Album,2015,Loved,20s,{Pop},
+Card,Orson Scott Card,Ender's Saga,Book,1996,Loved,Teens,"{Fiction},{Science-Fiction}",
+Carnegie,Dale Carnegie,How to Win Friends and Influence People,Book,1936,Loved,20s,"{Non-Fiction},{Self-Help}",
+Caro,Robert A. Caro,The Path to Power,Book,1982,Loved,In the past year,"{Non-Fiction},{History},{Biographies}",
+Carroll,Lewis Carroll,Alice's Adventures in Wonderland & Through the Looking-Glass,Book,1871,Indifferent,20s,"{Fiction},{Literature}",
+de Cervantes,Miguel de Cervantes,Don Quixote,Book,1615,Liked,20s,"{Fiction},{Literature}",
+Chance the Rapper,Chance the Rapper,Acid Rap,Album,2013,Loved,20s,{Rap},
+Charlie Puth,Charlie Puth,Voicenotes,Album,2018,Loved,20s,{Pop},
+Chi,Tom Chi,Rapid Prototyping X,Video,2012,Loved,20s,"{Strategy},{Decision making},{Research}",https://vimeo.com/55741515
+Chabon,Michael Chabon,The Amazing Adventures of Kavalier & Clay,Book,2000,Loved,20s,"{Fiction},{Literature}",
+Childish Gambino,Childish Gambino,"""Awaken, My Love!""",Album,2016,Loved,20s,{R & B},
+Chiang,Ted Chiang,Exhalation: Stories,Book,2019,Loved,In the past year,"{Fiction},{Short Stories}",
+Chilton,David Chilton,The Wealthy Barber Returns,Book,2011,Liked,20s,"{Non-Fiction},{Self-Help},{Personal Finance}",
+Christian,Brian Christian,Algorithms to Live By,Book,2016,Loved,20s,"{Non-Fiction},{Self-Help},{Computer Science & Programming}",
+Cialdini,Robert B. Cialdini,Influence,Book,1984,Liked,20s,"{Non-Fiction},{Psychology}",
+Clarke,Arthur C. Clarke,2001: A Space Odyssey,Book,1968,Indifferent,Teens,"{Fiction},{Science-Fiction}",
+Clavell,James Clavell,Tai-Pan,Book,1966,Liked,Teens,"{Fiction},{Historical Fiction}",
+Clear,James Clear,Atomic Habits,Book,2018,Liked,20s,"{Non-Fiction},{Self-Help},{Business}",
+Coldplay,Coldplay,Viva La Vida,Album,2008,Loved,Teens,{Rock},
+Coldplay,Coldplay,Parachutes,Album,2000,Loved,Teens,{Rock},
+Coelho,Paulo Coelho,The Alchemist,Book,1988,Disliked,20s,"{Fiction},{Parables},{Literature}",
+Collison,Patrick Collison,Fast,Article,,Loved,20s,{Progress},https://patrickcollison.com/fast
+Collins,Suzanne Collins,The Hunger Games,Book,2008,Liked,20s,"{Fiction},{Fantasy}",
+Confucius,Confucius,The Analects,Book,-429,Indifferent,20s,"{Non-Fiction},{Philosophy}",
+Counting Crows,Counting Crows,Hard Candy,Album,2002,Loved,Teens,{Rock},
+Conrad,Joseph Conrad,Heart of Darkness,Book,1899,Indifferent,20s,"{Fiction},{Literature}",
+Cowen,Tyler Cowen,Stubborn Attachments,Book,2018,Liked,20s,"{Non-Fiction},{Philosophy}",
+Cowen,Tyler Cowen,Conversations with Tyler,Podcast,,Loved,20s,"{Current events},{Economics},{Philosophy}",https://conversationswithtyler.com/
+Harari,Yuval Noah Harari,Sapiens,Book,2011,Disliked,20s,"{Non-Fiction},{Philosophy}",
+Cowen,Tyler Cowen,Discover Your Inner Economist,Book,2007,Liked,20s,"{Non-Fiction},{Economics}",
+Crichton,Michael Crichton,Jurassic Park,Book,1990,Liked,Teens,"{Fiction},{Science-Fiction}",
+Daft Punk,Daft Punk,Alive 2007,Album,2007,Loved,20s,"{Electronic},{Live}",
+Daft Punk,Daft Punk,Random Access Memories,Album,2013,Loved,20s,"{Electronic},{Funk},{Rock}",
+Daft Punk,Daft Punk,Discovery,Album,2001,Loved,20s,{Electronic},
+Czuchlewski,David Czuchlewski,The Muse Asylum,Book,2001,Liked,Teens,"{Fiction},{Literature}",
+Dawkins,Richard Dawkins,Unweaving the Rainbow,Book,1998,Liked,Teens,"{Non-Fiction},{Science}",
+Catmull,Ed Catmull,"Creativity, Inc.",Book,2009,Liked,In the past year,"{Non-Fiction},{Memoirs}",
+Dawkins,Richard Dawkins,The God Delusion,Book,2006,Liked,Teens,"{Non-Fiction},{Philosophy},{Religion}",
+Dickens,Charles Dickens,Great Expectations,Book,1861,Indifferent,20s,"{Fiction},{Literature}",
+Dillard,Annie Dillard,Pilgrim at Tinker Creek,Book,1974,Liked,20s,"{Non-Fiction},{Memoirs}",
+Dostoyevsky,Fyodor Dostoyevsky,Crime and Punishment,Book,1866,Liked,20s,"{Fiction},{Literature}",
+Eghbal,Nadia Eghbal,The tyranny of ideas,Article,2019,Loved,20s,{Memetics},https://nadiaeghbal.com/ideas
+Eghbal,Nadia Eghbal,Being basic as a virtue,Article,2019,Loved,20s,{Productivity},https://nadiaeghbal.com/basic
+Durant,Will Durant,The Lessons of History,Book,1968,Liked,20s,"{Non-Fiction},{History}",
+Ellenberg,Jordan Ellenberg,How Not to Be Wrong,Book,2014,Disliked,20s,"{Non-Fiction},{Philosophy},{Self-Help},{Statistics}",
+Emerson,Ralph Waldo Emerson,Self-Reliance and Other Essays,Book,1844,Indifferent,Teens,"{Non-Fiction},{Philosophy},{Essays}",
+Ferrante,Elena Ferrante,My Brilliant Friend,Book,2011,Loved,In the past year,"{Fiction},{Literature}",
+Feynman,Richard P. Feynman,"Surely You're Joking, Mr. Feynman!",Book,1985,Liked,20s,"{Non-Fiction},{Memoirs}",
+Findley,Timothy Findley,The Butterfly Plague,Book,1969,Liked,Teens,"{Fiction},{Literature}",
+Finnegan,William Finnegan,Barbarian Days,Book,2015,Mixed feelings,In the past year,"{Non-Fiction},{Memoirs}",
+Fleetwood Mac,Fleetwood Mac,Dreams,Album,1977,Loved,20s,"{Folk},{Rock}",
+Fitzgerald,F. Scott Fitzgerald,The Great Gatsby,Book,1925,Liked,20s,"{Fiction},{Literature}",
+Forster,E.M. Forster,The Machine Stops,Book,1909,Loved,20s,"{Fiction},{Science-Fiction}",
+Forte,Tiago Forte,One Touch to Inbox Zero,Article,2015,Loved,20s,"{Self-improvement},{Productivity}",https://fortelabs.co/blog/one-touch-to-inbox-zero/
+Forte,Tiago Forte,Theory of Constraints 101,Article,2016,Loved,20s,"{Systems},{Productivity},{Strategy}",https://fortelabs.co/blog/theory-of-constraints-101-table-of-contents/
+Forster,E.M. Forster,A Room with a View,Book,1908,Indifferent,20s,"{Fiction},{Literature}",
+Frank Ocean,Frank Ocean,Channel Orange,Album,2012,Loved,20s,{R & B},
+Frank Ocean,Frank Ocean,Blonde,Album,2016,Loved,20s,{R & B},
+Frank,Anne Frank,The Diary of a Young Girl,Book,1947,Loved,20s,"{Non-Fiction},{Memoirs}",
+Franklin,Benjamin Franklin,The Autobiography of Benjamin Franklin,Book,1791,Liked,Teens,"{Non-Fiction},{Memoirs},{Biographies}",
+Gaiman,Neil Gaiman,Coraline,Book,2002,Indifferent,20s,"{Fiction},{Fantasy}",
+Gaiman,Neil Gaiman,The Ocean at the End of the Lane,Book,2013,Loved,20s,"{Fiction},{Fantasy}",
+Galef,Julia Galef,A taxonomy of ways books change your worldview,Article,2017,Loved,20s,{Epistemology},https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/
+Galelf,Julia Galef,Rationally Speaking,Podcast,,Loved,20s,{Epistemology},http://rationallyspeakingpodcast.org/
+Gaiman,Neil Gaiman,Stardust,Book,1997,Liked,20s,"{Fiction},{Fantasy}",
+Gibson & Sterling,William Gibson & Bruce Sterling,The Difference Engine,Book,1990,Loved,20s,"{Fiction},{Science-Fiction}",
+Gilbert,Daniel Todd Gilbert,Stumbling on Happiness,Book,2006,Liked,20s,"{Non-Fiction},{Psychology}",
+Gladwell,Malcolm Gladwell,Outliers,Book,2008,Liked,20s,"{Non-Fiction},{Science}",
+Gleick,James Gleick,Chaos,Book,1987,Indifferent,20s,"{Non-Fiction},{History},{Science}",
+Gleick,James Gleick,Isaac Newton,Book,2003,Loved,20s,"{Non-Fiction},{Biographies},{Science}",
+Gleick,James Gleick,The Information,Book,2011,Loved,20s,"{Non-Fiction},{History},{Science}",
+Golding,William Golding,Lord of the Flies,Book,1954,Liked,Teens,"{Non-Fiction},{Literature}",
+Goldstein,Rebecca Goldstein,The Mind-Body Problem,Book,1983,Disliked,20s,"{Fiction},{Literature}",
+Goleman,Daniel Goleman,Altered Traits,Book,2017,Disliked,20s,"{Non-Fiction},{Psychology},{Science}",
+Gopen,George D. Gopen,The Sense of Structure,Book,2004,Liked,20s,"{Non-Fiction},{Writing}",
+Gowdy,Barbara Gowdy,Disneyland,Book,1989,Loved,20s,"{Fiction},{Literature},{Short Stories}",
+Haidt,Jonathan Haidt,The Righteous Mind,Book,2012,Loved,20s,"{Non-Fiction},{Psychology}",
+Haidt,Jonathan Haidt,The Happiness Hypothesis,Book,2005,Loved,20s,"{Non-Fiction},{Psychology}",
+Harari,Yuval Noah Harari,Homo Deus,Book,2017,Disliked,20s,"{Non-Fiction},{Philosophy}",
+Harding & Sloan,Charlie Harding & Nate Sloan,Switched on Pop,Podcast,,Loved,20s,{Music},https://switchedonpop.com/
+Hargrove,Todd Hargrove,Playing With Movement,Book,2014,Liked,In the past year,"{Non-Fiction},{Self-Help}, Exercise",
+Harris,Judith Rich Harris,The Nurture Assumption,Book,1998,Liked,20s,"{Non-Fiction},{Science}",
+Harris,Sam Harris,Free Will,Book,2012,Loved,20s,"{Non-Fiction},{Philosophy}",
+Harris,Sam Harris,Waking Up,Book,2014,Loved,20s,"{Non-Fiction},{Philosophy},{Religion}",
+Harris,Sam Harris,Making Sense,Podcast,,Loved,20s,"{Philosophy},{Culture}",https://samharris.org/podcast/
+Hawley,Noah Hawley,Before the Fall,Book,2016,Loved,20s,"{Fiction},{Literature}",
+Hemingway,Ernest Hemingway,The Old Man and the Sea,Book,1952,Indifferent,Teens,"{Fiction},{Literature}",
+Herbert,Frank Herbert,Dune,Book,1965,Indifferent,Teens,"{Fiction},{Science-Fiction}",
+Hesse,Hermann Hesse,Siddhartha,Book,1922,Liked,Teens,"{Fiction},{Parables},{Literature}",
+Hill,Lawrence Hill,The Book of Negroes,Book,2007,Liked,Teens,"{Fiction},{Literature},{Historical Fiction}",
+Hinton,S.E. Hinton,The Outsiders,Book,1967,Liked,Teens,"{Fiction},{Literature}",
+Hoare,Graydon Hoare,Always bet on text,Article,2014,Loved,20s,{Media},https://graydon2.dreamwidth.org/193447.html
+Hobart,Byrne Hobart,Cost-First New Year's Resolutions,Article,2018,Loved,20s,"{Self-improvement},{Goal-setting},{Strategy}",https://medium.com/@byrnehobart/cost-first-new-years-resolutions-6bb30393201d
+Hofstadter,Douglas R. Hofstadter,"Gödel, Escher, Bach",Book,1979,Loved,20s,"{Non-Fiction},{Philosophy}",
+Holt,Jim Holt,Why Does the World Exist?,Book,2011,Liked,Teens,"{Non-Fiction},{Philosophy}",
+Homer,Homer,The Iliad,Book,-750,Liked,Teens,"{Fiction},{Literature}",
+Homer,Homer,The Odyssey,Book,-700,Liked,Teens,"{Fiction},{Literature}",
+Inlet Sound,Inlet Sound,The Romantics,Album,2012,Loved,Teens,{Folk},
+Irving,John Irving,A Prayer for Owen Meany,Book,1989,Loved,20s,"{Fiction},{Literature}",
+Ishiguro,Kazuo Ishiguro,Never Let Me Go,Book,2005,Mixed feelings,20s,"{Fiction},{Literature}",
+Jack Johnson,Jack Johnson,In Between Dreams,Album,2005,Loved,Teens,{Folk},
+Jacobs,Alan Jacobs,The Pleasures of Reading in an Age of Distraction,Book,2011,Liked,In the past year,"{Non-Fiction},{Philosophy},{Self-Help}",
+James et al.,"Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",An Introduction to Statistical Learning,Book,2017,Liked,20s,"{Non-Fiction},{Statistics},{Computer Science & Programming},{Textbooks}",
+James Taylor,James Taylor,October Road,Album,2002,Loved,20s,{Folk},
+James Taylor,James Taylor,Before This World,Album,2015,Loved,20s,{Folk},
+James Taylor,James Taylor,Hourglass,Album,1997,Loved,Childhood,{Folk},
+James Taylor,James Taylor,Never Die Young,Album,1988,Loved,Childhood,{Folk},
+James Taylor,James Taylor,JT,Album,1977,Loved,Childhood,{Folk},
+James Taylor,James Taylor,Gorilla,Album,1975,Loved,Childhood,{Folk},
+James Taylor,James Taylor,Sweet Baby James,Album,1970,Loved,Childhood,{Folk},
+Jemisin,N.K. Jemisin,The Fifth Season,Book,2015,Mixed feelings,In the past year,"{Fiction},{Fantasy}",
+John Mayer,John Mayer,The Search for Everything,Album,2017,Loved,20s,{Rock},
+John Mayer,John Mayer,Room for Squares,Album,2001,Loved,Teens,{Rock},
+John Williams,John Williams,Harry Potter and the Sorcer's Stone Original Motion Picture Soundtrack,Album,2001,Loved,Childhood,"{Classical},{Soundtrack}",
+Johnstone,Keith Johnstone,Impro,Book,1979,Liked,20s,"{Non-Fiction},Philsosophy,{Self-Help}",
+Jones,Lloyd Jones,Mister Pip,Book,2006,Liked,20s,"{Fiction},{Literature}",
+Jordan,Robert Jordan,The Wheel of Time 1-3,Book,1990,Liked,Teens,"{Fiction},{Fantasy}",
+Jordan,Matthew Jordan,Innovate 1Z03 Lectures,Podcast,,Loved,20s,"{Artificial Intelligence},{History}",https://www.listennotes.com/podcasts/innovate-1z03-lectures-matthew-jordan-T2uAL_1R0wp/
+Joyce,James Joyce,Araby,Book,1914,Loved,20s,"{Fiction},{Literature},{Short Stories}",
+Joyce,James Joyce,The Dead,Book,1914,Loved,20s,"{Fiction},{Literature},{Short Stories}",
+Kabat-Zinn,Jon Kabat-Zinn,Full Catastrophe Living,Book,1990,Indifferent,20s,"{Non-Fiction},{Philosophy}",
+Kacey Musgraves,Kacey Musgraves,Golden Hour,Album,2018,Loved,20s,"{Folk},{Country}",
+Kadare,Ismail Kadare,Broken April,Book,1978,Liked,Teens,"{Fiction},{Literature}",
+Kafka,Franz Kafka,The Metamorphosis,Book,1915,Liked,20s,"{Fiction},{Literature}",
+Kahneman,Daniel Kahneman,"Thinking, Fast and Slow",Book,2011,Liked,20s,"{Non-Fiction},{Psychology},{Science}",
+Kalanithi,Paul Kalanithi,When Breath Becomes Air,Book,2016,Disliked,20s,"{Non-Fiction},{Memoirs}",
+Kanye West,Kanye West,The College Dropout,Album,2004,Loved,20s,{Rap},
+Kanye West,Kanye West,Late Registration,Album,2005,Loved,20s,{Rap},
+Kanye West,Kanye West,Graduation,Album,2007,Loved,20s,{Rap},
+Kanye West,Kanye West,My Beautiful Dark Twisted Fantasy,Album,2010,Loved,20s,{Rap},
+Kanye West,Kanye West,The Life of Pablo,Album,2016,Loved,20s,{Rap},
+Kaufman,Josh Kaufman,The Personal MBA,Book,2010,Liked,20s,"{Non-Fiction},{Self-Help},{Business}",
+Kay,Guy Gavriel Kay,The Fionavar Tapestry,Book,1986,Liked,Teens,"{Fiction},{Fantasy}",
+Kay,Guy Gavriel Kay,Ysabel,Book,2007,Liked,Teens,"{Fiction},{Fantasy}",
+KC Roberts & the Live Revolution,KC Roberts & the Live Revolution,Parkdale Funk 2,Album,2013,Loved,20s,"{Funk},{Rock}",
+KC Roberts & the Live Revolution,KC Roberts & the Live Revolution,Between the Cracks,Album,2012,Loved,20s,"{Funk},{Rock}",
+KC Roberts & the Live Revolution,KC Roberts & the Live Revolution,Good Life,Album,2010,Loved,20s,"{Funk},{Rock}",
+Kendrick Lamar,Kendrick Lamar,Section.80,Album,2011,Loved,20s,{Rap},
+Kendrick Lamar,Kendrick Lamar,"good kid, m.A.A.d city",Album,2012,Loved,20s,{Rap},
+Kendrick Lamar,Kendrick Lamar,To Pimp A Butterfly,Album,2015,Loved,20s,{Rap},
+Keyes,Daniel Keyes,Flowers for Algernon,Book,1966,Liked,20s,"{Fiction},{Science-Fiction}",
+King,Stephen King,On Writing,Book,2000,Loved,20s,"{Non-Fiction},{Memoirs},{Writing}",
+Klein,Ezra Klein,The Ezra Klein Show,Podcast,,Loved,20s,"{Current events},{Culture}",https://www.vox.com/ezra-klein-show-podcast
+Kleist,Heinrich von Kleist,The Marquise of O,Book,1808,Liked,20s,"{Fiction},{Literature}",
+Kruger Brothers,Kruger Brothers,"The Suite, Vol. 1",Album,2007,Loved,Teens,"{Folk},{Bluegrass}",
+La's,The La's,The La's,Album,1990,Loved,Childhood,{Rock},
+Larson,Gary Larson,The Far Side Gallery,Book,1984,Liked,Teens,"{Fiction},{Comics}",
+Lawrence,Lawrence,Breakfast,Album,2017,Loved,20s,"{Funk},{Pop}",
+Lawrence,Lawrence,Living Room,Album,2018,Loved,20s,"{Funk},{Pop}",
+LCD Soundsystem,LCD Soundsystem,Sound of Silver,Album,2007,Loved,Teens,"{Rock},{Alternative}",
+Le Guin,Ursula K. Le Guin,A Wizard of Earthsea,Book,1968,Liked,20s,"{Fiction},{Fantasy}",
+Le Guin,Ursula K. Le Guin,The Ones Who Walk Away from Omelas,Book,1973,Liked,20s,"{Fiction},{Science-Fiction}",
+Le Guin,Ursula K. Le Guin,The Left Hand of Darkness,Book,1969,Liked,20s,"{Fiction},{Science-Fiction}",
+Lee,Harper Lee,To Kill a Mockingbird,Book,1960,Liked,Teens,"{Fiction},{Literature}",
+Levi,Primo Levi,Survival in Auschwitz,Book,1947,Liked,20s,"{Non-Fiction},{Memoirs},{History}",
+Lewis,C.S. Lewis,The Chronicles of Narnia,Book,1956,Liked,Childhood,"{Fiction},{Fantasy}",
+Lewis,Aaron Z. Lewis,Solved Conversations,Article,2014,Loved,20s,{Communication},https://aaronzlewis.com/blog/2014/06/01/solved-conversations/
+Lewis,Aaron Z. Lewis,Being Your Selves: Identity R&D on the Pseudonymous Internet,Article,2020,Loved,20s,"{Media},{Internet}",https://aaronzlewis.com/blog/2020/02/18/being-your-selves-identity-r-and-d-on-the-pseudonymous-internet/
+Lightman,Alan Lightman,Einstein's Dreams,Book,1992,Liked,Teens,"{Fiction},{Science-Fiction}",
+Lin-Manuel Miranda,Lin-Manuel Miranda,Hamilton,Album,2015,Loved,20s,"{Musicals},{Rap}",
+Lou Bega,Lou Bega,A Little Bit of Mambo,Album,1999,Loved,Childhood,{R & B},
+MacDonald,George MacDonald,The Princess and the Goblin,Book,1872,Indifferent,20s,"{Fiction},{Fantasy}",
+Madison Cunningham,Madison Cunningham,For The Sake Of The Rhyme,Album,2019,Loved,20s,{Folk},
+Mark Knopfler,Mark Knopfler,The Ragpicker's Dream,Album,2002,Loved,Childhood,"{Rock},{Folk}",
+Mark Knopfler & Emmylou Harris,Mark Knopfler & Emmylou Harris,All The Roadrunning,Album,2006,Loved,Teens,"{Rock},{Country}",
+Martel,Yann Martel,Life of Pi,Book,2001,Loved,Teens,"{Fiction},{Literature}",
+Matuschak,Andy Matuschak,Why books don't work,Article,2019,Loved,20s,"{Media},{Learning}",https://andymatuschak.org/books/
+McCarthy,Cormac McCarthy,The Road,Book,2006,Loved,20s,"{Fiction},{Literature},{Westerns}",
+McGrayne,Sharon Bertsch McGrayne,The Theory That Would Not Die,Book,2011,Disliked,20s,"{Non-Fiction},{History},{Science},{Statistics}",
+McMurtry,Larry McMurtry,Lonesome Dove,Book,1985,Loved,In the past year,"{Fiction},{Westerns},{Literature}",
+Meadows,Donella Meadows,Leverage Points,Article,1999,Loved,20s,"{Systems},{Decision making}",http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
+Medina,John Medina,Brain Rules,Book,2008,Liked,20s,"{Non-Fiction},{Science},{Psychology},{Learning},{Self-Help}",
+Michael McDonald,Michael McDonald,Motown,Album,2003,Loved,Teens,{R & B},
+Miller,Chanel Miller,Know My Name,Book,2019,Loved,In the past year,"{Non-Fiction},{Memoirs}",
+Miller,Arthur  Miller,The Crucible,Book,1953,Indifferent,Teens,"{Fiction},{Plays}",
+Millhauser,Steven Millhauser,Martin Dressler,Book,1996,Liked,In the past year,"{Fiction},{Literature}",
+Moonchild,Moonchild,Voyager,Album,2017,Loved,20s,{R & B},
+Morrison,Toni Morrison,Beloved,Book,1987,Liked,20s,"{Fiction},{Literature}",
+Moss,Stephen Moss,The Rookie,Book,n,Liked,20s,"{Non-Fiction},{Memoirs}",
+Murakami,Haruki Murakami,Sputnik Sweetheart,Book,1999,Disliked,In the past year,"{Fiction},{Literature}",
+Márquez,Gabriel García Márquez,One Hundred Years of Solitude,Book,1967,Liked,20s,"{Fiction},{Literature}",
+Neutral Milk Hotel,Neutral Milk Hotel,In the Aeroplane Over the Sea,Album,1998,Loved,Teens,"{Rock},{Alternative}",
+Nicholson,William Nicholson,The Wind on Fire Trilogy,Book,2002,Liked,Childhood,"{Fiction},{Fantasy}",
+Nickel Creek,Nickel Creek,A Dotted Line,Album,2014,Loved,20s,"{Folk},{Bluegrass}",
+Nielsen,Michael Nielsen,Reinventing Discovery,Book,2011,Loved,20s,"{Non-Fiction},{Philosophy},{Science}",
+Nimmo,Jenny Nimmo,Children of the Red King 1-5,Book,2002-2006,Loved,Childhood,"{Fiction},{Fantasy}",
+O'Shaughnessy,Patrick O'Shaughnessy,Millennial Money,Book,2014,Liked,20s,"{Non-Fiction},{Personal Finance}",
+O'Shaughnessy,Patrick O'Shaughnessy,Invest Like the Best,Podcast,,Loved,20s,{Investing},http://investorfieldguide.com/podcast/
+Oakley,Barbara Oakley,A Mind for Numbers,Book,2014,Liked,20s,"{Non-Fiction},{Learning},{Self-Help}",
+Oh Hellos,The Oh Hellos,The Oh Hellos' Family Christmas Album,Album,2014,Loved,20s,"{Folk},{Christmas}",
+Olson,Randy Olson,"Houston, We Have a Narrative",Book,2015,Liked,20s,"{Non-Fiction},{Writing},{Self-Help},{Science}",
+Oppel,Kenneth Oppel,Silverwing,Book,1997,Liked,Childhood,"{Fiction},{Literature}",
+Orwell,George Orwell,Animal Farm,Book,1945,Liked,20s,"{Fiction},{Literature}",
+Orwell,George Orwell,1984,Book,1949,Liked,20s,"{Fiction},{Literature}",
+Palahniuk,Chuck Palahniuk,Fight Club,Book,1996,Liked,Teens,"{Fiction},{Literature}",
+Paolini,Christopher Paolini,The Inheritance Cycle 1-3,Book,2002,Liked,Teens,"{Fiction},{Fantasy}",
+Paramore,Paramore,After Laughter,Album,2017,Loved,20s,{Rock},
+Patterson,James Patterson,Maximum Ride,Book,2005,Liked,Teens,"{Fiction},{Science-Fiction}",
+Paulsen,Gary Paulsen,Brian's Saga 1-2,Book,1996,Liked,Teens,"{Fiction},{Literature}",
+Perell,David Perell,North Star,Podcast,,Loved,20s,"{Investing},{Self-improvement}",https://www.perell.com/podcast
+Perry,Sarah Perry,Deep Laziness,Article,2018,Loved,20s,{Self-improvement},https://www.ribbonfarm.com/2018/04/06/deep-laziness/
+Phil Collins,Phil Collins,Testify,Album,2002,Loved,Childhood,{Rock},
+Phil Collins & Mark Mancina,Phil Collins & Mark Mancina,Tarzan,Album,1999,Loved,Childhood,"{Soundtrack},{Rock}",
+Pink Floyd,Pink Floyd,The Dark Side of the Moon,Album,1973,Loved,Childhood,{Rock},
+Pinker,Steven Pinker,How the Mind Works,Book,1997,Loved,20s,"{Non-Fiction},{Psychology},{Science}",
+Pinker,Steven Pinker,The Better Angels of Our Nature,Book,2010,Liked,20s,"{Non-Fiction},{History}",
+Pinker,Steven Pinker,The Language Instinct,Book,1994,Loved,20s,"{Non-Fiction},{Psychology},{Science}",
+Pinker,Steven Pinker,The Sense of Style,Book,2014,Loved,20s,"{Non-Fiction},{Writing},{Self-Help}",
+Pullman,Philip Pullman,His Dark Materials,Book,2000,Loved,Teens,"{Fiction},{Fantasy}",
+Punch Brothers,Punch Brothers,The Phosphorescent Blues,Album,2015,Loved,20s,"{Folk},{Bluegrass}",
+Punch Brothers,Punch Brothers,All Ashore,Album,2018,Loved,20s,"{Folk},{Bluegrass}",
+Punch Brothers,Punch Brothers,Who's Feeling Young Now?,Album,2012,Loved,20s,"{Folk},{Bluegrass}",
+Punch Brothers,Punch Brothers,Antifogmatic,Album,2010,Loved,20s,"{Folk},{Bluegrass}",
+Radiohead,Radiohead,In Rainbows,Album,2007,Loved,20s,"{Rock},{Alternative}",
+Ritchie,Stuart Ritchie,Intelligence,Book,2015,Liked,20s,"{Non-Fiction},{Psychology},{Science}",
+Robbins,Anthony Robbins,MONEY Master the Game,Book,2014,Liked,20s,"{Non-Fiction},{Self-Help},{Personal Finance}",
+Roberts,Russ Roberts,EconTalk,Podcast,,Loved,20s,{Economics},https://www.econtalk.org/
+Rowling,J.K. Rowling,Harry Potter 1-7,Book,2007,Loved,Childhood,"{Fiction},{Fantasy}",
+Run the Jewels,Run the Jewels,Run the Jewels,Album,2013,Loved,20s,{Rap},
+Run the Jewels,Run the Jewels,Run the Jewels 2,Album,2014,Loved,20s,{Rap},
+Rushdie,Salman Rushdie,The Satanic Verses,Book,1988,Liked,Teens,"{Fiction},{Literature}",
+Sachar,Louis Sachar,Holes,Book,1998,Liked,Childhood,"{Fiction},{Literature}",
+Saint-Exupéry,Antoine de Saint-Exupéry,The Little Prince,Book,1943,Liked,Teens,"{Fiction},{Literature}",
+Salinger,J.D. Salinger,The Catcher in the Rye,Book,1951,Liked,Teens,"{Fiction},{Literature}",
+Sapolsky,Robert M. Sapolsky,Behave,Book,2017,Disliked,20s,"{Non-Fiction},{Science},{Psychology}",
+Schneier,Bruce Schneier,Data and Goliath,Book,2015,Liked,20s,"{Non-Fiction},{Philosophy},{Science},{Computer Science & Programming}",
+Shakespeare,William Shakespeare,Hamlet,Book,1603,Liked,Teens,"{Fiction},{Plays}",
+Shakespeare,William Shakespeare,Romeo and Juliet,Book,1595,Liked,Teens,"{Fiction},{Plays}",
+Shakespeare,William Shakespeare,A Midsummer Night's Dream,Book,1595,Liked,Teens,"{Fiction},{Plays}",
+Shelley,Mary Wollstonecraft Shelley,Frankenstein,Book,1818,Liked,20s,"{Fiction},{Literature}",
+Silver,Nate Silver,The Signal and the Noise,Book,2012,Liked,20s,"{Non-Fiction},{Philosophy},{Science},{Statistics}",
+Simler,Kevin Simler,Crony Beliefs,Article,2016,Loved,20s,{Epistemology},https://meltingasphalt.com/crony-beliefs/
+Simler,Kevin Simler,Going Critical,Article,2019,Loved,20s,"{Systems},{Memetics}",https://meltingasphalt.com/going-critical/
+Simler,Kevin Simler,A Natural History of Beauty,Article,2018,Loved,20s,{Ecology},https://meltingasphalt.com/a-natural-history-of-beauty/
+Simler,Kevin Simler,Here Be Sermons,Article,2017,Loved,20s,{Memetics},https://meltingasphalt.com/here-be-sermons/
+Simler & Hanson,Kevin Simler & Robin Hanson,The Elephant in the Brain,Book,2017,Liked,20s,"{Non-Fiction},{Psychology},{Philosophy}",
+Smith,Huston Smith,The World's Religions,Book,1958,Indifferent,Teens,"{Non-Fiction},{Religion}",
+Sommers & Pizarro,Tamler Sommers & David Pizzaro,Very Bad Wizards,Podcast,,Loved,20s,"{Psychology},{Philosophy}",https://verybadwizards.fireside.fm/
+Spong,John Shelby Spong,A New Christianity for a New World,Book,2001,Liked,Teens,"{Non-Fiction},{Religion}",
+Steely Dan,Steely Dan,Aja,Album,1977,Loved,20s,{Rock},
+Steinbeck,John Steinbeck,Of Mice and Men,Book,1937,Liked,20s,"{Fiction},{Literature}",
+Steinhardt,Jacob Steinhardt,Research as a stochastic decision process,Article,2019,Loved,20s,"{Strategy},{Decision making},{Research}",https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html
+Stephens-Davidowitz,Seth Stephens-Davidowitz,Everybody Lies,Book,2017,Liked,20s,"{Non-Fiction},{Philosophy},{Science}",
+Stephenson,Neal Stephenson,Snow Crash,Book,1992,Disliked,20s,"{Fiction},{Science-Fiction}",
+Stevie Wonder,Stevie Wonder,Songs In The Key Of Life,Album,1976,Loved,20s,"{R & B},{Funk}",
+Strunk,William Strunk Jr.,The Elements of Style,Book,1918,Liked,20s,"{Non-Fiction},{Writing},{Self-Help}",
+Sufjan Stevens,Sufjan Stevens,Carrie & Lowell,Album,2015,Loved,20s,"{Folk},{Alternative}",
+Sufjan Stevens,Sufjan Stevens,Michigan,Album,2003,Loved,20s,"{Folk},{Alternative},{Indie}",
+Swift,Jonathan Swift,Gulliver's Travels,Book,1726,Liked,Teens,"{Fiction},{Literature}",
+Taleb,Nassim Nicholas Taleb,The Black Swan,Book,2007,Liked,20s,"{Non-Fiction},{Philosophy},{Statistics}",
+Tame Impala,Tame Impala,Currents,Album,2015,Loved,20s,"{Rock},{Alternative}",
+Taylor Swift,Taylor Swift,Red,Album,2012,Loved,Teens,{Pop},
+Thaler,Richard H. Thaler,Nudge,Book,2008,Liked,20s,"{Non-Fiction},{Psychology}",
+Theo Katzman,Theo Katzman,Heartbreak Hits,Album,2017,Loved,20s,{Rock},
+Theo Katzman,Theo Katzman,My Heart Is Live in Berlin,Album,2019,Loved,20s,"{Rock},{Live}",
+Theo Katzman,Theo Katzman,Modern Johnny Sings,Album,2020,Loved,20s,{Rock},
+Theo Katzman,Theo Katzman,Romance Without Finance,Album,2011,Loved,20s,{Rock},
+Thiel,Peter Thiel,Zero to One,Book,2014,Loved,20s,"{Non-Fiction},{Philosophy},{Business}",
+Thoreau,Henry David Thoreau,Walden,Book,1854,Liked,Teens,"{Non-Fiction},{Philosophy},{Memoirs}",
+Tolkien,J.R.R. Tolkien,The Lord of the Rings,Book,1955,Liked,Teens,"{Fiction},{Fantasy}",
+Tolkien,J.R.R. Tolkien,The Hobbit,Book,1937,Liked,Childhood,"{Fiction},{Fantasy}",
+Tom Misch,Tom Misch,Geography,Album,2018,Loved,20s,{R & B},
+Torenberg,Erik Torenberg,Venture Stories,Podcast,,Loved,20s,{Investing},https://www.villageglobal.vc/podcast/
+Tzu,Sun Tzu,The Art of War,Book,-500,Liked,20s,"{Non-Fiction},{Philosophy}",
+Tzu,Lao Tzu,Tao Te Ching,Book,-600,Liked,20s,"{Non-Fiction},{Philosophy}",
+Vampire Weekend,Vampire Weekend,Father of the Bride,Album,2019,Loved,In the past year,{Rock},
+Vampire Weekend,Vampire Weekend,Modern Vampires of the City,Album,2013,Loved,20s,{Rock},
+Van Morrison,Van Morrison,Avalon Sunset,Album,1989,Loved,Childhood,{Rock},
+Vance,Ashlee Vance,Elon Musk,Book,2015,Liked,20s,"{Non-Fiction},{Biographies}",
+Vance,Alyssa Vance,Levels of Action,Article,2015,Loved,20s,"{Strategy},{Self-improvement},{Skill development}",https://www.lesswrong.com/posts/guDcrPqLsnhEjrPZj/levels-of-action
+Verne,Jules Verne,Twenty Thousand Leagues Under the Sea,Book,1869,Disliked,Teens,"{Fiction},{Science-Fiction}",
+Vince Guaraldi Trio,Vince Guaraldi Trio,A Charlie Brown Christmas,Album,1965,Loved,20s,"{Jazz},{Christmas}",
+Voltaire,Voltaire,Candide,Book,1759,Liked,Teens,"{Fiction},{Parables},{Philosophy},{Literature}",
+Vonnegut,Kurt Vonnegut Jr.,Cat's Cradle,Book,1963,Liked,20s,"{Fiction},{Literature}",
+Vonnegut,Kurt Vonnegut Jr.,"God Bless You, Mr. Rosewater",Book,1965,Liked,Teens,"{Fiction},{Literature}",
+Vonnegut,Kurt Vonnegut Jr.,Slaughterhouse-Five,Book,1969,Liked,20s,"{Fiction},{Literature}",
+Voss,Chris Voss,Never Split the Difference,Book,2016,Liked,20s,"{Non-Fiction},{Self-Help},{Business}",
+Vulfpeck,Vulfpeck,Thrill of the Arts,Album,2015,Loved,20s,{Funk},
+Vulfpeck,Vulfpeck,The Beautiful Game,Album,2016,Loved,20s,{Funk},
+Vulfpeck,Vulfpeck,Mr. Finish Line,Album,2017,Loved,20s,{Funk},
+Vulfpeck,Vulfpeck,Hill Climber,Album,2018,Loved,20s,{Funk},
+Wallace,David Foster Wallace,Oblivion,Book,2004,Loved,20s,"{Fiction},{Literature},{Short Stories}",
+Wallace,David Foster Wallace,Infinite Jest,Book,1996,Loved,20s,"{Fiction},{Literature}",
+Wallace,David Foster Wallace,Both Flesh and Not: Essays,Book,2012,Loved,20s,"{Non-Fiction},{Essays}",
+Wang,Dan Wang,Definite optimism as human capital,Article,2017,Loved,20s,{Progress},https://danwang.co/definite-optimism-as-human-capital/
+Watterson,Bill Watterson,Calvin and Hobbes,Book,1985-1995,Loved,Childhood,"{Fiction},{Comics}",
+Wax,Wax,The Cookout Chronicles,Album,2016,Loved,20s,{Rap},
+Wax,Wax,Scrublife,Album,2011,Loved,Teens,{Rap},
+Wax,Wax,Eviction Notice,Album,2011,Loved,Teens,{Rap},
+Weir,Andy Weir,Artemis,Book,2017,Indifferent,20s,"{Fiction},{Science-Fiction}",
+Wells,H.G. Wells,The Island of Doctor Moreau,Book,1896,Indifferent,20s,"{Fiction},{Science-Fiction}",
+Westover,Tara Westover,Educated,Book,2018,Loved,20s,"{Non-Fiction},{Memoirs}",
+Whitney,Whitney,Light Upon the Lake,Album,2016,Loved,20s,{Folk},
+Wickham,Hadley Wickham,Advanced R,Book,2014,Loved,20s,"{Non-Fiction},{Computer Science & Programming},{Textbooks}",
+Wiesel,Elie Wiesel,Night,Book,1956,Indifferent,20s,"{Fiction},{Literature}",
+Wilde,Oscar Wilde,The Picture of Dorian Gray,Book,1890,Liked,20s,"{Fiction},{Literature}",
+Wilson,Robert Charles Wilson,Spin,Book,2005,Liked,Teens,"{Fiction},{Science-Fiction}",
+Winston,Patrick Winston,How to Speak,Video,2014,Loved,20s,{Communication},https://vimeo.com/101543862
+Wolf,Christa Wolf,Cassandra,Book,1983,Disliked,20s,"{Fiction},{Literature}",
+Woody Goss,Woody Goss,A Very Vulfy Christmas,Album,2019,Loved,In the past year,"{Jazz},{Christmas}",
+Woolf,Virginia Woolf,Mrs. Dalloway,Book,1925,Liked,20s,"{Fiction},{Literature}",
+Wright,Ronald Wright,A Short History of Progress,Book,2004,Indifferent,Teens,"{Non-Fiction},{Philosophy},{History}",
+Wyndham,John Wyndham,The Chrysalids,Book,1955,Liked,Teens,"{Fiction},{Literature}",
+Yudkowsky,Eliezer Yudkowsky,Inadequate Equilibria,Book,2017,Liked,20s,"{Non-Fiction},{Philosophy}",
+Yudkowsky,Eliezer Yudkowsky,Rationality From AI to Zombies,Book,2015,Loved,20s,"{Non-Fiction},{Philosophy}",
+Yudkowsky,Eliezer Yudkowsky,Harry Potter and the Methods of Rationality,Book,2015,Loved,20s,"{Fiction},{Fantasy}",
+Yudkowsky,Eliezer Yudkowsky,Intelligent Characters,Book,2014,Loved,20s,{Writing},https://yudkowsky.tumblr.com/writing
+Zinsser,William Zinsser,On Writing Well,Book,1976,Liked,20s,"{Non-Fiction},{Writing}",
+Chang,Robert Chang,How I Build Learning Projects,Article,2019,,20s,"{Learning},{Self-improvement},{Skill development}",https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961

@@ -22,3 +22,5 @@ As far as I can tell, these are the key ingredients:
 None of these things are easy to do outside a PhD program, but they're all possible. You can learn independently: materials are abundant and usually free, so in many disciplines the only barriers to understanding are time and discipline. You can publish papers in industry journals or conference proceedings. You can find an expert mentor. You can volunteer to lead workshops, or find a part-time teaching position. And as long as you can acquire the tools and the data, you can do original research.
 
 Of course, people consider doing PhDs for different reasons. Different end-goals may call for different mixtures of ingredients. But if you're considering one at all, it's worth asking yourself: for whichever parts of the experience are most appealing to you, is there a DIY version that might be just as good?
+
+See also [Nadia Eghbal's essay, "Reimagining the PhD"](https://nadiaeghbal.com/phd).

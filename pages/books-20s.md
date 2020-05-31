@@ -33,7 +33,7 @@ tooltips:
 * Confucius, *The Analects* (-429)
 * Conrad, *Heart of Darkness* (1899)
 * Cowen, *Discover Your Inner Economist* (2007)
-* Cowen, *Stubborn Attachments* (n)
+* Cowen, *Stubborn Attachments* (2018)
 * Dickens, *Great Expectations* (1861)
 * Dillard, *Pilgrim at Tinker Creek* (1974)
 * Dostoyevsky, *Crime and Punishment* (1866)
@@ -135,6 +135,7 @@ tooltips:
 * Woolf, *Mrs. Dalloway* (1925)
 * Yudkowsky, *Harry Potter and the Methods of Rationality* (2015) ★
 * Yudkowsky, *Inadequate Equilibria* (2017)
+* Yudkowsky, *[Intelligent Characters](https://yudkowsky.tumblr.com/writing)* (2014) ★
 * Yudkowsky, *Rationality From AI to Zombies* (2015) ★
 * Zinsser, *On Writing Well* (1976)
 * de Cervantes, *Don Quixote* (1615)

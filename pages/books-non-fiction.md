@@ -26,7 +26,7 @@ tooltips:
 * Clear, *Atomic Habits* (2018)
 * Confucius, *The Analects* (-429)
 * Cowen, *Discover Your Inner Economist* (2007)
-* Cowen, *Stubborn Attachments* (n)
+* Cowen, *Stubborn Attachments* (2018)
 * Dawkins, *The God Delusion* (2006)
 * Dawkins, *Unweaving the Rainbow* (1998)
 * Dillard, *Pilgrim at Tinker Creek* (1974)

@@ -5,6 +5,8 @@ library = pd.read_csv('library.csv')
 def build_library():
     build_book_pages()
     build_album_pages()
+    build_article_pages()
+    build_podcast_pages()
 
 
 def build_book_pages():
@@ -70,6 +72,32 @@ def build_album_pages():
     )
 
 
+def build_article_pages():
+    write_shelf_page(Shelf(library, media_type='Article'))
+    make_shelf_pages(
+        media_type='Article',
+        tags=[
+            '{Communication}',
+            '{Goal-setting}',
+            '{Epistemology}',
+            '{Media}',
+            '{Memetics}',
+            '{Productivity}',
+            '{Progress}',
+            '{Research}',
+            '{Self-improvement}',
+            '{Skill development}',
+            '{Strategy}',
+            '{Systems}',
+        ]
+    )
+
+
+def build_podcast_pages():
+    write_shelf_page(Shelf(library, media_type='Podcast'))
+    make_shelf_pages(media_type='Podcast')
+
+
 def make_shelf_pages(media_type, ratings = [], periods_of_my_life = [], tags = []):
     for rating in ratings:
         write_shelf_page(Shelf(library, media_type=media_type, rating=rating))
@@ -118,12 +146,20 @@ class Shelf:
             '---\n',
             '\n'
         ]
-        if self.media_type == 'Book':
+        if self.media_type in ['Article', 'Book', 'Podcast']:
             creator_indicated_by = 'creator_key'
         elif self.media_type == 'Album':
             creator_indicated_by = 'creator'
         for index, item in self.shelf.iterrows():
-            string = f"* {item[creator_indicated_by]}, *{item['title']}* ({item['publication_year']})"
+            if not pd.isnull(item['url']):
+                title_string = f'*[{item["title"]}]({item["url"]})*'
+            else:
+                title_string = f'*{item["title"]}*'
+            if not pd.isnull(item['publication_year']):
+                year_string = f'({item["publication_year"]})'
+            else:
+                year_string = ''
+            string = f"* {item[creator_indicated_by]}, {title_string} {year_string}"
             if self.rating is None and self.media_type == 'Book':
                 if item['rating'] == 'Loved':
                     string += ' ★'

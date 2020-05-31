@@ -28,7 +28,7 @@ tooltips:
 * Clear, *Atomic Habits* (2018)
 * Collins, *The Hunger Games* (2008)
 * Cowen, *Discover Your Inner Economist* (2007)
-* Cowen, *Stubborn Attachments* (n)
+* Cowen, *Stubborn Attachments* (2018)
 * Crichton, *Jurassic Park* (1990)
 * Czuchlewski, *The Muse Asylum* (2001)
 * Dawkins, *The God Delusion* (2006)
