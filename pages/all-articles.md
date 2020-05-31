@@ -31,6 +31,8 @@ tooltips:
 * Simler, *[Crony Beliefs](https://meltingasphalt.com/crony-beliefs/)* (2016)
 * Simler, *[Going Critical](https://meltingasphalt.com/going-critical/)* (2019)
 * Simler, *[Here Be Sermons](https://meltingasphalt.com/here-be-sermons/)* (2017)
+* Somers, *[Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)* (2015)
+* Somers, *[You're probably using the wrong dictionary](https://jsomers.net/blog/dictionary)* (2014)
 * Steinhardt, *[Research as a stochastic decision process](https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html)* (2019)
 * Vance, *[Levels of Action](https://www.lesswrong.com/posts/guDcrPqLsnhEjrPZj/levels-of-action)* (2015)
 * Wang, *[Definite optimism as human capital](https://danwang.co/definite-optimism-as-human-capital/)* (2017)

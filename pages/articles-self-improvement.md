@@ -14,4 +14,5 @@ tooltips:
 * Forte, *[One Touch to Inbox Zero](https://fortelabs.co/blog/one-touch-to-inbox-zero/)* (2015)
 * Hobart, *[Cost-First New Year's Resolutions](https://medium.com/@byrnehobart/cost-first-new-years-resolutions-6bb30393201d)* (2018)
 * Perry, *[Deep Laziness](https://www.ribbonfarm.com/2018/04/06/deep-laziness/)* (2018)
+* Somers, *[Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)* (2015)
 * Vance, *[Levels of Action](https://www.lesswrong.com/posts/guDcrPqLsnhEjrPZj/levels-of-action)* (2015)
