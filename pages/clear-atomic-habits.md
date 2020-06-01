@@ -1,11 +1,17 @@
 ---
 layout: page
-title: Atomic Habits
-permalink: /atomic-habits/
+title: Clear, Atomic Habits
+permalink: /clear-atomic-habits/
 published: true
 last_updated: 2019-01-14
-backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+backlinks: <ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-liked" class="internal-link" href="/books-liked/">Liked</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-self-help" class="internal-link" href="/books-self-help/">Self-Help</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
 tooltips: 
+- path: tooltip_all-books.js
+- path: tooltip_books-20s.js
+- path: tooltip_books-business.js
+- path: tooltip_books-liked.js
+- path: tooltip_books-non-fiction.js
+- path: tooltip_books-self-help.js
 - path: tooltip_commentaries.js
 ---
 

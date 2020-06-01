@@ -7,5 +7,5 @@ tippy('#articles-research', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Research</h1><ul><li>Steinhardt, <em><a href="https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html">Research as a stochastic decision process</a></em> (2019)</li></ul></div>'
+    content: '<div class="article-component"><h1>Research</h1><ul><li>Steinhardt, <a href="https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html">Research as a stochastic decision process</a> (2019)</li></ul></div>'
 });

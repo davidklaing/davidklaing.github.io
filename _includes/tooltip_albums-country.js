@@ -7,5 +7,5 @@ tippy('#albums-country', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Country</h1><ul><li>Kacey Musgraves, <em>Golden Hour</em> (2018)</li><li>Mark Knopfler &amp; Emmylou Harris, <em>All The Roadrunning</em> (2006)</li></ul></div>'
+    content: '<div class="article-component"><h1>Country</h1><ul><li>Kacey Musgraves, Golden Hour (2018)</li><li>Mark Knopfler &amp; Emmylou Harris, All The Roadrunning (2006)</li></ul></div>'
 });

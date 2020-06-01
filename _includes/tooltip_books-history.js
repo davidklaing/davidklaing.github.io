@@ -7,5 +7,5 @@ tippy('#books-history', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>History</h1><ul><li>Caro, <em>The Path to Power</em> (1982) ★</li><li>Durant, <em>The Lessons of History</em> (1968)</li><li>Gleick, <em>Chaos</em> (1987)</li><li>Gleick, <em>The Information</em> (2011) ★</li><li>Levi, <em>Survival in Auschwitz</em> (1947)</li><li>McGrayne, <em>The Theory That Would Not Die</em> (2011)</li><li>Pinker, <em>The Better Angels of Our Nature</em> (2010)</li><li>Wright, <em>A Short History of Progress</em> (2004)</li></ul></div>'
+    content: '<div class="article-component"><h1>History</h1><ul><li>Caro, The Path to Power (1982) ★</li><li>Durant, The Lessons of History (1968)</li><li>Gleick, Chaos (1987)</li><li>Gleick, The Information (2011) ★</li><li>Levi, Survival in Auschwitz (1947)</li><li>McGrayne, The Theory That Would Not Die (2011)</li><li>Pinker, The Better Angels of Our Nature (2010)</li><li>Wright, A Short History of Progress (2004)</li></ul></div>'
 });

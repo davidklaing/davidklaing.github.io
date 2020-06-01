@@ -139,7 +139,7 @@ class Shelf:
         page = [
             '---\n',
             'layout: page\n',
-            f'title: "{title}"\n',
+            f'title: {title}\n',
             'published: true\n',
             f'permalink: /{id}/\n',
             'backlinks: \n',
@@ -154,9 +154,15 @@ class Shelf:
             elif self.media_type == 'Podcast':
                 creator_string = ''
             if not pd.isnull(item['url']):
-                title_string = f'*[{item["title"]}]({item["url"]})* '
+                title = item["title"]
+                url = item['url']
+                if url[0] == '/':
+                    id = url.strip('/')
+                    title_string = f'<a id="{id}" class="internal-link" href="{url}">{title}</a> '
+                else:
+                    title_string = f'[{title}]({url}) '
             else:
-                title_string = f'*{item["title"]}* '
+                title_string = f'{item["title"]} '
             if not pd.isnull(item['publication_year']):
                 year_string = f'({item["publication_year"]})'
             else:

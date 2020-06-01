@@ -7,5 +7,5 @@ tippy('#books-business', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Business</h1><ul><li>Clear, <em>Atomic Habits</em> (2018)</li><li>Kaufman, <em>The Personal MBA</em> (2010)</li><li>Thiel, <em>Zero to One</em> (2014) ★</li><li>Voss, <em>Never Split the Difference</em> (2016)</li></ul></div>'
+    content: '<div class="article-component"><h1>Business</h1><ul><li>Clear, <a class="internal-link" href="/clear-atomic-habits/" id="clear-atomic-habits">Atomic Habits</a> (2018)</li><li>Kaufman, The Personal MBA (2010)</li><li>Thiel, <a class="internal-link" href="/thiel-zero-to-one/" id="thiel-zero-to-one">Zero to One</a> (2014)</li><li>Voss, Never Split the Difference (2016)</li></ul></div>'
 });

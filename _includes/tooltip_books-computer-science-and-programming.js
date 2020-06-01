@@ -7,5 +7,5 @@ tippy('#books-computer-science-and-programming', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Computer Science &amp; Programming</h1><ul><li>Christian, <em>Algorithms to Live By</em> (2016) ★</li><li>James et al., <em>An Introduction to Statistical Learning</em> (2017)</li><li>Schneier, <em>Data and Goliath</em> (2015)</li><li>Wickham, <em>Advanced R</em> (2014) ★</li></ul></div>'
+    content: '<div class="article-component"><h1>Computer Science &amp; Programming</h1><ul><li>Christian, Algorithms to Live By (2016) ★</li><li>James et al., An Introduction to Statistical Learning (2017)</li><li>Schneier, Data and Goliath (2015)</li><li>Wickham, Advanced R (2014) ★</li></ul></div>'
 });

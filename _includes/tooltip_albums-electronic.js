@@ -7,5 +7,5 @@ tippy('#albums-electronic', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Electronic</h1><ul><li>The Avalanches, <em>Since I Left You</em> (2000)</li><li>Daft Punk, <em>Alive 2007</em> (2007)</li><li>Daft Punk, <em>Discovery</em> (2001)</li><li>Daft Punk, <em>Random Access Memories</em> (2013)</li></ul></div>'
+    content: '<div class="article-component"><h1>Electronic</h1><ul><li>The Avalanches, Since I Left You (2000)</li><li>Daft Punk, Alive 2007 (2007)</li><li>Daft Punk, Discovery (2001)</li><li>Daft Punk, Random Access Memories (2013)</li></ul></div>'
 });

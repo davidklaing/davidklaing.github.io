@@ -62,7 +62,7 @@ class Page:
             '<a id="subscribe" class="internal-link" href="/subscribe/">Subscribe</a>'
         }
         non_tooltips_lines = [line for line in self.front_matter if 'tooltips: ' not in line and '- path:' not in line]
-        tooltip_script_paths = sorted([f'tooltip_{self.find_page_id(link)}.js' for link in all_links_set])
+        tooltip_script_paths = sorted({f'tooltip_{self.find_page_id(link)}.js' for link in all_links_set})
         if tooltip_script_paths:
             non_tooltips_lines.insert(-1, 'tooltips: \n- path: ' + '\n- path: '.join(tooltip_script_paths) + '\n')
         self.front_matter = non_tooltips_lines

@@ -7,5 +7,5 @@ tippy('#books-westerns', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Westerns</h1><ul><li>McCarthy, <em>The Road</em> (2006) ★</li><li>McMurtry, <em>Lonesome Dove</em> (1985) ★</li></ul></div>'
+    content: '<div class="article-component"><h1>Westerns</h1><ul><li>McCarthy, The Road (2006) ★</li><li>McMurtry, <a class="internal-link" href="/mcmurtry-lonesome-dove/" id="mcmurtry-lonesome-dove">Lonesome Dove</a> (1985) ★</li></ul></div>'
 });

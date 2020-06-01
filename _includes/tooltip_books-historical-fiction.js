@@ -7,5 +7,5 @@ tippy('#books-historical-fiction', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Historical Fiction</h1><ul><li>Clavell, <em>Tai-Pan</em> (1966)</li><li>Hill, <em>The Book of Negroes</em> (2007)</li></ul></div>'
+    content: '<div class="article-component"><h1>Historical Fiction</h1><ul><li>Clavell, Tai-Pan (1966)</li><li>Hill, The Book of Negroes (2007)</li></ul></div>'
 });

@@ -69,7 +69,7 @@ Christian,Brian Christian,Algorithms to Live By,Book,2016,Loved,20s,"{Non-Fictio
 Cialdini,Robert B. Cialdini,Influence,Book,1984,Liked,20s,"{Non-Fiction},{Psychology}",
 Clarke,Arthur C. Clarke,2001: A Space Odyssey,Book,1968,Indifferent,Teens,"{Fiction},{Science-Fiction}",
 Clavell,James Clavell,Tai-Pan,Book,1966,Liked,Teens,"{Fiction},{Historical Fiction}",
-Clear,James Clear,Atomic Habits,Book,2018,Liked,20s,"{Non-Fiction},{Self-Help},{Business}",
+Clear,James Clear,Atomic Habits,Book,2018,Liked,20s,"{Non-Fiction},{Self-Help},{Business}",/clear-atomic-habits/
 Coldplay,Coldplay,Viva La Vida,Album,2008,Loved,Teens,{Rock},
 Coldplay,Coldplay,Parachutes,Album,2000,Loved,Teens,{Rock},
 Coelho,Paulo Coelho,The Alchemist,Book,1988,Disliked,20s,"{Fiction},{Parables},{Literature}",
@@ -125,16 +125,16 @@ Gleick,James Gleick,Isaac Newton,Book,2003,Loved,20s,"{Non-Fiction},{Biographies
 Gleick,James Gleick,The Information,Book,2011,Loved,20s,"{Non-Fiction},{History},{Science}",
 Golding,William Golding,Lord of the Flies,Book,1954,Liked,Teens,"{Non-Fiction},{Literature}",
 Goldstein,Rebecca Goldstein,The Mind-Body Problem,Book,1983,Disliked,20s,"{Fiction},{Literature}",
-Goleman,Daniel Goleman,Altered Traits,Book,2017,Disliked,20s,"{Non-Fiction},{Psychology},{Science}",
+Goleman & Davidson,Daniel Goleman & Richard Davidson,Altered Traits,Book,2017,Mixed feelings,20s,"{Non-Fiction},{Psychology},{Science}",/goleman-and-davidson-altered-traits/
 Gopen,George D. Gopen,The Sense of Structure,Book,2004,Liked,20s,"{Non-Fiction},{Writing}",
 Gowdy,Barbara Gowdy,Disneyland,Book,1989,Loved,20s,"{Fiction},{Literature},{Short Stories}",
-Haidt,Jonathan Haidt,The Righteous Mind,Book,2012,Loved,20s,"{Non-Fiction},{Psychology}",
+Haidt,Jonathan Haidt,The Righteous Mind,Book,2012,Loved,20s,"{Non-Fiction},{Psychology}",/haidt-righteous-mind/
 Haidt,Jonathan Haidt,The Happiness Hypothesis,Book,2005,Loved,20s,"{Non-Fiction},{Psychology}",
 Harari,Yuval Noah Harari,Homo Deus,Book,2017,Disliked,20s,"{Non-Fiction},{Philosophy}",
 Switched on Pop,Charlie Harding & Nate Sloan,Switched on Pop,Podcast,,Loved,20s,{Music},https://switchedonpop.com/
 Hargrove,Todd Hargrove,Playing With Movement,Book,2014,Liked,In the past year,"{Non-Fiction},{Self-Help}, Exercise",
 Harris,Judith Rich Harris,The Nurture Assumption,Book,1998,Liked,20s,"{Non-Fiction},{Science}",
-Harris,Sam Harris,Free Will,Book,2012,Loved,20s,"{Non-Fiction},{Philosophy}",
+Harris,Sam Harris,Free Will,Book,2012,Loved,20s,"{Non-Fiction},{Philosophy}",/harris-free-will/
 Harris,Sam Harris,Waking Up,Book,2014,Loved,20s,"{Non-Fiction},{Philosophy},{Religion}",
 Making Sense,Sam Harris,Making Sense,Podcast,,Loved,20s,"{Philosophy},{Culture}",https://samharris.org/podcast/
 Hawley,Noah Hawley,Before the Fall,Book,2016,Loved,20s,"{Fiction},{Literature}",
@@ -145,7 +145,7 @@ Hill,Lawrence Hill,The Book of Negroes,Book,2007,Liked,Teens,"{Fiction},{Literat
 Hinton,S.E. Hinton,The Outsiders,Book,1967,Liked,Teens,"{Fiction},{Literature}",
 Hoare,Graydon Hoare,Always bet on text,Article,2014,Loved,20s,{Media},https://graydon2.dreamwidth.org/193447.html
 Hobart,Byrne Hobart,Cost-First New Year's Resolutions,Article,2018,Loved,20s,"{Self-improvement},{Goal-setting},{Strategy}",https://medium.com/@byrnehobart/cost-first-new-years-resolutions-6bb30393201d
-Hofstadter,Douglas R. Hofstadter,"Gödel, Escher, Bach",Book,1979,Loved,20s,"{Non-Fiction},{Philosophy}",
+Hofstadter,Douglas R. Hofstadter,"Gödel, Escher, Bach",Book,1979,Loved,20s,"{Non-Fiction},{Philosophy}",/hofstadter-godel-escher-bach/
 Holt,Jim Holt,Why Does the World Exist?,Book,2011,Liked,Teens,"{Non-Fiction},{Philosophy}",
 Homer,Homer,The Iliad,Book,-750,Liked,Teens,"{Fiction},{Literature}",
 Homer,Homer,The Odyssey,Book,-700,Liked,Teens,"{Fiction},{Literature}",
@@ -221,7 +221,7 @@ Martel,Yann Martel,Life of Pi,Book,2001,Loved,Teens,"{Fiction},{Literature}",
 Matuschak,Andy Matuschak,Why books don't work,Article,2019,Loved,20s,"{Media},{Learning}",https://andymatuschak.org/books/
 McCarthy,Cormac McCarthy,The Road,Book,2006,Loved,20s,"{Fiction},{Literature},{Westerns}",
 McGrayne,Sharon Bertsch McGrayne,The Theory That Would Not Die,Book,2011,Disliked,20s,"{Non-Fiction},{History},{Science},{Statistics}",
-McMurtry,Larry McMurtry,Lonesome Dove,Book,1985,Loved,In the past year,"{Fiction},{Westerns},{Literature}",
+McMurtry,Larry McMurtry,Lonesome Dove,Book,1985,Loved,In the past year,"{Fiction},{Westerns},{Literature}",/mcmurtry-lonesome-dove/
 Meadows,Donella Meadows,Leverage Points,Article,1999,Loved,20s,"{Systems},{Decision making}",http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
 Medina,John Medina,Brain Rules,Book,2008,Liked,20s,"{Non-Fiction},{Science},{Psychology},{Learning},{Self-Help}",
 Michael McDonald,Michael McDonald,Motown,Album,2003,Loved,Teens,{R & B},
@@ -311,11 +311,12 @@ Theo Katzman,Theo Katzman,Heartbreak Hits,Album,2017,Loved,20s,{Rock},
 Theo Katzman,Theo Katzman,My Heart Is Live in Berlin,Album,2019,Loved,20s,"{Rock},{Live}",
 Theo Katzman,Theo Katzman,Modern Johnny Sings,Album,2020,Loved,20s,{Rock},
 Theo Katzman,Theo Katzman,Romance Without Finance,Album,2011,Loved,20s,{Rock},
-Thiel,Peter Thiel,Zero to One,Book,2014,Loved,20s,"{Non-Fiction},{Philosophy},{Business}",
+Thiel,Peter Thiel,Zero to One,Book,2014,Liked,20s,"{Non-Fiction},{Philosophy},{Business}",/thiel-zero-to-one/
 Thoreau,Henry David Thoreau,Walden,Book,1854,Liked,Teens,"{Non-Fiction},{Philosophy},{Memoirs}",
 Tolkien,J.R.R. Tolkien,The Lord of the Rings,Book,1955,Liked,Teens,"{Fiction},{Fantasy}",
 Tolkien,J.R.R. Tolkien,The Hobbit,Book,1937,Liked,Childhood,"{Fiction},{Fantasy}",
 Tom Misch,Tom Misch,Geography,Album,2018,Loved,20s,{R & B},
+Tsatsouline,Pavel Tsatsouline,Kettlebell Simple & Sinister,Book,2019,Liked,20s,"{Non-Fiction}{Exercise}",
 Venture Stories,Erik Torenberg,Venture Stories,Podcast,,Loved,20s,{Investing},https://www.villageglobal.vc/podcast/
 Tzu,Sun Tzu,The Art of War,Book,-500,Liked,20s,"{Non-Fiction},{Philosophy}",
 Tzu,Lao Tzu,Tao Te Ching,Book,-600,Liked,20s,"{Non-Fiction},{Philosophy}",

@@ -4,16 +4,18 @@ title: Commentaries
 permalink: /commentaries/
 backlinks: <ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>
 tooltips: 
-- path: tooltip_atomic-habits.js
+- path: tooltip_clear-atomic-habits.js
 - path: tooltip_deep-laziness.js
-- path: tooltip_godel-escher-bach.js
+- path: tooltip_goleman-and-davidson-altered-traits.js
+- path: tooltip_haidt-righteous-mind.js
+- path: tooltip_harris-free-will.js
+- path: tooltip_hofstadter-godel-escher-bach.js
 - path: tooltip_home.js
 - path: tooltip_ideological-turing-test.js
 - path: tooltip_levels-of-action.js
 - path: tooltip_prototyping-at-the-speed-of-thought.js
 - path: tooltip_pushing-and-pulling-goals.js
 - path: tooltip_research-as-a-stochastic-decision-process.js
-- path: tooltip_righteous-mind.js
 - path: tooltip_solved-conversations.js
 ---
 
@@ -29,6 +31,8 @@ tooltips:
 
 ## Books
 
-* <a id="atomic-habits" class="internal-link" href="/atomic-habits/">Review: Atomic Habits — James Clear</a>
-* <a id="godel-escher-bach" class="internal-link" href="/godel-escher-bach/">Summary: Gödel, Escher, Bach — Douglas Hofstadter</a>
-* <a id="righteous-mind" class="internal-link" href="/righteous-mind/">Summary: The Righteous Mind — Jonathan Haidt</a>
+* <a id="clear-atomic-habits" class="internal-link" href="/clear-atomic-habits/">Review: Atomic Habits — James Clear</a>
+* <a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Summary: Gödel, Escher, Bach — Douglas Hofstadter</a>
+* <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">Summary: The Righteous Mind — Jonathan Haidt</a>
+* <a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Summary: Altered Traits — Daniel Goleman and Richard Davidson</a>
+* <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Summary: Free Will — Sam Harris</a>

@@ -7,5 +7,5 @@ tippy('#books-mixed-feelings', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Mixed feelings</h1><ul><li>Adler &amp; Van Doren, <em>How to Read a Book</em> (1972)</li><li>Bostrom, <em>Superintelligence</em> (2014)</li><li>Butler, <em>Wild Seed</em> (1980)</li><li>Finnegan, <em>Barbarian Days</em> (2015)</li><li>Ishiguro, <em>Never Let Me Go</em> (2005)</li><li>Jemisin, <em>The Fifth Season</em> (2015)</li></ul></div>'
+    content: '<div class="article-component"><h1>Mixed feelings</h1><ul><li>Adler &amp; Van Doren, How to Read a Book (1972)</li><li>Bostrom, Superintelligence (2014)</li><li>Butler, Wild Seed (1980)</li><li>Finnegan, Barbarian Days (2015)</li><li>Goleman &amp; Davidson, <a class="internal-link" href="/goleman-and-davidson-altered-traits/" id="goleman-and-davidson-altered-traits">Altered Traits</a> (2017)</li><li>Ishiguro, Never Let Me Go (2005)</li><li>Jemisin, The Fifth Season (2015)</li></ul></div>'
 });
