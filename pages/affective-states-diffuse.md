@@ -7,8 +7,8 @@ tooltips:
 - path: tooltip_maximize-pleasure.js
 ---
 
-An affective state, like pleasure, fear, or boredom, usually isn't localized to the moment when it is experienced. It diffuses into previous moments as an anticipation, and into subsequent moments as a memory.
+Affective states have a way of diffusing into the past and future. You don't just enjoy a donut. You also enjoy the anticipation of the donut, and the memory of it.
 
-An affective state also usually isn't localized to the person who experiences it directly. It diffuses into people they interact with, whether through deliberate empathy or through tacit contributions to the ambient mood.
+Affective states also diffuse into the ambient mood. When you enjoy a donut, it makes you happy. Anyone you interact with will pick up on your happiness, and in some sense they'll get to enjoy the donut too—even if you don't share!
 
-A good reason to <a id="maximize-pleasure" class="internal-link" href="/maximize-pleasure/">maximize pleasure</a> and befriend happy people.
+These are good reasons to <a id="maximize-pleasure" class="internal-link" href="/maximize-pleasure/">maximize pleasure</a> and befriend happy people.

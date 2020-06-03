@@ -8,6 +8,8 @@ tooltips:
 - path: tooltip_albums.js
 ---
 
+* Bruce Cockburn, Anything Anytime Anywhere (2001)
+* Bruce Cockburn, Speechless (2005)
 * Fleetwood Mac, Dreams (1977)
 * Inlet Sound, The Romantics (2012)
 * Jack Johnson, In Between Dreams (2005)

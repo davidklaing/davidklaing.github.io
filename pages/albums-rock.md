@@ -21,6 +21,8 @@ tooltips:
 * The Beatles, The White Album (1968)
 * The Beatles, With The Beatles (1963)
 * The Beths, Future Me Hates Me (2018)
+* Bruce Cockburn, Anything Anytime Anywhere (2001)
+* Bruce Cockburn, Speechless (2005)
 * Bruce Hornsby, Halcyon Days (2004)
 * Bruce Hornsby & the Noisemakers, Bride of the Noisemakers (2011)
 * Bryan Adams, The Best of Me (1999)

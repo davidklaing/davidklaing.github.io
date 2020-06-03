@@ -8,6 +8,8 @@ tooltips:
 - path: tooltip_albums.js
 ---
 
+* Bruce Cockburn, Anything Anytime Anywhere (2001)
+* Bruce Cockburn, Speechless (2005)
 * Bruce Hornsby, Halcyon Days (2004)
 * Coldplay, Parachutes (2000)
 * Coldplay, Viva La Vida (2008)
@@ -21,5 +23,8 @@ tooltips:
 * Michael McDonald, Motown (2003)
 * Neutral Milk Hotel, In the Aeroplane Over the Sea (1998)
 * Taylor Swift, Red (2012)
+* Tommy Emmanuel, Center Stage (2008)
+* Tommy Emmanuel, Endless Road (2005)
+* Tommy Emmanuel, The Mystery (2006)
 * Wax, Eviction Notice (2011)
 * Wax, Scrublife (2011)
