@@ -10,11 +10,13 @@ tooltips:
 - path: tooltip_how-to-invest-in-index-funds.js
 - path: tooltip_laptop-setup.js
 - path: tooltip_maximize-pleasure.js
+- path: tooltip_mind-positivity.js
 - path: tooltip_personal-phd.js
 - path: tooltip_roam-as-a-slip-box.js
 - path: tooltip_tidy-up.js
 ---
 
+* <a id="mind-positivity" class="internal-link" href="/mind-positivity/">Mind positivity</a>
 * <a id="maximize-pleasure" class="internal-link" href="/maximize-pleasure/">Maximize pleasure</a>
 * <a id="personal-phd" class="internal-link" href="/personal-phd/">The personal PhD</a>
 * <a id="tidy-up" class="internal-link" href="/tidy-up/">Tidy up so you can make a useful mess</a>

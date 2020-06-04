@@ -14,8 +14,9 @@ class Page:
 
     """
 
-    def __init__(self, page: List[str], backlinks: List[str] = []):
+    def __init__(self, page: List[str], folder = str, backlinks: List[str] = []):
         self.page = page
+        self.folder = folder
         self.front_matter, self.content = self.separate_sections()
         self.title = self.get_attribute('title')
         self.permalink = self.get_attribute('permalink')
@@ -131,7 +132,8 @@ class Database:
                 write_page(filepath=f'index.md', content=''.join(page.front_matter + page.content))
             else:
                 path = page.permalink.strip('/') + '.md'
-                write_page(filepath=f'pages/{path}', content=''.join(page.front_matter + page.content))
+                folder = page.folder
+                write_page(filepath=f'{folder}/{path}', content=''.join(page.front_matter + page.content))
     
     def write_tooltips(self):
         for path in self.site_html_paths:
@@ -187,8 +189,10 @@ def write_page(filepath, content):
 def build_site():
     subprocess.run(['bundle', 'exec', 'jekyll', 'build'])
     page_paths = [path for path in os.listdir('pages/') if path != '.DS_Store']
-    pages = [Page(page=read_page('index.md'))] \
-        + [Page(page=read_page(f'pages/{page_path}')) for page_path in page_paths]
+    library_paths = [path for path in os.listdir('library/') if path != '.DS_Store']
+    pages = [Page(page=read_page('index.md'), folder='')] \
+        + [Page(page=read_page(f'pages/{page_path}'), folder='pages') for page_path in page_paths] \
+        + [Page(page=read_page(f'library/{library_path}'), folder='library') for library_path in library_paths]
     site_html_paths = [
         '_site/' + path for path in os.listdir('_site/') 
         if path not in ['css', 'assets', 'README.md', 'build_site.py', 'build_library.py', 'library.csv']

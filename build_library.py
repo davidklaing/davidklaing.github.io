@@ -111,7 +111,7 @@ def write_shelf_page(shelf):
     """Write a shelf page."""
     id, title = shelf.make_yaml_attributes()
     page = shelf.make_page()
-    with open(f'pages/{id}.md', 'w') as f:
+    with open(f'library/{id}.md', 'w') as f:
         return f.write(''.join(page))
 
 
