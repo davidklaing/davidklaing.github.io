@@ -26,5 +26,6 @@ tooltips:
 * Tommy Emmanuel, Center Stage (2008)
 * Tommy Emmanuel, Endless Road (2005)
 * Tommy Emmanuel, The Mystery (2006)
+* Washed Out, Paracosm (2013)
 * Wax, Eviction Notice (2011)
 * Wax, Scrublife (2011)

@@ -26,6 +26,8 @@ tooltips:
 * Fleetwood Mac, Dreams (1977)
 * Frank Ocean, Blonde (2016)
 * Frank Ocean, Channel Orange (2012)
+* Good Lovelies, Good Lovelies (2009)
+* Good Lovelies, Let the Rain Fall (2011)
 * James Taylor, Before This World (2015)
 * James Taylor, October Road (2002)
 * John Mayer, The Search for Everything (2017)

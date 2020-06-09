@@ -11,6 +11,8 @@ tooltips:
 * Bruce Cockburn, Anything Anytime Anywhere (2001)
 * Bruce Cockburn, Speechless (2005)
 * Fleetwood Mac, Dreams (1977)
+* Good Lovelies, Good Lovelies (2009)
+* Good Lovelies, Let the Rain Fall (2011)
 * Inlet Sound, The Romantics (2012)
 * Jack Johnson, In Between Dreams (2005)
 * James Taylor, Before This World (2015)

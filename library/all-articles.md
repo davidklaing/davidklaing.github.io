@@ -27,6 +27,7 @@ tooltips:
 * Matuschak, [Why books don't work](https://andymatuschak.org/books/) (2019)
 * Meadows, [Leverage Points](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) (1999)
 * Perry, [Deep Laziness](https://www.ribbonfarm.com/2018/04/06/deep-laziness/) (2018)
+* Salvatier, [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) (2017)
 * Simler, [A Natural History of Beauty](https://meltingasphalt.com/a-natural-history-of-beauty/) (2018)
 * Simler, [Crony Beliefs](https://meltingasphalt.com/crony-beliefs/) (2016)
 * Simler, [Going Critical](https://meltingasphalt.com/going-critical/) (2019)

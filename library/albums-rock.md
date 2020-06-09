@@ -55,3 +55,4 @@ tooltips:
 * Vampire Weekend, Father of the Bride (2019)
 * Vampire Weekend, Modern Vampires of the City (2013)
 * Van Morrison, Avalon Sunset (1989)
+* Washed Out, Paracosm (2013)
