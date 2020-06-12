@@ -4,6 +4,7 @@ title: Notes
 permalink: /notes/
 backlinks: <ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>
 tooltips: 
+- path: tooltip_achievement-play.js
 - path: tooltip_aesthetic-bullseye.js
 - path: tooltip_everything-i-know-about-chess.js
 - path: tooltip_home.js
@@ -13,9 +14,14 @@ tooltips:
 - path: tooltip_mind-positivity.js
 - path: tooltip_personal-phd.js
 - path: tooltip_roam-as-a-slip-box.js
+- path: tooltip_striving-play.js
+- path: tooltip_stupid-games.js
 - path: tooltip_tidy-up.js
 ---
 
+* <a id="striving-play" class="internal-link" href="/striving-play/">Striving play</a>
+* <a id="achievement-play" class="internal-link" href="/achievement-play/">Achievement play</a>
+* <a id="stupid-games" class="internal-link" href="/stupid-games/">Stupid games</a>
 * <a id="mind-positivity" class="internal-link" href="/mind-positivity/">Mind positivity</a>
 * <a id="maximize-pleasure" class="internal-link" href="/maximize-pleasure/">Maximize pleasure</a>
 * <a id="personal-phd" class="internal-link" href="/personal-phd/">The personal PhD</a>
