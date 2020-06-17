@@ -17,6 +17,7 @@ tooltips:
 * Catmull, Creativity, Inc. (2009)
 * Chiang, Exhalation: Stories (2019) ★
 * Ferrante, My Brilliant Friend (2011) ★
+* Ferrante, The Story of a New Name (2012) ★
 * Finnegan, Barbarian Days (2015)
 * Hargrove, Playing With Movement (2014)
 * Jacobs, The Pleasures of Reading in an Age of Distraction (2011)

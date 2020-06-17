@@ -22,6 +22,7 @@ tooltips:
 * Chiang, Exhalation: Stories (2019)
 * Christian, Algorithms to Live By (2016)
 * Ferrante, My Brilliant Friend (2011)
+* Ferrante, The Story of a New Name (2012)
 * Forster, The Machine Stops (1909)
 * Frank, The Diary of a Young Girl (1947)
 * Gaiman, The Ocean at the End of the Lane (2013)

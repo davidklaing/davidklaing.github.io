@@ -71,6 +71,7 @@ tooltips:
 * Ellenberg, How Not to Be Wrong (2014)
 * Emerson, Self-Reliance and Other Essays (1844)
 * Ferrante, My Brilliant Friend (2011) ★
+* Ferrante, The Story of a New Name (2012) ★
 * Feynman, Surely You're Joking, Mr. Feynman! (1985)
 * Findley, The Butterfly Plague (1969)
 * Finnegan, Barbarian Days (2015)
