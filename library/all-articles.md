@@ -8,6 +8,7 @@ tooltips:
 - path: tooltip_articles.js
 ---
 
+* Alexander, [Conflict vs. Mistake](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/) (2018)
 * Alexander, [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) (2016)
 * Alexander, [Pushing And Pulling Goals](https://slatestarcodex.com/2016/07/18/pushing-and-pulling-goals/) (2016)
 * Alexander, [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) (2015)

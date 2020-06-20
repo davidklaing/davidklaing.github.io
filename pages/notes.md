@@ -7,6 +7,7 @@ tooltips:
 - path: tooltip_achievement-play.js
 - path: tooltip_aesthetic-bullseye.js
 - path: tooltip_everything-i-know-about-chess.js
+- path: tooltip_favourite-questions.js
 - path: tooltip_home.js
 - path: tooltip_how-to-invest-in-index-funds.js
 - path: tooltip_laptop-setup.js
@@ -19,6 +20,7 @@ tooltips:
 - path: tooltip_tidy-up.js
 ---
 
+* <a id="favourite-questions" class="internal-link" href="/favourite-questions/">Favourite questions</a>
 * <a id="striving-play" class="internal-link" href="/striving-play/">Striving play</a>
 * <a id="achievement-play" class="internal-link" href="/achievement-play/">Achievement play</a>
 * <a id="stupid-games" class="internal-link" href="/stupid-games/">Stupid games</a>
