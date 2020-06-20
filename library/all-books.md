@@ -151,7 +151,7 @@ tooltips:
 * Miller, The Crucible (1953)
 * Millhauser, Martin Dressler (1996)
 * Morrison, Beloved (1987)
-* Moss, The Rookie (n)
+* Moss, The Rookie (2016)
 * Murakami, Sputnik Sweetheart (1999)
 * Márquez, One Hundred Years of Solitude (1967)
 * Nicholson, The Wind on Fire Trilogy (2002)

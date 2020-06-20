@@ -195,7 +195,17 @@ def build_site():
         + [Page(page=read_page(f'library/{library_path}'), folder='library') for library_path in library_paths]
     site_html_paths = [
         '_site/' + path for path in os.listdir('_site/') 
-        if path not in ['css', 'assets', 'README.md', 'build_site.py', 'build_library.py', 'library.csv']
+        if path not in [
+            'css', 
+            'assets', 
+            'README.md', 
+            'build_site.py', 
+            'build_library.py', 
+            'albums.csv',
+            'articles.csv',
+            'books.csv',
+            'podcasts.csv'
+        ]
     ]
     db = Database(pages=pages, site_html_paths=site_html_paths)
     db.update_backlinks()

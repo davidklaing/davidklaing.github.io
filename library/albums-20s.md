@@ -3,7 +3,9 @@ layout: page
 title: 20s
 published: true
 permalink: /albums-20s/
-backlinks: 
+backlinks: <ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>
+tooltips: 
+- path: tooltip_albums.js
 ---
 
 * Anderson .Paak, Malibu (2016)

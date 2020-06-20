@@ -17,6 +17,7 @@ tooltips:
 - path: tooltip_pushing-and-pulling-goals.js
 - path: tooltip_research-as-a-stochastic-decision-process.js
 - path: tooltip_solved-conversations.js
+- path: tooltip_thiel-zero-to-one.js
 ---
 
 ## Articles
@@ -36,3 +37,4 @@ tooltips:
 * <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">Summary: The Righteous Mind — Jonathan Haidt</a>
 * <a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Summary: Altered Traits — Daniel Goleman and Richard Davidson</a>
 * <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Summary: Free Will — Sam Harris</a>
+* <a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Summary: Zero to One — Peter Thiel</a>

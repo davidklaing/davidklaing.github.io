@@ -20,6 +20,6 @@ tooltips:
 * King, On Writing (2000) ★
 * Levi, Survival in Auschwitz (1947)
 * Miller, Know My Name (2019) ★
-* Moss, The Rookie (n)
+* Moss, The Rookie (2016)
 * Thoreau, Walden (1854)
 * Westover, Educated (2018) ★

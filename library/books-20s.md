@@ -96,7 +96,7 @@ tooltips:
 * McGrayne, The Theory That Would Not Die (2011)
 * Medina, Brain Rules (2008)
 * Morrison, Beloved (1987)
-* Moss, The Rookie (n)
+* Moss, The Rookie (2016)
 * Márquez, One Hundred Years of Solitude (1967)
 * Nielsen, Reinventing Discovery (2011) ★
 * O'Shaughnessy, Millennial Money (2014)

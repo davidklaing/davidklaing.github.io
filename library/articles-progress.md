@@ -8,6 +8,6 @@ tooltips:
 - path: tooltip_articles.js
 ---
 
-* Branwen, [My Ordinary LIfe: Improvements Since the 1990s](https://www.gwern.net/Improvements) 
+* Branwen, [My Ordinary Life: Improvements Since the 1990s](https://www.gwern.net/Improvements) 
 * Collison, [Fast](https://patrickcollison.com/fast) 
 * Wang, [Definite optimism as human capital](https://danwang.co/definite-optimism-as-human-capital/) (2017)

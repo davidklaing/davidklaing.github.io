@@ -1,7 +1,5 @@
 import pandas as pd
 
-library = pd.read_csv('library.csv')
-
 def build_library():
     build_book_pages()
     build_album_pages()
@@ -10,8 +8,10 @@ def build_library():
 
 
 def build_book_pages():
+    library = pd.read_csv('books.csv', dtype=str)
     write_shelf_page(Shelf(library, media_type='Book'))
     make_shelf_pages(
+        library=library,
         media_type='Book',
         ratings=['Loved', 'Liked', 'Mixed feelings', 'Disliked', 'Indifferent'],
         periods_of_my_life=['Childhood', 'Teens', '20s', 'In the past year'],
@@ -48,8 +48,10 @@ def build_book_pages():
 
 
 def build_album_pages():
+    library = pd.read_csv('albums.csv', dtype=str)
     write_shelf_page(Shelf(library, media_type='Album'))
     make_shelf_pages(
+        library=library,
         media_type='Album',
         periods_of_my_life=['Childhood', 'Teens', '20s', 'In the past year'],
         tags=[
@@ -73,8 +75,10 @@ def build_album_pages():
 
 
 def build_article_pages():
+    library = pd.read_csv('articles.csv', dtype=str)
     write_shelf_page(Shelf(library, media_type='Article'))
     make_shelf_pages(
+        library=library,
         media_type='Article',
         tags=[
             '{Communication}',
@@ -94,11 +98,12 @@ def build_article_pages():
 
 
 def build_podcast_pages():
+    library = pd.read_csv('podcasts.csv', dtype=str)
     write_shelf_page(Shelf(library, media_type='Podcast'))
-    make_shelf_pages(media_type='Podcast')
+    make_shelf_pages(library=library, media_type='Podcast')
 
 
-def make_shelf_pages(media_type, ratings = [], periods_of_my_life = [], tags = []):
+def make_shelf_pages(library, media_type, ratings = [], periods_of_my_life = [], tags = []):
     for rating in ratings:
         write_shelf_page(Shelf(library, media_type=media_type, rating=rating))
     for period_of_my_life in periods_of_my_life:

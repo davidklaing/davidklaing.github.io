@@ -12,7 +12,7 @@ tooltips:
 * Alexander, [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) (2016)
 * Alexander, [Pushing And Pulling Goals](https://slatestarcodex.com/2016/07/18/pushing-and-pulling-goals/) (2016)
 * Alexander, [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) (2015)
-* Branwen, [My Ordinary LIfe: Improvements Since the 1990s](https://www.gwern.net/Improvements) 
+* Branwen, [My Ordinary Life: Improvements Since the 1990s](https://www.gwern.net/Improvements) 
 * Caplan, [The Ideological Turing Test](https://www.econlib.org/archives/2011/06/the_ideological.html) (2011)
 * Chang, [How I Build Learning Projects](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961) (2019)
 * Collison, [Fast](https://patrickcollison.com/fast) 

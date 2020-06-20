@@ -73,7 +73,7 @@ tooltips:
 * McGrayne, The Theory That Would Not Die (2011)
 * Medina, Brain Rules (2008)
 * Miller, Know My Name (2019) ★
-* Moss, The Rookie (n)
+* Moss, The Rookie (2016)
 * Nielsen, Reinventing Discovery (2011) ★
 * O'Shaughnessy, Millennial Money (2014)
 * Oakley, A Mind for Numbers (2014)

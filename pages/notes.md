@@ -18,8 +18,10 @@ tooltips:
 - path: tooltip_striving-play.js
 - path: tooltip_stupid-games.js
 - path: tooltip_tidy-up.js
+- path: tooltip_to-go-viral-go-to-all-that-trouble.js
 ---
 
+* <a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a>
 * <a id="favourite-questions" class="internal-link" href="/favourite-questions/">Favourite questions</a>
 * <a id="striving-play" class="internal-link" href="/striving-play/">Striving play</a>
 * <a id="achievement-play" class="internal-link" href="/achievement-play/">Achievement play</a>
