@@ -11,12 +11,12 @@ tooltips:
 
 * Adams, The Hitchhiker's Guide to the Galaxy (1979)
 * Asimov, Prelude to Foundation (1988)
-* Bach, Illusions (1977)
 * Bach, Jonathan Livingston Seagull (1970) ★
+* Bach, Illusions (1977)
 * Banks, The Player of Games (1988)
 * Barnes, Flaubert's Parrot (1984)
-* Barron, The Great Tree of Avalon trilogy (2006)
 * Barron, The Lost Years of Merlin Saga (2000) ★
+* Barron, The Great Tree of Avalon trilogy (2006)
 * Beckett, Waiting for Godot (1952)
 * Bock, The Ash Garden (2001)
 * Borges, The Library of Babel (1941)
@@ -45,8 +45,8 @@ tooltips:
 * Fitzgerald, The Great Gatsby (1925)
 * Forster, A Room with a View (1908)
 * Forster, The Machine Stops (1909) ★
-* Gaiman, Coraline (2002)
 * Gaiman, Stardust (1997)
+* Gaiman, Coraline (2002)
 * Gaiman, The Ocean at the End of the Lane (2013) ★
 * Gibson & Sterling, The Difference Engine (1990) ★
 * Goldstein, The Mind-Body Problem (1983)
@@ -57,8 +57,8 @@ tooltips:
 * Hesse, Siddhartha (1922)
 * Hill, The Book of Negroes (2007)
 * Hinton, The Outsiders (1967)
-* Homer, The Iliad (-750)
 * Homer, The Odyssey (-700)
+* Homer, The Iliad (-750)
 * Irving, A Prayer for Owen Meany (1989) ★
 * Ishiguro, Never Let Me Go (2005)
 * Jemisin, The Fifth Season (2015)
@@ -91,8 +91,8 @@ tooltips:
 * Nicholson, The Wind on Fire Trilogy (2002)
 * Nimmo, Children of the Red King 1-5 (2002-2006) ★
 * Oppel, Silverwing (1997)
-* Orwell, 1984 (1949)
 * Orwell, Animal Farm (1945)
+* Orwell, 1984 (1949)
 * Palahniuk, Fight Club (1996)
 * Paolini, The Inheritance Cycle 1-3 (2002)
 * Patterson, Maximum Ride (2005)
@@ -104,8 +104,8 @@ tooltips:
 * Saint-Exupéry, The Little Prince (1943)
 * Salinger, The Catcher in the Rye (1951)
 * Shakespeare, A Midsummer Night's Dream (1595)
-* Shakespeare, Hamlet (1603)
 * Shakespeare, Romeo and Juliet (1595)
+* Shakespeare, Hamlet (1603)
 * Shelley, Frankenstein (1818)
 * Steinbeck, Of Mice and Men (1937)
 * Stephenson, Snow Crash (1992)

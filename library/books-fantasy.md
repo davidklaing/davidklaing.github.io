@@ -8,13 +8,13 @@ tooltips:
 - path: tooltip_books.js
 ---
 
-* Barron, The Great Tree of Avalon trilogy (2006)
 * Barron, The Lost Years of Merlin Saga (2000) ★
+* Barron, The Great Tree of Avalon trilogy (2006)
 * Brooks, The Sword of Shannara (1977)
 * Butler, Wild Seed (1980)
 * Collins, The Hunger Games (2008)
-* Gaiman, Coraline (2002)
 * Gaiman, Stardust (1997)
+* Gaiman, Coraline (2002)
 * Gaiman, The Ocean at the End of the Lane (2013) ★
 * Jemisin, The Fifth Season (2015)
 * Jordan, The Wheel of Time 1-3 (1990)

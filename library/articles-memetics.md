@@ -9,5 +9,5 @@ tooltips:
 ---
 
 * Eghbal, [The tyranny of ideas](https://nadiaeghbal.com/ideas) (2019)
-* Simler, [Going Critical](https://meltingasphalt.com/going-critical/) (2019)
 * Simler, [Here Be Sermons](https://meltingasphalt.com/here-be-sermons/) (2017)
+* Simler, [Going Critical](https://meltingasphalt.com/going-critical/) (2019)

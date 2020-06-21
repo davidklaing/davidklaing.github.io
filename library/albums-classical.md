@@ -8,4 +8,4 @@ tooltips:
 - path: tooltip_albums.js
 ---
 
-* John Williams, Harry Potter and the Sorcer's Stone Original Motion Picture Soundtrack (2001)
+* John Williams, [Harry Potter and the Sorcer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N?si=EhDh2Rx8QVm_thAaoymKYw) (2001)

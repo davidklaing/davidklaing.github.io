@@ -33,8 +33,8 @@ tooltips:
 * Confucius, The Analects (-429)
 * Cowen, Discover Your Inner Economist (2007)
 * Cowen, Stubborn Attachments (2018)
-* Dawkins, The God Delusion (2006)
 * Dawkins, Unweaving the Rainbow (1998)
+* Dawkins, The God Delusion (2006)
 * Dillard, Pilgrim at Tinker Creek (1974)
 * Durant, The Lessons of History (1968)
 * Ellenberg, How Not to Be Wrong (2014)
@@ -53,11 +53,11 @@ tooltips:
 * Gopen, The Sense of Structure (2004)
 * Haidt, The Happiness Hypothesis (2005) ★
 * Haidt, <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a> (2012) ★
-* Harari, Homo Deus (2017)
 * Harari, Sapiens (2011)
+* Harari, Homo Deus (2017)
 * Hargrove, Playing With Movement (2014)
-* Harris, <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will</a> (2012) ★
 * Harris, The Nurture Assumption (1998)
+* Harris, <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will</a> (2012) ★
 * Harris, Waking Up (2014) ★
 * Hofstadter, <a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Gödel, Escher, Bach</a> (1979) ★
 * Holt, Why Does the World Exist? (2011)
@@ -78,9 +78,9 @@ tooltips:
 * O'Shaughnessy, Millennial Money (2014)
 * Oakley, A Mind for Numbers (2014)
 * Olson, Houston, We Have a Narrative (2015)
+* Pinker, The Language Instinct (1994) ★
 * Pinker, How the Mind Works (1997) ★
 * Pinker, The Better Angels of Our Nature (2010)
-* Pinker, The Language Instinct (1994) ★
 * Pinker, The Sense of Style (2014) ★
 * Ritchie, Intelligence (2015)
 * Robbins, MONEY Master the Game (2014)
@@ -97,14 +97,14 @@ tooltips:
 * Thiel, <a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Zero to One</a> (2014)
 * Thoreau, Walden (1854)
 * Tsatsouline, Kettlebell Simple & Sinister (2019)
-* Tzu, Tao Te Ching (-600)
 * Tzu, The Art of War (-500)
+* Tzu, Tao Te Ching (-600)
 * Vance, Elon Musk (2015)
 * Voss, Never Split the Difference (2016)
 * Wallace, Both Flesh and Not: Essays (2012) ★
 * Westover, Educated (2018) ★
 * Wickham, Advanced R (2014) ★
 * Wright, A Short History of Progress (2004)
-* Yudkowsky, Inadequate Equilibria (2017)
 * Yudkowsky, Rationality From AI to Zombies (2015) ★
+* Yudkowsky, Inadequate Equilibria (2017)
 * Zinsser, On Writing Well (1976)

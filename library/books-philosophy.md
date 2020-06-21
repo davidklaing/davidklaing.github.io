@@ -19,8 +19,8 @@ tooltips:
 * Dawkins, The God Delusion (2006)
 * Ellenberg, How Not to Be Wrong (2014)
 * Emerson, Self-Reliance and Other Essays (1844)
-* Harari, Homo Deus (2017)
 * Harari, Sapiens (2011)
+* Harari, Homo Deus (2017)
 * Harris, <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will</a> (2012) ★
 * Harris, Waking Up (2014) ★
 * Hofstadter, <a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Gödel, Escher, Bach</a> (1979) ★
@@ -35,9 +35,9 @@ tooltips:
 * Taleb, The Black Swan (2007)
 * Thiel, <a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Zero to One</a> (2014)
 * Thoreau, Walden (1854)
-* Tzu, Tao Te Ching (-600)
 * Tzu, The Art of War (-500)
+* Tzu, Tao Te Ching (-600)
 * Voltaire, Candide (1759)
 * Wright, A Short History of Progress (2004)
-* Yudkowsky, Inadequate Equilibria (2017)
 * Yudkowsky, Rationality From AI to Zombies (2015) ★
+* Yudkowsky, Inadequate Equilibria (2017)

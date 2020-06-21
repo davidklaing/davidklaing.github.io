@@ -8,4 +8,4 @@ tooltips:
 - path: tooltip_albums.js
 ---
 
-* Lin-Manuel Miranda, Hamilton (2015)
+* Lin-Manuel Miranda, [Hamilton](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc?si=PPLwy010Tc26N1RdEm_qSg) (2015)

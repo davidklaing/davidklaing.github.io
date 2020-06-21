@@ -8,5 +8,5 @@ tooltips:
 - path: tooltip_albums.js
 ---
 
-* Kacey Musgraves, Golden Hour (2018)
-* Mark Knopfler & Emmylou Harris, All The Roadrunning (2006)
+* Kacey Musgraves, [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c?si=i-rInECPTweIcNcIOA7BWA) (2018)
+* Mark Knopfler & Emmylou Harris, [All The Roadrunning](https://open.spotify.com/album/6oGCz3d9MqAB6OVMUOLibu?si=vrBq3nlnSlqDWVQthsaVRg) (2006)

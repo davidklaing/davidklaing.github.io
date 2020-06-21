@@ -123,7 +123,7 @@ def write_shelf_page(shelf):
 class Shelf:
 
     def __init__(self, library, media_type, rating = None, period_of_my_life = None, tag = None):
-        self.shelf = library.sort_values(by=['creator_key', 'title', 'publication_year'])
+        self.shelf = library.sort_values(by=['creator_key', 'publication_year', 'title'])
         self.media_type = media_type
         self.rating = rating
         self.period_of_my_life = period_of_my_life

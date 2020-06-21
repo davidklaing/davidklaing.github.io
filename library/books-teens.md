@@ -8,8 +8,8 @@ tooltips:
 - path: tooltip_books.js
 ---
 
-* Barron, The Great Tree of Avalon trilogy (2006)
 * Barron, The Lost Years of Merlin Saga (2000) ★
+* Barron, The Great Tree of Avalon trilogy (2006)
 * Bock, The Ash Garden (2001)
 * Bradbury, Fahrenheit 451 (1953)
 * Brooks, The Sword of Shannara (1977)
@@ -21,8 +21,8 @@ tooltips:
 * Clavell, Tai-Pan (1966)
 * Crichton, Jurassic Park (1990)
 * Czuchlewski, The Muse Asylum (2001)
-* Dawkins, The God Delusion (2006)
 * Dawkins, Unweaving the Rainbow (1998)
+* Dawkins, The God Delusion (2006)
 * Emerson, Self-Reliance and Other Essays (1844)
 * Findley, The Butterfly Plague (1969)
 * Franklin, The Autobiography of Benjamin Franklin (1791)
@@ -33,8 +33,8 @@ tooltips:
 * Hill, The Book of Negroes (2007)
 * Hinton, The Outsiders (1967)
 * Holt, Why Does the World Exist? (2011)
-* Homer, The Iliad (-750)
 * Homer, The Odyssey (-700)
+* Homer, The Iliad (-750)
 * Jordan, The Wheel of Time 1-3 (1990)
 * Kadare, Broken April (1978)
 * Kay, The Fionavar Tapestry (1986)
@@ -53,8 +53,8 @@ tooltips:
 * Saint-Exupéry, The Little Prince (1943)
 * Salinger, The Catcher in the Rye (1951)
 * Shakespeare, A Midsummer Night's Dream (1595)
-* Shakespeare, Hamlet (1603)
 * Shakespeare, Romeo and Juliet (1595)
+* Shakespeare, Hamlet (1603)
 * Smith, The World's Religions (1958)
 * Spong, A New Christianity for a New World (2001)
 * Swift, Gulliver's Travels (1726)

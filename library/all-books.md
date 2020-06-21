@@ -15,20 +15,20 @@ tooltips:
 - path: tooltip_thiel-zero-to-one.js
 ---
 
-* Adams, How to Fail at Almost Everything and Still Win Big (2013)
 * Adams, The Hitchhiker's Guide to the Galaxy (1979)
+* Adams, How to Fail at Almost Everything and Still Win Big (2013)
 * Adler & Van Doren, How to Read a Book (1972)
 * Ahrens, How to Take Smart Notes (2017)
 * Ariely, Predictably Irrational (2008)
-* Asimov, Nightfall (1990)
 * Asimov, Prelude to Foundation (1988)
+* Asimov, Nightfall (1990)
 * Aurelius, Meditations (180)
-* Bach, Illusions (1977)
 * Bach, Jonathan Livingston Seagull (1970) ★
+* Bach, Illusions (1977)
 * Banks, The Player of Games (1988)
 * Barnes, Flaubert's Parrot (1984)
-* Barron, The Great Tree of Avalon trilogy (2006)
 * Barron, The Lost Years of Merlin Saga (2000) ★
+* Barron, The Great Tree of Avalon trilogy (2006)
 * Beckett, Waiting for Godot (1952)
 * Bock, The Ash Garden (2001)
 * Borges, The Library of Babel (1941)
@@ -62,8 +62,8 @@ tooltips:
 * Cowen, Stubborn Attachments (2018)
 * Crichton, Jurassic Park (1990)
 * Czuchlewski, The Muse Asylum (2001)
-* Dawkins, The God Delusion (2006)
 * Dawkins, Unweaving the Rainbow (1998)
+* Dawkins, The God Delusion (2006)
 * Dickens, Great Expectations (1861)
 * Dillard, Pilgrim at Tinker Creek (1974)
 * Dostoyevsky, Crime and Punishment (1866)
@@ -80,8 +80,8 @@ tooltips:
 * Forster, The Machine Stops (1909) ★
 * Frank, The Diary of a Young Girl (1947) ★
 * Franklin, The Autobiography of Benjamin Franklin (1791)
-* Gaiman, Coraline (2002)
 * Gaiman, Stardust (1997)
+* Gaiman, Coraline (2002)
 * Gaiman, The Ocean at the End of the Lane (2013) ★
 * Gibson & Sterling, The Difference Engine (1990) ★
 * Gilbert, Stumbling on Happiness (2006)
@@ -96,11 +96,11 @@ tooltips:
 * Gowdy, Disneyland (1989) ★
 * Haidt, The Happiness Hypothesis (2005) ★
 * Haidt, <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a> (2012) ★
-* Harari, Homo Deus (2017)
 * Harari, Sapiens (2011)
+* Harari, Homo Deus (2017)
 * Hargrove, Playing With Movement (2014)
-* Harris, <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will</a> (2012) ★
 * Harris, The Nurture Assumption (1998)
+* Harris, <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will</a> (2012) ★
 * Harris, Waking Up (2014) ★
 * Hawley, Before the Fall (2016) ★
 * Hemingway, The Old Man and the Sea (1952)
@@ -110,8 +110,8 @@ tooltips:
 * Hinton, The Outsiders (1967)
 * Hofstadter, <a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Gödel, Escher, Bach</a> (1979) ★
 * Holt, Why Does the World Exist? (2011)
-* Homer, The Iliad (-750)
 * Homer, The Odyssey (-700)
+* Homer, The Iliad (-750)
 * Irving, A Prayer for Owen Meany (1989) ★
 * Ishiguro, Never Let Me Go (2005)
 * Jacobs, The Pleasures of Reading in an Age of Distraction (2011)
@@ -147,8 +147,8 @@ tooltips:
 * McGrayne, The Theory That Would Not Die (2011)
 * McMurtry, <a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a> (1985) ★
 * Medina, Brain Rules (2008)
-* Miller, Know My Name (2019) ★
 * Miller, The Crucible (1953)
+* Miller, Know My Name (2019) ★
 * Millhauser, Martin Dressler (1996)
 * Morrison, Beloved (1987)
 * Moss, The Rookie (2016)
@@ -161,15 +161,15 @@ tooltips:
 * Oakley, A Mind for Numbers (2014)
 * Olson, Houston, We Have a Narrative (2015)
 * Oppel, Silverwing (1997)
-* Orwell, 1984 (1949)
 * Orwell, Animal Farm (1945)
+* Orwell, 1984 (1949)
 * Palahniuk, Fight Club (1996)
 * Paolini, The Inheritance Cycle 1-3 (2002)
 * Patterson, Maximum Ride (2005)
 * Paulsen, Brian's Saga 1-2 (1996)
+* Pinker, The Language Instinct (1994) ★
 * Pinker, How the Mind Works (1997) ★
 * Pinker, The Better Angels of Our Nature (2010)
-* Pinker, The Language Instinct (1994) ★
 * Pinker, The Sense of Style (2014) ★
 * Pullman, His Dark Materials (2000) ★
 * Ritchie, Intelligence (2015)
@@ -182,8 +182,8 @@ tooltips:
 * Sapolsky, Behave (2017)
 * Schneier, Data and Goliath (2015)
 * Shakespeare, A Midsummer Night's Dream (1595)
-* Shakespeare, Hamlet (1603)
 * Shakespeare, Romeo and Juliet (1595)
+* Shakespeare, Hamlet (1603)
 * Shelley, Frankenstein (1818)
 * Silver, The Signal and the Noise (2012)
 * Simler & Hanson, The Elephant in the Brain (2017)
@@ -201,8 +201,8 @@ tooltips:
 * Tolkien, The Hobbit (1937)
 * Tolkien, The Lord of the Rings (1955)
 * Tsatsouline, Kettlebell Simple & Sinister (2019)
-* Tzu, Tao Te Ching (-600)
 * Tzu, The Art of War (-500)
+* Tzu, Tao Te Ching (-600)
 * Vance, Elon Musk (2015)
 * Verne, Twenty Thousand Leagues Under the Sea (1869)
 * Voltaire, Candide (1759)
@@ -210,9 +210,9 @@ tooltips:
 * Vonnegut, God Bless You, Mr. Rosewater (1965)
 * Vonnegut, Slaughterhouse-Five (1969)
 * Voss, Never Split the Difference (2016)
-* Wallace, Both Flesh and Not: Essays (2012) ★
 * Wallace, Infinite Jest (1996) ★
 * Wallace, Oblivion (2004) ★
+* Wallace, Both Flesh and Not: Essays (2012) ★
 * Watterson, Calvin and Hobbes (1985-1995) ★
 * Weir, Artemis (2017)
 * Wells, The Island of Doctor Moreau (1896)
@@ -225,9 +225,9 @@ tooltips:
 * Woolf, Mrs. Dalloway (1925)
 * Wright, A Short History of Progress (2004)
 * Wyndham, The Chrysalids (1955)
-* Yudkowsky, Harry Potter and the Methods of Rationality (2015) ★
-* Yudkowsky, Inadequate Equilibria (2017)
 * Yudkowsky, [Intelligent Characters](https://yudkowsky.tumblr.com/writing) (2014) ★
+* Yudkowsky, Harry Potter and the Methods of Rationality (2015) ★
 * Yudkowsky, Rationality From AI to Zombies (2015) ★
+* Yudkowsky, Inadequate Equilibria (2017)
 * Zinsser, On Writing Well (1976)
 * de Cervantes, Don Quixote (1615)
