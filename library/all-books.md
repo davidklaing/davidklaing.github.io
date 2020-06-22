@@ -46,6 +46,7 @@ tooltips:
 * Caro, The Path to Power (1982) ★
 * Carroll, Alice's Adventures in Wonderland & Through the Looking-Glass (1871)
 * Catmull, Creativity, Inc. (2009)
+* Cervantes, Don Quixote (1615)
 * Chabon, The Amazing Adventures of Kavalier & Clay (2000) ★
 * Chiang, Exhalation: Stories (2019) ★
 * Chilton, The Wealthy Barber Returns (2011)
@@ -230,4 +231,3 @@ tooltips:
 * Yudkowsky, Rationality From AI to Zombies (2015) ★
 * Yudkowsky, Inadequate Equilibria (2017)
 * Zinsser, On Writing Well (1976)
-* de Cervantes, Don Quixote (1615)

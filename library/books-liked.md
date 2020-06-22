@@ -24,6 +24,7 @@ tooltips:
 * Brown, The Da Vinci Code (2003)
 * Camus, The Plague (1947)
 * Catmull, Creativity, Inc. (2009)
+* Cervantes, Don Quixote (1615)
 * Chilton, The Wealthy Barber Returns (2011)
 * Cialdini, Influence (1984)
 * Clavell, Tai-Pan (1966)
@@ -132,4 +133,3 @@ tooltips:
 * Wyndham, The Chrysalids (1955)
 * Yudkowsky, Inadequate Equilibria (2017)
 * Zinsser, On Writing Well (1976)
-* de Cervantes, Don Quixote (1615)

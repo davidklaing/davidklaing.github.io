@@ -28,6 +28,7 @@ tooltips:
 * Card, Ender's Saga (1996) ★
 * Card, Ender's Shadow (1999) ★
 * Carroll, Alice's Adventures in Wonderland & Through the Looking-Glass (1871)
+* Cervantes, Don Quixote (1615)
 * Chabon, The Amazing Adventures of Kavalier & Clay (2000) ★
 * Chiang, Exhalation: Stories (2019) ★
 * Clarke, 2001: A Space Odyssey (1968)
@@ -129,4 +130,3 @@ tooltips:
 * Woolf, Mrs. Dalloway (1925)
 * Wyndham, The Chrysalids (1955)
 * Yudkowsky, Harry Potter and the Methods of Rationality (2015) ★
-* de Cervantes, Don Quixote (1615)

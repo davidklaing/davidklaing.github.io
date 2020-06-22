@@ -16,6 +16,7 @@ tooltips:
 * Brown, The Da Vinci Code (2003)
 * Camus, The Plague (1947)
 * Carroll, Alice's Adventures in Wonderland & Through the Looking-Glass (1871)
+* Cervantes, Don Quixote (1615)
 * Chabon, The Amazing Adventures of Kavalier & Clay (2000) ★
 * Coelho, The Alchemist (1988)
 * Conrad, Heart of Darkness (1899)
@@ -76,4 +77,3 @@ tooltips:
 * Wolf, Cassandra (1983)
 * Woolf, Mrs. Dalloway (1925)
 * Wyndham, The Chrysalids (1955)
-* de Cervantes, Don Quixote (1615)
