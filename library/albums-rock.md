@@ -8,6 +8,7 @@ tooltips:
 - path: tooltip_albums.js
 ---
 
+* Bahamas, [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME?si=IJD_v4FVRtmrnIjtwNPemQ) (2018)
 * The Beatles, [Please Please Me](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf?si=-qatvcXfSQ60gZNnvHqJUA) (1963)
 * The Beatles, [With The Beatles](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr?si=bgnUki-SStOXpPdWmyigyg) (1963)
 * The Beatles, [A Hard Day's Night](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV?si=ELmtVjrUR9GfS5JlSgv_jg) (1964)
@@ -38,7 +39,7 @@ tooltips:
 * Kc Roberts & the Live Revolution, [Parkdale Funk 2](https://open.spotify.com/album/3RdV4442NuFPlAiS0muW5w?si=tzf7tTbVTq66z8DSAqZGFw) (2013)
 * LCD Soundsystem, [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X?si=ZKOPRcC-SfO_xJahT32Kgw) (2007)
 * The La's, [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x?si=bxgUp2kORMS8pbOZigXIvw) (1990)
-* Mark Knopfler, The Ragpicker's Dream (2002)
+* Mark Knopfler, [The Ragpicker's Dream](https://www.youtube.com/watch?v=xnl9fjdhG04&list=PLnFicu7xrfaZR6EsGO7BLH9SqG6m___Oi) (2002)
 * Mark Knopfler & Emmylou Harris, [All The Roadrunning](https://open.spotify.com/album/6oGCz3d9MqAB6OVMUOLibu?si=vrBq3nlnSlqDWVQthsaVRg) (2006)
 * Neutral Milk Hotel, [In the Aeroplane Over the Sea](https://open.spotify.com/album/5COXoP5kj2DWfCDg0vxi4F?si=hKzztpO8RN6kMxxW3GIwaA) (1998)
 * Paramore, [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs?si=Y8XSU104Q6qEMpD_rAFVSA) (2017)

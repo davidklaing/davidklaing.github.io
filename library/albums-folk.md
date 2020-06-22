@@ -25,7 +25,7 @@ tooltips:
 * Kacey Musgraves, [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c?si=i-rInECPTweIcNcIOA7BWA) (2018)
 * Kruger Brothers, [The Suite, Vol. 1](https://open.spotify.com/album/1xOSi0H9sG36iZQl0xTK5i?si=CugiQvXyQOuoFboE2dq0aQ) (2007)
 * Madison Cunningham, [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR?si=EujReBtBSvS-JMK84sQWKw) (2019)
-* Mark Knopfler, The Ragpicker's Dream (2002)
+* Mark Knopfler, [The Ragpicker's Dream](https://www.youtube.com/watch?v=xnl9fjdhG04&list=PLnFicu7xrfaZR6EsGO7BLH9SqG6m___Oi) (2002)
 * Nickel Creek, [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2?si=92OqO1tUQOG1gurroMneag) (2014)
 * The Oh Hellos, [The Oh Hellos' Family Christmas Album](https://open.spotify.com/album/1cv8WBFQPnstQvRZgg2Bw4?si=zxVGfpujRr-Y8yRTp7Txhg) (2014)
 * Punch Brothers, [Antifogmatic](https://open.spotify.com/album/2C37EWVmuBXjXqxhGwJM5c?si=5_L91HKvRv-Eq8LHNPBTNA) (2010)

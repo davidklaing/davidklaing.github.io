@@ -29,7 +29,7 @@ tooltips:
 * John Williams, [Harry Potter and the Sorcer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N?si=EhDh2Rx8QVm_thAaoymKYw) (2001)
 * The La's, [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x?si=bxgUp2kORMS8pbOZigXIvw) (1990)
 * Lou Bega, [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai?si=VAPZaysRQBCZLGmywMpdJQ) (1999)
-* Mark Knopfler, The Ragpicker's Dream (2002)
+* Mark Knopfler, [The Ragpicker's Dream](https://www.youtube.com/watch?v=xnl9fjdhG04&list=PLnFicu7xrfaZR6EsGO7BLH9SqG6m___Oi) (2002)
 * Phil Collins, [Testify](https://open.spotify.com/album/5Tby0U5VndHW0SomYO7Id7?si=jG1jCU1SS3eiXIBw07TXTQ) (2002)
 * Phil Collins & Mark Mancina, [Tarzan](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C?si=OHU5hVqfQyizKXJxDD1naw) (1999)
 * Pink Floyd, [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv?si=MAHvy6lKTNe_dgKjBhatSQ) (1973)
