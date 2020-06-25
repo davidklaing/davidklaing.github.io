@@ -3,8 +3,9 @@ layout: page
 title: Self-Help
 published: true
 permalink: /books-self-help/
-backlinks: <ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
+- path: tooltip_barabasi-the-formula.js
 - path: tooltip_books.js
 - path: tooltip_clear-atomic-habits.js
 ---
@@ -12,6 +13,7 @@ tooltips:
 * Adams, How to Fail at Almost Everything and Still Win Big (2013)
 * Adler & Van Doren, How to Read a Book (1972)
 * Ahrens, How to Take Smart Notes (2017)
+* Barabási, <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a> (2018)
 * Carnegie, How to Win Friends and Influence People (1936) ★
 * Chilton, The Wealthy Barber Returns (2011)
 * Christian, Algorithms to Live By (2016) ★

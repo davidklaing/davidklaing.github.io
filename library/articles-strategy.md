@@ -3,7 +3,7 @@ layout: page
 title: Strategy
 published: true
 permalink: /articles-strategy/
-backlinks: <ul><li><a id="articles" class="internal-link" href="/articles/">Articles</a></li></ul>
+backlinks: '<ul><li><a id="articles" class="internal-link" href="/articles/">Articles</a></li></ul>'
 tooltips: 
 - path: tooltip_articles.js
 ---

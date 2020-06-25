@@ -4,7 +4,7 @@ title: Pushing and pulling goals — Scott Alexander
 permalink: /pushing-and-pulling-goals/
 published: true
 last_updated: 2019-09-25
-backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 tooltips: 
 - path: tooltip_commentaries.js
 ---
@@ -29,4 +29,4 @@ One potential lesson here is that you should only work on projects that are imme
 
 Then again, can any project feel truly meaningful at all times and at every stage? Surely Stephen King experiences periods of writer’s block between novels, and needs to deliberately seek out his next source of inspiration. He must also have moments in his writing when he lacks the motivation to get through a particular chapter and needs to set a word target for the day. This would suggest that pulling goals may not be enough on their own.
 
-Perhaps the trick is to identify your pulling goals and then set up smaller pushing goals that will support you along the way. I have found that identifying pulling goals isn't a trivial task that can be completed all at once, so my strategy is to collect them passively; a few months ago I started to compile a list of [things I want that don't exist](https://davidklaing.com/things-i-want). The hard part is still achieving the goals, of course. But by continually collecting my pulling goals, I hope I'll at least aim at the right targets when I sit down to work. Overall, the fewer zombie projects the better.
+Maybe the trick is to identify your pulling goals and then set up smaller pushing goals that will support you along the way. I have found that identifying pulling goals isn't a trivial task that can be completed all at once, so my strategy is to collect them passively in lists of things I want, questions I'm interested in answering, and problems I think should be solved. This helps me to at least aim at the right targets when I sit down to work.

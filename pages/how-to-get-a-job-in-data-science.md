@@ -4,7 +4,7 @@ title: How to get a job in data science
 permalink: /how-to-get-a-job-in-data-science/
 published: true
 last_updated: 2019-04-11
-backlinks: <ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>
+backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>'
 tooltips: 
 - path: tooltip_communication-in-data-science.js
 - path: tooltip_essays.js

@@ -3,7 +3,7 @@ layout: page
 title: Epistemology
 published: true
 permalink: /articles-epistemology/
-backlinks: <ul><li><a id="articles" class="internal-link" href="/articles/">Articles</a></li></ul>
+backlinks: '<ul><li><a id="articles" class="internal-link" href="/articles/">Articles</a></li></ul>'
 tooltips: 
 - path: tooltip_articles.js
 ---

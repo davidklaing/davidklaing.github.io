@@ -2,7 +2,7 @@
 layout: page
 title: Affective states diffuse across time and across people
 permalink: /affective-states-diffuse/
-backlinks: <ul><li><a id="maximize-pleasure" class="internal-link" href="/maximize-pleasure/">Maximize pleasure</a></li></ul>
+backlinks: '<ul><li><a id="maximize-pleasure" class="internal-link" href="/maximize-pleasure/">Maximize pleasure</a></li></ul>'
 tooltips: 
 - path: tooltip_maximize-pleasure.js
 ---

@@ -3,14 +3,16 @@ layout: page
 title: In the past year
 published: true
 permalink: /books-in-the-past-year/
-backlinks: <ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
+- path: tooltip_barabasi-the-formula.js
 - path: tooltip_books.js
 - path: tooltip_mcmurtry-lonesome-dove.js
 ---
 
 * Adler & Van Doren, How to Read a Book (1972)
 * Ahrens, How to Take Smart Notes (2017)
+* Barabási, <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a> (2018)
 * Browder, Red Notice (2014)
 * Butler, Wild Seed (1980)
 * Caro, The Path to Power (1982) ★

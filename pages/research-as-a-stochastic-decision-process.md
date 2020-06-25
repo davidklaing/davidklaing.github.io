@@ -4,7 +4,7 @@ title: Research as a stochastic decision process — Jacob Steinhardt
 permalink: /research-as-a-stochastic-decision-process/
 published: true
 last_updated: 2019-11-20
-backlinks: <ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn’t just be for musicians</a></li></ul>
+backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn’t just be for musicians</a></li></ul>'
 tooltips: 
 - path: tooltip_commentaries.js
 - path: tooltip_covers-shouldnt-just-be-for-musicians.js

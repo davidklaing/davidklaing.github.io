@@ -3,7 +3,7 @@ layout: page
 title: Jazz
 published: true
 permalink: /albums-jazz/
-backlinks: <ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
 ---

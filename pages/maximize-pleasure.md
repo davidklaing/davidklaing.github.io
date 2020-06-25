@@ -2,7 +2,7 @@
 layout: page
 title: Maximize pleasure
 permalink: /maximize-pleasure/
-backlinks: <ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a></li></ul>
+backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a></li></ul>'
 tooltips: 
 - path: tooltip_affective-states-diffuse.js
 - path: tooltip_learning-happens-faster-when-it-is-pleasurable.js

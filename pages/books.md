@@ -3,7 +3,7 @@ layout: page
 title: Books
 published: true
 permalink: /books/
-backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>'
 tooltips: 
 - path: tooltip_all-books.js
 - path: tooltip_books-20s.js

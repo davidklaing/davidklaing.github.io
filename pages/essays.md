@@ -2,7 +2,7 @@
 layout: page
 title: Essays
 permalink: /essays/
-backlinks: <ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 tooltips: 
 - path: tooltip_communication-in-data-science.js
 - path: tooltip_covers-shouldnt-just-be-for-musicians.js

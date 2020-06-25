@@ -4,7 +4,7 @@ title: The Aesthetic Bullseye
 permalink: /aesthetic-bullseye/
 published: true
 last_updated: 2019-10-30
-backlinks: <ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>
+backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 tooltips: 
 - path: tooltip_notes.js
 ---

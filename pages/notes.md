@@ -2,7 +2,7 @@
 layout: page
 title: Notes
 permalink: /notes/
-backlinks: <ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 tooltips: 
 - path: tooltip_achievement-play.js
 - path: tooltip_aesthetic-bullseye.js

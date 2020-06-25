@@ -3,7 +3,7 @@ layout: page
 title: All podcasts
 published: true
 permalink: /all-podcasts/
-backlinks: <ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>
+backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>'
 tooltips: 
 - path: tooltip_library.js
 ---

@@ -3,8 +3,9 @@ layout: page
 title: All books
 published: true
 permalink: /all-books/
-backlinks: <ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
+- path: tooltip_barabasi-the-formula.js
 - path: tooltip_books.js
 - path: tooltip_clear-atomic-habits.js
 - path: tooltip_goleman-and-davidson-altered-traits.js
@@ -26,6 +27,7 @@ tooltips:
 * Bach, Jonathan Livingston Seagull (1970) ★
 * Bach, Illusions (1977)
 * Banks, The Player of Games (1988)
+* Barabási, <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a> (2018)
 * Barnes, Flaubert's Parrot (1984)
 * Barron, The Lost Years of Merlin Saga (2000) ★
 * Barron, The Great Tree of Avalon trilogy (2006)

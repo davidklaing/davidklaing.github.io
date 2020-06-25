@@ -3,7 +3,7 @@ layout: page
 title: Personal Finance
 published: true
 permalink: /books-personal-finance/
-backlinks: <ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Learning happens faster when it is pleasurable
 permalink: /learning-happens-faster-when-it-is-pleasurable/
-backlinks: <ul><li><a id="maximize-pleasure" class="internal-link" href="/maximize-pleasure/">Maximize pleasure</a></li></ul>
+backlinks: '<ul><li><a id="maximize-pleasure" class="internal-link" href="/maximize-pleasure/">Maximize pleasure</a></li></ul>'
 tooltips: 
 - path: tooltip_maximize-pleasure.js
 ---

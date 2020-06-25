@@ -2,7 +2,7 @@
 layout: page
 title: Favourite questions
 permalink: /favourite-questions/
-backlinks: <ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>
+backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 tooltips: 
 - path: tooltip_notes.js
 ---

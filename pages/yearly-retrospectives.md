@@ -3,7 +3,7 @@ layout: page
 title: Yearly retrospectives
 permalink: /yearly-retrospectives/
 published: true
-backlinks: <ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 tooltips: 
 - path: tooltip_home.js
 - path: tooltip_retrospective-2017.js

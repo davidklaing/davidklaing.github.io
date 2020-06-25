@@ -3,7 +3,7 @@ layout: page
 title: Communication
 published: true
 permalink: /articles-communication/
-backlinks: <ul><li><a id="articles" class="internal-link" href="/articles/">Articles</a></li></ul>
+backlinks: '<ul><li><a id="articles" class="internal-link" href="/articles/">Articles</a></li></ul>'
 tooltips: 
 - path: tooltip_articles.js
 ---

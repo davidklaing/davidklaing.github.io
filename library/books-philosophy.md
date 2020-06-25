@@ -3,7 +3,7 @@ layout: page
 title: Philosophy
 published: true
 permalink: /books-philosophy/
-backlinks: <ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
 - path: tooltip_harris-free-will.js

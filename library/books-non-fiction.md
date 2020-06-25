@@ -3,8 +3,9 @@ layout: page
 title: Non-Fiction
 published: true
 permalink: /books-non-fiction/
-backlinks: <ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
+- path: tooltip_barabasi-the-formula.js
 - path: tooltip_books.js
 - path: tooltip_clear-atomic-habits.js
 - path: tooltip_goleman-and-davidson-altered-traits.js
@@ -20,6 +21,7 @@ tooltips:
 * Ariely, Predictably Irrational (2008)
 * Asimov, Nightfall (1990)
 * Aurelius, Meditations (180)
+* Barabási, <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a> (2018)
 * Bostrom, Superintelligence (2014)
 * Browder, Red Notice (2014)
 * Campbell, A Joseph Campbell Companion (1991)

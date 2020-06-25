@@ -3,8 +3,9 @@ layout: page
 title: Liked
 published: true
 permalink: /books-liked/
-backlinks: <ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
+- path: tooltip_barabasi-the-formula.js
 - path: tooltip_books.js
 - path: tooltip_clear-atomic-habits.js
 - path: tooltip_thiel-zero-to-one.js
@@ -16,6 +17,7 @@ tooltips:
 * Ariely, Predictably Irrational (2008)
 * Asimov, Nightfall (1990)
 * Bach, Illusions (1977)
+* Barabási, <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a> (2018)
 * Barron, The Great Tree of Avalon trilogy (2006)
 * Bock, The Ash Garden (2001)
 * Borges, The Library of Babel (1941)

@@ -2,7 +2,7 @@
 layout: page
 title: Stupid games
 permalink: /stupid-games/
-backlinks: <ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>
+backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 tooltips: 
 - path: tooltip_notes.js
 - path: tooltip_striving-play.js

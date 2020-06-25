@@ -2,7 +2,7 @@
 layout: page
 title: Striving play
 permalink: /striving-play/
-backlinks: <ul><li><a id="achievement-play" class="internal-link" href="/achievement-play/">Achievement play</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="stupid-games" class="internal-link" href="/stupid-games/">Stupid games</a></li></ul>
+backlinks: '<ul><li><a id="achievement-play" class="internal-link" href="/achievement-play/">Achievement play</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="stupid-games" class="internal-link" href="/stupid-games/">Stupid games</a></li></ul>'
 tooltips: 
 - path: tooltip_achievement-play.js
 - path: tooltip_notes.js

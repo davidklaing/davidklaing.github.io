@@ -3,7 +3,7 @@ layout: page
 title: Library
 published: true
 permalink: /library/
-backlinks: <ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
 - path: tooltip_all-podcasts.js

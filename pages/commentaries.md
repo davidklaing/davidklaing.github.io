@@ -2,8 +2,9 @@
 layout: page
 title: Commentaries
 permalink: /commentaries/
-backlinks: <ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 tooltips: 
+- path: tooltip_barabasi-the-formula.js
 - path: tooltip_clear-atomic-habits.js
 - path: tooltip_deep-laziness.js
 - path: tooltip_goleman-and-davidson-altered-traits.js
@@ -32,9 +33,10 @@ tooltips:
 
 ## Books
 
-* <a id="clear-atomic-habits" class="internal-link" href="/clear-atomic-habits/">Review: Atomic Habits — James Clear</a>
+* <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">Summary of The Formula: The Universal Laws of Success — Albert-László Barabási</a>
+* <a id="clear-atomic-habits" class="internal-link" href="/clear-atomic-habits/">Review of Atomic Habits — James Clear</a>
 * <a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Summary: Gödel, Escher, Bach — Douglas Hofstadter</a>
-* <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">Summary: The Righteous Mind — Jonathan Haidt</a>
-* <a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Summary: Altered Traits — Daniel Goleman and Richard Davidson</a>
-* <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Summary: Free Will — Sam Harris</a>
-* <a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Summary: Zero to One — Peter Thiel</a>
+* <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">Summary of The Righteous Mind — Jonathan Haidt</a>
+* <a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Summary of Altered Traits — Daniel Goleman and Richard Davidson</a>
+* <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Summary of Free Will — Sam Harris</a>
+* <a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Summary of Zero to One — Peter Thiel</a>

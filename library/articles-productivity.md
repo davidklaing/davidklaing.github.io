@@ -3,7 +3,7 @@ layout: page
 title: Productivity
 published: true
 permalink: /articles-productivity/
-backlinks: <ul><li><a id="articles" class="internal-link" href="/articles/">Articles</a></li></ul>
+backlinks: '<ul><li><a id="articles" class="internal-link" href="/articles/">Articles</a></li></ul>'
 tooltips: 
 - path: tooltip_articles.js
 ---

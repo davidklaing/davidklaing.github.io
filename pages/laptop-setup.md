@@ -4,7 +4,7 @@ title: My laptop setup
 permalink: /laptop-setup/
 published: true
 last_updated: 2018-12-16
-backlinks: <ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>
+backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 tooltips: 
 - path: tooltip_notes.js
 ---

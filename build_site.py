@@ -77,7 +77,7 @@ class Page:
         """Write a new set of backlinks, based on what was passed in with this instance of the page."""
         non_backlinks_lines = [line for line in self.front_matter if 'backlinks: ' not in line]
         if self.backlinks:
-            non_backlinks_lines.insert(-1, 'backlinks: <ul><li>' + '</li><li>'.join(self.backlinks) + '</li></ul>\n')
+            non_backlinks_lines.insert(-1, 'backlinks: \'<ul><li>' + '</li><li>'.join(self.backlinks) + '</li></ul>\'\n')
         self.front_matter = non_backlinks_lines
 
 
@@ -119,6 +119,8 @@ class Database:
         else:
             id = permalink.strip('/')
         title = self.titles_dict[permalink]
+        if title[0] == '"':
+            title = title[1:-1]
         return f'<a id="{id}" class="internal-link" href="{permalink}">{title}</a>'
     
     def update_tooltips(self):

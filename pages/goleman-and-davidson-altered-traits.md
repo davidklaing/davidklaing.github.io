@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Goleman & Davidson, Altered Traits
+title: Altered Traits
 permalink: /goleman-and-davidson-altered-traits/
-backlinks: <ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-mixed-feelings" class="internal-link" href="/books-mixed-feelings/">Mixed feelings</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-psychology" class="internal-link" href="/books-psychology/">Psychology</a></li><li><a id="books-science" class="internal-link" href="/books-science/">Science</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>
+backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-mixed-feelings" class="internal-link" href="/books-mixed-feelings/">Mixed feelings</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-psychology" class="internal-link" href="/books-psychology/">Psychology</a></li><li><a id="books-science" class="internal-link" href="/books-science/">Science</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 tooltips: 
 - path: tooltip_all-books.js
 - path: tooltip_books-20s.js

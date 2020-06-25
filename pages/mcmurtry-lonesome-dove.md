@@ -3,7 +3,7 @@ layout: page
 title: McMurtry, Lonesome Dove
 permalink: /mcmurtry-lonesome-dove/
 last_updated: 2019-11-22
-backlinks: <ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-fiction" class="internal-link" href="/books-fiction/">Fiction</a></li><li><a id="books-in-the-past-year" class="internal-link" href="/books-in-the-past-year/">In the past year</a></li><li><a id="books-literature" class="internal-link" href="/books-literature/">Literature</a></li><li><a id="books-loved" class="internal-link" href="/books-loved/">Loved</a></li><li><a id="books-westerns" class="internal-link" href="/books-westerns/">Westerns</a></li></ul>
+backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-fiction" class="internal-link" href="/books-fiction/">Fiction</a></li><li><a id="books-in-the-past-year" class="internal-link" href="/books-in-the-past-year/">In the past year</a></li><li><a id="books-literature" class="internal-link" href="/books-literature/">Literature</a></li><li><a id="books-loved" class="internal-link" href="/books-loved/">Loved</a></li><li><a id="books-westerns" class="internal-link" href="/books-westerns/">Westerns</a></li></ul>'
 tooltips: 
 - path: tooltip_all-books.js
 - path: tooltip_books-fiction.js
