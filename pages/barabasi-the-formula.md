@@ -87,7 +87,7 @@ Barabási's research suggests a different model: age predicts _productivity_, an
 
 ## Core takeaways
 
-The summarize the lessons from all of Barabási's laws, the path to success is simple: 
+To summarize the lessons from all of Barabási's laws, the path to success is simple: 
 
 - Patiently produce a large volume of work in public. 
 - Build relationships and provide value to your community. 
