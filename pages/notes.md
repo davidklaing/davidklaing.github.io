@@ -14,6 +14,7 @@ tooltips:
 - path: tooltip_maximize-pleasure.js
 - path: tooltip_mind-positivity.js
 - path: tooltip_personal-phd.js
+- path: tooltip_professional-development-in-data-science.js
 - path: tooltip_roam-as-a-slip-box.js
 - path: tooltip_striving-play.js
 - path: tooltip_stupid-games.js
@@ -21,6 +22,7 @@ tooltips:
 - path: tooltip_to-go-viral-go-to-all-that-trouble.js
 ---
 
+* <a id="professional-development-in-data-science" class="internal-link" href="/professional-development-in-data-science/">Professional development in data science</a>
 * <a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a>
 * <a id="favourite-questions" class="internal-link" href="/favourite-questions/">Favourite questions</a>
 * <a id="striving-play" class="internal-link" href="/striving-play/">Striving play</a>
