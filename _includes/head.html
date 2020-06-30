@@ -5,5 +5,27 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans">
     <link rel="stylesheet" href="/css/styles.css">
-    {% seo %}
+    <!-- Twitter cards -->
+    <meta name="twitter:card" content="David Laing">
+    <meta name="twitter:site" content="@davidklaing">
+    <meta name="twitter:creator" content="@davidklaing">
+    {% if page.title %}
+        <meta name="twitter:title" content="{{ page.title }}">
+    {% else %}
+        <meta name="twitter:title" content="{{ site.title }}">
+    {% endif %}
+    {% if page.url %}
+        <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% endif %}
+    {% if page.description %}
+        <meta name="twitter:description" content="{{ page.description }}">
+    {% else %}
+        <meta name="twitter:description" content="{{ site.description }}">
+    {% endif %}
+    {% if page.image %}
+        <meta name="twitter:image:src" content="{{ site.url }}/path/to/image/{{ page.image }}">
+    {% else %}
+        <meta name="twitter:image:src" content="{{ site.url }}/assets/img/headshot.png">
+    {% endif %}
+    <!-- end of Twitter cards -->
 </head>

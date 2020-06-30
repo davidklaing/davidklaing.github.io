@@ -4,4 +4,4 @@ markdown: kramdown
 
 plugins: 
   - jekyll-twitter-plugin
-  - jekyll-seo-tag
+
