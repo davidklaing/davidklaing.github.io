@@ -55,7 +55,7 @@ After setting myself up on four laptops in the space of two years, I figured it 
 	- Set `Load preset` to `Natural Text Editing`
 2. Set new windows/tabs to open from previous session's directory:
 	- `Preferences` → `Profiles` → `General`
-	- Under `Working Directory`, check `Reuse previous session's directory`
+	- Under `Working Directory`, check `Reuse previous session’s directory`
 
 ## Bash aliases
 
@@ -64,7 +64,7 @@ Put the following in `.bash_profile`:
 ```bash
 alias tp="open -a typora"
 alias rst="open -a rstudio"
-alias vs="open -a 'visual studio code'"
+alias vs="open -a visual\ studio\ code"
 alias prev="open -a preview"
 ```
 

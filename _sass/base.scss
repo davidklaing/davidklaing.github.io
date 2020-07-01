@@ -94,6 +94,28 @@ blockquote {
     margin-block-end: 0.5rem;
 }
 
+code {
+    padding: .2rem .5rem;
+    margin: 0 .2rem;
+    font-size: 90%;
+    white-space: nowrap;
+    background: #F1F1F1;
+    border: 1px solid #E1E1E1;
+    border-radius: 4px; 
+}
+pre > code {
+    display: block;
+    padding: 1rem 1.5rem;
+    white-space: pre; 
+    overflow-x: auto;
+    max-width: 100%;
+}
+
+pre {
+    overflow-x: auto;
+    max-width: 100%;
+}
+
 img, iframe {
     width: 100%;
     display: block;
@@ -131,10 +153,6 @@ hr {
     margin-left: auto;
 }
 
-.highlight {
-    overflow-x: scroll;
-}
-
 .internal-link {
     color:#2ECC40;
 }
@@ -148,10 +166,10 @@ a:hover, .external-link:hover {
 }
 
 .site-header {
-    float: top;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 0px;
+    padding-top: 15px;
     margin: 0px;
     margin-right: auto;
     margin-left: auto;
@@ -175,8 +193,9 @@ a:hover, .external-link:hover {
 [class*="col-"] {
     width: 95%;
     margin-top: 0;
-    display: inline-grid;
+    display: inline-block;
     text-align: left;
+    vertical-align: top;
 }
   
 /* For tablets: */
