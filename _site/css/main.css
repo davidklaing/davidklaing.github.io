@@ -191,7 +191,7 @@ a:hover, .external-link:hover { color: #85c2f8; }
   .col-m-11 { width: 90.66%; }
   .col-m-12 { width: 100%; }
   .content { width: 90%; }
-  img, iframe { width: 80%; display: block; margin-left: auto; margin-right: auto; } }
+  img, iframe { width: 100%; display: block; margin-left: auto; margin-right: auto; } }
 /* For large desktop: */
 @media only screen and (min-width: 1100px) { .col-1 { width: 7.33%; }
   .col-2 { width: 15.66%; }
