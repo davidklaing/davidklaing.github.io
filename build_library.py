@@ -3,7 +3,7 @@ import pandas as pd
 def build_library():
     build_book_pages()
     build_album_pages()
-    build_article_pages()
+    build_link_pages()
     build_podcast_pages()
 
 
@@ -74,12 +74,12 @@ def build_album_pages():
     )
 
 
-def build_article_pages():
-    library = pd.read_csv('articles.csv', dtype=str)
-    write_shelf_page(Shelf(library, media_type='Article'))
+def build_link_pages():
+    library = pd.read_csv('links.csv', dtype=str)
+    write_shelf_page(Shelf(library, media_type='Link'))
     make_shelf_pages(
         library=library,
-        media_type='Article',
+        media_type='Link',
         tags=[
             '{Communication}',
             '{Goal-setting}',
@@ -152,7 +152,7 @@ class Shelf:
             '\n'
         ]
         for index, item in self.shelf.iterrows():
-            if self.media_type in ['Article', 'Book']:
+            if self.media_type in ['Link', 'Book']:
                 creator_string = f"{item['creator_key']}, "
             elif self.media_type == 'Album':
                 creator_string = f"{item['creator']}, "

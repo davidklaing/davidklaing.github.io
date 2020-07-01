@@ -204,7 +204,7 @@ def build_site():
             'build_site.py', 
             'build_library.py', 
             'albums.csv',
-            'articles.csv',
+            'links.csv',
             'books.csv',
             'podcasts.csv'
         ]

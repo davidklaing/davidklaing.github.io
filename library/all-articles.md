@@ -3,9 +3,6 @@ layout: page
 title: All articles
 published: true
 permalink: /all-articles/
-backlinks: '<ul><li><a id="articles" class="internal-link" href="/articles/">Articles</a></li></ul>'
-tooltips: 
-- path: tooltip_articles.js
 ---
 
 * Alexander, [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) (2015)

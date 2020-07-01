@@ -10,6 +10,7 @@ tooltips:
 - path: tooltip_favourite-questions.js
 - path: tooltip_home.js
 - path: tooltip_how-to-invest-in-index-funds.js
+- path: tooltip_how-to-write-documentation.js
 - path: tooltip_laptop-setup.js
 - path: tooltip_maximize-pleasure.js
 - path: tooltip_mind-positivity.js
@@ -26,6 +27,7 @@ tooltips:
 * <a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a>
 * <a id="favourite-questions" class="internal-link" href="/favourite-questions/">Favourite questions</a>
 * <a id="how-to-invest-in-index-funds" class="internal-link" href="/how-to-invest-in-index-funds/">How to invest in index funds, for Canadians</a>
+* <a id="how-to-write-documentation" class="internal-link" href="/how-to-write-documentation/">How to write documentation</a>
 * <a id="maximize-pleasure" class="internal-link" href="/maximize-pleasure/">Maximize pleasure</a>
 * <a id="mind-positivity" class="internal-link" href="/mind-positivity/">Mind positivity</a>
 * <a id="laptop-setup" class="internal-link" href="/laptop-setup/">My laptop setup</a>

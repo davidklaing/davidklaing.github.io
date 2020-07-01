@@ -8,6 +8,7 @@ tooltips:
 - path: tooltip_barabasi-the-formula.js
 - path: tooltip_favourite-questions.js
 - path: tooltip_home.js
+- path: tooltip_how-to-write-documentation.js
 - path: tooltip_mind-positivity.js
 - path: tooltip_professional-development-in-data-science.js
 - path: tooltip_striving-play.js
@@ -15,6 +16,7 @@ tooltips:
 - path: tooltip_to-go-viral-go-to-all-that-trouble.js
 ---
 
+* <a id="how-to-write-documentation" class="internal-link" href="/how-to-write-documentation/">How to write documentation</a>
 * <a id="professional-development-in-data-science" class="internal-link" href="/professional-development-in-data-science/">Professional development in data science</a>
 * <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">Summary of The Formula: The Universal Laws of Success — Albert-László Barabási</a>
 * <a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a>
