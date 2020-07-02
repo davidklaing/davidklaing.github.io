@@ -1,7 +1,8 @@
 url: "https://davidklaing.com"
-description: "David Laing's website"
+description: "David Laing"
 markdown: kramdown
 
 plugins: 
   - jekyll-twitter-plugin
+  - jekyll-seo-tag
 
