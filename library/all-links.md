@@ -30,6 +30,7 @@ tooltips:
 * Lewis, [Being Your Selves: Identity R&D on the Pseudonymous Internet](https://aaronzlewis.com/blog/2020/02/18/being-your-selves-identity-r-and-d-on-the-pseudonymous-internet/) (2020)
 * Matuschak, [Why books don't work](https://andymatuschak.org/books/) (2019)
 * Meadows, [Leverage Points](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) (1999)
+* Nielsen, [Principles of Effective Research](http://michaelnielsen.org/blog/principles-of-effective-research/) (2004)
 * Perry, [Deep Laziness](https://www.ribbonfarm.com/2018/04/06/deep-laziness/) (2018)
 * Procida, [What nobody tells you about documentation](https://documentation.divio.com/) (2017)
 * Salvatier, [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) (2017)

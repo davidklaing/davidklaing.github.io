@@ -7,5 +7,5 @@ tippy('#links-research', {
     maxWidth: 550,
     interactive: true,
     interactiveBorder: 1,
-    content: '<div class="article-component"><h1>Research</h1><ul><li>Steinhardt, <a href="https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html">Research as a stochastic decision process</a> (2019)</li></ul></div>'
+    content: '<div class="article-component"><h1>Research</h1><ul><li>Nielsen, <a href="http://michaelnielsen.org/blog/principles-of-effective-research/">Principles of Effective Research</a> (2004)</li><li>Steinhardt, <a href="https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html">Research as a stochastic decision process</a> (2019)</li></ul></div>'
 });

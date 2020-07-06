@@ -8,4 +8,5 @@ tooltips:
 - path: tooltip_links.js
 ---
 
+* Nielsen, [Principles of Effective Research](http://michaelnielsen.org/blog/principles-of-effective-research/) (2004)
 * Steinhardt, [Research as a stochastic decision process](https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html) (2019)
