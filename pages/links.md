@@ -17,6 +17,7 @@ tooltips:
 - path: tooltip_links-self-improvement.js
 - path: tooltip_links-skill-development.js
 - path: tooltip_links-strategy.js
+- path: tooltip_links-sublime-introductory-lectures.js
 - path: tooltip_links-systems.js
 - path: tooltip_underappreciated.js
 ---
@@ -36,4 +37,5 @@ tooltips:
 * <a id="links-self-improvement" class="internal-link" href="/links-self-improvement/">Self-improvement</a>
 * <a id="links-skill-development" class="internal-link" href="/links-skill-development/">Skill development</a>
 * <a id="links-strategy" class="internal-link" href="/links-strategy/">Strategy</a>
+* <a id="links-sublime-introductory-lectures" class="internal-link" href="/links-sublime-introductory-lectures/">Sublime Introductory Lectures</a>
 * <a id="links-systems" class="internal-link" href="/links-systems/">Systems</a>

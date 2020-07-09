@@ -92,6 +92,7 @@ def build_link_pages():
             '{Self-improvement}',
             '{Skill development}',
             '{Strategy}',
+            '{Sublime Introductory Lectures}',
             '{Systems}',
         ]
     )
