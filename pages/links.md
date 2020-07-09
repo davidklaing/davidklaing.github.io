@@ -37,5 +37,5 @@ tooltips:
 * <a id="links-self-improvement" class="internal-link" href="/links-self-improvement/">Self-improvement</a>
 * <a id="links-skill-development" class="internal-link" href="/links-skill-development/">Skill development</a>
 * <a id="links-strategy" class="internal-link" href="/links-strategy/">Strategy</a>
-* <a id="links-sublime-introductory-lectures" class="internal-link" href="/links-sublime-introductory-lectures/">Sublime Introductory Lectures</a>
+* <a id="links-sublime-introductory-lectures" class="internal-link" href="/links-sublime-introductory-lectures/">Sublime introductory lectures</a>
 * <a id="links-systems" class="internal-link" href="/links-systems/">Systems</a>

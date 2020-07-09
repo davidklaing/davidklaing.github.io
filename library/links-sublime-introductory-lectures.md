@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Sublime Introductory Lectures
+title: Sublime introductory lectures
 published: true
 permalink: /links-sublime-introductory-lectures/
-backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
+backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li></ul>'
 tooltips: 
 - path: tooltip_links.js
+- path: tooltip_newest.js
 ---
 
 * Abelson, [Introduction to The Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?time_continue=801&v=2Op3QLzMgSY) (1986)
