@@ -8,7 +8,7 @@ tooltips:
 - path: tooltip_links.js
 ---
 
-* Abelson, [Introduction to The Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?time_continue=801&v=2Op3QLzMgSY) (1986)
+* Abelson, [Introduction to The Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY) (1986)
 * Alexander, [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) (2015)
 * Alexander, [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) (2016)
 * Alexander, [Pushing And Pulling Goals](https://slatestarcodex.com/2016/07/18/pushing-and-pulling-goals/) (2016)
@@ -30,7 +30,7 @@ tooltips:
 * Hobart, [Cost-First New Year's Resolutions](https://medium.com/@byrnehobart/cost-first-new-years-resolutions-6bb30393201d) (2018)
 * Hofstadter, [Analogy as the Core of Cognition](https://www.youtube.com/watch?v=n8m7lFQ3njk) (2009)
 * Kagan, [Introduction to Death](https://www.youtube.com/watch?v=p2J7wSuFRl8) (2007)
-* Landers, [Introduction to Biology](https://www.youtube.com/watch?v=rS4wX1gxudI) (2020)
+* Lander, [Introduction to Biology](https://www.youtube.com/watch?v=rS4wX1gxudI) (2020)
 * Lewis, [Solved Conversations](https://aaronzlewis.com/blog/2014/06/01/solved-conversations/) (2014)
 * Lewis, [Being Your Selves: Identity R&D on the Pseudonymous Internet](https://aaronzlewis.com/blog/2020/02/18/being-your-selves-identity-r-and-d-on-the-pseudonymous-internet/) (2020)
 * Lo, [Introduction to Finance Theory](https://www.youtube.com/watch?v=HdHlfiOAJyE) (2008)
