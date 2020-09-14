@@ -14,9 +14,9 @@ tooltips:
 - path: tooltip_yearly-retrospectives.js
 ---
 
-Welcome! I'm <a id="about-me" class="internal-link" href="/about-me/">David Laing</a>. I write to share my learning, to give more life to ideas that I think are underappreciated, and to make it easier for my future friends to find me. Maybe you are one of them? Say hello on <a href="https://twitter.com/davidklaing">Twitter</a>.
+Welcome! I'm <a id="about-me" class="internal-link" href="/about-me/">David Laing</a>, a data scientist and writing teacher. I maintain this website as a way to share my learning, to give more life to ideas that I think are underappreciated, and to make it easier for my future friends to find me. If you think you might be one of them, please say hello on <a href="https://twitter.com/davidklaing">Twitter</a>.
 
--------
+<hr>
 
 ## Curated
 
@@ -24,7 +24,7 @@ Welcome! I'm <a id="about-me" class="internal-link" href="/about-me/">David Lain
 * <a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a>
 * <a id="underappreciated" class="internal-link" href="/underappreciated/">Underappreciated</a>
 
--------
+<hr>
 
 ## By category
 

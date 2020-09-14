@@ -73,8 +73,7 @@ tooltips:
 * Durant, The Lessons of History (1968)
 * Ellenberg, How Not to Be Wrong (2014)
 * Emerson, Self-Reliance and Other Essays (1844)
-* Ferrante, My Brilliant Friend (2011) ★
-* Ferrante, The Story of a New Name (2012) ★
+* Ferrante, The Neapolitan Novels (2012-2015) ★
 * Feynman, Surely You're Joking, Mr. Feynman! (1985)
 * Findley, The Butterfly Plague (1969)
 * Finnegan, Barbarian Days (2015)
@@ -115,6 +114,7 @@ tooltips:
 * Holt, Why Does the World Exist? (2011)
 * Homer, The Odyssey (-700)
 * Homer, The Iliad (-750)
+* Huston, Teaching What You Don't Know (2009)
 * Irving, A Prayer for Owen Meany (1989) ★
 * Ishiguro, Never Let Me Go (2005)
 * Jacobs, The Pleasures of Reading in an Age of Distraction (2011)
@@ -136,6 +136,7 @@ tooltips:
 * Keyes, Flowers for Algernon (1966)
 * King, On Writing (2000) ★
 * Kleist, The Marquise of O (1808)
+* Lang, Small Teaching (2016)
 * Larson, The Far Side Gallery (1984)
 * Le Guin, A Wizard of Earthsea (1968)
 * Le Guin, The Left Hand of Darkness (1969)
@@ -200,6 +201,7 @@ tooltips:
 * Taleb, The Black Swan (2007)
 * Thaler, Nudge (2008)
 * Thiel, <a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Zero to One</a> (2014)
+* Thomas & Turner, Clear and Simple as the Truth (1994) ★
 * Thoreau, Walden (1854)
 * Tolkien, The Hobbit (1937)
 * Tolkien, The Lord of the Rings (1955)
@@ -224,6 +226,7 @@ tooltips:
 * Wiesel, Night (1956)
 * Wilde, The Picture of Dorian Gray (1890)
 * Wilson, Spin (2005)
+* Wilson, Teaching Tech Together (2018) ★
 * Wolf, Cassandra (1983)
 * Woolf, Mrs. Dalloway (1925)
 * Wright, A Short History of Progress (2004)

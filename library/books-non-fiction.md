@@ -63,6 +63,7 @@ tooltips:
 * Harris, Waking Up (2014) ★
 * Hofstadter, <a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Gödel, Escher, Bach</a> (1979) ★
 * Holt, Why Does the World Exist? (2011)
+* Huston, Teaching What You Don't Know (2009)
 * Jacobs, The Pleasures of Reading in an Age of Distraction (2011)
 * James et al., An Introduction to Statistical Learning (2017)
 * Johnstone, Impro (1979)
@@ -71,6 +72,7 @@ tooltips:
 * Kalanithi, When Breath Becomes Air (2016)
 * Kaufman, The Personal MBA (2010)
 * King, On Writing (2000) ★
+* Lang, Small Teaching (2016)
 * Levi, Survival in Auschwitz (1947)
 * McGrayne, The Theory That Would Not Die (2011)
 * Medina, Brain Rules (2008)
@@ -97,6 +99,7 @@ tooltips:
 * Taleb, The Black Swan (2007)
 * Thaler, Nudge (2008)
 * Thiel, <a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Zero to One</a> (2014)
+* Thomas & Turner, Clear and Simple as the Truth (1994) ★
 * Thoreau, Walden (1854)
 * Tsatsouline, Kettlebell Simple & Sinister (2019)
 * Tzu, The Art of War (-500)
@@ -106,6 +109,7 @@ tooltips:
 * Wallace, Both Flesh and Not: Essays (2012) ★
 * Westover, Educated (2018) ★
 * Wickham, Advanced R (2014) ★
+* Wilson, Teaching Tech Together (2018) ★
 * Wright, A Short History of Progress (2004)
 * Yudkowsky, Rationality From AI to Zombies (2015) ★
 * Yudkowsky, Inadequate Equilibria (2017)
