@@ -3,9 +3,9 @@ layout: page
 title: Live
 published: true
 permalink: /albums-live/
-backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
 * Bruce Hornsby & the Noisemakers, [Bride of the Noisemakers](https://open.spotify.com/album/3Y3w5UvZ0yazQRUKVtlVTo?si=YPVaQHeVTD-TxMu1GHHC2Q) (2011)

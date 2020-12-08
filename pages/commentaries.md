@@ -2,7 +2,6 @@
 layout: page
 title: Commentaries
 permalink: /commentaries/
-backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 tooltips: 
 - path: tooltip_barabasi-the-formula.js
 - path: tooltip_clear-atomic-habits.js
@@ -19,6 +18,7 @@ tooltips:
 - path: tooltip_research-as-a-stochastic-decision-process.js
 - path: tooltip_solved-conversations.js
 - path: tooltip_thiel-zero-to-one.js
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
 ## Articles

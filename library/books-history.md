@@ -3,9 +3,9 @@ layout: page
 title: History
 published: true
 permalink: /books-history/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Caro, The Path to Power (1982) ★

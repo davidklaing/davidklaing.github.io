@@ -3,12 +3,12 @@ layout: page
 title: Liked
 published: true
 permalink: /books-liked/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_barabasi-the-formula.js
 - path: tooltip_books.js
 - path: tooltip_clear-atomic-habits.js
 - path: tooltip_thiel-zero-to-one.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, The Hitchhiker's Guide to the Galaxy (1979)
@@ -34,6 +34,7 @@ tooltips:
 * Collins, The Hunger Games (2008)
 * Cowen, Discover Your Inner Economist (2007)
 * Cowen, Stubborn Attachments (2018)
+* Crawford, Shop Class as Soulcraft (2009)
 * Crichton, Jurassic Park (1990)
 * Czuchlewski, The Muse Asylum (2001)
 * Dawkins, Unweaving the Rainbow (1998)
@@ -58,6 +59,7 @@ tooltips:
 * Holt, Why Does the World Exist? (2011)
 * Homer, The Odyssey (-700)
 * Homer, The Iliad (-750)
+* Housel, The Psychology of Money (2020)
 * Huston, Teaching What You Don't Know (2009)
 * Jacobs, The Pleasures of Reading in an Age of Distraction (2011)
 * James et al., An Introduction to Statistical Learning (2017)
@@ -81,6 +83,7 @@ tooltips:
 * Levi, Survival in Auschwitz (1947)
 * Lewis, The Chronicles of Narnia (1956)
 * Lightman, Einstein's Dreams (1992)
+* McMurtry, Dead Man's Walk (2000)
 * Medina, Brain Rules (2008)
 * Millhauser, Martin Dressler (1996)
 * Morrison, Beloved (1987)

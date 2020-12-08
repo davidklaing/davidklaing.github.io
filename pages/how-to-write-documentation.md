@@ -2,10 +2,10 @@
 layout: page
 title: How to write documentation
 permalink: /how-to-write-documentation/
-backlinks: '<ul><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 tooltips: 
 - path: tooltip_newest.js
 - path: tooltip_notes.js
+backlinks: '<ul><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 The best way to think about documentation that I have come across is from Daniele Procida. He explains it in [his talk at PyCon Australia 2017](https://www.youtube.com/watch?v=t4vKPhjcMZg), and in a [standalone website](https://documentation.divio.com/).

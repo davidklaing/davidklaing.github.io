@@ -3,9 +3,9 @@ layout: page
 title: All podcasts
 published: true
 permalink: /all-podcasts/
-backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>'
 tooltips: 
 - path: tooltip_library.js
+backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>'
 ---
 
 * [Conversations with Tyler](https://conversationswithtyler.com/) 
@@ -16,6 +16,8 @@ tooltips:
 * [Making Sense](https://samharris.org/podcast/) 
 * [North Star](https://www.perell.com/podcast) 
 * [Rationally Speaking](http://rationallyspeakingpodcast.org/) 
+* [Scott H. Young Podcast](https://www.scotthyoung.com/blog/podcast/) 
 * [Switched on Pop](https://switchedonpop.com/) 
 * [Venture Stories](https://www.villageglobal.vc/podcast/) 
 * [Very Bad Wizards](https://verybadwizards.fireside.fm/) 
+* [Witch Please](http://ohwitchplease.ca/) 

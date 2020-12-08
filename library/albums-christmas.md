@@ -3,9 +3,9 @@ layout: page
 title: Christmas
 published: true
 permalink: /albums-christmas/
-backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
 * The Oh Hellos, [The Oh Hellos' Family Christmas Album](https://open.spotify.com/album/1cv8WBFQPnstQvRZgg2Bw4?si=zxVGfpujRr-Y8yRTp7Txhg) (2014)

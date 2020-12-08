@@ -3,9 +3,9 @@ layout: page
 title: Memetics
 published: true
 permalink: /links-memetics/
-backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 tooltips: 
 - path: tooltip_links.js
+backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 
 * Eghbal, [The tyranny of ideas](https://nadiaeghbal.com/ideas) (2019)

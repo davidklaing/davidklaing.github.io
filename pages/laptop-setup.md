@@ -4,9 +4,9 @@ title: My laptop setup
 permalink: /laptop-setup/
 published: true
 last_updated: 2018-12-16
-backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 tooltips: 
 - path: tooltip_notes.js
+backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 After setting myself up on four laptops in the space of two years, I figured it was time to write this all down. [Mike Gelbart's setup](https://github.com/mgelbart/misc/blob/master/laptop_setup.md) has been useful to me, so maybe mine will be useful to you.

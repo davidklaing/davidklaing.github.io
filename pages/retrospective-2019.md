@@ -4,10 +4,10 @@ title: 2019 retrospective
 permalink: /retrospective-2019/
 published: true
 last_updated: 2019-12-31
-backlinks: '<ul><li><a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a></li></ul>'
 tooltips: 
 - path: tooltip_talk-more.js
 - path: tooltip_yearly-retrospectives.js
+backlinks: '<ul><li><a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a></li></ul>'
 ---
 
 **Table of Contents**

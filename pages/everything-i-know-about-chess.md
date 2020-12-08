@@ -2,7 +2,6 @@
 layout: page
 title: Everything I know about chess
 permalink: /everything-i-know-about-chess/
-backlinks: '<ul><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 tooltips: 
 - path: tooltip_chess-strategy.js
 - path: tooltip_chess-tactics.js
@@ -10,6 +9,7 @@ tooltips:
 - path: tooltip_inner-game-of-chess.js
 - path: tooltip_most-popular.js
 - path: tooltip_notes.js
+backlinks: '<ul><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 * <a id="chess-strategy" class="internal-link" href="/chess-strategy/">Chess strategy</a>

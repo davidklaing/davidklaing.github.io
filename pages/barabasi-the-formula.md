@@ -4,7 +4,6 @@ title: "The Formula: The Universal Laws of Success"
 permalink: /barabasi-the-formula/
 published: true
 last_updated: 2020-06-24
-backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-in-the-past-year" class="internal-link" href="/books-in-the-past-year/">In the past year</a></li><li><a id="books-liked" class="internal-link" href="/books-liked/">Liked</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-self-help" class="internal-link" href="/books-self-help/">Self-Help</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="underappreciated" class="internal-link" href="/underappreciated/">Underappreciated</a></li></ul>'
 tooltips: 
 - path: tooltip_all-books.js
 - path: tooltip_books-business.js
@@ -16,6 +15,7 @@ tooltips:
 - path: tooltip_newest.js
 - path: tooltip_talk-more.js
 - path: tooltip_underappreciated.js
+backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-in-the-past-year" class="internal-link" href="/books-in-the-past-year/">In the past year</a></li><li><a id="books-liked" class="internal-link" href="/books-liked/">Liked</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-self-help" class="internal-link" href="/books-self-help/">Self-Help</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="underappreciated" class="internal-link" href="/underappreciated/">Underappreciated</a></li></ul>'
 ---
 
 This is a summary of Albert-László Barabási's 2018 book, [The Formula: The Universal Laws of Success](https://www.goodreads.com/book/show/39088545-the-formula). I generally steer clear of books with titles like this one, but Barabási is a [well-regarded network scientist](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si), so I thought he might have substantive ideas on what drives success. It turns out he does, and they are quite easy to summarize.

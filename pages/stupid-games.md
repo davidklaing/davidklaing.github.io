@@ -2,11 +2,11 @@
 layout: page
 title: Stupid games
 permalink: /stupid-games/
-backlinks: '<ul><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 tooltips: 
 - path: tooltip_newest.js
 - path: tooltip_notes.js
 - path: tooltip_striving-play.js
+backlinks: '<ul><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 In my university days, my friends and I became obsessed with a game called Slackjaw, in which two contestants stare at each other with their jaws slack, and the first person to smile loses. If it goes on too long, a third person announces "slackjaw dance!", and the contestants have to dance while keeping their jaws slack.

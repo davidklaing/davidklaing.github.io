@@ -3,9 +3,9 @@ layout: page
 title: Bluegrass
 published: true
 permalink: /albums-bluegrass/
-backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
 * Kruger Brothers, [The Suite, Vol. 1](https://open.spotify.com/album/1xOSi0H9sG36iZQl0xTK5i?si=CugiQvXyQOuoFboE2dq0aQ) (2007)

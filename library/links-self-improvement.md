@@ -3,9 +3,9 @@ layout: page
 title: Self-improvement
 published: true
 permalink: /links-self-improvement/
-backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 tooltips: 
 - path: tooltip_links.js
+backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 
 * Alexander, [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) (2015)
@@ -18,3 +18,4 @@ tooltips:
 * Perry, [Deep Laziness](https://www.ribbonfarm.com/2018/04/06/deep-laziness/) (2018)
 * Somers, [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters) (2015)
 * Vance, [Levels of Action](https://www.lesswrong.com/posts/guDcrPqLsnhEjrPZj/levels-of-action) (2015)
+* ssica3003, [Tips for a longer life](http://theoryengine.org/life/tips-for-a-longer-life/) (2020)

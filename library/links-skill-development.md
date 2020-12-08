@@ -3,9 +3,9 @@ layout: page
 title: Skill development
 published: true
 permalink: /links-skill-development/
-backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 tooltips: 
 - path: tooltip_links.js
+backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 
 * Alexander, [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) (2015)

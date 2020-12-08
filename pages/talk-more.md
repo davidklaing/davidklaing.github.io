@@ -4,12 +4,12 @@ title: If you’re good, you need to talk more
 published: true
 last_updated: 2019-07-09
 permalink: /talk-more/
-backlinks: '<ul><li><a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li><li><a id="retrospective-2019" class="internal-link" href="/retrospective-2019/">2019 retrospective</a></li></ul>'
 tooltips: 
 - path: tooltip_barabasi-the-formula.js
 - path: tooltip_essays.js
 - path: tooltip_most-popular.js
 - path: tooltip_retrospective-2019.js
+backlinks: '<ul><li><a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li><li><a id="retrospective-2019" class="internal-link" href="/retrospective-2019/">2019 retrospective</a></li></ul>'
 ---
 
 One evening last fall, I was invited to play a board game called <a class="external-link" target="_self" href="https://www.amazon.com/Resistance-Avalon-Social-Deduction-Game/dp/B009SAAV0C">Avalon</a>. The game is a contest between a good team and a bad team. Through a series of public and private votes and discussion at the table, the bad people try to masquerade as good, while the good try to figure out who is good and who is bad.

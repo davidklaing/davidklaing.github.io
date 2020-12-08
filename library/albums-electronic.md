@@ -3,9 +3,9 @@ layout: page
 title: Electronic
 published: true
 permalink: /albums-electronic/
-backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
 * The Avalanches, [Since I Left You](https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25?si=I8JFf0heQguwj6mYYJkx5g) (2000)

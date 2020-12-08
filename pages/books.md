@@ -3,7 +3,6 @@ layout: page
 title: Books
 published: true
 permalink: /books/
-backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>'
 tooltips: 
 - path: tooltip_all-books.js
 - path: tooltip_books-20s.js
@@ -40,6 +39,7 @@ tooltips:
 - path: tooltip_books-westerns.js
 - path: tooltip_books-writing.js
 - path: tooltip_library.js
+backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>'
 ---
 
 My library contains all the books I've read enough of to have formed an opinion on. On all pages except those for my ratings, books I loved are marked with a ★. Happy browsing!

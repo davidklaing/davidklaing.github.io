@@ -3,10 +3,10 @@ layout: page
 title: Fiction
 published: true
 permalink: /books-fiction/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
 - path: tooltip_mcmurtry-lonesome-dove.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, The Hitchhiker's Guide to the Galaxy (1979)
@@ -83,6 +83,7 @@ tooltips:
 * Martel, Life of Pi (2001) ★
 * McCarthy, The Road (2006) ★
 * McMurtry, <a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a> (1985) ★
+* McMurtry, Dead Man's Walk (2000)
 * Miller, The Crucible (1953)
 * Millhauser, Martin Dressler (1996)
 * Morrison, Beloved (1987)
@@ -107,6 +108,7 @@ tooltips:
 * Shakespeare, Romeo and Juliet (1595)
 * Shakespeare, Hamlet (1603)
 * Shelley, Frankenstein (1818)
+* Starnone, Ties (2017) ★
 * Steinbeck, Of Mice and Men (1937)
 * Stephenson, Snow Crash (1992)
 * Swift, Gulliver's Travels (1726)

@@ -3,9 +3,9 @@ layout: page
 title: All links
 published: true
 permalink: /all-links/
-backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 tooltips: 
 - path: tooltip_links.js
+backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 
 * Abelson, [Introduction to The Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY) (1986)
@@ -55,3 +55,5 @@ tooltips:
 * Vance, [Levels of Action](https://www.lesswrong.com/posts/guDcrPqLsnhEjrPZj/levels-of-action) (2015)
 * Wang, [Definite optimism as human capital](https://danwang.co/definite-optimism-as-human-capital/) (2017)
 * Winston, [How to Speak](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/index.htm) (2018)
+* Young, [How to Finish Your Work, One Bite at a Time](https://www.scotthyoung.com/blog/2008/04/08/how-to-finish-your-work-one-bite-at-a-time/) (2008)
+* ssica3003, [Tips for a longer life](http://theoryengine.org/life/tips-for-a-longer-life/) (2020)

@@ -3,13 +3,13 @@ layout: page
 title: Loved
 published: true
 permalink: /books-loved/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
 - path: tooltip_haidt-righteous-mind.js
 - path: tooltip_harris-free-will.js
 - path: tooltip_hofstadter-godel-escher-bach.js
 - path: tooltip_mcmurtry-lonesome-dove.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Bach, Jonathan Livingston Seagull (1970)
@@ -50,6 +50,7 @@ tooltips:
 * Pinker, The Sense of Style (2014)
 * Pullman, His Dark Materials (2000)
 * Rowling, Harry Potter 1-7 (2007)
+* Starnone, Ties (2017)
 * Thomas & Turner, Clear and Simple as the Truth (1994)
 * Wallace, Infinite Jest (1996)
 * Wallace, Oblivion (2004)

@@ -4,7 +4,6 @@ title: Gödel, Escher, Bach in 34 propositions
 permalink: /hofstadter-godel-escher-bach/
 published: true
 last_updated: 2020-01-02
-backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-loved" class="internal-link" href="/books-loved/">Loved</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-philosophy" class="internal-link" href="/books-philosophy/">Philosophy</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 tooltips: 
 - path: tooltip_all-books.js
 - path: tooltip_books-20s.js
@@ -12,6 +11,7 @@ tooltips:
 - path: tooltip_books-non-fiction.js
 - path: tooltip_books-philosophy.js
 - path: tooltip_commentaries.js
+backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-loved" class="internal-link" href="/books-loved/">Loved</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-philosophy" class="internal-link" href="/books-philosophy/">Philosophy</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 
 _I originally published this in 2016, after I finished reading the book. I'm republishing it now, with a few edits for clarity, after prompting from [@nosilverv](https://twitter.com/nosilverv), who [asked](https://twitter.com/nosilverv/status/1212716598236254212):_

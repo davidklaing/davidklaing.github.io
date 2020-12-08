@@ -3,9 +3,9 @@ layout: page
 title: Rock
 published: true
 permalink: /albums-rock/
-backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
 * Bahamas, [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME?si=IJD_v4FVRtmrnIjtwNPemQ) (2018)
@@ -22,14 +22,16 @@ tooltips:
 * The Beatles, [Abbey Road](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN?si=gg9B18kVTyeo7DvoBLd-rg) (1969)
 * The Beatles, [Let It Be](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5?si=4L3hnGtgQDynsDNoh3udGA) (1970)
 * The Beths, [Future Me Hates Me](https://open.spotify.com/album/4xG41eVnTuDK6uMmcksQ9B?si=BaeWB407TCWqbLJhlTvRSQ) (2018)
+* The Beths, [Jump Rope Gazers](https://open.spotify.com/album/5rwWTJEIAyzBbRjEU0BTfA?si=RwJ4wEQeRqqXb3Aasudraw) (2020)
 * Bruce Cockburn, [Anything Anytime Anywhere](https://open.spotify.com/album/2SPw42NwLiAzaaFa8qly2H?si=CuH6k5dZT1GbObJ2E-unjQ) (2001)
 * Bruce Cockburn, [Speechless](https://open.spotify.com/album/4YDbl2wUdoTpyErcBzIS74?si=Xobu3VNmTrS0lH5zNlnR1Q) (2005)
 * Bruce Hornsby, [Halcyon Days](https://open.spotify.com/album/3krJt11TsETPI3fmKao7mx?si=5KEFLvx3SvOvYi269GEYhg) (2004)
 * Bruce Hornsby & the Noisemakers, [Bride of the Noisemakers](https://open.spotify.com/album/3Y3w5UvZ0yazQRUKVtlVTo?si=YPVaQHeVTD-TxMu1GHHC2Q) (2011)
-* Bryan Adams, The Best of Me (1999)
+* Bryan Adams, [The Best of Me](https://open.spotify.com/album/0S04vzLE8EPrLosoHPcEzM?si=ulLkS_OWStWwQpmNAlXFsw) (1999)
 * Coldplay, [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra?si=-D0SEOLbSoOpA972ojYGlg) (2000)
 * Coldplay, [Viva La Vida](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty?si=q1OZyeEURJeSJt7nbfb87Q) (2008)
 * Counting Crows, [Hard Candy](https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy?si=2-GHrtIASCq3yLOYofTASQ) (2002)
+* Crosby, Stills, Nash & Young, [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb?si=XgwcAkWgQ6-Kt2hymuxdNQ) (1970)
 * Daft Punk, [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=Sh5jHvpgT0KDfFfkHWZ-Ag) (2013)
 * Fleetwood Mac, [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB?si=b5BrvrMOSzyZg1r1HlQ3zw) (1977)
 * John Mayer, [Room for Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48?si=hwkf9N77Tie1le2QZ3KFbg) (2001)

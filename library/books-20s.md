@@ -3,7 +3,6 @@ layout: page
 title: 20s
 published: true
 permalink: /books-20s/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
 - path: tooltip_clear-atomic-habits.js
@@ -11,7 +10,9 @@ tooltips:
 - path: tooltip_haidt-righteous-mind.js
 - path: tooltip_harris-free-will.js
 - path: tooltip_hofstadter-godel-escher-bach.js
+- path: tooltip_mcmurtry-lonesome-dove.js
 - path: tooltip_thiel-zero-to-one.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, How to Fail at Almost Everything and Still Win Big (2013)
@@ -98,6 +99,7 @@ tooltips:
 * MacDonald, The Princess and the Goblin (1872)
 * McCarthy, The Road (2006) ★
 * McGrayne, The Theory That Would Not Die (2011)
+* McMurtry, <a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a> (1985) ★
 * Medina, Brain Rules (2008)
 * Morrison, Beloved (1987)
 * Moss, The Rookie (2016)

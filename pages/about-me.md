@@ -2,9 +2,9 @@
 layout: page
 title: About me
 permalink: /about-me/
-backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 tooltips: 
 - path: tooltip_home.js
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
 ## What's my story?

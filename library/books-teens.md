@@ -3,9 +3,9 @@ layout: page
 title: Teens
 published: true
 permalink: /books-teens/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Barron, The Lost Years of Merlin Saga (2000) ★

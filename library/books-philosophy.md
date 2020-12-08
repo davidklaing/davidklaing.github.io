@@ -3,12 +3,12 @@ layout: page
 title: Philosophy
 published: true
 permalink: /books-philosophy/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
 - path: tooltip_harris-free-will.js
 - path: tooltip_hofstadter-godel-escher-bach.js
 - path: tooltip_thiel-zero-to-one.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Aurelius, Meditations (180)
@@ -16,6 +16,7 @@ tooltips:
 * Campbell, A Joseph Campbell Companion (1991)
 * Confucius, The Analects (-429)
 * Cowen, Stubborn Attachments (2018)
+* Crawford, Shop Class as Soulcraft (2009)
 * Dawkins, The God Delusion (2006)
 * Ellenberg, How Not to Be Wrong (2014)
 * Emerson, Self-Reliance and Other Essays (1844)

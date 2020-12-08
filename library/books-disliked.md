@@ -3,9 +3,9 @@ layout: page
 title: Disliked
 published: true
 permalink: /books-disliked/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Asimov, Prelude to Foundation (1988)

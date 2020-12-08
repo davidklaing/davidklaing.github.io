@@ -3,7 +3,6 @@ layout: page
 title: Non-Fiction
 published: true
 permalink: /books-non-fiction/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_barabasi-the-formula.js
 - path: tooltip_books.js
@@ -13,6 +12,7 @@ tooltips:
 - path: tooltip_harris-free-will.js
 - path: tooltip_hofstadter-godel-escher-bach.js
 - path: tooltip_thiel-zero-to-one.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, How to Fail at Almost Everything and Still Win Big (2013)
@@ -35,6 +35,7 @@ tooltips:
 * Confucius, The Analects (-429)
 * Cowen, Discover Your Inner Economist (2007)
 * Cowen, Stubborn Attachments (2018)
+* Crawford, Shop Class as Soulcraft (2009)
 * Dawkins, Unweaving the Rainbow (1998)
 * Dawkins, The God Delusion (2006)
 * Dillard, Pilgrim at Tinker Creek (1974)
@@ -63,6 +64,7 @@ tooltips:
 * Harris, Waking Up (2014) ★
 * Hofstadter, <a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Gödel, Escher, Bach</a> (1979) ★
 * Holt, Why Does the World Exist? (2011)
+* Housel, The Psychology of Money (2020)
 * Huston, Teaching What You Don't Know (2009)
 * Jacobs, The Pleasures of Reading in an Age of Distraction (2011)
 * James et al., An Introduction to Statistical Learning (2017)

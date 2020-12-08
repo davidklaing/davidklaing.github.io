@@ -56,17 +56,17 @@ class Page:
         links = soup.find_all('a')
         return [str(link) for link in links if link.get('href')[0] == '/'] if links else []
     
-    def write_tooltips(self):
-        """Write a new set of tooltips."""
-        all_links_set = set(self.backlinks + self.forward_links) - {
-            '<a id="home" class="internal-link" href="/">davidklaing.com</a>',
-            '<a id="subscribe" class="internal-link" href="/subscribe/">Subscribe</a>'
-        }
-        non_tooltips_lines = [line for line in self.front_matter if 'tooltips: ' not in line and '- path:' not in line]
-        tooltip_script_paths = sorted({f'tooltip_{self.find_page_id(link)}.js' for link in all_links_set})
-        if tooltip_script_paths:
-            non_tooltips_lines.insert(-1, 'tooltips: \n- path: ' + '\n- path: '.join(tooltip_script_paths) + '\n')
-        self.front_matter = non_tooltips_lines
+    # def write_tooltips(self):
+    #     """Write a new set of tooltips."""
+    #     all_links_set = set(self.backlinks + self.forward_links) - {
+    #         '<a id="home" class="internal-link" href="/">davidklaing.com</a>',
+    #         '<a id="subscribe" class="internal-link" href="/subscribe/">Subscribe</a>'
+    #     }
+    #     non_tooltips_lines = [line for line in self.front_matter if 'tooltips: ' not in line and '- path:' not in line]
+    #     tooltip_script_paths = sorted({f'tooltip_{self.find_page_id(link)}.js' for link in all_links_set})
+    #     if tooltip_script_paths:
+    #         non_tooltips_lines.insert(-1, 'tooltips: \n- path: ' + '\n- path: '.join(tooltip_script_paths) + '\n')
+    #     self.front_matter = non_tooltips_lines
     
     @staticmethod
     def find_page_id(link):
@@ -123,9 +123,9 @@ class Database:
             title = title[1:-1]
         return f'<a id="{id}" class="internal-link" href="{permalink}">{title}</a>'
     
-    def update_tooltips(self):
-        for page in self.pages:
-            page.write_tooltips()
+    # def update_tooltips(self):
+    #     for page in self.pages:
+    #         page.write_tooltips()
     
     def write_pages(self):
         """Write the pages back to markdown."""
@@ -137,11 +137,11 @@ class Database:
                 folder = page.folder
                 write_page(filepath=f'{folder}/{path}', content=''.join(page.front_matter + page.content))
     
-    def write_tooltips(self):
-        for path in self.site_html_paths:
-            page_id = self.get_id_from_path(path=path)
-            tooltip = self.create_tooltip(path=path, page_id=page_id)
-            write_page(filepath=f'_includes/tooltip_{page_id}.js', content=tooltip)
+    # def write_tooltips(self):
+    #     for path in self.site_html_paths:
+    #         page_id = self.get_id_from_path(path=path)
+    #         tooltip = self.create_tooltip(path=path, page_id=page_id)
+    #         write_page(filepath=f'_includes/tooltip_{page_id}.js', content=tooltip)
     
     def get_id_from_path(self, path):
         if path == '_site/index.html':
@@ -149,33 +149,33 @@ class Database:
         else:
             return path.replace('_site/', '')
     
-    def create_tooltip(self, path, page_id):
-        template = self.tooltip_template(page_id)
-        suffix = '/index.html' if path != '_site/index.html' else ''
-        html_page = read_page(path + suffix)
-        soup = BeautifulSoup(''.join(html_page), 'html.parser')
-        content_markup = soup.find("div", {"class": "article-content"}).contents
-        content_string = ''.join([str(element) for element in content_markup]).replace('\n', '').replace("'", "\'")
-        template.insert(-1, '    content: ' + "'" + content_string + "'\n")
-        return ''.join(template)
+    # def create_tooltip(self, path, page_id):
+    #     template = self.tooltip_template(page_id)
+    #     suffix = '/index.html' if path != '_site/index.html' else ''
+    #     html_page = read_page(path + suffix)
+    #     soup = BeautifulSoup(''.join(html_page), 'html.parser')
+    #     content_markup = soup.find("div", {"class": "article-content"}).contents
+    #     content_string = ''.join([str(element) for element in content_markup]).replace('\n', '').replace("'", "\'")
+    #     template.insert(-1, '    content: ' + "'" + content_string + "'\n")
+    #     return ''.join(template)
     
-    def tooltip_template(self, page_id):
-        if page_id in ['home']:
-            placement = 'bottom'
-        else:
-            placement = 'right'
-        return [
-            "tippy('#" + page_id + "', {\n",
-            "    theme: 'light-border',\n",
-            "    arrow: false,\n",
-            "    allowHTML: true,\n",
-            f"    placement: '{placement}',\n",
-            "    touch: false,\n",
-            "    maxWidth: 550,\n",
-            "    interactive: true,\n",
-            "    interactiveBorder: 1,\n",
-            "});"
-        ]
+    # def tooltip_template(self, page_id):
+    #     if page_id in ['home']:
+    #         placement = 'bottom'
+    #     else:
+    #         placement = 'right'
+    #     return [
+    #         "tippy('#" + page_id + "', {\n",
+    #         "    theme: 'light-border',\n",
+    #         "    arrow: false,\n",
+    #         "    allowHTML: true,\n",
+    #         f"    placement: '{placement}',\n",
+    #         "    touch: false,\n",
+    #         "    maxWidth: 550,\n",
+    #         "    interactive: true,\n",
+    #         "    interactiveBorder: 1,\n",
+    #         "});"
+    #     ]
 
 
 def read_page(filepath):
@@ -212,9 +212,9 @@ def build_site():
     ]
     db = Database(pages=pages, site_html_paths=site_html_paths)
     db.update_backlinks()
-    db.update_tooltips()
+    # db.update_tooltips()
     db.write_pages()
-    db.write_tooltips()
+    # db.write_tooltips()
     subprocess.run(['bundle', 'exec', 'jekyll', 'build'])
 
 

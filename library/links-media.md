@@ -3,9 +3,9 @@ layout: page
 title: Media
 published: true
 permalink: /links-media/
-backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 tooltips: 
 - path: tooltip_links.js
+backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 
 * Hoare, [Always bet on text](https://graydon2.dreamwidth.org/193447.html) (2014)

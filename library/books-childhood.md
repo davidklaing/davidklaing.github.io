@@ -3,9 +3,9 @@ layout: page
 title: Childhood
 published: true
 permalink: /books-childhood/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, The Hitchhiker's Guide to the Galaxy (1979)

@@ -14,6 +14,7 @@ tooltips:
 * Goleman & Davidson, <a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Altered Traits</a> (2017)
 * Haidt, The Happiness Hypothesis (2005) ★
 * Haidt, <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a> (2012) ★
+* Housel, The Psychology of Money (2020)
 * Kahneman, Thinking, Fast and Slow (2011)
 * Medina, Brain Rules (2008)
 * Pinker, The Language Instinct (1994) ★

@@ -3,9 +3,9 @@ layout: page
 title: All albums
 published: true
 permalink: /all-albums/
-backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
 * Anderson .Paak, [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK?si=H3MLe7PYSuOlTSv6a4CsOw) (2016)
@@ -27,12 +27,14 @@ tooltips:
 * The Beatles, [Abbey Road](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN?si=gg9B18kVTyeo7DvoBLd-rg) (1969)
 * The Beatles, [Let It Be](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5?si=4L3hnGtgQDynsDNoh3udGA) (1970)
 * The Beths, [Future Me Hates Me](https://open.spotify.com/album/4xG41eVnTuDK6uMmcksQ9B?si=BaeWB407TCWqbLJhlTvRSQ) (2018)
+* The Beths, [Jump Rope Gazers](https://open.spotify.com/album/5rwWTJEIAyzBbRjEU0BTfA?si=RwJ4wEQeRqqXb3Aasudraw) (2020)
 * Bruce Cockburn, [Anything Anytime Anywhere](https://open.spotify.com/album/2SPw42NwLiAzaaFa8qly2H?si=CuH6k5dZT1GbObJ2E-unjQ) (2001)
 * Bruce Cockburn, [Speechless](https://open.spotify.com/album/4YDbl2wUdoTpyErcBzIS74?si=Xobu3VNmTrS0lH5zNlnR1Q) (2005)
 * Bruce Hornsby, [Halcyon Days](https://open.spotify.com/album/3krJt11TsETPI3fmKao7mx?si=5KEFLvx3SvOvYi269GEYhg) (2004)
 * Bruce Hornsby & the Noisemakers, [Bride of the Noisemakers](https://open.spotify.com/album/3Y3w5UvZ0yazQRUKVtlVTo?si=YPVaQHeVTD-TxMu1GHHC2Q) (2011)
 * Bruno Mars, [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA?si=yBTR8ZfkQIWgyqXlDshrOQ) (2016)
-* Bryan Adams, The Best of Me (1999)
+* Bryan Adams, [The Best of Me](https://open.spotify.com/album/0S04vzLE8EPrLosoHPcEzM?si=ulLkS_OWStWwQpmNAlXFsw) (1999)
+* Burt Bacharach & Daniel Tashian, Blue Umbrella (2020)
 * Carly Rae Jepsen, [E-mo-tion](https://open.spotify.com/album/09qAJ8LMsiil5IixKRjYGJ?si=g8jgSG5UQoOv6LQ9rF2ecg) (2015)
 * Chance the Rapper, [Acid Rap](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh?si=T1SjpH_wRaiEdyxCAP5HMw) (2013)
 * Charlie Puth, [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR?si=jHhJILksQjy0Njo_uhShhg) (2018)
@@ -40,10 +42,12 @@ tooltips:
 * Coldplay, [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra?si=-D0SEOLbSoOpA972ojYGlg) (2000)
 * Coldplay, [Viva La Vida](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty?si=q1OZyeEURJeSJt7nbfb87Q) (2008)
 * Counting Crows, [Hard Candy](https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy?si=2-GHrtIASCq3yLOYofTASQ) (2002)
+* Crosby, Stills, Nash & Young, [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb?si=XgwcAkWgQ6-Kt2hymuxdNQ) (1970)
 * Daft Punk, [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc?si=x6Z1JYEVTXqswQo3KEpK6A) (2001)
 * Daft Punk, [Alive 2007](https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk?si=Kb6t4ElBQ9G6eTftbieWlA) (2007)
 * Daft Punk, [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=Sh5jHvpgT0KDfFfkHWZ-Ag) (2013)
 * Daniel Caesar, [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0?si=3G49LtdvSNSfTxkymZN9Kw) (2017)
+* Ethan Gruska, [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy?si=jqzuV4ofRjCCYhQWLzbBCA) (2020)
 * Fleetwood Mac, [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB?si=b5BrvrMOSzyZg1r1HlQ3zw) (1977)
 * Frank Ocean, [Channel Orange](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8?si=uqdHArp1SOaYUh-t-LF46Q) (2012)
 * Frank Ocean, [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf?si=48XcPB7HRF6Z7T9BQJ1LxQ) (2016)
@@ -51,6 +55,7 @@ tooltips:
 * Good Lovelies, [Let the Rain Fall](https://open.spotify.com/album/70UM6omLuSAURe4aJW2zOZ?si=JqDo-mE4Rh6MigdkZZ8flw) (2011)
 * Inlet Sound, [The Romantics](https://open.spotify.com/album/3U43E56TUQJ4PquiPwRtoP?si=V7us3KLVTuGRCTupSOhZNw) (2012)
 * Jack Johnson, [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo?si=wRHZna_HQb-966mnU8CnKA) (2005)
+* Jacob Collier, [Djesse Vol. 3](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8?si=XIZvEjMMQLynq5Rw4NF7RA) (2020)
 * James Taylor, [Sweet Baby James](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx?si=bgfHS7ALTZelMsFh6ZzHgQ) (1970)
 * James Taylor, [Gorilla](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny?si=HuXRNgY2TZ2u5kCcx0d5oQ) (1975)
 * James Taylor, [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn?si=wmEoK4POTTmGP4QNI6pf1A) (1977)
@@ -61,6 +66,7 @@ tooltips:
 * John Mayer, [Room for Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48?si=hwkf9N77Tie1le2QZ3KFbg) (2001)
 * John Mayer, [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP?si=xNayx_UuTsie8cjg5gfFCQ) (2017)
 * John Williams, [Harry Potter and the Sorcer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N?si=EhDh2Rx8QVm_thAaoymKYw) (2001)
+* Joni Mitchell, [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa?si=ztE5xw2NTkuIwyvlH4bTKw) (1971)
 * Kacey Musgraves, [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c?si=i-rInECPTweIcNcIOA7BWA) (2018)
 * Kanye West, [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F?si=7PDm7z7gQwCsdqC6CYfAcQ) (2004)
 * Kanye West, [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g?si=ZmdTIlXiQFq7w5941uNCuw) (2005)
@@ -88,6 +94,7 @@ tooltips:
 * Neutral Milk Hotel, [In the Aeroplane Over the Sea](https://open.spotify.com/album/5COXoP5kj2DWfCDg0vxi4F?si=hKzztpO8RN6kMxxW3GIwaA) (1998)
 * Nickel Creek, [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2?si=92OqO1tUQOG1gurroMneag) (2014)
 * The Oh Hellos, [The Oh Hellos' Family Christmas Album](https://open.spotify.com/album/1cv8WBFQPnstQvRZgg2Bw4?si=zxVGfpujRr-Y8yRTp7Txhg) (2014)
+* The Other Favorites, [Fools](https://open.spotify.com/album/2Y2tMqcDVU2oMatek9xEP4?si=QEezmNH6TcCefdj_CqgcyQ) (2017)
 * Paramore, [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs?si=Y8XSU104Q6qEMpD_rAFVSA) (2017)
 * Phil Collins, [Testify](https://open.spotify.com/album/5Tby0U5VndHW0SomYO7Id7?si=jG1jCU1SS3eiXIBw07TXTQ) (2002)
 * Phil Collins & Mark Mancina, [Tarzan](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C?si=OHU5hVqfQyizKXJxDD1naw) (1999)

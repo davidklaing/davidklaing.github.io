@@ -3,9 +3,9 @@ layout: page
 title: Epistemology
 published: true
 permalink: /links-epistemology/
-backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 tooltips: 
 - path: tooltip_links.js
+backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 
 * Alexander, [Conflict vs. Mistake](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/) (2018)

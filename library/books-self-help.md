@@ -3,11 +3,11 @@ layout: page
 title: Self-Help
 published: true
 permalink: /books-self-help/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_barabasi-the-formula.js
 - path: tooltip_books.js
 - path: tooltip_clear-atomic-habits.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, How to Fail at Almost Everything and Still Win Big (2013)

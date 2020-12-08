@@ -3,11 +3,12 @@ layout: page
 title: Alternative
 published: true
 permalink: /albums-alternative/
-backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
+* Ethan Gruska, [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy?si=jqzuV4ofRjCCYhQWLzbBCA) (2020)
 * LCD Soundsystem, [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X?si=ZKOPRcC-SfO_xJahT32Kgw) (2007)
 * Neutral Milk Hotel, [In the Aeroplane Over the Sea](https://open.spotify.com/album/5COXoP5kj2DWfCDg0vxi4F?si=hKzztpO8RN6kMxxW3GIwaA) (1998)
 * Radiohead, [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f?si=ITy3Dks0Tq2Lye7QjvCFbg) (2007)

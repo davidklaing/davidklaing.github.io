@@ -2,9 +2,9 @@
 layout: page
 title: Mind positivity
 permalink: /mind-positivity/
-backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 tooltips: 
 - path: tooltip_notes.js
+backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 Self-love messaging generally focuses on the body, but surely there are many people (like me) who are more insecure about their minds. Imagine the rallying cries of a mind positivity movement:

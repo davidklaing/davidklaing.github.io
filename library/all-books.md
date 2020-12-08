@@ -3,7 +3,6 @@ layout: page
 title: All books
 published: true
 permalink: /all-books/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_barabasi-the-formula.js
 - path: tooltip_books.js
@@ -14,6 +13,7 @@ tooltips:
 - path: tooltip_hofstadter-godel-escher-bach.js
 - path: tooltip_mcmurtry-lonesome-dove.js
 - path: tooltip_thiel-zero-to-one.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, The Hitchhiker's Guide to the Galaxy (1979)
@@ -63,6 +63,7 @@ tooltips:
 * Conrad, Heart of Darkness (1899)
 * Cowen, Discover Your Inner Economist (2007)
 * Cowen, Stubborn Attachments (2018)
+* Crawford, Shop Class as Soulcraft (2009)
 * Crichton, Jurassic Park (1990)
 * Czuchlewski, The Muse Asylum (2001)
 * Dawkins, Unweaving the Rainbow (1998)
@@ -114,6 +115,7 @@ tooltips:
 * Holt, Why Does the World Exist? (2011)
 * Homer, The Odyssey (-700)
 * Homer, The Iliad (-750)
+* Housel, The Psychology of Money (2020)
 * Huston, Teaching What You Don't Know (2009)
 * Irving, A Prayer for Owen Meany (1989) ★
 * Ishiguro, Never Let Me Go (2005)
@@ -150,6 +152,7 @@ tooltips:
 * McCarthy, The Road (2006) ★
 * McGrayne, The Theory That Would Not Die (2011)
 * McMurtry, <a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a> (1985) ★
+* McMurtry, Dead Man's Walk (2000)
 * Medina, Brain Rules (2008)
 * Miller, The Crucible (1953)
 * Miller, Know My Name (2019) ★
@@ -193,6 +196,7 @@ tooltips:
 * Simler & Hanson, The Elephant in the Brain (2017)
 * Smith, The World's Religions (1958)
 * Spong, A New Christianity for a New World (2001)
+* Starnone, Ties (2017) ★
 * Steinbeck, Of Mice and Men (1937)
 * Stephens-Davidowitz, Everybody Lies (2017)
 * Stephenson, Snow Crash (1992)

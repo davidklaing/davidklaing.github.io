@@ -3,9 +3,9 @@ layout: page
 title: Childhood
 published: true
 permalink: /albums-childhood/
-backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
 * The Beatles, [Please Please Me](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf?si=-qatvcXfSQ60gZNnvHqJUA) (1963)
@@ -20,7 +20,7 @@ tooltips:
 * The Beatles, [The White Album](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL?si=GM21PzkrR1iiaP7KVVzSWg) (1968)
 * The Beatles, [Abbey Road](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN?si=gg9B18kVTyeo7DvoBLd-rg) (1969)
 * The Beatles, [Let It Be](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5?si=4L3hnGtgQDynsDNoh3udGA) (1970)
-* Bryan Adams, The Best of Me (1999)
+* Bryan Adams, [The Best of Me](https://open.spotify.com/album/0S04vzLE8EPrLosoHPcEzM?si=ulLkS_OWStWwQpmNAlXFsw) (1999)
 * James Taylor, [Sweet Baby James](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx?si=bgfHS7ALTZelMsFh6ZzHgQ) (1970)
 * James Taylor, [Gorilla](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny?si=HuXRNgY2TZ2u5kCcx0d5oQ) (1975)
 * James Taylor, [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn?si=wmEoK4POTTmGP4QNI6pf1A) (1977)

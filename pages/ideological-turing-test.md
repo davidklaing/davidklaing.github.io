@@ -4,9 +4,9 @@ title: The Ideological Turing test — Bryan Caplan
 permalink: /ideological-turing-test/
 published: true
 last_updated: 2019-10-16
-backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 tooltips: 
 - path: tooltip_commentaries.js
+backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 
 Consider your position on abortion. If you’re pro-life, imagine you’re doing some research at a pro-choice event and you want to conceal your true position. Suddenly, someone hands you a microphone and a spotlight shines on you—the crowd wants to hear you say a few words about why it’s so important to defend women’s right to choose. (If you’re pro-choice, imagine you’re at a pro-life event and you have to say why it’s so important to protect the life of an embryo or fetus.)

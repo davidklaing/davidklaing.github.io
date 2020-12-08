@@ -3,9 +3,9 @@ layout: page
 title: Teens
 published: true
 permalink: /albums-teens/
-backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 tooltips: 
 - path: tooltip_albums.js
+backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
 * Bruce Cockburn, [Anything Anytime Anywhere](https://open.spotify.com/album/2SPw42NwLiAzaaFa8qly2H?si=CuH6k5dZT1GbObJ2E-unjQ) (2001)

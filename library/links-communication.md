@@ -3,9 +3,9 @@ layout: page
 title: Communication
 published: true
 permalink: /links-communication/
-backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 tooltips: 
 - path: tooltip_links.js
+backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 
 * Alexander, [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) (2016)

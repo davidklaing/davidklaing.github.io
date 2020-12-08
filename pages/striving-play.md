@@ -2,12 +2,12 @@
 layout: page
 title: Striving play
 permalink: /striving-play/
-backlinks: '<ul><li><a id="achievement-play" class="internal-link" href="/achievement-play/">Achievement play</a></li><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="stupid-games" class="internal-link" href="/stupid-games/">Stupid games</a></li></ul>'
 tooltips: 
 - path: tooltip_achievement-play.js
 - path: tooltip_newest.js
 - path: tooltip_notes.js
 - path: tooltip_stupid-games.js
+backlinks: '<ul><li><a id="achievement-play" class="internal-link" href="/achievement-play/">Achievement play</a></li><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="stupid-games" class="internal-link" href="/stupid-games/">Stupid games</a></li></ul>'
 ---
 
 "Striving" play is play that is done not for the experience of achieving a particular goal, but for the experience of striving toward that goal. When I sit down to play chess, I don't particularly care whether I'm going to win; I'm just in it for the pleasure of *trying* to win.

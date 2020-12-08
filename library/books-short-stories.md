@@ -3,9 +3,9 @@ layout: page
 title: Short Stories
 published: true
 permalink: /books-short-stories/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Borges, The Library of Babel (1941)

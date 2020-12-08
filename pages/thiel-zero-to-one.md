@@ -2,7 +2,6 @@
 layout: page
 title: Zero to One
 permalink: /thiel-zero-to-one/
-backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-liked" class="internal-link" href="/books-liked/">Liked</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-philosophy" class="internal-link" href="/books-philosophy/">Philosophy</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 tooltips: 
 - path: tooltip_all-books.js
 - path: tooltip_books-20s.js
@@ -11,6 +10,7 @@ tooltips:
 - path: tooltip_books-non-fiction.js
 - path: tooltip_books-philosophy.js
 - path: tooltip_commentaries.js
+backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-liked" class="internal-link" href="/books-liked/">Liked</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-philosophy" class="internal-link" href="/books-philosophy/">Philosophy</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 
 A few new perspectives from Peter Thiel's book, Zero to One:

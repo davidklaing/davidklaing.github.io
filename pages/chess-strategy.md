@@ -2,10 +2,10 @@
 layout: page
 title: Chess strategy
 permalink: /chess-strategy/
-backlinks: '<ul><li><a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a></li><li><a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a></li></ul>'
 tooltips: 
 - path: tooltip_everything-i-know-about-chess.js
 - path: tooltip_inner-game-of-chess.js
+backlinks: '<ul><li><a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a></li><li><a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a></li></ul>'
 ---
 
 1\. Control and occupy the center. You can go to more places from the center than you can from the edges.

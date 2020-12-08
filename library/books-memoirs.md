@@ -3,9 +3,9 @@ layout: page
 title: Memoirs
 published: true
 permalink: /books-memoirs/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 tooltips: 
 - path: tooltip_books.js
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, How to Fail at Almost Everything and Still Win Big (2013)

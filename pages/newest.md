@@ -2,7 +2,6 @@
 layout: page
 title: Newest
 permalink: /newest/
-backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 tooltips: 
 - path: tooltip_achievement-play.js
 - path: tooltip_barabasi-the-formula.js
@@ -14,6 +13,7 @@ tooltips:
 - path: tooltip_striving-play.js
 - path: tooltip_stupid-games.js
 - path: tooltip_to-go-viral-go-to-all-that-trouble.js
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
 * <a class="external-link" target="_self" href="https://curingthecurse.com">Curing the Curse of Knowledge</a>

@@ -2,13 +2,13 @@
 layout: page
 title: Underappreciated
 permalink: /underappreciated/
-backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 tooltips: 
 - path: tooltip_barabasi-the-formula.js
 - path: tooltip_home.js
 - path: tooltip_links.js
 - path: tooltip_research-as-a-stochastic-decision-process.js
 - path: tooltip_tidy-up.js
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
 * <a id="links" class="internal-link" href="/links/">Links</a>

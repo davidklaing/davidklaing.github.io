@@ -8,18 +8,5 @@
                 {{ content }}
             </div>
         </div>
-        <script src="https://unpkg.com/@popperjs/core@2"></script>
-        <script src="https://unpkg.com/tippy.js@6"></script>
-        <script type="text/javascript">
-            {% if page.title != "Home" %}
-                {% include tooltip_home.js %}
-            {% endif %}
-            {% include tooltip_subscribe.js %}
-        </script>
-        {% for script in page.tooltips %}
-            <script type="text/javascript">
-                {% include {{ script.path }} %}
-            </script>
-        {% endfor %}
     </body>
 </html>
