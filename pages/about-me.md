@@ -2,8 +2,6 @@
 layout: page
 title: About me
 permalink: /about-me/
-tooltips: 
-- path: tooltip_home.js
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
@@ -19,7 +17,7 @@ I now live in Vancouver with my partner, Meg. I love listening to music, tinkeri
 
 ## What do I do for work?
 
-- I'm a senior data scientist at <a class="external-link" target="_self" href="https://imbellus.com/">Imbellus</a>, a startup that makes cognitive assessments. The assessments look and feel like games, and their goal is to provide an alternative to traditional multiple-choice tests, which are great at measuring content mastery and memorization but not so great at measuring skills like decision-making, adaptability, or situational awareness. My job is to design and build scoring systems for these assessments.
+- I'm a senior data scientist at <a class="external-link" target="_self" href="https://roblox.com/">Roblox</a>, a gaming platform.
 - Once per year, I teach a course on communication and argumentation in the <a class="external-link" target="_self" href="https://masterdatascience.ubc.ca/">Master of Data Science program</a> at the University of British Columbia. The course prepares students to communicate and reason effectively about data science topics and findings.
 - I also teach a course for Hyperlink Academy called <a class="external-link" target="_self" href="https://hyperlink.academy/courses/write-a-micro-textbook/14">Write a Micro-Textbook</a>. The course takes a small group of people through the process of creating a substantial work of instructional writing, in five weeks.
 
