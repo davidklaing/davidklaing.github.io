@@ -3,7 +3,7 @@ layout: page
 title: My laptop setup
 permalink: /laptop-setup/
 published: true
-last_updated: 2018-12-16
+last_updated: 2020-12-15
 tooltips: 
 - path: tooltip_notes.js
 backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
@@ -23,7 +23,7 @@ After setting myself up on four laptops in the space of two years, I figured it 
   - `System Preferences` → `Trackpad` → `Accessibility`→ `Mouse & Trackpad` → `Trackpad Options` 
   - Check `Enable dragging` with `three finger drag`
 4. Configure hot corners. 
-  - `System Preferences` → `Trackpad` → `Hot Corners`
+  - `System Preferences` → `Mission Control` → `Hot Corners`
   - Top left: `Desktop`
   - Top right: `Mission Control`
   - Bottom left: `Put Display to Sleep`
@@ -31,22 +31,23 @@ After setting myself up on four laptops in the space of two years, I figured it 
 5. Turn on Night Shift.
    - `System Preferences` → `Displays` → `Night Shift`
    - Set schedule to `Sunset to Sunrise`
+6. Reduce motion.
+  - `System Preferences` → `Accessibility` → `Display`
+  - Check `Reduce motion`
 
 ## Installations
 
 1. developer tools: `xcode-select --install`
 2. [1Password](https://1password.com/)
 3. [Chrome](https://www.google.ca/chrome/?brand=CHBD&gclid=Cj0KCQiAgMPgBRDDARIsAOh3uyLH9FyD5U6BuJ2Co_vlFaAEiDZYtHyFz2Wf-ESUYLTFpSxdpRLTXgQaAvyDEALw_wcB&gclsrc=aw.ds)
-4. [Dropbox](https://www.dropbox.com/)
-5. [Quicksilver](https://qsapp.com/)
-6. [iTerm2](https://www.iterm2.com/)
-7. [Homebrew](https://brew.sh/)
-8. [R](https://cran.rstudio.com/bin/macosx/)
-9. [RStudio](https://www.rstudio.com/products/rstudio/download/)
-10. [Anaconda](https://www.anaconda.com/download/#macos)
-11. [Typora](https://typora.io/)
-12. [Visual Studio Code](https://code.visualstudio.com/)
-13. [Spotify](https://www.spotify.com/ca-en/download/other/)
+4. [iTerm2](https://www.iterm2.com/)
+5. [Homebrew](https://brew.sh/)
+6. [R](https://cran.rstudio.com/bin/macosx/)
+7. [RStudio](https://www.rstudio.com/products/rstudio/download/)
+8. [Anaconda](https://www.anaconda.com/download/#macos)
+9. [Visual Studio Code](https://code.visualstudio.com/)
+10. [Spotify](https://www.spotify.com/ca-en/download/other/)
+11. [BetterSnapTool](https://folivora.ai/bettersnaptool)
 
 ## iTerm2 configurations
 
@@ -62,7 +63,6 @@ After setting myself up on four laptops in the space of two years, I figured it 
 Put the following in `.bash_profile`:
 
 ```bash
-alias tp="open -a typora"
 alias rst="open -a rstudio"
 alias vs="open -a visual\ studio\ code"
 alias prev="open -a preview"
