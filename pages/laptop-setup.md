@@ -59,7 +59,7 @@ After setting myself up on four laptops in the space of two years, I figured it 
 
 ## Bash aliases
 
-Put the following in `.bash_profile`:
+Put the following in `.zshenv`:
 
 ```zsh
 alias rst="open -a rstudio"
