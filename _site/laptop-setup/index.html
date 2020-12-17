@@ -42,7 +42,7 @@
                 
                 
                 <hr>
-                <em>Last updated 2018-12-16</em>
+                <em>Last updated 2020-12-15</em>
                 <hr>
                 
                 <p>After setting myself up on four laptops in the space of two years, I figured it was time to write this all down. <a href="https://github.com/mgelbart/misc/blob/master/laptop_setup.md">Mike Gelbart’s setup</a> has been useful to me, so maybe mine will be useful to you.</p>
@@ -70,7 +70,7 @@
   </li>
   <li>Configure hot corners.
     <ul>
-      <li><code class="language-plaintext highlighter-rouge">System Preferences</code> → <code class="language-plaintext highlighter-rouge">Trackpad</code> → <code class="language-plaintext highlighter-rouge">Hot Corners</code></li>
+      <li><code class="language-plaintext highlighter-rouge">System Preferences</code> → <code class="language-plaintext highlighter-rouge">Mission Control</code> → <code class="language-plaintext highlighter-rouge">Hot Corners</code></li>
       <li>Top left: <code class="language-plaintext highlighter-rouge">Desktop</code></li>
       <li>Top right: <code class="language-plaintext highlighter-rouge">Mission Control</code></li>
       <li>Bottom left: <code class="language-plaintext highlighter-rouge">Put Display to Sleep</code></li>
@@ -83,6 +83,12 @@
       <li>Set schedule to <code class="language-plaintext highlighter-rouge">Sunset to Sunrise</code></li>
     </ul>
   </li>
+  <li>Reduce motion.
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">System Preferences</code> → <code class="language-plaintext highlighter-rouge">Accessibility</code> → <code class="language-plaintext highlighter-rouge">Display</code></li>
+      <li>Check <code class="language-plaintext highlighter-rouge">Reduce motion</code></li>
+    </ul>
+  </li>
 </ol>
 
 <h2 id="installations">Installations</h2>
@@ -91,16 +97,14 @@
   <li>developer tools: <code class="language-plaintext highlighter-rouge">xcode-select --install</code></li>
   <li><a href="https://1password.com/">1Password</a></li>
   <li><a href="https://www.google.ca/chrome/?brand=CHBD&amp;gclid=Cj0KCQiAgMPgBRDDARIsAOh3uyLH9FyD5U6BuJ2Co_vlFaAEiDZYtHyFz2Wf-ESUYLTFpSxdpRLTXgQaAvyDEALw_wcB&amp;gclsrc=aw.ds">Chrome</a></li>
-  <li><a href="https://www.dropbox.com/">Dropbox</a></li>
-  <li><a href="https://qsapp.com/">Quicksilver</a></li>
   <li><a href="https://www.iterm2.com/">iTerm2</a></li>
   <li><a href="https://brew.sh/">Homebrew</a></li>
   <li><a href="https://cran.rstudio.com/bin/macosx/">R</a></li>
   <li><a href="https://www.rstudio.com/products/rstudio/download/">RStudio</a></li>
   <li><a href="https://www.anaconda.com/download/#macos">Anaconda</a></li>
-  <li><a href="https://typora.io/">Typora</a></li>
   <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
   <li><a href="https://www.spotify.com/ca-en/download/other/">Spotify</a></li>
+  <li><a href="https://folivora.ai/bettersnaptool">BetterSnapTool</a></li>
 </ol>
 
 <h2 id="iterm2-configurations">iTerm2 configurations</h2>
@@ -115,7 +119,6 @@
   <li>Set new windows/tabs to open from previous session’s directory:
     <ul>
       <li><code class="language-plaintext highlighter-rouge">Preferences</code> → <code class="language-plaintext highlighter-rouge">Profiles</code> → <code class="language-plaintext highlighter-rouge">General</code></li>
-      <li>Under <code class="language-plaintext highlighter-rouge">Working Directory</code>, check <code class="language-plaintext highlighter-rouge">Reuse previous session’s directory</code></li>
     </ul>
   </li>
 </ol>
@@ -124,8 +127,7 @@
 
 <p>Put the following in <code class="language-plaintext highlighter-rouge">.bash_profile</code>:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">alias </span><span class="nv">tp</span><span class="o">=</span><span class="s2">"open -a typora"</span>
-<span class="nb">alias </span><span class="nv">rst</span><span class="o">=</span><span class="s2">"open -a rstudio"</span>
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">alias </span><span class="nv">rst</span><span class="o">=</span><span class="s2">"open -a rstudio"</span>
 <span class="nb">alias </span><span class="nv">vs</span><span class="o">=</span><span class="s2">"open -a visual</span><span class="se">\ </span><span class="s2">studio</span><span class="se">\ </span><span class="s2">code"</span>
 <span class="nb">alias </span><span class="nv">prev</span><span class="o">=</span><span class="s2">"open -a preview"</span>
 </code></pre></div></div>
@@ -134,21 +136,11 @@
 
 <p><a href="https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/">Instructions</a></p>
 
-<p><code class="language-plaintext highlighter-rouge">ssh-add -K ~/.ssh/id_rsa</code> to store passphrase in Keychain.</p>
-
-<p>Then add the following to <code class="language-plaintext highlighter-rouge">~/.ssh/config</code>:</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Host <span class="k">*</span>
-  UseKeychain <span class="nb">yes
-  </span>AddKeysToAgent <span class="nb">yes
-  </span>IdentityFile ~/.ssh/id_rsa
-</code></pre></div></div>
-
 <h2 id="git">Git</h2>
 
 <h3 id="configure-my-user">Configure my user.</h3>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> user.name <span class="s2">"David Laing"</span>
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> user.name <span class="s2">"David Laing"</span>
 git config <span class="nt">--global</span> user.email davidkendalllaing@gmail.com
 </code></pre></div></div>
 
@@ -158,7 +150,7 @@ git config <span class="nt">--global</span> user.email davidkendalllaing@gmail.c
 
 <p>Put this in it:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.DS_Store
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.DS_Store
 .ipynb_checkpoints
 .Trashes
 .RHistory
@@ -168,7 +160,7 @@ __pycache__
 
 <h3 id="set-up-git-aliases">Set up git aliases.</h3>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> alias.co checkout
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> alias.co checkout
 git config <span class="nt">--global</span> alias.br branch
 git config <span class="nt">--global</span> alias.ci commit
 git config <span class="nt">--global</span> alias.st status
@@ -176,17 +168,17 @@ git config <span class="nt">--global</span> alias.st status
 
 <h3 id="set-up-tab-completion-for-git-branches">Set up tab completion for git branches.</h3>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash <span class="nt">-o</span> ~/.git-completion.bash
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.zsh <span class="nt">-o</span> ~/.git-completion.zsh
 </code></pre></div></div>
 
-<p>Add this to <code class="language-plaintext highlighter-rouge">.bash_profile</code>:</p>
+<p>Add this to <code class="language-plaintext highlighter-rouge">.zshenv</code>:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span> <span class="o">[</span> <span class="nt">-f</span> ~/.git-completion.bash <span class="o">]</span><span class="p">;</span> <span class="k">then</span>
-  <span class="nb">.</span> ~/.git-completion.bash
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span> <span class="o">[</span> <span class="nt">-f</span> ~/.git-completion.zsh <span class="o">]</span><span class="p">;</span> <span class="k">then</span>
+  <span class="nb">.</span> ~/.git-completion.zsh
 <span class="k">fi</span>
 </code></pre></div></div>
 
-<p>Run <code class="language-plaintext highlighter-rouge">chmod -X ~/.git-completion.bash</code>, and restart iTerm2.</p>
+<p>Run <code class="language-plaintext highlighter-rouge">chmod -X ~/.git-completion.zsh</code>, and restart iTerm2.</p>
 
 <h2 id="rstudio-configurations">RStudio configurations</h2>
 
@@ -221,9 +213,6 @@ git config <span class="nt">--global</span> alias.st status
   <li><code class="language-plaintext highlighter-rouge">Preferences</code> → <code class="language-plaintext highlighter-rouge">Code</code> → <code class="language-plaintext highlighter-rouge">Editing</code> → <code class="language-plaintext highlighter-rouge">Modify Keyboard Shortcuts</code></li>
   <li>Open Previous Tab: <code class="language-plaintext highlighter-rouge">Alt+Cmd+Left</code></li>
   <li>Open Next Tab: <code class="language-plaintext highlighter-rouge">Alt+Cmd+Right</code></li>
-  <li>Move focus to source: <code class="language-plaintext highlighter-rouge">Cmd+1</code></li>
-  <li>Move focus to console: <code class="language-plaintext highlighter-rouge">Cmd+2</code></li>
-  <li>Move focus to terminal: <code class="language-plaintext highlighter-rouge">Cmd+3</code></li>
 </ul>
 
 <h3 id="create-custom-snippets">Create custom snippets.</h3>
@@ -246,7 +235,7 @@ git config <span class="nt">--global</span> alias.st status
 
 <p>(So you don’t have to alter the version of Ruby that comes with Mac.)</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Install rbenv and ruby-build</span>
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Install rbenv and ruby-build</span>
 brew <span class="nb">install </span>rbenv
 
 <span class="c"># Setup rbenv integration to your shell</span>
@@ -265,18 +254,18 @@ ruby <span class="nt">-v</span>
 
 <p><a href="http://kbroman.org/simple_site/pages/local_test.html">This post was useful</a>, as was <a href="https://github.com/bundler/bundler/issues/1767#issuecomment-4787059">this issue comment</a>.</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem <span class="nb">install </span>bundler
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem <span class="nb">install </span>bundler
 bundle <span class="nb">install</span>
 </code></pre></div></div>
 
 <p>To build a site:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll build
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll build
 </code></pre></div></div>
 
 <p>To test it locally:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll serve
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll serve
 </code></pre></div></div>
 
             </div>

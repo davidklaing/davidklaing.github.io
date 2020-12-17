@@ -56,13 +56,12 @@ After setting myself up on four laptops in the space of two years, I figured it 
 	- Set `Load preset` to `Natural Text Editing`
 2. Set new windows/tabs to open from previous session's directory:
 	- `Preferences` → `Profiles` → `General`
-	- Under `Working Directory`, check `Reuse previous session’s directory`
 
 ## Bash aliases
 
 Put the following in `.bash_profile`:
 
-```bash
+```zsh
 alias rst="open -a rstudio"
 alias vs="open -a visual\ studio\ code"
 alias prev="open -a preview"
@@ -72,22 +71,11 @@ alias prev="open -a preview"
 
 [Instructions](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
-`ssh-add -K ~/.ssh/id_rsa` to store passphrase in Keychain.
-
-Then add the following to `~/.ssh/config`:
-
-```bash
-Host *
-  UseKeychain yes
-  AddKeysToAgent yes
-  IdentityFile ~/.ssh/id_rsa
-```
-
 ## Git 
 
 ### Configure my user.
 
-```bash
+```zsh
 git config --global user.name "David Laing"
 git config --global user.email davidkendalllaing@gmail.com
 ```
@@ -98,7 +86,7 @@ git config --global user.email davidkendalllaing@gmail.com
 
 Put this in it:
 
-```bash
+```zsh
 .DS_Store
 .ipynb_checkpoints
 .Trashes
@@ -109,7 +97,7 @@ __pycache__
 
 ### Set up git aliases.
 
-```bash
+```zsh
 git config --global alias.co checkout
 git config --global alias.br branch
 git config --global alias.ci commit
@@ -118,19 +106,19 @@ git config --global alias.st status
 
 ### Set up tab completion for git branches.
 
-```bash
-curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
+```zsh
+curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.zsh -o ~/.git-completion.zsh
 ```
 
-Add this to `.bash_profile`:
+Add this to `.zshenv`:
 
-```bash
-if [ -f ~/.git-completion.bash ]; then
-  . ~/.git-completion.bash
+```zsh
+if [ -f ~/.git-completion.zsh ]; then
+  . ~/.git-completion.zsh
 fi
 ```
 
-Run `chmod -X ~/.git-completion.bash`, and restart iTerm2.
+Run `chmod -X ~/.git-completion.zsh`, and restart iTerm2.
 
 ## RStudio configurations
 
@@ -158,9 +146,6 @@ Run `chmod -X ~/.git-completion.bash`, and restart iTerm2.
 - `Preferences` → `Code` → `Editing` → `Modify Keyboard Shortcuts`
 - Open Previous Tab: `Alt+Cmd+Left`
 - Open Next Tab: `Alt+Cmd+Right`
-- Move focus to source: `Cmd+1`
-- Move focus to console: `Cmd+2`
-- Move focus to terminal: `Cmd+3`
 
 ### Create custom snippets.
 
@@ -181,7 +166,7 @@ snippet pprint
 
 (So you don't have to alter the version of Ruby that comes with Mac.)
 
-```bash
+```zsh
 # Install rbenv and ruby-build
 brew install rbenv
 
@@ -201,19 +186,19 @@ ruby -v
 
 [This post was useful](http://kbroman.org/simple_site/pages/local_test.html), as was [this issue comment](https://github.com/bundler/bundler/issues/1767#issuecomment-4787059).
 
-```bash
+```zsh
 gem install bundler
 bundle install
 ```
 
 To build a site:
 
-```bash
+```zsh
 bundle exec jekyll build
 ```
 
 To test it locally:
 
-```bash
+```zsh
 bundle exec jekyll serve
 ```
