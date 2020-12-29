@@ -3,9 +3,6 @@ layout: page
 title: Sublime introductory lectures
 published: true
 permalink: /links-sublime-introductory-lectures/
-tooltips: 
-- path: tooltip_links.js
-- path: tooltip_newest.js
 backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li></ul>'
 ---
 

@@ -3,8 +3,6 @@ layout: page
 title: Communication
 published: true
 permalink: /links-communication/
-tooltips: 
-- path: tooltip_links.js
 backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 

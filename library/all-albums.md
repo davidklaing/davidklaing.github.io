@@ -3,8 +3,6 @@ layout: page
 title: All albums
 published: true
 permalink: /all-albums/
-tooltips: 
-- path: tooltip_albums.js
 backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
@@ -34,7 +32,7 @@ backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums<
 * Bruce Hornsby & the Noisemakers, [Bride of the Noisemakers](https://open.spotify.com/album/3Y3w5UvZ0yazQRUKVtlVTo?si=YPVaQHeVTD-TxMu1GHHC2Q) (2011)
 * Bruno Mars, [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA?si=yBTR8ZfkQIWgyqXlDshrOQ) (2016)
 * Bryan Adams, [The Best of Me](https://open.spotify.com/album/0S04vzLE8EPrLosoHPcEzM?si=ulLkS_OWStWwQpmNAlXFsw) (1999)
-* Burt Bacharach & Daniel Tashian, Blue Umbrella (2020)
+* Burt Bacharach & Daniel Tashian, [Blue Umbrella](https://open.spotify.com/album/0S04vzLE8EPrLosoHPcEzM?si=XNrnbEDfRlyiTfqTCY94cQ) (2020)
 * Carly Rae Jepsen, [E-mo-tion](https://open.spotify.com/album/09qAJ8LMsiil5IixKRjYGJ?si=g8jgSG5UQoOv6LQ9rF2ecg) (2015)
 * Chance the Rapper, [Acid Rap](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh?si=T1SjpH_wRaiEdyxCAP5HMw) (2013)
 * Charlie Puth, [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR?si=jHhJILksQjy0Njo_uhShhg) (2018)

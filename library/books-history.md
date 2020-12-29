@@ -3,8 +3,6 @@ layout: page
 title: History
 published: true
 permalink: /books-history/
-tooltips: 
-- path: tooltip_books.js
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 

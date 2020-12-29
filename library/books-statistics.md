@@ -3,8 +3,6 @@ layout: page
 title: Statistics
 published: true
 permalink: /books-statistics/
-tooltips: 
-- path: tooltip_books.js
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 

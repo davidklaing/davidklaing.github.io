@@ -3,8 +3,6 @@ layout: page
 title: Fantasy
 published: true
 permalink: /books-fantasy/
-tooltips: 
-- path: tooltip_books.js
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 

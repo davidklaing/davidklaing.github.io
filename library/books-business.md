@@ -3,11 +3,6 @@ layout: page
 title: Business
 published: true
 permalink: /books-business/
-tooltips: 
-- path: tooltip_barabasi-the-formula.js
-- path: tooltip_books.js
-- path: tooltip_clear-atomic-habits.js
-- path: tooltip_thiel-zero-to-one.js
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 

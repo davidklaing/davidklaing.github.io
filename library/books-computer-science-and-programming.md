@@ -3,8 +3,6 @@ layout: page
 title: Computer Science & Programming
 published: true
 permalink: /books-computer-science-and-programming/
-tooltips: 
-- path: tooltip_books.js
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 

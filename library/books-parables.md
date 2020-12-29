@@ -3,8 +3,6 @@ layout: page
 title: Parables
 published: true
 permalink: /books-parables/
-tooltips: 
-- path: tooltip_books.js
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 

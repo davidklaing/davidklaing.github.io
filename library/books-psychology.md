@@ -3,9 +3,6 @@ layout: page
 title: Psychology
 published: true
 permalink: /books-psychology/
-tooltips: 
-- path: tooltip_goleman-and-davidson-altered-traits.js
-- path: tooltip_haidt-righteous-mind.js
 ---
 
 * Ariely, Predictably Irrational (2008)

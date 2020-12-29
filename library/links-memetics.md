@@ -3,8 +3,6 @@ layout: page
 title: Memetics
 published: true
 permalink: /links-memetics/
-tooltips: 
-- path: tooltip_links.js
 backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 

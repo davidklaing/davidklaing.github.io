@@ -3,8 +3,6 @@ layout: page
 title: Folk
 published: true
 permalink: /albums-folk/
-tooltips: 
-- path: tooltip_albums.js
 backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 

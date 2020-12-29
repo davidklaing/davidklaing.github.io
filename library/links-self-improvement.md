@@ -3,8 +3,6 @@ layout: page
 title: Self-improvement
 published: true
 permalink: /links-self-improvement/
-tooltips: 
-- path: tooltip_links.js
 backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 

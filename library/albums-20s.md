@@ -3,8 +3,6 @@ layout: page
 title: 20s
 published: true
 permalink: /albums-20s/
-tooltips: 
-- path: tooltip_albums.js
 backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 
@@ -47,6 +45,7 @@ backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums<
 * Lawrence, [Breakfast](https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd?si=HBZFeL9yT_W4qMEZ7ilP-A) (2017)
 * Lawrence, [Living Room](https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P?si=n-qOt321Qqq74bvYuqcj8w) (2018)
 * Lin-Manuel Miranda, [Hamilton](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc?si=PPLwy010Tc26N1RdEm_qSg) (2015)
+* Madison Cunningham, [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR?si=EujReBtBSvS-JMK84sQWKw) (2019)
 * Moonchild, [Voyager](https://open.spotify.com/album/1TRCVBeWwJ884AxMF9815G?si=F9X3nZrNQYiXAQ8al1qPAA) (2017)
 * Nickel Creek, [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2?si=92OqO1tUQOG1gurroMneag) (2014)
 * The Oh Hellos, [The Oh Hellos' Family Christmas Album](https://open.spotify.com/album/1cv8WBFQPnstQvRZgg2Bw4?si=zxVGfpujRr-Y8yRTp7Txhg) (2014)
@@ -69,6 +68,7 @@ backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums<
 * Theo Katzman, [Modern Johnny Sings](https://open.spotify.com/album/5uV5cai6VPXvq9fmtvlRWn?si=0gWWuxS4Rh24uriBLflS9w) (2020)
 * Tom Misch, [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk?si=VROHAKSwTFmhjF2UlLSQLQ) (2018)
 * Vampire Weekend, [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn?si=p_Bns7JJQNuRA9BAmfVtEQ) (2013)
+* Vampire Weekend, [Father of the Bride](https://open.spotify.com/album/5WWu3iYAXLgqghjU9696Nk?si=99n00kYRSOG5rRaAVA9nDQ) (2019)
 * Vince Guaraldi Trio, [A Charlie Brown Christmas](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w?si=27KwXh3nRfmiLnW5pY8JmQ) (1965)
 * Vulfpeck, [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7?si=R3TiKZFcSkm7TLS1rRDaCw) (2015)
 * Vulfpeck, [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC?si=-XJbDrxiRjKDziHp80seBw) (2016)
@@ -76,3 +76,4 @@ backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums<
 * Vulfpeck, [Hill Climber](https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa?si=U-M51c8NR1ypm2Z7EH6qPg) (2018)
 * Wax, [The Cookout Chronicles](https://open.spotify.com/album/3lumObxzH6YVhxwOsgKXTF?si=l4MEUSmSQoaINGosH4rANA) (2016)
 * Whitney, [Light Upon the Lake](https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO?si=bNrn_4-9TIecYoINCg8PHQ) (2016)
+* Woody Goss, [A Very Vulfy Christmas](https://open.spotify.com/album/6pxAYPWQE13djRu0Gz0ET4?si=VUAWlAFBSpe6GANH4HvHOQ) (2019)

@@ -3,8 +3,6 @@ layout: page
 title: All links
 published: true
 permalink: /all-links/
-tooltips: 
-- path: tooltip_links.js
 backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 

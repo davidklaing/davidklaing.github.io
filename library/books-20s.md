@@ -3,19 +3,11 @@ layout: page
 title: 20s
 published: true
 permalink: /books-20s/
-tooltips: 
-- path: tooltip_books.js
-- path: tooltip_clear-atomic-habits.js
-- path: tooltip_goleman-and-davidson-altered-traits.js
-- path: tooltip_haidt-righteous-mind.js
-- path: tooltip_harris-free-will.js
-- path: tooltip_hofstadter-godel-escher-bach.js
-- path: tooltip_mcmurtry-lonesome-dove.js
-- path: tooltip_thiel-zero-to-one.js
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, How to Fail at Almost Everything and Still Win Big (2013)
+* Ahrens, How to Take Smart Notes (2017)
 * Ariely, Predictably Irrational (2008)
 * Asimov, Prelude to Foundation (1988)
 * Asimov, Nightfall (1990)
@@ -27,6 +19,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Beckett, Waiting for Godot (1952)
 * Borges, The Library of Babel (1941)
 * Bostrom, Superintelligence (2014)
+* Browder, Red Notice (2014)
 * Camus, The Plague (1947)
 * Carnegie, How to Win Friends and Influence People (1936) ★
 * Caro, The Path to Power (1982) ★
@@ -51,6 +44,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Durant, The Lessons of History (1968)
 * Ellenberg, How Not to Be Wrong (2014)
 * Feynman, Surely You're Joking, Mr. Feynman! (1985)
+* Finnegan, Barbarian Days (2015)
 * Fitzgerald, The Great Gatsby (1925)
 * Forster, A Room with a View (1908)
 * Forster, The Machine Stops (1909) ★
@@ -80,6 +74,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Irving, A Prayer for Owen Meany (1989) ★
 * Ishiguro, Never Let Me Go (2005)
 * James et al., An Introduction to Statistical Learning (2017)
+* Jemisin, The Fifth Season (2015)
 * Johnstone, Impro (1979)
 * Jones, Mister Pip (2006)
 * Joyce, Araby (1914) ★

@@ -3,8 +3,6 @@ layout: page
 title: Electronic
 published: true
 permalink: /albums-electronic/
-tooltips: 
-- path: tooltip_albums.js
 backlinks: '<ul><li><a id="albums" class="internal-link" href="/albums/">Albums</a></li></ul>'
 ---
 

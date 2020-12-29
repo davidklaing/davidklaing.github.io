@@ -3,8 +3,6 @@ layout: page
 title: Strategy
 published: true
 permalink: /links-strategy/
-tooltips: 
-- path: tooltip_links.js
 backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 

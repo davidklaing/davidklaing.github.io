@@ -3,8 +3,6 @@ layout: page
 title: Media
 published: true
 permalink: /links-media/
-tooltips: 
-- path: tooltip_links.js
 backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a></li></ul>'
 ---
 

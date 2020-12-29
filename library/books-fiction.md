@@ -3,9 +3,6 @@ layout: page
 title: Fiction
 published: true
 permalink: /books-fiction/
-tooltips: 
-- path: tooltip_books.js
-- path: tooltip_mcmurtry-lonesome-dove.js
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 

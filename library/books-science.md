@@ -3,9 +3,6 @@ layout: page
 title: Science
 published: true
 permalink: /books-science/
-tooltips: 
-- path: tooltip_books.js
-- path: tooltip_goleman-and-davidson-altered-traits.js
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
