@@ -3,9 +3,7 @@ layout: page
 title: Roam as a slip-box
 permalink: /roam-as-a-slip-box/
 published: true
-last_updated: 2020-02-01
-tooltips: 
-- path: tooltip_notes.js
+publication_date: 2020-02-01
 backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 

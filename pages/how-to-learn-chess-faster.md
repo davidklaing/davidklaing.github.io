@@ -2,8 +2,7 @@
 layout: page
 title: How to learn chess faster
 permalink: /how-to-learn-chess-faster/
-tooltips: 
-- path: tooltip_everything-i-know-about-chess.js
+publication_date: 2019-12-15
 backlinks: '<ul><li><a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a></li></ul>'
 ---
 

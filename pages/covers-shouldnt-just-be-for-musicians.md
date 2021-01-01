@@ -3,12 +3,7 @@ layout: page
 title: Covers shouldn’t just be for musicians
 permalink: /covers-shouldnt-just-be-for-musicians/
 published: true
-last_updated: 2019-12-04
-tooltips: 
-- path: tooltip_deep-laziness.js
-- path: tooltip_essays.js
-- path: tooltip_research-as-a-stochastic-decision-process.js
-- path: tooltip_solved-conversations.js
+publication_date: 2019-12-04
 backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>'
 ---
 

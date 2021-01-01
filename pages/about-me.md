@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about-me/
+last_updated: 2020-12-01
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 

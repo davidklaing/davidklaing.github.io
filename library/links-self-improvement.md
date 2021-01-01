@@ -9,6 +9,7 @@ backlinks: '<ul><li><a id="links" class="internal-link" href="/links/">Links</a>
 * Alexander, [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) (2015)
 * Alexander, [Pushing And Pulling Goals](https://slatestarcodex.com/2016/07/18/pushing-and-pulling-goals/) (2016)
 * Chang, [How I Build Learning Projects](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961) (2019)
+* Chin, [The Mental Model Fallacy](https://commoncog.com/blog/the-mental-model-fallacy/) (2018)
 * Davis, [Write an excellent programming blog](https://emptysqua.re/blog/write-an-excellent-programming-blog/) (2018)
 * Forte, [One Touch to Inbox Zero](https://fortelabs.co/blog/one-touch-to-inbox-zero/) (2015)
 * Hobart, [Cost-First New Year's Resolutions](https://medium.com/@byrnehobart/cost-first-new-years-resolutions-6bb30393201d) (2018)

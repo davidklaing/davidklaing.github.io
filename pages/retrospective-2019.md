@@ -3,7 +3,7 @@ layout: page
 title: 2019 retrospective
 permalink: /retrospective-2019/
 published: true
-last_updated: 2019-12-31
+publication_date: 2019-12-31
 tooltips: 
 - path: tooltip_talk-more.js
 - path: tooltip_yearly-retrospectives.js

@@ -3,16 +3,8 @@ layout: page
 title: Atomic Habits
 permalink: /clear-atomic-habits/
 published: true
+publication_date: 2018-01-10
 last_updated: 2019-01-14
-tooltips: 
-- path: tooltip_all-books.js
-- path: tooltip_books-20s.js
-- path: tooltip_books-business.js
-- path: tooltip_books-liked.js
-- path: tooltip_books-non-fiction.js
-- path: tooltip_books-self-help.js
-- path: tooltip_commentaries.js
-- path: tooltip_most-popular.js
 backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-liked" class="internal-link" href="/books-liked/">Liked</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-self-help" class="internal-link" href="/books-self-help/">Self-Help</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li></ul>'
 ---
 

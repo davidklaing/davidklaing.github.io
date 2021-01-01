@@ -3,9 +3,7 @@ layout: page
 title: How to invest in index funds, for Canadians
 permalink: /how-to-invest-in-index-funds/
 published: true
-last_updated: 2020-02-11
-tooltips: 
-- path: tooltip_notes.js
+publication_date: 2020-02-11
 backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 

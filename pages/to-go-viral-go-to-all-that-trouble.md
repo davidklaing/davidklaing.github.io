@@ -2,9 +2,7 @@
 layout: page
 title: To go viral, go to all that trouble
 permalink: /to-go-viral-go-to-all-that-trouble/
-tooltips: 
-- path: tooltip_newest.js
-- path: tooltip_notes.js
+publication_date: 2020-05-04
 backlinks: '<ul><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 

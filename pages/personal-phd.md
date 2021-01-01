@@ -3,9 +3,7 @@ layout: page
 title: The personal PhD
 permalink: /personal-phd/
 published: true
-last_updated: 2019-07-16
-tooltips: 
-- path: tooltip_notes.js
+publication_date: 2019-07-16
 backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 

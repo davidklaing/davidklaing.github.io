@@ -2,10 +2,7 @@
 layout: page
 title: The inner game of chess
 permalink: /inner-game-of-chess/
-tooltips: 
-- path: tooltip_chess-strategy.js
-- path: tooltip_chess-tactics.js
-- path: tooltip_everything-i-know-about-chess.js
+publication_date: 2019-12-15
 backlinks: '<ul><li><a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a></li></ul>'
 ---
 

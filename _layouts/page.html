@@ -8,7 +8,15 @@ layout: default
                 {% if page.title != "Home" and page.title != "Subscribe" %}
                 <h1>{{ page.title }}</h1>
                 {% endif %}
-                {% if page.last_updated %}
+                {% if page.publication_date and page.last_updated %}
+                <hr>
+                <em>Originally published {{ page.publication_date }}; last updated {{ page.last_updated }}</em>
+                <hr>
+                {% elsif page.publication_date %}
+                <hr>
+                <em>Published {{ page.publication_date }}</em>
+                <hr>
+                {% elsif page.last_updated %}
                 <hr>
                 <em>Last updated {{ page.last_updated }}</em>
                 <hr>

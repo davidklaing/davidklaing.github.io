@@ -2,13 +2,8 @@
 layout: page
 title: If you’re good, you need to talk more
 published: true
-last_updated: 2019-07-09
+publication_date: 2019-07-09
 permalink: /talk-more/
-tooltips: 
-- path: tooltip_barabasi-the-formula.js
-- path: tooltip_essays.js
-- path: tooltip_most-popular.js
-- path: tooltip_retrospective-2019.js
 backlinks: '<ul><li><a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li><li><a id="retrospective-2019" class="internal-link" href="/retrospective-2019/">2019 retrospective</a></li></ul>'
 ---
 

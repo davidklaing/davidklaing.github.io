@@ -3,7 +3,7 @@ layout: page
 title: Communication in data science is more than just the final report
 permalink: /communication-in-data-science/
 published: true
-last_updated: 2017-11-10
+publication_date: 2017-11-10
 tooltips: 
 - path: tooltip_essays.js
 - path: tooltip_how-to-get-a-job-in-data-science.js

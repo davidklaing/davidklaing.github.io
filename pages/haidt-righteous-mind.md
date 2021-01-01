@@ -2,15 +2,8 @@
 layout: page
 title: The Righteous Mind
 permalink: /haidt-righteous-mind/
-last_updated: 2016-09-01
+publication_date: 2016-09-01
 published: true
-tooltips: 
-- path: tooltip_all-books.js
-- path: tooltip_books-20s.js
-- path: tooltip_books-loved.js
-- path: tooltip_books-non-fiction.js
-- path: tooltip_books-psychology.js
-- path: tooltip_commentaries.js
 backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-loved" class="internal-link" href="/books-loved/">Loved</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-psychology" class="internal-link" href="/books-psychology/">Psychology</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 

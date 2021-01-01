@@ -3,9 +3,7 @@ layout: page
 title: Pushing and pulling goals — Scott Alexander
 permalink: /pushing-and-pulling-goals/
 published: true
-last_updated: 2019-09-25
-tooltips: 
-- path: tooltip_commentaries.js
+publication_date: 2019-09-25
 backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 

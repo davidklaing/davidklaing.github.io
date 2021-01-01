@@ -3,7 +3,7 @@ layout: page
 title: The Aesthetic Bullseye
 permalink: /aesthetic-bullseye/
 published: true
-last_updated: 2019-10-30
+publication_date: 2019-10-30
 tooltips: 
 - path: tooltip_notes.js
 backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'

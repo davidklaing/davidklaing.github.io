@@ -3,9 +3,7 @@ layout: page
 title: Levels of Action — Alyssa Vance
 permalink: /levels-of-action/
 published: true
-last_updated: 2019-08-28
-tooltips: 
-- path: tooltip_commentaries.js
+publication_date: 2019-08-28
 backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 

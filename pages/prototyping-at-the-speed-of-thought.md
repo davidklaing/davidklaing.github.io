@@ -3,9 +3,7 @@ layout: page
 title: Prototyping at the speed of thought — Tom Chi
 permalink: /prototyping-at-the-speed-of-thought/
 published: true
-last_updated: 2019-09-18
-tooltips: 
-- path: tooltip_commentaries.js
+publication_date: 2019-09-18
 backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: The Ideological Turing test — Bryan Caplan
 permalink: /ideological-turing-test/
 published: true
-last_updated: 2019-10-16
+publication_date: 2019-10-16
 tooltips: 
 - path: tooltip_commentaries.js
 backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'

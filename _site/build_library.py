@@ -81,6 +81,7 @@ def build_link_pages():
         library=library,
         media_type='Link',
         tags=[
+            '{Aesthetics}',
             '{Communication}',
             '{Goal-setting}',
             '{Epistemology}',

@@ -3,6 +3,7 @@ layout: page
 title: My laptop setup
 permalink: /laptop-setup/
 published: true
+publication_date: 2018-10-01
 last_updated: 2020-12-15
 tooltips: 
 - path: tooltip_notes.js

@@ -3,9 +3,7 @@ layout: page
 title: 2018 retrospective
 permalink: /retrospective-2018/
 published: true
-last_updated: 2018-12-31
-tooltips: 
-- path: tooltip_yearly-retrospectives.js
+publication_date: 2018-12-31
 backlinks: '<ul><li><a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a></li></ul>'
 ---
 

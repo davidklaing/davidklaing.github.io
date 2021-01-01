@@ -3,11 +3,8 @@ layout: page
 title: Tidy up so you can make a useful mess
 permalink: /tidy-up/
 published: true
-last_updated: 2019-11-24
-tooltips: 
-- path: tooltip_notes.js
-- path: tooltip_underappreciated.js
-backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="underappreciated" class="internal-link" href="/underappreciated/">Underappreciated</a></li></ul>'
+publication_date: 2019-11-24
+backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 An underappreciated benefit of habitually tidying up is that it gives you more confidence to make useful messes. A few examples:

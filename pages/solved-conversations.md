@@ -3,10 +3,7 @@ layout: page
 title: Solved conversations — Aaron Z. Lewis
 permalink: /solved-conversations/
 published: true
-last_updated: 2019-10-23
-tooltips: 
-- path: tooltip_commentaries.js
-- path: tooltip_covers-shouldnt-just-be-for-musicians.js
+publication_date: 2019-10-23
 backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn’t just be for musicians</a></li></ul>'
 ---
 

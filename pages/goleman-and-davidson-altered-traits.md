@@ -2,14 +2,7 @@
 layout: page
 title: Altered Traits
 permalink: /goleman-and-davidson-altered-traits/
-tooltips: 
-- path: tooltip_all-books.js
-- path: tooltip_books-20s.js
-- path: tooltip_books-mixed-feelings.js
-- path: tooltip_books-non-fiction.js
-- path: tooltip_books-psychology.js
-- path: tooltip_books-science.js
-- path: tooltip_commentaries.js
+publication_date: 2018-10-08
 backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-mixed-feelings" class="internal-link" href="/books-mixed-feelings/">Mixed feelings</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-psychology" class="internal-link" href="/books-psychology/">Psychology</a></li><li><a id="books-science" class="internal-link" href="/books-science/">Science</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 

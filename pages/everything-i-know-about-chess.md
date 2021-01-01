@@ -2,13 +2,7 @@
 layout: page
 title: Everything I know about chess
 permalink: /everything-i-know-about-chess/
-tooltips: 
-- path: tooltip_chess-strategy.js
-- path: tooltip_chess-tactics.js
-- path: tooltip_how-to-learn-chess-faster.js
-- path: tooltip_inner-game-of-chess.js
-- path: tooltip_most-popular.js
-- path: tooltip_notes.js
+publication_date: 2019-12-15
 backlinks: '<ul><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 

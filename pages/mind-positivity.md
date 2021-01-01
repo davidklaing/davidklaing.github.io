@@ -2,8 +2,7 @@
 layout: page
 title: Mind positivity
 permalink: /mind-positivity/
-tooltips: 
-- path: tooltip_notes.js
+publication_date: 2020-03-09
 backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 

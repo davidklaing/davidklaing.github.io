@@ -2,6 +2,7 @@
 layout: page
 title: Chess strategy
 permalink: /chess-strategy/
+publication_date: 2019-12-15
 tooltips: 
 - path: tooltip_everything-i-know-about-chess.js
 - path: tooltip_inner-game-of-chess.js
