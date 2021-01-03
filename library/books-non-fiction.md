@@ -75,6 +75,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * O'Shaughnessy, Millennial Money (2014)
 * Oakley, A Mind for Numbers (2014)
 * Olson, Houston, We Have a Narrative (2015)
+* Payne & Barnett, The Economists's Diet (2018)
 * Pinker, The Language Instinct (1994) ★
 * Pinker, How the Mind Works (1997) ★
 * Pinker, The Better Angels of Our Nature (2010)

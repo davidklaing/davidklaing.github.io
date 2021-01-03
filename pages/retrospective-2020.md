@@ -64,6 +64,7 @@ backlinks: '<ul><li><a id="yearly-retrospectives" class="internal-link" href="/y
 * **Lang, [Small Teaching](https://www.goodreads.com/book/show/26517530-small-teaching) (2016)**. Another one that could be easily summarized, but still a great read for anyone interested in teaching.
 * **McMurtry, [Dead Man’s Walk](https://www.goodreads.com/book/show/54804.Dead_Man_s_Walk) (2000)**. The first prequel to Lonesome Dove, my favorite read from 2019. I liked it a lot, but not as much as Lonesome Dove.
 * **Meadows, [Thinking In Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems) (2008)**. I liked it, but I felt like I got the point pretty quickly.
+* **Payne & Barnett, [The Economists' Diet](https://www.goodreads.com/book/show/36130579-the-economists-diet) (2018)**. Much longer than needed, but some great suggestions.
 * **Millhauser, [Martin Dressler](https://www.goodreads.com/book/show/146219.Martin_Dressler) (1996)**. I read this for the first time when I was fifteen. I don't think it's a great book, but for some reason I think about it all the time, hence the reread.
 
 ### Mixed feelings

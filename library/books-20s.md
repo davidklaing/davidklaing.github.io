@@ -105,6 +105,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Olson, Houston, We Have a Narrative (2015)
 * Orwell, Animal Farm (1945)
 * Orwell, 1984 (1949)
+* Payne & Barnett, The Economists's Diet (2018)
 * Pinker, The Language Instinct (1994) ★
 * Pinker, How the Mind Works (1997) ★
 * Pinker, The Better Angels of Our Nature (2010)

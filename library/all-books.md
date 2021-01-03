@@ -164,6 +164,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Paolini, The Inheritance Cycle 1-3 (2002)
 * Patterson, Maximum Ride (2005)
 * Paulsen, Brian's Saga 1-2 (1996)
+* Payne & Barnett, The Economists's Diet (2018)
 * Pinker, The Language Instinct (1994) ★
 * Pinker, How the Mind Works (1997) ★
 * Pinker, The Better Angels of Our Nature (2010)
