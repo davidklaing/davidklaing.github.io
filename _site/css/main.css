@@ -157,8 +157,6 @@ a:hover, .external-link:hover { color: #85c2f8; }
 
 .site-header { padding-left: 15px; padding-right: 15px; padding-bottom: 0px; padding-top: 15px; margin: 0px; margin-right: auto; margin-left: auto; text-align: left; }
 
-.tippy-box[data-theme~='light-border'] { background-color: white; color: black; overflow-y: scroll; padding: 5px; display: -webkit-box; max-height: 500px; -webkit-line-clamp: 20; -webkit-box-orient: vertical; }
-
 /* Media queries ---------------------------------------------------------------------------------------------------- */
 /* For mobile phones: */
 [class*="col-"] { width: 95%; margin-top: 0; display: inline-block; text-align: left; vertical-align: top; }
