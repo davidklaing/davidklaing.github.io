@@ -66,6 +66,9 @@ Put the following in `.zshenv`:
 alias rst="open -a rstudio"
 alias vs="open -a visual\ studio\ code"
 alias prev="open -a preview"
+alias cdpr="cd ~/Documents/projects"
+alias cdar="cd ~/Documents/areas"
+alias cdre="cd ~/Documents/resources"
 ```
 
 ## SSH
@@ -94,6 +97,10 @@ Put this in it:
 .RHistory
 .RData
 __pycache__
+```
+
+```zsh
+git config --global core.excludesfile ~/.gitignore_global
 ```
 
 ### Set up git aliases.
