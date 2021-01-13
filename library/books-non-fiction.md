@@ -45,6 +45,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Golding, Lord of the Flies (1954)
 * Goleman & Davidson, <a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Altered Traits</a> (2017)
 * Gopen, The Sense of Structure (2004)
+* Gottlieb, The Dream of Reason (2000)
 * Haidt, The Happiness Hypothesis (2005) ★
 * Haidt, <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a> (2012) ★
 * Harari, Sapiens (2011)

@@ -46,6 +46,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Gladwell, Outliers (2008)
 * Golding, Lord of the Flies (1954)
 * Gopen, The Sense of Structure (2004)
+* Gottlieb, The Dream of Reason (2000)
 * Hargrove, Playing With Movement (2014)
 * Harris, The Nurture Assumption (1998)
 * Hesse, Siddhartha (1922)

@@ -11,6 +11,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Butler, Wild Seed (1980)
 * Crawford, Shop Class as Soulcraft (2009)
 * Ferrante, The Neapolitan Novels (2012-2015) ★
+* Gottlieb, The Dream of Reason (2000)
 * Hargrove, Playing With Movement (2014)
 * Housel, The Psychology of Money (2020)
 * Huston, Teaching What You Don't Know (2009)

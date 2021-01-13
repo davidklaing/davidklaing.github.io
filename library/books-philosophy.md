@@ -15,6 +15,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Dawkins, The God Delusion (2006)
 * Ellenberg, How Not to Be Wrong (2014)
 * Emerson, Self-Reliance and Other Essays (1844)
+* Gottlieb, The Dream of Reason (2000)
 * Harari, Sapiens (2011)
 * Harari, Homo Deus (2017)
 * Harris, <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will</a> (2012) ★

@@ -10,6 +10,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Durant, The Lessons of History (1968)
 * Gleick, Chaos (1987)
 * Gleick, The Information (2011) ★
+* Gottlieb, The Dream of Reason (2000)
 * Levi, Survival in Auschwitz (1947)
 * McGrayne, The Theory That Would Not Die (2011)
 * Pinker, The Better Angels of Our Nature (2010)
