@@ -28,6 +28,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Cervantes, Don Quixote (1615)
 * Chabon, The Amazing Adventures of Kavalier & Clay (2000) ★
 * Chiang, Exhalation: Stories (2019) ★
+* Cixin, The Three-Body Problem (2008)
 * Clarke, 2001: A Space Odyssey (1968)
 * Clavell, Tai-Pan (1966)
 * Coelho, The Alchemist (1988)
@@ -36,6 +37,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Crichton, Jurassic Park (1990)
 * Czuchlewski, The Muse Asylum (2001)
 * Dickens, Great Expectations (1861)
+* Doerr, All the Light We Cannot See (2014)
 * Dostoyevsky, Crime and Punishment (1866)
 * Ferrante, The Neapolitan Novels (2012-2015) ★
 * Findley, The Butterfly Plague (1969)

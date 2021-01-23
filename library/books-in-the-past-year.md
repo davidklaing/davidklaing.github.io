@@ -9,7 +9,9 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Adler & Van Doren, How to Read a Book (1972)
 * Barabási, <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a> (2018)
 * Butler, Wild Seed (1980)
+* Cixin, The Three-Body Problem (2008)
 * Crawford, Shop Class as Soulcraft (2009)
+* Doerr, All the Light We Cannot See (2014)
 * Ferrante, The Neapolitan Novels (2012-2015) ★
 * Gottlieb, The Dream of Reason (2000)
 * Hargrove, Playing With Movement (2014)
@@ -18,7 +20,6 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Jacobs, The Pleasures of Reading in an Age of Distraction (2011)
 * Lang, Small Teaching (2016)
 * McMurtry, Dead Man's Walk (2000)
-* Miller, Know My Name (2019) ★
 * Millhauser, Martin Dressler (1996)
 * Murakami, Sputnik Sweetheart (1999)
 * Starnone, Ties (2017) ★

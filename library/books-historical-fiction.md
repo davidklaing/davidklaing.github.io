@@ -7,4 +7,5 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 ---
 
 * Clavell, Tai-Pan (1966)
+* Doerr, All the Light We Cannot See (2014)
 * Hill, The Book of Negroes (2007)

@@ -19,6 +19,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Conrad, Heart of Darkness (1899)
 * Czuchlewski, The Muse Asylum (2001)
 * Dickens, Great Expectations (1861)
+* Doerr, All the Light We Cannot See (2014)
 * Dostoyevsky, Crime and Punishment (1866)
 * Ferrante, The Neapolitan Novels (2012-2015) ★
 * Findley, The Butterfly Plague (1969)

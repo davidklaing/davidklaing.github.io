@@ -44,6 +44,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Chilton, The Wealthy Barber Returns (2011)
 * Christian, Algorithms to Live By (2016) ★
 * Cialdini, Influence (1984)
+* Cixin, The Three-Body Problem (2008)
 * Clarke, 2001: A Space Odyssey (1968)
 * Clavell, Tai-Pan (1966)
 * Clear, <a id="clear-atomic-habits" class="internal-link" href="/clear-atomic-habits/">Atomic Habits</a> (2018)
@@ -60,6 +61,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Dawkins, The God Delusion (2006)
 * Dickens, Great Expectations (1861)
 * Dillard, Pilgrim at Tinker Creek (1974)
+* Doerr, All the Light We Cannot See (2014)
 * Dostoyevsky, Crime and Punishment (1866)
 * Durant, The Lessons of History (1968)
 * Ellenberg, How Not to Be Wrong (2014)

@@ -96,6 +96,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * McGrayne, The Theory That Would Not Die (2011)
 * McMurtry, <a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a> (1985) ★
 * Medina, Brain Rules (2008)
+* Miller, Know My Name (2019) ★
 * Morrison, Beloved (1987)
 * Moss, The Rookie (2016)
 * Márquez, One Hundred Years of Solitude (1967)
