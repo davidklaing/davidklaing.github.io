@@ -90,6 +90,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Gopen, The Sense of Structure (2004)
 * Gottlieb, The Dream of Reason (2000)
 * Gowdy, Disneyland (1989) ★
+* Graeber, Bullshit Jobs (2018) ★
 * Haidt, The Happiness Hypothesis (2005) ★
 * Haidt, <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a> (2012) ★
 * Harari, Sapiens (2011)
@@ -130,6 +131,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Kay, Ysabel (2007)
 * Keyes, Flowers for Algernon (1966)
 * King, On Writing (2000) ★
+* Kishimi & Koga, The Courage to Be Disliked (2019)
 * Kleist, The Marquise of O (1808)
 * Lang, Small Teaching (2016)
 * Larson, The Far Side Gallery (1984)

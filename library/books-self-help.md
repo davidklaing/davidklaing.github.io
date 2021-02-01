@@ -19,6 +19,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Jacobs, The Pleasures of Reading in an Age of Distraction (2011)
 * Johnstone, Impro (1979)
 * Kaufman, The Personal MBA (2010)
+* Kishimi & Koga, The Courage to Be Disliked (2019)
 * Medina, Brain Rules (2008)
 * Oakley, A Mind for Numbers (2014)
 * Olson, Houston, We Have a Narrative (2015)

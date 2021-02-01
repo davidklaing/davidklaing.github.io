@@ -16,6 +16,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Harari, Sapiens (2011)
 * Harari, Homo Deus (2017)
 * Kalanithi, When Breath Becomes Air (2016)
+* Kishimi & Koga, The Courage to Be Disliked (2019)
 * McGrayne, The Theory That Would Not Die (2011)
 * Murakami, Sputnik Sweetheart (1999)
 * Sapolsky, Behave (2017)

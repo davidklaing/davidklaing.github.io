@@ -14,10 +14,12 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Doerr, All the Light We Cannot See (2014)
 * Ferrante, The Neapolitan Novels (2012-2015) ★
 * Gottlieb, The Dream of Reason (2000)
+* Graeber, Bullshit Jobs (2018) ★
 * Hargrove, Playing With Movement (2014)
 * Housel, The Psychology of Money (2020)
 * Huston, Teaching What You Don't Know (2009)
 * Jacobs, The Pleasures of Reading in an Age of Distraction (2011)
+* Kishimi & Koga, The Courage to Be Disliked (2019)
 * Lang, Small Teaching (2016)
 * McMurtry, Dead Man's Walk (2000)
 * Millhauser, Martin Dressler (1996)

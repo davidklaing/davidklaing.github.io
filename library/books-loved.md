@@ -23,6 +23,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Gleick, Isaac Newton (2003)
 * Gleick, The Information (2011)
 * Gowdy, Disneyland (1989)
+* Graeber, Bullshit Jobs (2018)
 * Haidt, The Happiness Hypothesis (2005)
 * Haidt, <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a> (2012)
 * Harris, <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will</a> (2012)

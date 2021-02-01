@@ -46,6 +46,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Goleman & Davidson, <a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Altered Traits</a> (2017)
 * Gopen, The Sense of Structure (2004)
 * Gottlieb, The Dream of Reason (2000)
+* Graeber, Bullshit Jobs (2018) ★
 * Haidt, The Happiness Hypothesis (2005) ★
 * Haidt, <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a> (2012) ★
 * Harari, Sapiens (2011)
@@ -66,6 +67,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Kalanithi, When Breath Becomes Air (2016)
 * Kaufman, The Personal MBA (2010)
 * King, On Writing (2000) ★
+* Kishimi & Koga, The Courage to Be Disliked (2019)
 * Lang, Small Teaching (2016)
 * Levi, Survival in Auschwitz (1947)
 * McGrayne, The Theory That Would Not Die (2011)

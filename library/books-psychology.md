@@ -13,6 +13,7 @@ permalink: /books-psychology/
 * Haidt, <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a> (2012) ★
 * Housel, The Psychology of Money (2020)
 * Kahneman, Thinking, Fast and Slow (2011)
+* Kishimi & Koga, The Courage to Be Disliked (2019)
 * Medina, Brain Rules (2008)
 * Pinker, The Language Instinct (1994) ★
 * Pinker, How the Mind Works (1997) ★
