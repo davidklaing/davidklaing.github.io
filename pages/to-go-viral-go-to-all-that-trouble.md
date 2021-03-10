@@ -3,14 +3,14 @@ layout: page
 title: To go viral, go to all that trouble
 permalink: /to-go-viral-go-to-all-that-trouble/
 publication_date: 2020-05-04
-backlinks: '<ul><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
+backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 It seems like the key to making a creative project that goes viral is hard to execute but conceptually pretty simple: do something that makes people think "I can't *believe* you went to all that trouble." E.g. TikTok videos where people spend 12 hours trying to bounce a ping pong ball into a cup from across the room, then get 40 million views. You could do that! But you probably won't, because, I mean...can you imagine going to all that trouble? Some specific examples:
 
 * Alexey Guzey [spent 130 hours](https://twitter.com/alexeyguzey/status/1195380402078265345) fact-checking Matthew Walker's book "Why We Sleep". (3300 likes on Twitter.)
 * My friend Ben spent 140 hours meticulously cutting out paper letters to tell the story of [the history of typography](https://www.youtube.com/watch?v=wOgIkxAfJsk). (1.5 million views on YouTube.)
-* My friend Matthew learned every single song on the piano and then performed them as a [medley](https://www.youtube.com/watch?v=UOM9vbB2nM8). (40,000 views on YouTube, then got to perform live with them!)
+* My friend Matthew learned every single Vulfpeck song on the piano and then performed them as a [medley](https://www.youtube.com/watch?v=UOM9vbB2nM8). (40,000 views on YouTube, then got to perform live with them!)
 * MrBeast [counted to 100,000](https://www.youtube.com/watch?v=xWcldHxHFpo) in one video. (20 million views on YouTube.)
 
 This is not to say that these people weren't also demonstrating skill or exercising great judgment. It's just that the virality is largely driven by the "can-you-imagine-going-to-all-that-trouble" factor. As Teller of the magician duo Penn & Teller [puts it](https://www.smithsonianmag.com/arts-culture/teller-reveals-his-secrets-100744801/):
