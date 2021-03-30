@@ -1,6 +1,6 @@
-display_name,full_name,gender,nationality
+surname,full_name,gender,nationality
 Adams,Scott Adams,M,American
-Adams,Douglas Adams,M,English
+Adams,Douglas Adams,M,British
 Adler,Mortimer J. Adler,M,American
 Ahrens,Sönke Ahrens,M,German
 Ariely,Dan Ariely,M,Israeli-American
@@ -9,7 +9,7 @@ Aurelius,Marcus Aurelius,M,Roman
 Bach,Richard Bach,M,American
 Banks,Iain M. Banks,M,Scottish
 Barabási,Albert-László Barabási,M,American-Hungarian-Romanian
-Barnes,Julian Barnes,M,English
+Barnes,Julian Barnes,M,British
 Barnett,Rob Barnett,M,American
 Barron,T.A. Barron,M,Canadian
 Bock,Dennis Bock,M,Canadian
@@ -26,7 +26,7 @@ Camus,Albert Camus,M,French
 Card,Orson Scott Card,M,American
 Carnegie,Dale Carnegie,M,American
 Caro,Robert A. Caro,M,American
-Carroll,Lewis Carroll,M,English
+Carroll,Lewis Carroll,M,British
 Catmull,Ed Catmull,M,American
 Cervantes,Miguel de Cervantes,M,Spanish
 Chabon,Michael Chabon,M,American
@@ -35,8 +35,8 @@ Chilton,David Chilton,M,Canadian
 Christian,Brian Christian,M,American
 Cialdini,Robert B. Cialdini,M,American
 Cixin,Cixin Liu,M,Chinese
-Clarke,Arthur C. Clarke,M,English
-Clarke,Susanna Clarke,F,English
+Clarke,Arthur C. Clarke,M,British
+Clarke,Susanna Clarke,F,British
 Clavell,James Clavell,M,Australian
 Clear,James Clear,M,American
 Coelho,Paulo Coelho,M,Brazillian
@@ -51,7 +51,7 @@ Czuchlewski,David Czuchlewski,M,American
 Davidson,Richard Davidson,M,American
 Dawkins,Richard Dawkins,M,British
 de la Pava,Sergio de la Pava,M,American
-Dickens,Charles Dickens,M,English
+Dickens,Charles Dickens,M,British
 Doerr,Anthony Doerr,M,American
 Dostoyevsky,Fyodor Dostoyevsky,M,Russian
 Durant,Will Durant,M,American
@@ -147,7 +147,7 @@ O'Shaughnessy,Patrick O'Shaughnessy,M,American
 Oakley,Barbara Oakley,F,American
 Olson,Randy Olson,M,American
 Oppel,Kenneth Oppel,M,American
-Orwell,George Orwell,M,English
+Orwell,George Orwell,M,British
 Palahniuk,Chuck Palahniuk,M,American
 Paolini,Christopher Paolini,M,American
 Patterson,James Patterson,M,American
@@ -193,11 +193,13 @@ Verne,Jules Verne,M,French
 Voltaire,Voltaire,M,French
 Vonnegut,Kurt Vonnegut Jr.,M,American
 Voss,Chris Voss,M,American
+Wagamese,Richard Wagamese,M,Ojibwe
 Wallace,David Foster Wallace,M,American
 Watterson,Bill Watterson,M,American
 Weir,Andy Weir,M,American
-Wells,H.G. Wells,M,English
+Wells,H.G. Wells,M,British
 Westover,Tara Westover,F,American
+White,E.B. White,M,American
 Wickham,Hadley Wickham,M,New Zealand
 Wiener,Anna Wiener,F,American
 Wiesel,Elie Wiesel,M,Romanian-American
@@ -205,7 +207,7 @@ Wilde,Oscar Wilde,M,British
 Wilson,Greg Wilson,M,Canadian
 Wilson,Robert Charles Wilson,M,American-Canadian
 Wolf,Christa Wolf,F,German
-Woolf,Virginia Woolf,F,English
+Woolf,Virginia Woolf,F,British
 Wright,Ronald Wright,M,Canadian
-Wyndham,John Wyndham,M,English
+Wyndham,John Wyndham,M,British
 Yudkowsky,Eliezer Yudkowsky,M,American
