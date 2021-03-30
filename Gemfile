@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
-gem "github-pages", group: :jekyll_plugins
-gem "kramdown", ">= 1.0.2"
+gem "github-pages", ">=213"
+gem "kramdown", ">= 2.3.0"

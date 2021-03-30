@@ -257,8 +257,8 @@ PLATFORMS
   universal-darwin-20
 
 DEPENDENCIES
-  github-pages
-  kramdown (>= 1.0.2)
+  github-pages (>= 213)
+  kramdown (>= 2.3.0)
 
 BUNDLED WITH
    2.2.1
