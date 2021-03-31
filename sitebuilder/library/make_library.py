@@ -1,7 +1,7 @@
 import pandas as pd
 from typing import List
 
-from sitebuilder.library.person import Person
+from sitebuilder.library.author import Author
 from sitebuilder.library.book import Book
 from sitebuilder.library.library import Library
 from sitebuilder.library.reading import Reading
@@ -19,9 +19,9 @@ def make_library():
     return Library(authors=authors, books=books, readings=readings)
 
 
-def make_authors(authors_df: pd.DataFrame) -> List[Person]:
+def make_authors(authors_df: pd.DataFrame) -> List[Author]:
     return [
-        Person(
+        Author(
             surname=author['surname'], 
             full_name=author['full_name'], 
             gender=author['gender'], 
@@ -30,7 +30,7 @@ def make_authors(authors_df: pd.DataFrame) -> List[Person]:
     ]
 
 
-def make_books(authors: List[Person], books_df: pd.DataFrame) -> List[Book]:
+def make_books(authors: List[Author], books_df: pd.DataFrame) -> List[Book]:
     return [
         Book(
             title=book['title'],

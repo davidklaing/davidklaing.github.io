@@ -1,4 +1,4 @@
-class Person:
+class Author:
 
     def __init__(self, surname: str, full_name: str, gender: str, nationality: str):
         self.surname = surname
