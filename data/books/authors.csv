@@ -1,4 +1,3 @@
-surname,full_name,gender,nationality
 Adams,Scott Adams,M,American
 Adams,Douglas Adams,M,British
 Adler,Mortimer J. Adler,M,American
@@ -52,6 +51,7 @@ Davidson,Richard Davidson,M,American
 Dawkins,Richard Dawkins,M,British
 de la Pava,Sergio de la Pava,M,American
 Dickens,Charles Dickens,M,British
+Dillard,Annie Dillard,F,American
 Doerr,Anthony Doerr,M,American
 Dostoyevsky,Fyodor Dostoyevsky,M,Russian
 Durant,Will Durant,M,American
@@ -90,7 +90,7 @@ Herbert,Frank Herbert,M,American
 Hesse,Hermann Hesse,M,German-Swiss
 Hill,Lawrence Hill,M,Canadian
 Hinton,S.E. Hinton,F,American
-Hofstadter,Douglas R. Hofstadter,M,American
+Hofstadter,Douglas Hofstadter,M,American
 Holt,Jim Holt,M,American
 Homer,Homer,M,Greek
 Housel,Morgan Housel,M,American
@@ -131,10 +131,10 @@ McGrayne,Sharon Bertsch McGrayne,F,American
 McMurtry,Larry McMurtry,M,American
 Meadows,Donella Meadows,F,American
 Medina,John Medina,M,American
-Miéville,China Miéville,M,British
 Miller,Chanel Miller,F,American
 Miller,Madeline Miller,F,American
 Millhauser,Steven Millhauser,M,American
+Miéville,China Miéville,M,British
 Morrison,Toni Morrison,F,American
 Moss,Stephen Moss,M,American
 Murakami,Haruki Murakami,M,Japanese
