@@ -1,9 +1,11 @@
+surname,full_name,gender,nationality
 Adams,Scott Adams,M,American
 Adams,Douglas Adams,M,British
 Adler,Mortimer J. Adler,M,American
 Ahrens,Sönke Ahrens,M,German
 Ariely,Dan Ariely,M,Israeli-American
 Asimov,Isaac Asimov,M,American
+Atwood,Margaret Atwood,F,Canadian
 Aurelius,Marcus Aurelius,M,Roman
 Bach,Richard Bach,M,American
 Banks,Iain M. Banks,M,Scottish
@@ -126,6 +128,7 @@ Lewis,C.S. Lewis,M,British
 Lightman,Alan Lightman,M,American
 MacDonald,George MacDonald,M,Scottish
 Martel,Yann Martel,M,Canadian
+Martin,George R.R. Martin,M,American
 McCarthy,Cormac McCarthy,M,American
 McGrayne,Sharon Bertsch McGrayne,F,American
 McMurtry,Larry McMurtry,M,American

@@ -34,5 +34,6 @@ tag_dict = {
     'reference': 'Reference',
     'exercise': 'Exercise',
     'writing': 'Writing',
-    'anthropology': 'Anthropology'
+    'anthropology': 'Anthropology',
+    'china': 'China'
 }
