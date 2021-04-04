@@ -1,7 +1,6 @@
-from typing import List, Optional
+from typing import List, Optional, Tuple
 
 from sitebuilder.library.author import Author
-from sitebuilder.library.tag import Tag
 
 
 class Book:
@@ -18,7 +17,7 @@ class Book:
     
 
     @property
-    def authors_display(self):
+    def authors_display(self) -> str:
         if not self.author2:
             return self.author1.surname
         else:
@@ -26,7 +25,7 @@ class Book:
     
 
     @property
-    def title_display(self):
+    def title_display(self) -> str:
         if self.url:
             if self.url[0] == '/':
                 id = self.url.strip('/')
@@ -36,11 +35,11 @@ class Book:
     
 
     @property
-    def display(self):
+    def display(self) -> str:
         return f'{self.authors_display}, _{self.title_display}_ {self.publication_year}'
 
 
-    def publication_era_info(self) -> Tuple(str, str, str):
+    def publication_era_info(self) -> Tuple[str, str, str]:
         if self.publication_year < 1800:
             era = '<1800'
             title = 'Published before 1800'

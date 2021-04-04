@@ -5,5 +5,8 @@ _site/
 build/
 dist/
 sitebuilder.egg-info/
+sitebuilder/sitebuilder/__pycache__/
+sitebuilder/sitebuilder/bin/
+sitebuilder/sitebuilder/library/__pycache__/
 vendor/
 venv/

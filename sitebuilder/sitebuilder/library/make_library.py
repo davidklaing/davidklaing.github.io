@@ -1,10 +1,10 @@
 import pandas as pd
 from typing import List
 
-from sitebuilder.sitebuilder.library.author import Author
-from sitebuilder.sitebuilder.library.book import Book
-from sitebuilder.sitebuilder.library.library import Library
-from sitebuilder.sitebuilder.library.reading import Reading
+from sitebuilder.library.author import Author
+from sitebuilder.library.book import Book
+from sitebuilder.library.library import Library
+from sitebuilder.library.reading import Reading
 
 
 def make_library():
@@ -26,7 +26,7 @@ def make_authors(authors_df: pd.DataFrame) -> List[Author]:
             full_name=author['full_name'], 
             gender=author['gender'], 
             nationality=author['nationality']
-        ) for author in authors_df
+        ) for author in authors_df.to_dict(orient='records')
     ]
 
 
@@ -39,7 +39,7 @@ def make_books(authors: List[Author], books_df: pd.DataFrame) -> List[Book]:
             publication_year=book['publication_year'],
             tags=book['tags'].split(','),
             url=book['url']
-        ) for book in books_df
+        ) for book in books_df.to_dict(orient='records')
     ]
 
 
@@ -50,5 +50,5 @@ def make_readings(books: List[Book], readings_df: pd.DataFrame) -> List[Reading]
             year=reading['year'],
             format=reading['format'],
             status=reading['status']
-        ) for reading in readings_df
+        ) for reading in readings_df.to_dict(orient='records')
     ]

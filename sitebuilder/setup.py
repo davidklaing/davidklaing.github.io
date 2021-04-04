@@ -5,6 +5,7 @@ setup(
    version='1.0',
    description='A module for building my personal website',
    author='David Laing',
-   packages=['sitebuilder'],
+   packages=['sitebuilder.library', 'sitebuilder.site'],
+   scripts=['sitebuilder/bin/build_library'],
    install_requires=['click', 'pandas'],
 )
