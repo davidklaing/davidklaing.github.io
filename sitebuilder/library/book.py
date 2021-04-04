@@ -13,7 +13,10 @@ class Book:
         self.publication_year = publication_year
         self.tags = tags
         self.url = url
+
+        self.publication_era, self.publication_era_title, self.publication_era_path = self.publication_era_info()
     
+
     @property
     def authors_display(self):
         if not self.author2:
@@ -21,6 +24,7 @@ class Book:
         else:
             return f'{self.author1.surname} & {self.author2.surname}'
     
+
     @property
     def title_display(self):
         if self.url:
@@ -30,6 +34,32 @@ class Book:
             else:
                 return f'[{self.title}]({self.url})'
     
+
     @property
     def display(self):
         return f'{self.authors_display}, _{self.title_display}_ {self.publication_year}'
+
+
+    def publication_era_info(self) -> Tuple(str, str, str):
+        if self.publication_year < 1800:
+            era = '<1800'
+            title = 'Published before 1800'
+            path = 'published-before-1800'
+            return (era, title, path)
+        else:
+            if self.publication_year < 1900:
+                floor = 100
+                append_s = True
+            elif self.publication_year < 2000:
+                floor = 10
+                append_s = True
+            else:
+                floor = 1
+                append_s = False
+            era = str(self.publication_year - self.publication_year % floor)
+            title = f'Published in {era}'
+            path = f'published-in-{era}'
+            if append_s:
+                title += 's'
+                path += 's'
+            return (era, title, path)

@@ -1,5 +1,5 @@
 class Tag:
 
-    def __init__(self, tag: str, display: str):
-        self.tag = tag
-        self.display = display
+    def __init__(self, title: str, path: str):
+        self.title = title
+        self.path = path
