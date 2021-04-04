@@ -1,10 +1,10 @@
 import pandas as pd
 from typing import List
 
-from sitebuilder.library.author import Author
-from sitebuilder.library.book import Book
-from sitebuilder.library.library import Library
-from sitebuilder.library.reading import Reading
+from sitebuilder.sitebuilder.library.author import Author
+from sitebuilder.sitebuilder.library.book import Book
+from sitebuilder.sitebuilder.library.library import Library
+from sitebuilder.sitebuilder.library.reading import Reading
 
 
 def make_library():
@@ -37,7 +37,7 @@ def make_books(authors: List[Author], books_df: pd.DataFrame) -> List[Book]:
             author1=[author for author in authors if author.full_name == book['author1']][0],
             author2=[author for author in authors if author.full_name == book['author2']][0],
             publication_year=book['publication_year'],
-            tags=book['tags'],
+            tags=book['tags'].split(','),
             url=book['url']
         ) for book in books_df
     ]

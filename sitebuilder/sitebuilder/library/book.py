@@ -6,7 +6,7 @@ from sitebuilder.library.tag import Tag
 
 class Book:
 
-    def __init__(self, title: str, author1: Author, author2: Optional[Author], publication_year: int, tags: List[Tag], url = str):
+    def __init__(self, title: str, author1: Author, author2: Optional[Author], publication_year: int, tags: List[str], url = str):
         self.title = title
         self.author1 = author1
         self.author2 = author2

@@ -1,5 +1,9 @@
 .bundle/
-vendor/
-_site/
-venv/
 .vscode/
+_site/
+
+build/
+dist/
+sitebuilder.egg-info/
+vendor/
+venv/

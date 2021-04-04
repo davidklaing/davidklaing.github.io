@@ -4,18 +4,21 @@ from sitebuilder.library.author import Author
 from sitebuilder.library.book import Book
 from sitebuilder.library.reading import Reading
 from sitebuilder.library.shelf import Shelf
-from sitebuilder.library.tag import Tag
+from sitebuilder.library.tag_dict import tag_dict
 
 
 class Library:
 
-    def __init__(self, authors: List[Author], books: List[Book], readings: List[Reading], tags: List[Tag]):
+    def __init__(self, authors: List[Author], books: List[Book], readings: List[Reading]):
         self.authors = authors
         self.books = books
         self.readings = readings
-        self.tags = tags
 
-    
+        self.shelves_by_publicaton_date = self.get_shelves_by_publicaton_date()
+        self.shelves_by_read_date = self.get_shelves_by_read_date()
+        self.shelves_by_tag = self.get_shelves_by_tag()
+
+
     def get_shelves_by_publicaton_date(self):
         shelves = {}
         for book in self.books:
@@ -48,9 +51,15 @@ class Library:
         return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves]
 
 
-    def get_shelves_by_genre(self):
-        shelves = {tag.tag: {'title': tag.title, 'path': tag.path, 'books': []} for tag in self.tags}
+    def get_shelves_by_tag(self):
+        shelves = {tag: {'title': title, 'path': tag, 'books': []} for tag, title in tag_dict.items()}
         for book in self.books:
             for tag in book.tags:
                 shelves[tag]['books'].append(book)
         return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves]
+
+
+    def make_shelf_pages(self):
+        for shelf_category in [self.shelves_by_publicaton_date, self.shelves_by_read_date, self.shelves_by_tag]:
+            for shelf in shelf_category:
+                shelf.make_page()
