@@ -2,11 +2,10 @@
 layout: page
 title: Religion
 published: true
-permalink: /books-religion/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /religion/
+backlinks: 
 ---
 
-* Dawkins, The God Delusion (2006)
-* Harris, Waking Up (2014) ★
-* Smith, The World's Religions (1958)
-* Spong, A New Christianity for a New World (2001)
+* Dawkins, _The God Delusion_ (2006) 
+* Harris, _Waking Up_ (2014) 
+* Spong, _A New Christianity for a New World_ (2001) 

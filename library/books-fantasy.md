@@ -2,30 +2,37 @@
 layout: page
 title: Fantasy
 published: true
-permalink: /books-fantasy/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /fantasy/
+backlinks: 
 ---
 
-* Barron, The Lost Years of Merlin Saga (2000) ★
-* Barron, The Great Tree of Avalon trilogy (2006)
-* Brooks, The Sword of Shannara (1977)
-* Butler, Wild Seed (1980)
-* Collins, The Hunger Games (2008)
-* Gaiman, Stardust (1997)
-* Gaiman, Coraline (2002)
-* Gaiman, The Ocean at the End of the Lane (2013) ★
-* Jemisin, The Fifth Season (2015)
-* Jordan, The Wheel of Time 1-3 (1990)
-* Kay, The Fionavar Tapestry (1986)
-* Kay, Ysabel (2007)
-* Le Guin, A Wizard of Earthsea (1968)
-* Lewis, The Chronicles of Narnia (1956)
-* MacDonald, The Princess and the Goblin (1872)
-* Nicholson, The Wind on Fire Trilogy (2002)
-* Nimmo, Children of the Red King 1-5 (2002-2006) ★
-* Paolini, The Inheritance Cycle 1-3 (2002)
-* Pullman, His Dark Materials (2000) ★
-* Rowling, Harry Potter 1-7 (2007) ★
-* Tolkien, The Hobbit (1937)
-* Tolkien, The Lord of the Rings (1955)
-* Yudkowsky, Harry Potter and the Methods of Rationality (2015) ★
+* Barron, _The Great Tree of Avalon Trilogy_ (2006) 
+* Barron, _The Lost Years of Merlin Saga_ (2000) 
+* Brooks, _The Sword of Shannara_ (1977) 
+* Butler, _Wild Seed_ (1980) 
+* Clarke, _Piranesi_ (2020) 
+* Collins, _The Hunger Games_ (2008) 
+* Gaiman, _American Gods_ (2001) 
+* Gaiman, _Coraline (French edition)_ (2002) 
+* Gaiman, _Stardust_ (1997) 
+* Gaiman, _The Ocean at the End of the Lane_ (2013) 
+* Jemisin, _The Fifth Season_ (2015) 
+* Jordan, _The Dragon Reborn_ (1991) 
+* Jordan, _The Eye of the World_ (1990) 
+* Jordan, _The Great Hunt_ (1990) 
+* Kay, _The Fionavar Tapestry_ (1986) 
+* Kay, _Ysabel_ (2007) 
+* Le Guin, _A Wizard of Earthsea_ (1968) 
+* Lewis, _The Chronicles of Narnia_ (1956) 
+* MacDonald, _The Princess and the Goblin_ (1872) 
+* Martin, _A Game of Thrones_ (1996) 
+* Miéville, _Kraken_ (2010) 
+* Miéville, _The City & the City_ (2009) 
+* Nicholson, _The Wind on Fire Trilogy_ (2002) 
+* Nimmo, _Children of the Red King 1-5_ (2006) 
+* Paolini, _The Inheritance Cycle 1-3_ (2002) 
+* Pullman, _His Dark Materials_ (2000) 
+* Rowling, _Harry Potter 1-7_ (2007) 
+* Tolkien, _The Hobbit_ (1937) 
+* Tolkien, _The Lord of the Rings_ (1955) 
+* Yudkowsky, _Harry Potter and the Methods of Rationality_ (2015) 

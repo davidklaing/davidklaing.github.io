@@ -10,9 +10,9 @@ from sitebuilder.library.reading import Reading
 
 
 def make_library():
-    authors_df = pd.read_csv('data/books/authors.csv')
-    books_df = pd.read_csv('data/books/books.csv')
-    readings_df = pd.read_csv('data/books/readings.csv')
+    authors_df = pd.read_csv('data/books/authors.csv').fillna('')
+    books_df = pd.read_csv('data/books/books.csv').fillna('')
+    readings_df = pd.read_csv('data/books/readings.csv').fillna('')
 
     authors = make_authors(authors_df)
     books = make_books(authors, books_df)
@@ -47,13 +47,14 @@ def make_books(authors: List[Author], books_df: pd.DataFrame) -> List[Book]:
 
 def get_author(authors: List[Author], author_number: int, book_row: List) -> Optional[Author]:
     author_name = book_row[f'author{author_number}']
-    if isinstance(author_name, str):
+    if author_name:
         matching_authors = [author for author in authors if author.full_name == author_name]
         if not matching_authors:
             logger.error(f'Missing author {author_name}')
             raise MissingAuthorException
         return matching_authors[0]
-    return None
+    else:
+        return ''
 
 
 def get_tags(book_row: List) -> List[str]:

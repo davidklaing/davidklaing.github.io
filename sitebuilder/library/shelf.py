@@ -7,7 +7,7 @@ class Shelf:
     def __init__(self, title: str, path: str, books: List[Book]):
         self.title = title
         self.path = path
-        self.books = books
+        self.books = sorted(books, key=lambda book: book.display)
     
     def make_page(self):
         page = [
@@ -22,4 +22,5 @@ class Shelf:
         ]
         for book in self.books:
             page.append(f'* {book.display} \n')
-        return page
+        with open(f'library/books-{self.path}.md', 'w') as f:
+            return f.write(''.join(page))

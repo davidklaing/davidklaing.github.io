@@ -2,39 +2,40 @@
 layout: page
 title: Philosophy
 published: true
-permalink: /books-philosophy/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /philosophy/
+backlinks: 
 ---
 
-* Aurelius, Meditations (180)
-* Bostrom, Superintelligence (2014)
-* Campbell, A Joseph Campbell Companion (1991)
-* Confucius, The Analects (-429)
-* Cowen, Stubborn Attachments (2018)
-* Crawford, Shop Class as Soulcraft (2009)
-* Dawkins, The God Delusion (2006)
-* Ellenberg, How Not to Be Wrong (2014)
-* Emerson, Self-Reliance and Other Essays (1844)
-* Gottlieb, The Dream of Reason (2000)
-* Harari, Sapiens (2011)
-* Harari, Homo Deus (2017)
-* Harris, <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will</a> (2012) ★
-* Harris, Waking Up (2014) ★
-* Hofstadter, <a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Gödel, Escher, Bach</a> (1979) ★
-* Holt, Why Does the World Exist? (2011)
-* Jacobs, The Pleasures of Reading in an Age of Distraction (2011)
-* Kabat-Zinn, Full Catastrophe Living (1990)
-* Nielsen, Reinventing Discovery (2011) ★
-* Schneier, Data and Goliath (2015)
-* Silver, The Signal and the Noise (2012)
-* Simler & Hanson, The Elephant in the Brain (2017)
-* Stephens-Davidowitz, Everybody Lies (2017)
-* Taleb, The Black Swan (2007)
-* Thiel, <a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Zero to One</a> (2014)
-* Thoreau, Walden (1854)
-* Tzu, The Art of War (-500)
-* Tzu, Tao Te Ching (-600)
-* Voltaire, Candide (1759)
-* Wright, A Short History of Progress (2004)
-* Yudkowsky, Rationality From AI to Zombies (2015) ★
-* Yudkowsky, Inadequate Equilibria (2017)
+* Aurelius, _Meditations_ (180) 
+* Bostrom, _Superintelligence_ (2014) 
+* Campbell, _A Joseph Campbell Companion_ (1991) 
+* Confucius, _The Analects_ (-429) 
+* Cowen, _Stubborn Attachments_ (2018) 
+* Crawford, _Shop Class as Soulcraft_ (2009) 
+* Dawkins, _The God Delusion_ (2006) 
+* Ellenberg, _How Not to Be Wrong_ (2014) 
+* Emerson, _Self-Reliance and Other Essays_ (1844) 
+* Gottlieb, _The Dream of Reason_ (2000) 
+* Harari, _Homo Deus_ (2017) 
+* Harari, _Sapiens_ (2011) 
+* Harris, _<a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will</a>_ (2012) 
+* Harris, _Waking Up_ (2014) 
+* Hofstadter, _<a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Gödel, Escher, Bach</a>_ (1979) 
+* Holt, _Why Does the World Exist?_ (2011) 
+* Jacobs, _The Pleasures of Reading in an Age of Distraction_ (2011) 
+* Johnstone, _Impro_ (1979) 
+* Kabat-Zinn, _Full Catastrophe Living_ (1990) 
+* Nielsen, _Reinventing Discovery_ (2011) 
+* Schneier, _Data and Goliath_ (2015) 
+* Silver, _The Signal and the Noise_ (2012) 
+* Simler & Hanson, _The Elephant in the Brain_ (2017) 
+* Stephens-Davidowitz, _Everybody Lies_ (2017) 
+* Taleb, _The Black Swan_ (2007) 
+* Thiel, _<a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Zero to One</a>_ (2014) 
+* Thoreau, _Walden_ (1854) 
+* Tzu, _Tao Te Ching_ (-600) 
+* Tzu, _The Art of War_ (-500) 
+* Voltaire, _Candide_ (1759) 
+* Wright, _A Short History of Progress_ (2004) 
+* Yudkowsky, _Inadequate Equilibria_ (2017) 
+* Yudkowsky, _Rationality From AI to Zombies_ (2015) 

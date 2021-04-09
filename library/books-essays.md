@@ -2,8 +2,9 @@
 layout: page
 title: Essays
 published: true
-permalink: /books-essays/
+permalink: /essays/
+backlinks: 
 ---
 
-* Emerson, Self-Reliance and Other Essays (1844)
-* Wallace, Both Flesh and Not: Essays (2012) ★
+* Emerson, _Self-Reliance and Other Essays_ (1844) 
+* Wallace, _Both Flesh and Not: Essays_ (2012) 

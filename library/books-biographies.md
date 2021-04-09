@@ -2,11 +2,12 @@
 layout: page
 title: Biographies
 published: true
-permalink: /books-biographies/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /biographies/
+backlinks: 
 ---
 
-* Caro, The Path to Power (1982) ★
-* Franklin, The Autobiography of Benjamin Franklin (1791)
-* Gleick, Isaac Newton (2003) ★
-* Vance, Elon Musk (2015)
+* Caro, _The Path to Power_ (1982) 
+* Franklin, _The Autobiography of Benjamin Franklin_ (1791) 
+* Gleick, _Isaac Newton_ (2003) 
+* Isaacson, _Einstein: His Life and Universe_ (2007) 
+* Vance, _Elon Musk_ (2015) 

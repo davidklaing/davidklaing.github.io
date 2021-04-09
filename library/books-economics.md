@@ -2,9 +2,10 @@
 layout: page
 title: Economics
 published: true
-permalink: /books-economics/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /economics/
+backlinks: 
 ---
 
-* Cowen, Discover Your Inner Economist (2007)
-* Graeber, Bullshit Jobs (2018) ★
+* Cowen, _Discover Your Inner Economist_ (2007) 
+* Graeber, _Bullshit Jobs_ (2018) 
+* Graeber, _Debt_ (2011) 

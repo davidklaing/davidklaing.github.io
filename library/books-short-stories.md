@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Short Stories
+title: Short stories
 published: true
-permalink: /books-short-stories/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /short-stories/
+backlinks: 
 ---
 
-* Borges, The Library of Babel (1941)
-* Chiang, Exhalation: Stories (2019) ★
-* Gowdy, Disneyland (1989) ★
-* Joyce, Araby (1914) ★
-* Joyce, The Dead (1914) ★
-* Wallace, Oblivion (2004) ★
+* Chiang, _Exhalation: Stories_ (2019) 
+* Chiang, _Stories of Your Life and Others_ (2010) 
+* Gowdy, _Falling Angels_ (1989) 
+* Joyce, _Dubliners_ (1914) 
+* Piatigorsky, _The Iron Bridge_ (2012) 
+* Wallace, _Oblivion_ (2004) 

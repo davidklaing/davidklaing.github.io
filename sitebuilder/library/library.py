@@ -22,7 +22,7 @@ class Library:
     def get_shelves_by_publicaton_date(self):
         shelves = {}
         for book in self.books:
-            if not book.publication_era in shelves:
+            if not book.publication_era in shelves.keys():
                 shelves.update({
                     book.publication_era: {
                         'title': book.publication_era_title,
@@ -32,7 +32,7 @@ class Library:
                 })
             else:
                 shelves[book.publication_era]['books'].append(book)
-        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves]
+        return [Shelf(title=shelf['title'], path=shelf['path'], books=shelf['books']) for shelf in shelves.values()]
 
 
     def get_shelves_by_read_date(self):
@@ -48,7 +48,7 @@ class Library:
                 })
             else:
                 shelves[reading.year_title]['books'].append(reading.book)
-        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves]
+        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves.values()]
 
 
     def get_shelves_by_tag(self):
@@ -56,7 +56,7 @@ class Library:
         for book in self.books:
             for tag in book.tags:
                 shelves[tag]['books'].append(book)
-        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves]
+        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves.values()]
 
 
     def make_shelf_pages(self):

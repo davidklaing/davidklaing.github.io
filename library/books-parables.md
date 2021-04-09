@@ -2,12 +2,12 @@
 layout: page
 title: Parables
 published: true
-permalink: /books-parables/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /parables/
+backlinks: 
 ---
 
-* Bach, Jonathan Livingston Seagull (1970) ★
-* Bach, Illusions (1977)
-* Coelho, The Alchemist (1988)
-* Hesse, Siddhartha (1922)
-* Voltaire, Candide (1759)
+* Bach, _Illusions_ (1977) 
+* Bach, _Jonathan Livingston Seagull_ (1970) 
+* Coelho, _The Alchemist_ (1988) 
+* Hesse, _Siddhartha_ (1922) 
+* Voltaire, _Candide_ (1759) 

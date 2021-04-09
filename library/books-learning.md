@@ -2,11 +2,11 @@
 layout: page
 title: Learning
 published: true
-permalink: /books-learning/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /learning/
+backlinks: 
 ---
 
-* Adler & Van Doren, How to Read a Book (1972)
-* Ahrens, How to Take Smart Notes (2017)
-* Medina, Brain Rules (2008)
-* Oakley, A Mind for Numbers (2014)
+* Adler & Van Doren, _How to Read a Book_ (1972) 
+* Ahrens, _How to Take Smart Notes_ (2017) 
+* Medina, _Brain Rules_ (2008) 
+* Oakley, _A Mind for Numbers_ (2014) 

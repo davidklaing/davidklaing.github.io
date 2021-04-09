@@ -2,22 +2,24 @@
 layout: page
 title: Psychology
 published: true
-permalink: /books-psychology/
+permalink: /psychology/
+backlinks: 
 ---
 
-* Ariely, Predictably Irrational (2008)
-* Cialdini, Influence (1984)
-* Gilbert, Stumbling on Happiness (2006)
-* Goleman & Davidson, <a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Altered Traits</a> (2017)
-* Haidt, The Happiness Hypothesis (2005) ★
-* Haidt, <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a> (2012) ★
-* Housel, The Psychology of Money (2020)
-* Kahneman, Thinking, Fast and Slow (2011)
-* Kishimi & Koga, The Courage to Be Disliked (2019)
-* Medina, Brain Rules (2008)
-* Pinker, The Language Instinct (1994) ★
-* Pinker, How the Mind Works (1997) ★
-* Ritchie, Intelligence (2015)
-* Sapolsky, Behave (2017)
-* Simler & Hanson, The Elephant in the Brain (2017)
-* Thaler, Nudge (2008)
+* Ariely, _Predictably Irrational_ (2008) 
+* Cialdini, _Influence_ (1984) 
+* Csikszentmihalyi, _Flow_ (1990) 
+* Gilbert, _Stumbling on Happiness_ (2006) 
+* Goleman & Davidson, _<a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Altered Traits</a>_ (2017) 
+* Haidt, _<a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a>_ (2012) 
+* Haidt, _The Happiness Hypothesis_ (2005) 
+* Housel, _The Psychology of Money_ (2020) 
+* Kahneman, _Thinking, Fast and Slow_ (2011) 
+* Kishimi & Koga, _The Courage to Be Disliked_ (2019) 
+* Medina, _Brain Rules_ (2008) 
+* Pinker, _How the Mind Works_ (1997) 
+* Pinker, _The Language Instinct_ (1994) 
+* Ritchie, _Intelligence_ (2015) 
+* Sapolsky, _Behave_ (2017) 
+* Simler & Hanson, _The Elephant in the Brain_ (2017) 
+* Thaler, _Nudge_ (2008) 

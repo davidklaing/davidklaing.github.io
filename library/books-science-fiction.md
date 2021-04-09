@@ -1,29 +1,29 @@
 ---
 layout: page
-title: Science-Fiction
+title: Science fiction
 published: true
-permalink: /books-science-fiction/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /science-fiction/
+backlinks: 
 ---
 
-* Asimov, Prelude to Foundation (1988)
-* Asimov, Nightfall (1990)
-* Banks, The Player of Games (1988)
-* Card, Ender's Saga (1996) ★
-* Card, Ender's Shadow (1999) ★
-* Cixin, The Three-Body Problem (2008)
-* Clarke, 2001: A Space Odyssey (1968)
-* Crichton, Jurassic Park (1990)
-* Forster, The Machine Stops (1909) ★
-* Gibson & Sterling, The Difference Engine (1990) ★
-* Herbert, Dune (1965)
-* Keyes, Flowers for Algernon (1966)
-* Le Guin, The Left Hand of Darkness (1969)
-* Le Guin, The Ones Who Walk Away from Omelas (1973)
-* Lightman, Einstein's Dreams (1992)
-* Patterson, Maximum Ride (2005)
-* Stephenson, Snow Crash (1992)
-* Verne, Twenty Thousand Leagues Under the Sea (1869)
-* Weir, Artemis (2017)
-* Wells, The Island of Doctor Moreau (1896)
-* Wilson, Spin (2005)
+* Asimov, _Prelude to Foundation_ (1988) 
+* Banks, _The Player of Games_ (1988) 
+* Card, _Ender's Saga_ (1996) 
+* Card, _Ender's Shadow_ (1999) 
+* Chiang, _Exhalation: Stories_ (2019) 
+* Chiang, _Stories of Your Life and Others_ (2010) 
+* Cixin, _The Three-Body Problem_ (2008) 
+* Crichton, _Jurassic Park_ (1990) 
+* Forster, _The Machine Stops_ (1909) 
+* Gibson & Sterling, _The Difference Engine_ (1990) 
+* Herbert, _Dune_ (1965) 
+* Keyes, _Flowers for Algernon_ (1966) 
+* Le Guin, _The Left Hand of Darkness_ (1969) 
+* Lightman, _Einstein's Dreams_ (1992) 
+* Stephenson, _Cryptonomicon_ (1999) 
+* Stephenson, _Snow Crash_ (1992) 
+* Verne, _Twenty Thousand Leagues Under the Sea_ (1869) 
+* Weir, _Artemis_ (2017) 
+* Weir, _The Martian_ (2012) 
+* Wells, _The Island of Doctor Moreau_ (1896) 
+* Wilson, _Spin_ (2005) 

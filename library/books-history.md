@@ -2,16 +2,18 @@
 layout: page
 title: History
 published: true
-permalink: /books-history/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /history/
+backlinks: 
 ---
 
-* Caro, The Path to Power (1982) ★
-* Durant, The Lessons of History (1968)
-* Gleick, Chaos (1987)
-* Gleick, The Information (2011) ★
-* Gottlieb, The Dream of Reason (2000)
-* Levi, Survival in Auschwitz (1947)
-* McGrayne, The Theory That Would Not Die (2011)
-* Pinker, The Better Angels of Our Nature (2010)
-* Wright, A Short History of Progress (2004)
+* Caro, _The Path to Power_ (1982) 
+* Durant, _The Lessons of History_ (1968) 
+* Gleick, _Chaos_ (1987) 
+* Gleick, _The Information_ (2011) 
+* Gottlieb, _The Dream of Reason_ (2000) 
+* Graeber, _Debt_ (2011) 
+* Graeber, _The Democracy Project_ (2013) 
+* Levi, _Survival in Auschwitz_ (1947) 
+* McGrayne, _The Theory That Would Not Die_ (2011) 
+* Pinker, _The Better Angels of Our Nature_ (2010) 
+* Wright, _A Short History of Progress_ (2004) 

@@ -5,7 +5,7 @@ from sitebuilder.library.author import Author
 
 class Book:
 
-    def __init__(self, title: str, author1: Author, author2: Optional[Author], publication_year: int, tags: List[str], url = str):
+    def __init__(self, title: str, author1: Author, author2: Optional[Author], publication_year: int, tags: List[str], url = Optional[str]):
         self.title = title
         self.author1 = author1
         self.author2 = author2
@@ -29,14 +29,15 @@ class Book:
         if self.url:
             if self.url[0] == '/':
                 id = self.url.strip('/')
-                return f'<a id="{id}" class="internal-link" href="{self.url}">{self.title}</a> '
+                return f'<a id="{id}" class="internal-link" href="{self.url}">{self.title}</a>'
             else:
                 return f'[{self.title}]({self.url})'
+        return self.title
     
 
     @property
     def display(self) -> str:
-        return f'{self.authors_display}, _{self.title_display}_ {self.publication_year}'
+        return f'{self.authors_display}, _{self.title_display}_ ({self.publication_year})'
 
 
     def publication_era_info(self) -> Tuple[str, str, str]:

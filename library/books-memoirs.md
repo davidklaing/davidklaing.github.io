@@ -2,22 +2,24 @@
 layout: page
 title: Memoirs
 published: true
-permalink: /books-memoirs/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+permalink: /memoirs/
+backlinks: 
 ---
 
-* Adams, How to Fail at Almost Everything and Still Win Big (2013)
-* Browder, Red Notice (2014)
-* Catmull, Creativity, Inc. (2009)
-* Dillard, Pilgrim at Tinker Creek (1974)
-* Feynman, Surely You're Joking, Mr. Feynman! (1985)
-* Finnegan, Barbarian Days (2015)
-* Frank, The Diary of a Young Girl (1947) ★
-* Franklin, The Autobiography of Benjamin Franklin (1791)
-* Kalanithi, When Breath Becomes Air (2016)
-* King, On Writing (2000) ★
-* Levi, Survival in Auschwitz (1947)
-* Miller, Know My Name (2019) ★
-* Moss, The Rookie (2016)
-* Thoreau, Walden (1854)
-* Westover, Educated (2018) ★
+* Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 
+* Briggs, _This Little Art_ (2017) 
+* Browder, _Red Notice_ (2014) 
+* Catmull, _Creativity, Inc._ (2009) 
+* Dillard, _Pilgrim at Tinker Creek_ (1974) 
+* Feynman, _Surely You're Joking, Mr. Feynman!_ (1985) 
+* Finnegan, _Barbarian Days_ (2015) 
+* Frank, _The Diary of a Young Girl_ (1947) 
+* Franklin, _The Autobiography of Benjamin Franklin_ (1791) 
+* Kalanithi, _When Breath Becomes Air_ (2016) 
+* King, _On Writing_ (2000) 
+* Levi, _Survival in Auschwitz_ (1947) 
+* Miller, _Know My Name_ (2019) 
+* Moss, _The Rookie_ (2016) 
+* Thoreau, _Walden_ (1854) 
+* Westover, _Educated_ (2018) 
+* Wiener, _Uncanny Valley_ (2020) 
