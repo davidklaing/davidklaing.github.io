@@ -2,8 +2,7 @@
 layout: page
 title: Historical fiction
 published: true
-permalink: /historical-fiction/
-backlinks: 
+permalink: /books-historical-fiction/
 ---
 
 * Clavell, _Tai-Pan_ (1966) 

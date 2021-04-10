@@ -2,8 +2,7 @@
 layout: page
 title: Read in 2013
 published: true
-permalink: /read-in-2013/
-backlinks: 
+permalink: /books-read-in-2013/
 ---
 
 * Atwood, _The Penelopiad_ (2005) 

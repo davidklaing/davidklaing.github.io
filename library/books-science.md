@@ -2,8 +2,7 @@
 layout: page
 title: Science
 published: true
-permalink: /science/
-backlinks: 
+permalink: /books-science/
 ---
 
 * Christian, _The Alignment Problem_ (2020) 

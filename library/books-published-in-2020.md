@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2020
 published: true
-permalink: /published-in-2020/
-backlinks: 
+permalink: /books-published-in-2020/
 ---
 
 * Christian, _The Alignment Problem_ (2020) 

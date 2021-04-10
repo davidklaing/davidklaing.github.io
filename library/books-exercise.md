@@ -2,8 +2,7 @@
 layout: page
 title: Exercise
 published: true
-permalink: /exercise/
-backlinks: 
+permalink: /books-exercise/
 ---
 
 * Hargrove, _Playing With Movement_ (2014) 

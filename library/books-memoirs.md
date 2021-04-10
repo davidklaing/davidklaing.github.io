@@ -2,8 +2,7 @@
 layout: page
 title: Memoirs
 published: true
-permalink: /memoirs/
-backlinks: 
+permalink: /books-memoirs/
 ---
 
 * Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 

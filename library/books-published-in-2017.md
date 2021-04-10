@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2017
 published: true
-permalink: /published-in-2017/
-backlinks: 
+permalink: /books-published-in-2017/
 ---
 
 * Ahrens, _How to Take Smart Notes_ (2017) 

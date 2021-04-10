@@ -2,8 +2,7 @@
 layout: page
 title: Read in 2019
 published: true
-permalink: /read-in-2019/
-backlinks: 
+permalink: /books-read-in-2019/
 ---
 
 * Ahrens, _How to Take Smart Notes_ (2017) 

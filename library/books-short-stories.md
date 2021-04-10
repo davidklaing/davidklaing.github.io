@@ -2,8 +2,7 @@
 layout: page
 title: Short stories
 published: true
-permalink: /short-stories/
-backlinks: 
+permalink: /books-short-stories/
 ---
 
 * Chiang, _Exhalation: Stories_ (2019) 

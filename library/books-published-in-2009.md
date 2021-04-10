@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2009
 published: true
-permalink: /published-in-2009/
-backlinks: 
+permalink: /books-published-in-2009/
 ---
 
 * Catmull, _Creativity, Inc._ (2009) 

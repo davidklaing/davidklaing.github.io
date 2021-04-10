@@ -2,8 +2,7 @@
 layout: page
 title: Politics
 published: true
-permalink: /politics/
-backlinks: 
+permalink: /books-politics/
 ---
 
 * Graeber, _The Democracy Project_ (2013) 

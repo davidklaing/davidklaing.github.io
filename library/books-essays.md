@@ -2,8 +2,7 @@
 layout: page
 title: Essays
 published: true
-permalink: /essays/
-backlinks: 
+permalink: /books-essays/
 ---
 
 * Emerson, _Self-Reliance and Other Essays_ (1844) 

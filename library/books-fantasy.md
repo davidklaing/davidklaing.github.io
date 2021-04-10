@@ -2,8 +2,7 @@
 layout: page
 title: Fantasy
 published: true
-permalink: /fantasy/
-backlinks: 
+permalink: /books-fantasy/
 ---
 
 * Barron, _The Great Tree of Avalon Trilogy_ (2006) 

@@ -2,8 +2,7 @@
 layout: page
 title: Young adult
 published: true
-permalink: /young-adult/
-backlinks: 
+permalink: /books-young-adult/
 ---
 
 * Paolini, _The Inheritance Cycle 1-3_ (2002) 

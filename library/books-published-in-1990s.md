@@ -2,8 +2,7 @@
 layout: page
 title: Published in 1990s
 published: true
-permalink: /published-in-1990s/
-backlinks: 
+permalink: /books-published-in-1990s/
 ---
 
 * Barnes, _Flaubert's Parrot_ (1990) 

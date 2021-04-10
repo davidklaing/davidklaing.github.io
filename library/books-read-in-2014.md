@@ -2,8 +2,7 @@
 layout: page
 title: Read in 2014
 published: true
-permalink: /read-in-2014/
-backlinks: 
+permalink: /books-read-in-2014/
 ---
 
 * Campbell, _A Joseph Campbell Companion_ (1991) 

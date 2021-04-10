@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2001
 published: true
-permalink: /published-in-2001/
-backlinks: 
+permalink: /books-published-in-2001/
 ---
 
 * Bock, _The Ash Garden_ (2001) 

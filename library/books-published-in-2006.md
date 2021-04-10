@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2006
 published: true
-permalink: /published-in-2006/
-backlinks: 
+permalink: /books-published-in-2006/
 ---
 
 * Barron, _The Great Tree of Avalon Trilogy_ (2006) 

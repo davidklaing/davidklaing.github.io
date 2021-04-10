@@ -2,8 +2,7 @@
 layout: page
 title: Childrens
 published: true
-permalink: /childrens/
-backlinks: 
+permalink: /books-childrens/
 ---
 
 * Grahame, _The Wind in the Willows_ (1908) 

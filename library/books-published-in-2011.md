@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2011
 published: true
-permalink: /published-in-2011/
-backlinks: 
+permalink: /books-published-in-2011/
 ---
 
 * Chilton, _The Wealthy Barber Returns_ (2011) 

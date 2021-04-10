@@ -2,8 +2,7 @@
 layout: page
 title: Read in 2016
 published: true
-permalink: /read-in-2016/
-backlinks: 
+permalink: /books-read-in-2016/
 ---
 
 * Bostrom, _Superintelligence_ (2014) 

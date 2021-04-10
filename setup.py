@@ -6,6 +6,6 @@ setup(
    description='A module for building my personal website',
    author='David Laing',
    packages=find_packages(),
-   scripts=['sitebuilder/bin/build_library'],
-   install_requires=['click', 'pandas'],
+   scripts=['sitebuilder/bin/build_library', 'sitebuilder/bin/build_site'],
+   install_requires=['bs4', 'pandas']
 )

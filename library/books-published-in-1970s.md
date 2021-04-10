@@ -2,8 +2,7 @@
 layout: page
 title: Published in 1970s
 published: true
-permalink: /published-in-1970s/
-backlinks: 
+permalink: /books-published-in-1970s/
 ---
 
 * Adams, _The Hitchhiker's Guide to the Galaxy_ (1979) 

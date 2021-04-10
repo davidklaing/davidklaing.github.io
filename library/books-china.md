@@ -2,8 +2,7 @@
 layout: page
 title: China
 published: true
-permalink: /china/
-backlinks: 
+permalink: /books-china/
 ---
 
 * Confucius, _The Analects_ (-429) 

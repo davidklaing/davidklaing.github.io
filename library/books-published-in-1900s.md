@@ -2,8 +2,7 @@
 layout: page
 title: Published in 1900s
 published: true
-permalink: /published-in-1900s/
-backlinks: 
+permalink: /books-published-in-1900s/
 ---
 
 * Forster, _A Room with a View_ (1908) 

@@ -2,8 +2,7 @@
 layout: page
 title: Fiction
 published: true
-permalink: /fiction/
-backlinks: 
+permalink: /books-fiction/
 ---
 
 * Adams, _The Hitchhiker's Guide to the Galaxy_ (1979) 

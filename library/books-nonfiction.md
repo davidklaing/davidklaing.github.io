@@ -2,8 +2,7 @@
 layout: page
 title: Nonfiction
 published: true
-permalink: /nonfiction/
-backlinks: 
+permalink: /books-nonfiction/
 ---
 
 * Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 

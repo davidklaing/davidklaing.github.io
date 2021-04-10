@@ -2,8 +2,7 @@
 layout: page
 title: Philosophy
 published: true
-permalink: /philosophy/
-backlinks: 
+permalink: /books-philosophy/
 ---
 
 * Aurelius, _Meditations_ (180) 

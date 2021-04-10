@@ -2,8 +2,7 @@
 layout: page
 title: Personal finance
 published: true
-permalink: /personal-finance/
-backlinks: 
+permalink: /books-personal-finance/
 ---
 
 * Chilton, _The Wealthy Barber Returns_ (2011) 

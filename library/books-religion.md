@@ -2,8 +2,7 @@
 layout: page
 title: Religion
 published: true
-permalink: /religion/
-backlinks: 
+permalink: /books-religion/
 ---
 
 * Dawkins, _The God Delusion_ (2006) 

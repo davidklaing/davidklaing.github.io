@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2013
 published: true
-permalink: /published-in-2013/
-backlinks: 
+permalink: /books-published-in-2013/
 ---
 
 * Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 

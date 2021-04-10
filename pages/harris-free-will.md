@@ -3,7 +3,7 @@ layout: page
 title: Free Will (Sam Harris book)
 permalink: /harris-free-will/
 publication_date: 2020-02-09
-backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-loved" class="internal-link" href="/books-loved/">Loved</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-philosophy" class="internal-link" href="/books-philosophy/">Philosophy</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+backlinks: '<ul><li><a id="books-nonfiction" class="internal-link" href="/books-nonfiction/">Nonfiction</a></li><li><a id="books-philosophy" class="internal-link" href="/books-philosophy/">Philosophy</a></li><li><a id="books-published-in-2012" class="internal-link" href="/books-published-in-2012/">Published in 2012</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="nonfiction" class="internal-link" href="/nonfiction/">Nonfiction</a></li><li><a id="philosophy" class="internal-link" href="/philosophy/">Philosophy</a></li><li><a id="published-in-2012" class="internal-link" href="/published-in-2012/">Published in 2012</a></li><li><a id="read-in-2016" class="internal-link" href="/read-in-2016/">Read in 2016</a></li></ul>'
 ---
 
 The thesis of Sam Harris's book Free Will is that we don't have it.

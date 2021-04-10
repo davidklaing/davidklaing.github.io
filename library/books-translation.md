@@ -2,8 +2,7 @@
 layout: page
 title: Translation
 published: true
-permalink: /translation/
-backlinks: 
+permalink: /books-translation/
 ---
 
 * Briggs, _This Little Art_ (2017) 

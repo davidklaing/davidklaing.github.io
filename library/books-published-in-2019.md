@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2019
 published: true
-permalink: /published-in-2019/
-backlinks: 
+permalink: /books-published-in-2019/
 ---
 
 * Chiang, _Exhalation: Stories_ (2019) 

@@ -2,8 +2,7 @@
 layout: page
 title: Statistics
 published: true
-permalink: /statistics/
-backlinks: 
+permalink: /books-statistics/
 ---
 
 * Ellenberg, _How Not to Be Wrong_ (2014) 

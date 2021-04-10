@@ -2,8 +2,7 @@
 layout: page
 title: Economics
 published: true
-permalink: /economics/
-backlinks: 
+permalink: /books-economics/
 ---
 
 * Cowen, _Discover Your Inner Economist_ (2007) 

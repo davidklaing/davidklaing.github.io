@@ -2,8 +2,7 @@
 layout: page
 title: Writing
 published: true
-permalink: /writing/
-backlinks: 
+permalink: /books-writing/
 ---
 
 * Ahrens, _How to Take Smart Notes_ (2017) 

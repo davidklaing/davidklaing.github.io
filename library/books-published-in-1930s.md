@@ -2,8 +2,7 @@
 layout: page
 title: Published in 1930s
 published: true
-permalink: /published-in-1930s/
-backlinks: 
+permalink: /books-published-in-1930s/
 ---
 
 * Carnegie, _How to Win Friends and Influence People_ (1936) 

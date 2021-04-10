@@ -2,8 +2,7 @@
 layout: page
 title: Read in 2018
 published: true
-permalink: /read-in-2018/
-backlinks: 
+permalink: /books-read-in-2018/
 ---
 
 * Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 

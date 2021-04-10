@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2002
 published: true
-permalink: /published-in-2002/
-backlinks: 
+permalink: /books-published-in-2002/
 ---
 
 * Gaiman, _Coraline (French edition)_ (2002) 

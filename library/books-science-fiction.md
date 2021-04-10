@@ -2,8 +2,7 @@
 layout: page
 title: Science fiction
 published: true
-permalink: /science-fiction/
-backlinks: 
+permalink: /books-science-fiction/
 ---
 
 * Asimov, _Prelude to Foundation_ (1988) 

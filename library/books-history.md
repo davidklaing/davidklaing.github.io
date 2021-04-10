@@ -2,8 +2,7 @@
 layout: page
 title: History
 published: true
-permalink: /history/
-backlinks: 
+permalink: /books-history/
 ---
 
 * Caro, _The Path to Power_ (1982) 

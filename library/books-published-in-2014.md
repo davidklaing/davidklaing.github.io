@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2014
 published: true
-permalink: /published-in-2014/
-backlinks: 
+permalink: /books-published-in-2014/
 ---
 
 * Bostrom, _Superintelligence_ (2014) 

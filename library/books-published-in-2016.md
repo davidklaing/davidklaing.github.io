@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2016
 published: true
-permalink: /published-in-2016/
-backlinks: 
+permalink: /books-published-in-2016/
 ---
 
 * Christian & Griffiths, _Algorithms to Live By_ (2016) 

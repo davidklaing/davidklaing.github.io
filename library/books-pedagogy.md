@@ -2,8 +2,7 @@
 layout: page
 title: Pedagogy
 published: true
-permalink: /pedagogy/
-backlinks: 
+permalink: /books-pedagogy/
 ---
 
 * Huston, _Teaching What You Don't Know_ (2009) 

@@ -2,8 +2,7 @@
 layout: page
 title: Machine learning
 published: true
-permalink: /machine-learning/
-backlinks: 
+permalink: /books-machine-learning/
 ---
 
 * Bostrom, _Superintelligence_ (2014) 

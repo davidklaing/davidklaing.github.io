@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2012
 published: true
-permalink: /published-in-2012/
-backlinks: 
+permalink: /books-published-in-2012/
 ---
 
 * Haidt, _<a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a>_ (2012) 

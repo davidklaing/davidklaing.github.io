@@ -2,8 +2,7 @@
 layout: page
 title: Greece
 published: true
-permalink: /greece/
-backlinks: 
+permalink: /books-greece/
 ---
 
 * Atwood, _The Penelopiad_ (2005) 

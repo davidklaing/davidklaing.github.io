@@ -2,8 +2,7 @@
 layout: page
 title: Mythology
 published: true
-permalink: /mythology/
-backlinks: 
+permalink: /books-mythology/
 ---
 
 * Atwood, _The Penelopiad_ (2005) 

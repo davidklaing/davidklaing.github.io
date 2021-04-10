@@ -2,8 +2,7 @@
 layout: page
 title: Westerns
 published: true
-permalink: /westerns/
-backlinks: 
+permalink: /books-westerns/
 ---
 
 * McCarthy, _The Road_ (2006) 

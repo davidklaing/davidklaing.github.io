@@ -2,8 +2,7 @@
 layout: page
 title: Read in 2011
 published: true
-permalink: /read-in-2011/
-backlinks: 
+permalink: /books-read-in-2011/
 ---
 
 * Card, _Ender's Shadow_ (1999) 

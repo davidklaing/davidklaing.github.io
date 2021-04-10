@@ -2,8 +2,7 @@
 layout: page
 title: Computer science
 published: true
-permalink: /computer-science/
-backlinks: 
+permalink: /books-computer-science/
 ---
 
 * Christian & Griffiths, _Algorithms to Live By_ (2016) 

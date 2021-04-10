@@ -32,7 +32,8 @@ class Library:
                 })
             else:
                 shelves[book.publication_era]['books'].append(book)
-        return [Shelf(title=shelf['title'], path=shelf['path'], books=shelf['books']) for shelf in shelves.values()]
+        shelves = sorted(shelves.values(), key=lambda shelf: shelf['path'], reverse=True)
+        return [Shelf(title=shelf['title'], path=shelf['path'], books=shelf['books']) for shelf in shelves]
 
 
     def get_shelves_by_read_date(self):
@@ -48,7 +49,8 @@ class Library:
                 })
             else:
                 shelves[reading.year_title]['books'].append(reading.book)
-        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves.values()]
+        shelves = sorted(shelves.values(), key=lambda shelf: shelf['path'], reverse=True)
+        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves]
 
 
     def get_shelves_by_tag(self):
@@ -56,10 +58,51 @@ class Library:
         for book in self.books:
             for tag in book.tags:
                 shelves[tag]['books'].append(book)
-        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves.values()]
+        shelves = sorted(shelves.values(), key=lambda shelf: len(shelf['books']), reverse=True)
+        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves]
 
 
     def make_shelf_pages(self):
         for shelf_category in [self.shelves_by_publicaton_date, self.shelves_by_read_date, self.shelves_by_tag]:
             for shelf in shelf_category:
                 shelf.make_page()
+    
+    def make_library_home_page(self):
+        page = [
+            '---\n',
+            'layout: page\n',
+            f'title: Books\n',
+            'published: true\n',
+            f'permalink: /books/\n',
+            'backlinks: \n',
+            '---\n',
+            '\n'
+        ]
+        preface = 'My library contains all the books I’ve read enough of to have formed an opinion on. Happy browsing!\n\n'
+        when_i_read_it_header = '## When I read it\n\n'
+        when_i_read_it_table = self.make_shelf_category_list(shelf_category=self.shelves_by_read_date)
+        when_it_was_published_header = '## When it was published\n\n'
+        when_it_was_published_table = self.make_shelf_category_list(shelf_category=self.shelves_by_publicaton_date)
+        by_tag_header = '## By tag\n\n'
+        by_tag_table = self.make_shelf_category_list(shelf_category=self.shelves_by_tag)
+        for component in [
+            preface,
+            when_i_read_it_header,
+            when_i_read_it_table,
+            when_it_was_published_header,
+            when_it_was_published_table,
+            by_tag_header,
+            by_tag_table
+        ]:
+            page.append(component)
+        with open(f'pages/books.md', 'w') as f:
+            return f.write(''.join(page))
+    
+    def make_shelf_category_list(self, shelf_category: List[Shelf]):
+        category_list = ''
+        for shelf in shelf_category:
+            n_books = len(shelf.books)
+            line = f'* <a id="{shelf.path}" class="internal-link" href="/{shelf.path}/">{shelf.title}</a> ({n_books})\n'
+            category_list += line
+        category_list += '\n\n'
+        return category_list

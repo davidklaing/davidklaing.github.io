@@ -2,8 +2,7 @@
 layout: page
 title: Published in 1910s
 published: true
-permalink: /published-in-1910s/
-backlinks: 
+permalink: /books-published-in-1910s/
 ---
 
 * Joyce, _Dubliners_ (1914) 

@@ -2,8 +2,7 @@
 layout: page
 title: Read in 2010
 published: true
-permalink: /read-in-2010/
-backlinks: 
+permalink: /books-read-in-2010/
 ---
 
 * Bock, _The Ash Garden_ (2001) 

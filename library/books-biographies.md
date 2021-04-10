@@ -2,8 +2,7 @@
 layout: page
 title: Biographies
 published: true
-permalink: /biographies/
-backlinks: 
+permalink: /books-biographies/
 ---
 
 * Caro, _The Path to Power_ (1982) 

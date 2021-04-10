@@ -2,8 +2,7 @@
 layout: page
 title: Read in 2021
 published: true
-permalink: /read-in-2021/
-backlinks: 
+permalink: /books-read-in-2021/
 ---
 
 * Christian, _The Alignment Problem_ (2020) 

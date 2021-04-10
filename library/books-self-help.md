@@ -2,8 +2,7 @@
 layout: page
 title: Self-help
 published: true
-permalink: /self-help/
-backlinks: 
+permalink: /books-self-help/
 ---
 
 * Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 

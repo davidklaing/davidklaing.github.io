@@ -2,8 +2,7 @@
 layout: page
 title: Parables
 published: true
-permalink: /parables/
-backlinks: 
+permalink: /books-parables/
 ---
 
 * Bach, _Illusions_ (1977) 

@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2018
 published: true
-permalink: /published-in-2018/
-backlinks: 
+permalink: /books-published-in-2018/
 ---
 
 * Barabási, _<a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a>_ (2018) 

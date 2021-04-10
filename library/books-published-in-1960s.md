@@ -2,8 +2,7 @@
 layout: page
 title: Published in 1960s
 published: true
-permalink: /published-in-1960s/
-backlinks: 
+permalink: /books-published-in-1960s/
 ---
 
 * Clavell, _Tai-Pan_ (1966) 

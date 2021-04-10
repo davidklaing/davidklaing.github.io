@@ -2,8 +2,7 @@
 layout: page
 title: Learning
 published: true
-permalink: /learning/
-backlinks: 
+permalink: /books-learning/
 ---
 
 * Adler & Van Doren, _How to Read a Book_ (1972) 

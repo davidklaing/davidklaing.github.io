@@ -2,8 +2,7 @@
 layout: page
 title: Textbooks
 published: true
-permalink: /textbooks/
-backlinks: 
+permalink: /books-textbooks/
 ---
 
 * James et al., _An Introduction to Statistical Learning_ (2017) 

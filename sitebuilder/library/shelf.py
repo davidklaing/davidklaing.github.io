@@ -15,7 +15,7 @@ class Shelf:
             'layout: page\n',
             f'title: {self.title}\n',
             'published: true\n',
-            f'permalink: /{self.path}/\n',
+            f'permalink: /books-{self.path}/\n',
             'backlinks: \n',
             '---\n',
             '\n'

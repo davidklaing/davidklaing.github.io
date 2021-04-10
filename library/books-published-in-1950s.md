@@ -2,8 +2,7 @@
 layout: page
 title: Published in 1950s
 published: true
-permalink: /published-in-1950s/
-backlinks: 
+permalink: /books-published-in-1950s/
 ---
 
 * Bradbury, _Fahrenheit 451_ (1953) 

@@ -2,8 +2,7 @@
 layout: page
 title: Anthropology
 published: true
-permalink: /anthropology/
-backlinks: 
+permalink: /books-anthropology/
 ---
 
 * Graeber, _Bullshit Jobs_ (2018) 

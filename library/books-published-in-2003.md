@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2003
 published: true
-permalink: /published-in-2003/
-backlinks: 
+permalink: /books-published-in-2003/
 ---
 
 * Brown, _The Da Vinci Code_ (2003) 

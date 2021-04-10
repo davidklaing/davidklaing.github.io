@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2007
 published: true
-permalink: /published-in-2007/
-backlinks: 
+permalink: /books-published-in-2007/
 ---
 
 * Cowen, _Discover Your Inner Economist_ (2007) 

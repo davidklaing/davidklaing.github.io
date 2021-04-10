@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2005
 published: true
-permalink: /published-in-2005/
-backlinks: 
+permalink: /books-published-in-2005/
 ---
 
 * Atwood, _The Penelopiad_ (2005) 

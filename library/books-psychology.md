@@ -2,8 +2,7 @@
 layout: page
 title: Psychology
 published: true
-permalink: /psychology/
-backlinks: 
+permalink: /books-psychology/
 ---
 
 * Ariely, _Predictably Irrational_ (2008) 

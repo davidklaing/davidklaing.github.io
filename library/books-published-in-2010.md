@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2010
 published: true
-permalink: /published-in-2010/
-backlinks: 
+permalink: /books-published-in-2010/
 ---
 
 * Chiang, _Stories of Your Life and Others_ (2010) 

@@ -2,8 +2,7 @@
 layout: page
 title: Published in 2008
 published: true
-permalink: /published-in-2008/
-backlinks: 
+permalink: /books-published-in-2008/
 ---
 
 * Ariely, _Predictably Irrational_ (2008) 
