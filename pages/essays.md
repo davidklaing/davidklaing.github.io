@@ -2,7 +2,7 @@
 layout: page
 title: Essays
 permalink: /essays/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
 * <a id="talk-more" class="internal-link" href="/talk-more/">If you're good, you need to talk more</a>

@@ -3,6 +3,7 @@ layout: page
 title: Published in 1990s
 published: true
 permalink: /books-published-in-1990s/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Barnes, _Flaubert's Parrot_ (1990) 
@@ -10,7 +11,7 @@ permalink: /books-published-in-1990s/
 * Card, _Ender's Saga_ (1996) 
 * Card, _Ender's Shadow_ (1999) 
 * Crichton, _Jurassic Park_ (1990) 
-* Csikszentmihalyi, _Flow_ (1990) 
+* Csikszentmihalyi, _<a id="csikszentmihalyi-flow" class="internal-link" href="/csikszentmihalyi-flow/">Flow</a>_ (1990) 
 * Dawkins, _Unweaving the Rainbow_ (1998) 
 * Gaiman, _Stardust_ (1997) 
 * Gibson & Sterling, _The Difference Engine_ (1990) 

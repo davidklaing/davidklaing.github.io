@@ -3,6 +3,7 @@ layout: page
 title: Published in 2000
 published: true
 permalink: /books-published-in-2000/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Barron, _The Lost Years of Merlin Saga_ (2000) 

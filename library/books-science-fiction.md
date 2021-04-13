@@ -3,6 +3,7 @@ layout: page
 title: Science fiction
 published: true
 permalink: /books-science-fiction/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Asimov, _Prelude to Foundation_ (1988) 
@@ -11,7 +12,7 @@ permalink: /books-science-fiction/
 * Card, _Ender's Shadow_ (1999) 
 * Chiang, _Exhalation: Stories_ (2019) 
 * Chiang, _Stories of Your Life and Others_ (2010) 
-* Cixin, _The Three-Body Problem_ (2008) 
+* Cixin, _<a id="cixin-three-body-problem" class="internal-link" href="/cixin-three-body-problem/">The Three-Body Problem</a>_ (2008) 
 * Crichton, _Jurassic Park_ (1990) 
 * Forster, _The Machine Stops_ (1909) 
 * Gibson & Sterling, _The Difference Engine_ (1990) 

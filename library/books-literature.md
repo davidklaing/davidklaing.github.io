@@ -3,6 +3,7 @@ layout: page
 title: Literature
 published: true
 permalink: /books-literature/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, _The Hitchhiker's Guide to the Galaxy_ (1979) 
@@ -27,7 +28,7 @@ permalink: /books-literature/
 * Golding, _Lord of the Flies_ (1954) 
 * Goldstein, _The Mind-Body Problem_ (1983) 
 * Gowdy, _Falling Angels_ (1989) 
-* Grahame, _The Wind in the Willows_ (1908) 
+* Grahame, _<a id="grahame-wind-in-the-willows" class="internal-link" href="/grahame-wind-in-the-willows/">The Wind in the Willows</a>_ (1908) 
 * Hawley, _Before the Fall_ (2016) 
 * Hemingway, _The Old Man and the Sea_ (1952) 
 * Hesse, _Siddhartha_ (1922) 
@@ -59,8 +60,8 @@ permalink: /books-literature/
 * Salinger, _The Catcher in the Rye_ (1951) 
 * Shelley, _Frankenstein_ (1818) 
 * Starnone, _Ties_ (2017) 
+* Steinbeck, _<a id="steinbeck-grapes-of-wrath" class="internal-link" href="/steinbeck-grapes-of-wrath/">The Grapes of Wrath</a>_ (1939) 
 * Steinbeck, _Of Mice and Men_ (1937) 
-* Steinbeck, _The Grapes of Wrath_ (1939) 
 * Swift, _Gulliver's Travels_ (1726) 
 * Voltaire, _Candide_ (1759) 
 * Vonnegut, _Cat's Cradle_ (1963) 

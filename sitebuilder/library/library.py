@@ -102,7 +102,7 @@ class Library:
         category_list = ''
         for shelf in shelf_category:
             n_books = len(shelf.books)
-            line = f'* <a id="{shelf.path}" class="internal-link" href="/{shelf.path}/">{shelf.title}</a> ({n_books})\n'
+            line = f'* <a id="books-{shelf.path}" class="internal-link" href="/books-{shelf.path}/">{shelf.title}</a> ({n_books})\n'
             category_list += line
         category_list += '\n\n'
         return category_list

@@ -3,6 +3,7 @@ layout: page
 title: Fiction
 published: true
 permalink: /books-fiction/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, _The Hitchhiker's Guide to the Galaxy_ (1979) 
@@ -27,8 +28,8 @@ permalink: /books-fiction/
 * Chabon, _The Amazing Adventures of Kavalier & Clay_ (2000) 
 * Chiang, _Exhalation: Stories_ (2019) 
 * Chiang, _Stories of Your Life and Others_ (2010) 
-* Cixin, _The Three-Body Problem_ (2008) 
-* Clarke, _Piranesi_ (2020) 
+* Cixin, _<a id="cixin-three-body-problem" class="internal-link" href="/cixin-three-body-problem/">The Three-Body Problem</a>_ (2008) 
+* Clarke, _<a id="clarke-piranesi" class="internal-link" href="/clarke-piranesi/">Piranesi</a>_ (2020) 
 * Clavell, _Tai-Pan_ (1966) 
 * Coelho, _The Alchemist_ (1988) 
 * Collins, _The Hunger Games_ (2008) 
@@ -50,7 +51,7 @@ permalink: /books-fiction/
 * Gibson & Sterling, _The Difference Engine_ (1990) 
 * Goldstein, _The Mind-Body Problem_ (1983) 
 * Gowdy, _Falling Angels_ (1989) 
-* Grahame, _The Wind in the Willows_ (1908) 
+* Grahame, _<a id="grahame-wind-in-the-willows" class="internal-link" href="/grahame-wind-in-the-willows/">The Wind in the Willows</a>_ (1908) 
 * Hawley, _Before the Fall_ (2016) 
 * Hemingway, _The Old Man and the Sea_ (1952) 
 * Herbert, _Dune_ (1965) 
@@ -82,8 +83,8 @@ permalink: /books-fiction/
 * McCarthy, _The Road_ (2006) 
 * McMurtry, _<a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a>_ (1985) 
 * McMurtry, _Dead Man's Walk_ (2000) 
-* Miller, _Circe_ (2018) 
-* Miller, _The Song of Achilles_ (2012) 
+* Miller, _<a id="miller-circe" class="internal-link" href="/miller-circe/">Circe</a>_ (2018) 
+* Miller, _<a id="miller-song-of-achilles" class="internal-link" href="/miller-song-of-achilles/">The Song of Achilles</a>_ (2012) 
 * Millhauser, _Martin Dressler_ (1996) 
 * Miéville, _Kraken_ (2010) 
 * Miéville, _The City & the City_ (2009) 
@@ -103,15 +104,15 @@ permalink: /books-fiction/
 * Paulsen, _Brian's Saga 1-2_ (1996) 
 * Piatigorsky, _The Iron Bridge_ (2012) 
 * Pullman, _His Dark Materials_ (2000) 
-* Reid, _I'm Thinking of Ending Things_ (2016) 
+* Reid, _<a id="reid-ending-things" class="internal-link" href="/reid-ending-things/">I'm Thinking of Ending Things</a>_ (2016) 
 * Rowling, _Harry Potter 1-7_ (2007) 
 * Sachar, _Holes_ (2000) 
 * Saint-Exupéry, _Le Petit Prince_ (1943) 
 * Salinger, _The Catcher in the Rye_ (1951) 
 * Shelley, _Frankenstein_ (1818) 
 * Starnone, _Ties_ (2017) 
+* Steinbeck, _<a id="steinbeck-grapes-of-wrath" class="internal-link" href="/steinbeck-grapes-of-wrath/">The Grapes of Wrath</a>_ (1939) 
 * Steinbeck, _Of Mice and Men_ (1937) 
-* Steinbeck, _The Grapes of Wrath_ (1939) 
 * Stephenson, _Cryptonomicon_ (1999) 
 * Stephenson, _Snow Crash_ (1992) 
 * Swift, _Gulliver's Travels_ (1726) 

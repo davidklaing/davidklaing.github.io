@@ -3,13 +3,14 @@ layout: page
 title: Fantasy
 published: true
 permalink: /books-fantasy/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Barron, _The Great Tree of Avalon Trilogy_ (2006) 
 * Barron, _The Lost Years of Merlin Saga_ (2000) 
 * Brooks, _The Sword of Shannara_ (1977) 
 * Butler, _Wild Seed_ (1980) 
-* Clarke, _Piranesi_ (2020) 
+* Clarke, _<a id="clarke-piranesi" class="internal-link" href="/clarke-piranesi/">Piranesi</a>_ (2020) 
 * Collins, _The Hunger Games_ (2008) 
 * Gaiman, _American Gods_ (2001) 
 * Gaiman, _Coraline (French edition)_ (2002) 

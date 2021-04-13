@@ -3,6 +3,7 @@ layout: page
 title: Read in 2017
 published: true
 permalink: /books-read-in-2017/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Christian & Griffiths, _Algorithms to Live By_ (2016) 

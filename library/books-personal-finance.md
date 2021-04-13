@@ -3,6 +3,7 @@ layout: page
 title: Personal finance
 published: true
 permalink: /books-personal-finance/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Chilton, _The Wealthy Barber Returns_ (2011) 

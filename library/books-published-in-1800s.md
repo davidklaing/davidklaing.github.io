@@ -3,6 +3,7 @@ layout: page
 title: Published in 1800s
 published: true
 permalink: /books-published-in-1800s/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Carroll, _Alice's Adventures in Wonderland & Through the Looking-Glass_ (1871) 

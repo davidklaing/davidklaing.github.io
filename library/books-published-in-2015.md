@@ -3,6 +3,7 @@ layout: page
 title: Published in 2015
 published: true
 permalink: /books-published-in-2015/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Ferrante, _The Neapolitan Novels_ (2015) 

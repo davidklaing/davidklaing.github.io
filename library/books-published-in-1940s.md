@@ -3,6 +3,7 @@ layout: page
 title: Published in 1940s
 published: true
 permalink: /books-published-in-1940s/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Camus, _The Plague_ (1947) 

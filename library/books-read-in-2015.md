@@ -3,6 +3,7 @@ layout: page
 title: Read in 2015
 published: true
 permalink: /books-read-in-2015/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Ariely, _Predictably Irrational_ (2008) 

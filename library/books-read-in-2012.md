@@ -3,6 +3,7 @@ layout: page
 title: Read in 2012
 published: true
 permalink: /books-read-in-2012/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Bach, _Illusions_ (1977) 

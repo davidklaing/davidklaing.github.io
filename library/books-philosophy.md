@@ -3,9 +3,11 @@ layout: page
 title: Philosophy
 published: true
 permalink: /books-philosophy/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Aurelius, _Meditations_ (180) 
+* Bloom, _<a id="bloom-how-pleasure-works" class="internal-link" href="/bloom-how-pleasure-works/">How Pleasure Works</a>_ (2010) 
 * Bostrom, _Superintelligence_ (2014) 
 * Campbell, _A Joseph Campbell Companion_ (1991) 
 * Confucius, _The Analects_ (-429) 

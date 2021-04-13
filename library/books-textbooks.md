@@ -3,6 +3,7 @@ layout: page
 title: Textbooks
 published: true
 permalink: /books-textbooks/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * James et al., _An Introduction to Statistical Learning_ (2017) 

@@ -3,6 +3,7 @@ layout: page
 title: Read before 2010
 published: true
 permalink: /books-read-before-2010/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, _The Hitchhiker's Guide to the Galaxy_ (1979) 

@@ -3,6 +3,7 @@ layout: page
 title: Published in 2014
 published: true
 permalink: /books-published-in-2014/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Bostrom, _Superintelligence_ (2014) 

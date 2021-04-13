@@ -3,6 +3,7 @@ layout: page
 title: Published in 2007
 published: true
 permalink: /books-published-in-2007/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Cowen, _Discover Your Inner Economist_ (2007) 

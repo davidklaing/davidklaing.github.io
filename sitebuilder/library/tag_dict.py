@@ -14,6 +14,7 @@ tag_dict = {
     'fantasy': 'Fantasy',
     'fiction': 'Fiction',
     'greece': 'Greece',
+    'health': 'Health',
     'historical-fiction': 'Historical fiction',
     'history': 'History',
     'learning': 'Learning',

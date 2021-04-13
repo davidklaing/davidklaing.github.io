@@ -3,6 +3,7 @@ layout: page
 title: Memoirs
 published: true
 permalink: /books-memoirs/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 
@@ -21,4 +22,4 @@ permalink: /books-memoirs/
 * Moss, _The Rookie_ (2016) 
 * Thoreau, _Walden_ (1854) 
 * Westover, _Educated_ (2018) 
-* Wiener, _Uncanny Valley_ (2020) 
+* Wiener, _<a id="wiener-uncanny-valley" class="internal-link" href="/wiener-uncanny-valley/">Uncanny Valley</a>_ (2020) 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Exercise
+title: Health
 published: true
-permalink: /exercise/
+permalink: /books-health/
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Hargrove, _Playing With Movement_ (2014) 
-* Tsatsouline, _Kettlebell Simple & Sinister_ (2019) 
+* Payne & Barnett, _The Economists' Diet_ (2018) 

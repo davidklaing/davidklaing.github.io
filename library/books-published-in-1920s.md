@@ -3,6 +3,7 @@ layout: page
 title: Published in 1920s
 published: true
 permalink: /books-published-in-1920s/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Fitzgerald, _The Great Gatsby_ (1925) 

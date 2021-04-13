@@ -3,6 +3,7 @@ layout: page
 title: Business
 published: true
 permalink: /books-business/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Barabási, _<a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a>_ (2018) 

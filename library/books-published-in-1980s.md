@@ -3,6 +3,7 @@ layout: page
 title: Published in 1980s
 published: true
 permalink: /books-published-in-1980s/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Asimov, _Prelude to Foundation_ (1988) 
