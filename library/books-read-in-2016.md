@@ -26,5 +26,6 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * McGrayne, _The Theory That Would Not Die_ (2011) 
 * Pinker, _How the Mind Works_ (1997) 
 * Schneier, _Data and Goliath_ (2015) 
+* Schneier, _Secrets and Lies_ (2004) 
 * Silver, _The Signal and the Noise_ (2012) 
 * Vance, _Elon Musk_ (2015) 

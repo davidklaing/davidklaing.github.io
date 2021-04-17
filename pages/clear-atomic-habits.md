@@ -5,7 +5,7 @@ permalink: /clear-atomic-habits/
 published: true
 publication_date: 2018-01-10
 last_updated: 2019-01-14
-backlinks: '<ul><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-nonfiction" class="internal-link" href="/books-nonfiction/">Nonfiction</a></li><li><a id="books-published-in-2018" class="internal-link" href="/books-published-in-2018/">Published in 2018</a></li><li><a id="books-read-in-2019" class="internal-link" href="/books-read-in-2019/">Read in 2019</a></li><li><a id="books-self-help" class="internal-link" href="/books-self-help/">Self-help</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li></ul>'
+backlinks: '<ul><li><a id="books-published-in-2018" class="internal-link" href="/books-published-in-2018/">Published in 2018</a></li><li><a id="books-read-in-2019" class="internal-link" href="/books-read-in-2019/">Read in 2019</a></li><li><a id="books-tag-business" class="internal-link" href="/books-tag-business/">Business</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-self-help" class="internal-link" href="/books-tag-self-help/">Self-help</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li></ul>'
 ---
 
 In an [episode of the North Star Podcast with David Perrell](https://www.listennotes.com/podcasts/north-star-podcast/daniel-gross-dreams-and-e8iC1HhrjDt/), the software entrepreneur Daniel Gross said something that I thought was very wise:

@@ -4,7 +4,7 @@ title: Flow
 permalink: /csikszentmihalyi-flow/
 published: true
 publication_date: 2021-02-13
-backlinks: '<ul><li><a id="books-nonfiction" class="internal-link" href="/books-nonfiction/">Nonfiction</a></li><li><a id="books-psychology" class="internal-link" href="/books-psychology/">Psychology</a></li><li><a id="books-published-in-1990s" class="internal-link" href="/books-published-in-1990s/">Published in 1990s</a></li><li><a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a></li><li><a id="books-self-help" class="internal-link" href="/books-self-help/">Self-help</a></li></ul>'
+backlinks: '<ul><li><a id="books-published-in-1990s" class="internal-link" href="/books-published-in-1990s/">Published in 1990s</a></li><li><a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a></li><li><a id="books-tag-self-help" class="internal-link" href="/books-tag-self-help/">Self-help</a></li></ul>'
 ---
 
 I don't know why I waited so long to read this book. I've been interested in flow since high school, when I first experienced it while recording music. I had told my mom about how twelve hours could fly by in what felt like minutes, and she said "that's called 'flow'—I experience it when I do surgery." I later learned in a positive psychology course at university that not only is there a word for this phenomenon, but there are people who study it. Csikszentmihalyi is the foremost flow researcher, and he's the one who named the concept.

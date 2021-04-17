@@ -17,4 +17,5 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Starnone, _Ties_ (2017) 
 * Stephens-Davidowitz, _Everybody Lies_ (2017) 
 * Weir, _Artemis_ (2017) 
+* Wells, _The Ripple Effect_ (2017) 
 * Yudkowsky, _Inadequate Equilibria_ (2017) 

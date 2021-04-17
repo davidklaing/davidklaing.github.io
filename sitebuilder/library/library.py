@@ -54,7 +54,7 @@ class Library:
 
 
     def get_shelves_by_tag(self):
-        shelves = {tag: {'title': title, 'path': tag, 'books': []} for tag, title in tag_dict.items()}
+        shelves = {tag: {'title': title, 'path': f'tag-{tag}', 'books': []} for tag, title in tag_dict.items()}
         for book in self.books:
             for tag in book.tags:
                 shelves[tag]['books'].append(book)
@@ -98,11 +98,16 @@ class Library:
         with open(f'pages/books.md', 'w') as f:
             return f.write(''.join(page))
     
-    def make_shelf_category_list(self, shelf_category: List[Shelf]):
+    @staticmethod
+    def make_shelf_category_list(shelf_category: List[Shelf]):
         category_list = ''
         for shelf in shelf_category:
             n_books = len(shelf.books)
             line = f'* <a id="books-{shelf.path}" class="internal-link" href="/books-{shelf.path}/">{shelf.title}</a> ({n_books})\n'
-            category_list += line
+            if 'tag' in shelf.path:
+                if n_books >= 5:
+                    category_list += line
+            else:
+                category_list += line
         category_list += '\n\n'
         return category_list

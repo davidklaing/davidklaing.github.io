@@ -10,6 +10,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Cervantes, _Don Quixote_ (1615) 
 * Confucius, _The Analects_ (-429) 
 * Franklin, _The Autobiography of Benjamin Franklin_ (1791) 
+* Homer, _<a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Wilson translation)</a>_ (-800) 
 * Homer, _The Iliad (Fagles translation)_ (-800) 
 * Homer, _The Odyssey (Fagles translation)_ (-800) 
 * Swift, _Gulliver's Travels_ (1726) 

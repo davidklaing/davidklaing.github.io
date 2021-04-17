@@ -18,6 +18,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Graeber, _<a id="graeber-debt" class="internal-link" href="/graeber-debt/">Debt</a>_ (2011) 
 * Graeber, _<a id="graeber-democracy-project" class="internal-link" href="/graeber-democracy-project/">The Democracy Project</a>_ (2013) 
 * Grahame, _<a id="grahame-wind-in-the-willows" class="internal-link" href="/grahame-wind-in-the-willows/">The Wind in the Willows</a>_ (1908) 
+* Homer, _<a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Wilson translation)</a>_ (-800) 
 * Housel, _The Psychology of Money_ (2020) 
 * Kishimi & Koga, _<a id="kishimi-koga-courage" class="internal-link" href="/kishimi-koga-courage/">The Courage to Be Disliked</a>_ (2019) 
 * Miller, _<a id="miller-circe" class="internal-link" href="/miller-circe/">Circe</a>_ (2018) 

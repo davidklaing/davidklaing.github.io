@@ -7,5 +7,6 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 ---
 
 * Gopen, _The Sense of Structure_ (2004) 
+* Schneier, _Secrets and Lies_ (2004) 
 * Wallace, _Oblivion_ (2004) 
 * Wright, _A Short History of Progress_ (2004) 

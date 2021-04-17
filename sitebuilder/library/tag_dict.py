@@ -21,6 +21,7 @@ tag_dict = {
     'literature': 'Literature',
     'machine-learning': 'Machine learning',
     'memoirs': 'Memoirs',
+    'mystery': 'Mystery',
     'mythology': 'Mythology',
     'nonfiction': 'Nonfiction',
     'parables': 'Parables',

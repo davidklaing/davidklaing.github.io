@@ -20,4 +20,5 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Olson, _Houston, We Have a Narrative_ (2015) 
 * Thiel, _<a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Zero to One</a>_ (2014) 
 * Voss, _Never Split the Difference_ (2016) 
+* Wells, _The Ripple Effect_ (2017) 
 * Wickham, _Advanced R_ (2014) 

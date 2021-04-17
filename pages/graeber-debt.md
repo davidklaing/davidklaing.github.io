@@ -4,7 +4,7 @@ title: Debt
 permalink: /graeber-debt/
 published: true
 publication_date: 2021-02-21
-backlinks: '<ul><li><a id="books-economics" class="internal-link" href="/books-economics/">Economics</a></li><li><a id="books-history" class="internal-link" href="/books-history/">History</a></li><li><a id="books-nonfiction" class="internal-link" href="/books-nonfiction/">Nonfiction</a></li><li><a id="books-published-in-2011" class="internal-link" href="/books-published-in-2011/">Published in 2011</a></li><li><a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a></li></ul>'
+backlinks: '<ul><li><a id="books-published-in-2011" class="internal-link" href="/books-published-in-2011/">Published in 2011</a></li><li><a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a></li><li><a id="books-tag-economics" class="internal-link" href="/books-tag-economics/">Economics</a></li><li><a id="books-tag-history" class="internal-link" href="/books-tag-history/">History</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li></ul>'
 ---
 
 I decided to read this book because I was blown away by Graeber's 2018 book, _<a id="graeber-bullshit-jobs" class="internal-link" href="/graeber-bullshit-jobs/">Bullshit Jobs</a>_. _Debt_ is a more ambitious book, and perhaps a bit too ambitious. It aims to do several things: criticize capitalism, tell a sweeping history of debt, and debunk myths about the origins of money. It achieves all these things, but not with much narrative cohesion. As a result, throughout the long middle section (chapters 3-11) I lost the thread of what Graeber was trying to express.

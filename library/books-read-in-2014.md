@@ -7,6 +7,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 ---
 
 * Campbell, _A Joseph Campbell Companion_ (1991) 
+* Coetzee, _Summertime_ (2009) 
 * Dostoyevsky, _Crime and Punishment_ (1866) 
 * Fitzgerald, _The Great Gatsby_ (1925) 
 * Gaiman, _Stardust_ (1997) 

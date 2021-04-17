@@ -3,7 +3,7 @@ layout: page
 title: Zero to One
 permalink: /thiel-zero-to-one/
 publication_date: 2018-07-10
-backlinks: '<ul><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-nonfiction" class="internal-link" href="/books-nonfiction/">Nonfiction</a></li><li><a id="books-philosophy" class="internal-link" href="/books-philosophy/">Philosophy</a></li><li><a id="books-published-in-2014" class="internal-link" href="/books-published-in-2014/">Published in 2014</a></li><li><a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+backlinks: '<ul><li><a id="books-published-in-2014" class="internal-link" href="/books-published-in-2014/">Published in 2014</a></li><li><a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a></li><li><a id="books-tag-business" class="internal-link" href="/books-tag-business/">Business</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 
 A few new perspectives from Peter Thiel's book, Zero to One:

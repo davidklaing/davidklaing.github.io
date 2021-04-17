@@ -4,7 +4,7 @@ title: The Grapes of Wrath
 permalink: /steinbeck-grapes-of-wrath/
 published: true
 publication_date: 2021-03-21
-backlinks: '<ul><li><a id="books-fiction" class="internal-link" href="/books-fiction/">Fiction</a></li><li><a id="books-literature" class="internal-link" href="/books-literature/">Literature</a></li><li><a id="books-published-in-1930s" class="internal-link" href="/books-published-in-1930s/">Published in 1930s</a></li><li><a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a></li></ul>'
+backlinks: '<ul><li><a id="books-published-in-1930s" class="internal-link" href="/books-published-in-1930s/">Published in 1930s</a></li><li><a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a></li><li><a id="books-tag-fiction" class="internal-link" href="/books-tag-fiction/">Fiction</a></li><li><a id="books-tag-literature" class="internal-link" href="/books-tag-literature/">Literature</a></li></ul>'
 ---
 
 I came to this having read Of Mice and Men but nothing else by Steinbeck. I expected it to remind me of _The Road_ (Cormac McCarthy) and _<a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a>_ (Larry McMurtry), and it did. Like those books, it's basically about poor, competent white people travelling across America during hard times, being very kind to each other and defending themselves against hostile strangers.

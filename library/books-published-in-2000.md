@@ -13,3 +13,4 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * McMurtry, _Dead Man's Walk_ (2000) 
 * Pullman, _His Dark Materials_ (2000) 
 * Sachar, _Holes_ (2000) 
+* Snicket, _A Series of Unfortunate Events 1-3_ (2000) 
