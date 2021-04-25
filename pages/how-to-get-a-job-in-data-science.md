@@ -4,7 +4,8 @@ title: How to get a job in data science
 permalink: /how-to-get-a-job-in-data-science/
 published: true
 publication_date: 2019-04-11
-backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>'
+tags: essays,data-science
+backlinks: '<ul><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 It is said that when you give the same advice three times, you should write it down in a blog post. I'm often approached for advice by job seekers in data science, so this is that blog post.

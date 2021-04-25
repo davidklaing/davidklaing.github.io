@@ -4,7 +4,8 @@ title: The Three-Body Problem
 permalink: /cixin-three-body-problem/
 published: true
 publication_date: 2021-01-23
-backlinks: '<ul><li><a id="books-published-in-2008" class="internal-link" href="/books-published-in-2008/">Published in 2008</a></li><li><a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a></li><li><a id="books-tag-fiction" class="internal-link" href="/books-tag-fiction/">Fiction</a></li><li><a id="books-tag-science-fiction" class="internal-link" href="/books-tag-science-fiction/">Science fiction</a></li></ul>'
+tags: reviews
+backlinks: '<ul><li><a id="books-published-in-2008" class="internal-link" href="/books-published-in-2008/">Published in 2008</a></li><li><a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a></li><li><a id="books-tag-fiction" class="internal-link" href="/books-tag-fiction/">Fiction</a></li><li><a id="books-tag-science-fiction" class="internal-link" href="/books-tag-science-fiction/">Science fiction</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 A very cool book that is generally enjoyable, but has some drawbacks:

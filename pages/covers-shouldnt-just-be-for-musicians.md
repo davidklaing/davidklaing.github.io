@@ -4,7 +4,8 @@ title: Covers shouldn’t just be for musicians
 permalink: /covers-shouldnt-just-be-for-musicians/
 published: true
 publication_date: 2019-12-04
-backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>'
+tags: essays
+backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 When aspiring musicians first learn to play their instruments, they rarely start composing their own songs immediately. Most start by learning to play the songs of others. This allows them to focus on skills like intonation, dynamics, and tempo. The skill of composition can wait until they have developed good playing technique.

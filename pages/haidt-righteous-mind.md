@@ -4,7 +4,8 @@ title: The Righteous Mind
 permalink: /haidt-righteous-mind/
 publication_date: 2016-09-01
 published: true
-backlinks: '<ul><li><a id="books-published-in-2012" class="internal-link" href="/books-published-in-2012/">Published in 2012</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-politics" class="internal-link" href="/books-tag-politics/">Politics</a></li><li><a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+tags: summaries
+backlinks: '<ul><li><a id="books-published-in-2012" class="internal-link" href="/books-published-in-2012/">Published in 2012</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-politics" class="internal-link" href="/books-tag-politics/">Politics</a></li><li><a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 This is a chapter-by-chapter summary of Jonathan Haidt’s book, <a class="external-link" target="_self" href="https://righteousmind.com/">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a>.

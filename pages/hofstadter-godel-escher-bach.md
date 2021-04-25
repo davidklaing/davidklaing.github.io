@@ -5,7 +5,8 @@ permalink: /hofstadter-godel-escher-bach/
 published: true
 publication_date: 2016-06-01
 last_updated: 2020-01-02
-backlinks: '<ul><li><a id="books-published-in-1970s" class="internal-link" href="/books-published-in-1970s/">Published in 1970s</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+tags: summaries
+backlinks: '<ul><li><a id="books-published-in-1970s" class="internal-link" href="/books-published-in-1970s/">Published in 1970s</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 _I originally published this in 2016, after I finished reading the book. I'm republishing it now, with a few edits for clarity, after prompting from [@nosilverv](https://twitter.com/nosilverv), who [asked](https://twitter.com/nosilverv/status/1212716598236254212):_

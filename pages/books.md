@@ -2,8 +2,10 @@
 layout: page
 title: Books
 published: true
+last_updated: 2021-04-25
 permalink: /books/
-backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>'
+tags: meta
+backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li><li><a id="meta" class="internal-link" href="/meta/">Meta</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 My library contains all the books I’ve read enough of to have formed an opinion on. Happy browsing!

@@ -3,7 +3,8 @@ layout: page
 title: Free Will (Sam Harris book)
 permalink: /harris-free-will/
 publication_date: 2020-02-09
-backlinks: '<ul><li><a id="books-published-in-2012" class="internal-link" href="/books-published-in-2012/">Published in 2012</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+tags: reviews,summaries
+backlinks: '<ul><li><a id="books-published-in-2012" class="internal-link" href="/books-published-in-2012/">Published in 2012</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li><li><a id="summaries" class="internal-link" href="/summaries/">Summaries</a></li></ul>'
 ---
 
 The thesis of Sam Harris's book Free Will is that we don't have it.

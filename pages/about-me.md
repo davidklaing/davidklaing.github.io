@@ -3,7 +3,8 @@ layout: page
 title: About me
 permalink: /about-me/
 last_updated: 2020-12-01
-backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
+tags: meta
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li><li><a id="meta" class="internal-link" href="/meta/">Meta</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 ## What's my story?

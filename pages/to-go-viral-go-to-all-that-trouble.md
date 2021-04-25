@@ -3,7 +3,8 @@ layout: page
 title: To go viral, go to all that trouble
 permalink: /to-go-viral-go-to-all-that-trouble/
 publication_date: 2020-05-04
-backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
+tags: proto-essays
+backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 It seems like the key to making a creative project that goes viral is hard to execute but conceptually pretty simple: do something that makes people think "I can't *believe* you went to all that trouble." E.g. TikTok videos where people spend 12 hours trying to bounce a ping pong ball into a cup from across the room, then get 40 million views. You could do that! But you probably won't, because, I mean...can you imagine going to all that trouble? Some specific examples:

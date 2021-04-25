@@ -3,7 +3,8 @@ layout: page
 title: The inner game of chess
 permalink: /inner-game-of-chess/
 publication_date: 2019-12-15
-backlinks: '<ul><li><a id="everything-i-know-about-chess" class="internal-link" href="/everything-i-know-about-chess/">Everything I know about chess</a></li></ul>'
+tags: resources,chess
+backlinks: '<ul><li><a id="chess" class="internal-link" href="/chess/">Chess</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 1\. Use your opponent's time for <a id="chess-strategy" class="internal-link" href="/chess-strategy/">strategizing</a>; use your own time for <a id="chess-tactics" class="internal-link" href="/chess-tactics/">tactics</a>.

@@ -3,7 +3,8 @@ layout: page
 title: Altered Traits
 permalink: /goleman-and-davidson-altered-traits/
 publication_date: 2018-10-08
-backlinks: '<ul><li><a id="books-published-in-2017" class="internal-link" href="/books-published-in-2017/">Published in 2017</a></li><li><a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a></li><li><a id="books-tag-science" class="internal-link" href="/books-tag-science/">Science</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+tags: reviews,summaries
+backlinks: '<ul><li><a id="books-published-in-2017" class="internal-link" href="/books-published-in-2017/">Published in 2017</a></li><li><a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a></li><li><a id="books-tag-science" class="internal-link" href="/books-tag-science/">Science</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li><li><a id="summaries" class="internal-link" href="/summaries/">Summaries</a></li></ul>'
 ---
 
 As far as I know, Altered Traits is the current best lay summary of meditation research. Some highlights:

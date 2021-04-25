@@ -2,7 +2,8 @@
 layout: page
 title: Links
 permalink: /links/
-backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>'
+tags: meta
+backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li><li><a id="meta" class="internal-link" href="/meta/">Meta</a></li></ul>'
 ---
 
 * <a id="all-links" class="internal-link" href="/all-links/">All links</a>

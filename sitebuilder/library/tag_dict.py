@@ -13,7 +13,7 @@ tag_dict = {
     'exercise': 'Exercise',
     'fantasy': 'Fantasy',
     'fiction': 'Fiction',
-    'greece': 'Greece',
+    'greek-mythology': 'Greek mythology',
     'health': 'Health',
     'historical-fiction': 'Historical fiction',
     'history': 'History',

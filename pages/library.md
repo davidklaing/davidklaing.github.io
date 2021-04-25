@@ -3,7 +3,8 @@ layout: page
 title: Library
 published: true
 permalink: /library/
-backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
+tags: meta
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li><li><a id="meta" class="internal-link" href="/meta/">Meta</a></li></ul>'
 ---
 
 * <a id="albums" class="internal-link" href="/albums/">Albums</a>

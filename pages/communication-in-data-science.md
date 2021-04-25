@@ -4,11 +4,8 @@ title: Communication in data science is more than just the final report
 permalink: /communication-in-data-science/
 published: true
 publication_date: 2017-11-10
-tooltips: 
-- path: tooltip_essays.js
-- path: tooltip_how-to-get-a-job-in-data-science.js
-- path: tooltip_most-popular.js
-backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="how-to-get-a-job-in-data-science" class="internal-link" href="/how-to-get-a-job-in-data-science/">How to get a job in data science</a></li><li><a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a></li></ul>'
+tags: essays,data-science
+backlinks: '<ul><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="how-to-get-a-job-in-data-science" class="internal-link" href="/how-to-get-a-job-in-data-science/">How to get a job in data science</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 _Cross-posted from the [UBC MDS blog](https://ubc-mds.github.io/2017-11-10-DSCI-542-communication/)_.

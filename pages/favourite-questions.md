@@ -2,10 +2,13 @@
 layout: page
 title: Favourite questions
 permalink: /favourite-questions/
-backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
+publication_date: 2020-06-19
+last_updated: 2021-04-25
+tags: meta
+backlinks: '<ul><li><a id="meta" class="internal-link" href="/meta/">Meta</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
-- How can we create more common knowledge?
+- When and how should we create more common knowledge?
 - How does one develop expertise?
 - How should we read, and to what end?
 - What are the best systems and tools for meaningful behavior change?
@@ -17,4 +20,3 @@ backlinks: '<ul><li><a id="notes" class="internal-link" href="/notes/">Notes</a>
 - What are the qualities of a good explanation?
 - How high should we set our expectations of ourselves?
 - Why are labels and abstractions sometimes useful, and sometimes harmful?
-- What are the trade-offs between responsibility and freedom, especially in the pursuit of meaning?

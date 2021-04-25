@@ -4,7 +4,8 @@ title: Deep Laziness — Sarah Perry
 permalink: /deep-laziness/
 published: true
 publication_date: 2019-10-09
-backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn’t just be for musicians</a></li></ul>'
+tags: commentaries
+backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn’t just be for musicians</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
 ---
 
 Laziness is usually frowned upon. We get paid, thanked, and admired for *producing*: for transforming chaos into order, for giving more than we take, for creating value rather than consuming it. Society doesn’t reward us for slacking off. 

@@ -19,6 +19,7 @@ class Page:
         self.permalink = self.get_attribute('permalink')
         self.publication_date = self.get_attribute('publication_date')
         self.last_updated = self.get_attribute('last_updated')
+        self.tags = self.get_attribute('tags') or []
         self.backlinks = sorted(backlinks)
         self.forward_links = self.get_forward_links()
     

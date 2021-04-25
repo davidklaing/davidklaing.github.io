@@ -92,9 +92,9 @@ To Kill a Mockingbird,Harper Lee,,,,,1960,fiction,
 Sputnik Sweetheart,Haruki Murakami,,Philip Gabriel,,,1999,"fiction,literature",
 Walden,Henry David Thoreau,,,,,1854,"nonfiction,philosophy,memoirs",
 Siddhartha,Hermann Hesse,,Hilda Rosner,,,1922,"fiction,parables,literature",
-The Iliad (Fagles translation),Homer,,Robert Fagles,,,-800,"fiction,literature,mythology,greece",
-The Odyssey (Fagles translation),Homer,,Robert Fagles,,,-800,"fiction,literature,mythology,greece",
-The Odyssey (Wilson translation),Homer,,Emily Wilson,,Claire Danes,-800,"fiction,literature,mythology,greece",/homer-odyssey/
+The Iliad (Fagles translation),Homer,,Robert Fagles,,,-800,"fiction,literature,greek-mythology",
+The Odyssey (Fagles translation),Homer,,Robert Fagles,,,-800,"fiction,literature,greek-mythology",
+The Odyssey (Wilson translation),Homer,,Emily Wilson,,Claire Danes,-800,"fiction,literature,greek-mythology",/homer-odyssey/
 The Player of Games,Iain M. Banks,,,,,1988,"fiction,science-fiction",
 I'm Thinking of Ending Things,Iain Reid,,,,,2016,"fiction,thriller",/reid-ending-things/
 The Courage to Be Disliked,Ichiro Kishimi,Fumitake Koga,Kurawareru Yuki,,,2019,"nonfiction,psychology,self-help",/kishimi-koga-courage/
@@ -107,6 +107,7 @@ The Hobbit,J.R.R. Tolkien,,,,,1937,"fiction,fantasy",
 The Lord of the Rings,J.R.R. Tolkien,,,,,1955,"fiction,fantasy",
 Tai-Pan,James Clavell,,,,,1966,"fiction,historical-fiction",
 Atomic Habits,James Clear,,,,,2018,"nonfiction,self-help,business",/clear-atomic-habits/
+The Scout Mindset,Julia Galef,,,,Julia Galef,2021,"nonfiction,philosophy,self-help",
 Chaos,James Gleick,,,,,1987,"nonfiction,history,science",
 Isaac Newton,James Gleick,,,,,2003,"nonfiction,biographies,science",
 The Information,James Gleick,,,,,2011,"nonfiction,history,science",
@@ -150,11 +151,11 @@ A Series of Unfortunate Events 1-3,Lemony Snicket,,,,,2000,"fiction,childrens",
 Alice's Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,,,,,1871,"fiction,literature",
 Mister Pip,Lloyd Jones,,,,,2006,"fiction,literature",
 Holes,Louis Sachar,,,,,2000,"fiction,childrens",
-The Song of Achilles,Madeline Miller,,,,,2012,"fiction,mythology,greece",/miller-song-of-achilles/
-Circe,Madeline Miller,,,,,2018,"fiction,mythology,greece",/miller-circe/
+The Song of Achilles,Madeline Miller,,,,,2012,"fiction,greek-mythology",/miller-song-of-achilles/
+Circe,Madeline Miller,,,,,2018,"fiction,greek-mythology",/miller-circe/
 Outliers,Malcolm Gladwell,,,,,2008,"nonfiction,science",
 Meditations,Marcus Aurelius,,George Long,,,180,"nonfiction,philosophy",
-The Penelopiad,Margaret Atwood,,,,,2005,"fiction,literature,mythology,greece",
+The Penelopiad,Margaret Atwood,,,,,2005,"fiction,literature,greek-mythology",
 Frankenstein,Mary Wollstonecraft Shelley,,,,,1818,"fiction,literature",
 Shop Class as Soulcraft,Matthew B. Crawford,,,,,2009,"nonfiction,philosophy",
 The Amazing Adventures of Kavalier & Clay,Michael Chabon,,,,,2000,"fiction,literature",
