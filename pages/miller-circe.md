@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Circe
+title: Circe (Miller)
 permalink: /miller-circe/
 published: true
 publication_date: 2021-04-03

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Formula: The Universal Laws of Success"
+title: The Formula (Barabási)
 permalink: /barabasi-the-formula/
 published: true
 publication_date: 2020-06-24

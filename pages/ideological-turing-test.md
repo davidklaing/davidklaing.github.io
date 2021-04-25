@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Ideological Turing test — Bryan Caplan
+title: The Ideological Turing Test (Caplan)
 permalink: /ideological-turing-test/
 published: true
 publication_date: 2019-10-16

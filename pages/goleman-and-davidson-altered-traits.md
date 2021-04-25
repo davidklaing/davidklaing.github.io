@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Altered Traits
+title: Altered Traits (Goleman & Davidson)
 permalink: /goleman-and-davidson-altered-traits/
 publication_date: 2018-10-08
 tags: reviews,summaries

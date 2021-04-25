@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zero to One
+title: Zero to One (Thiel)
 permalink: /thiel-zero-to-one/
 publication_date: 2018-07-10
 tags: reviews

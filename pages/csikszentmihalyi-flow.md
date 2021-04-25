@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flow
+title: Flow (Csikszentmihalyi)
 permalink: /csikszentmihalyi-flow/
 published: true
 publication_date: 2021-02-13

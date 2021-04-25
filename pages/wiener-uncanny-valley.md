@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uncanny Valley
+title: Uncanny Valley (Wiener)
 permalink: /wiener-uncanny-valley/
 published: true
 publication_date: 2021-03-13

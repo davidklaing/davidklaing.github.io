@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Piranesi
+title: Piranesi (Clarke)
 permalink: /clarke-piranesi/
 published: true
 publication_date: 2021-02-05

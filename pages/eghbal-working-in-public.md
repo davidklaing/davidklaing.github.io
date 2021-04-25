@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working In Public
+title: Working In Public (Eghbal)
 permalink: /eghbal-working-in-public/
 published: true
 tags: reviews

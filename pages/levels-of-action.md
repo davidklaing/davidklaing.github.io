@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Levels of Action — Alyssa Vance
+title: Levels of Action (Vance)
 permalink: /levels-of-action/
 published: true
 publication_date: 2019-08-28

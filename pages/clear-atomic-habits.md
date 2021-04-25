@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atomic Habits
+title: Atomic Habits (Clear)
 permalink: /clear-atomic-habits/
 published: true
 publication_date: 2018-01-10

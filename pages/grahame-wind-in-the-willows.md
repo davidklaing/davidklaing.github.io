@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Wind in the Willows
+title: The Wind in the Willows (Grahame)
 permalink: /grahame-wind-in-the-willows/
 published: true
 publication_date: 2021-02-03

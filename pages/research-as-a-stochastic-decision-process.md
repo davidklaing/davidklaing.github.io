@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research as a stochastic decision process — Jacob Steinhardt
+title: Research as a stochastic decision process (Steinhardt)
 permalink: /research-as-a-stochastic-decision-process/
 published: true
 publication_date: 2019-11-20

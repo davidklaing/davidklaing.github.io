@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Free Will (Sam Harris book)
+title: Free Will (Harris)
 permalink: /harris-free-will/
 publication_date: 2020-02-09
 tags: reviews,summaries

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Righteous Mind
+title: The Righteous Mind (Haidt)
 permalink: /haidt-righteous-mind/
 publication_date: 2016-09-01
 published: true

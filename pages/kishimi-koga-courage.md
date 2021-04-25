@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Courage to be Disliked
+title: The Courage to be Disliked (Kishimi & Koga)
 permalink: /kishimi-koga-courage/
 published: true
 publication_date: 2021-01-31

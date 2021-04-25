@@ -6,9 +6,9 @@ permalink: /books/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
-In the pages below, you can browse all the books I’ve read enough of to have formed an opinion on. If you have recommendations, please send them my way!
+In the pages below, you can browse all the books I’ve read. They are organized in three ways: by when I read them, by when they were published, and by tag. If you have a recommendation based on what you see here, please send it my way!
 
-## When I read it
+## By when I read them
 
 * <a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a> (23)
 * <a id="books-read-in-2020" class="internal-link" href="/books-read-in-2020/">Read in 2020</a> (26)
@@ -25,7 +25,7 @@ In the pages below, you can browse all the books I’ve read enough of to have f
 * <a id="books-read-before-2010" class="internal-link" href="/books-read-before-2010/">Read before 2010</a> (36)
 
 
-## When it was published
+## By when they were published
 
 * <a id="books-published-in-2021" class="internal-link" href="/books-published-in-2021/">Published in 2021</a> (2)
 * <a id="books-published-in-2020" class="internal-link" href="/books-published-in-2020/">Published in 2020</a> (5)

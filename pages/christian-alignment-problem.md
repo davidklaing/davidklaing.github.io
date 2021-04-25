@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Alignment Problem
+title: The Alignment Problem (Christian)
 permalink: /christian-alignment-problem/
 published: true
 publication_date: 2021-03-06

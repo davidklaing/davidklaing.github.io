@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Democracy Project
+title: The Democracy Project (Graeber)
 permalink: /graeber-democracy-project/
 published: true
 publication_date: 2021-03-08

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Laziness — Sarah Perry
+title: Deep Laziness (Perry)
 permalink: /deep-laziness/
 published: true
 publication_date: 2019-10-09

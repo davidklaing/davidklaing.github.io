@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I'm Thinking of Ending Things
+title: I'm Thinking of Ending Things (Reid)
 permalink: /reid-ending-things/
 published: true
 publication_date: 2021-03-06

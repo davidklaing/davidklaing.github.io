@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prototyping at the speed of thought — Tom Chi
+title: Prototyping at the speed of thought (Chi)
 permalink: /prototyping-at-the-speed-of-thought/
 published: true
 publication_date: 2019-09-18

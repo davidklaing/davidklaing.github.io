@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Three-Body Problem
+title: The Three-Body Problem (Cixin)
 permalink: /cixin-three-body-problem/
 published: true
 publication_date: 2021-01-23

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Solved conversations — Aaron Z. Lewis
+title: Solved conversations (Lewis)
 permalink: /solved-conversations/
 published: true
 publication_date: 2019-10-23
