@@ -1,3 +1,14 @@
 .bundle/
-vendor/
+.DS_Store
+.sass_cache/
+.vscode/
 _site/
+
+build/
+dist/
+sitebuilder.egg-info/
+sitebuilder/__pycache__/
+sitebuilder/bin/
+sitebuilder/library/__pycache__/
+vendor/
+venv/

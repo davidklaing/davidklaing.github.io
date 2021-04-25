@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "The Formula: The Universal Laws of Success"
+title: The Formula (Barabási)
 permalink: /barabasi-the-formula/
 published: true
 publication_date: 2020-06-24
-backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-in-the-past-year" class="internal-link" href="/books-in-the-past-year/">In the past year</a></li><li><a id="books-liked" class="internal-link" href="/books-liked/">Liked</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-self-help" class="internal-link" href="/books-self-help/">Self-Help</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="newest" class="internal-link" href="/newest/">Newest</a></li></ul>'
+tags: summaries
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-2018" class="internal-link" href="/books-published-in-2018/">Published in 2018</a></li><li><a id="books-read-in-2020" class="internal-link" href="/books-read-in-2020/">Read in 2020</a></li><li><a id="books-tag-business" class="internal-link" href="/books-tag-business/">Business</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-self-help" class="internal-link" href="/books-tag-self-help/">Self-help</a></li></ul>'
 ---
 
 This is a summary of Albert-László Barabási's 2018 book, [The Formula: The Universal Laws of Success](https://www.goodreads.com/book/show/39088545-the-formula). I generally steer clear of books with titles like this one, but Barabási is a [well-regarded network scientist](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si), so I thought he might have substantive ideas on what drives success. It turns out he does, and they are quite easy to summarize.

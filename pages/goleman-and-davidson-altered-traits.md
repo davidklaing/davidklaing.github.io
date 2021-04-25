@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Altered Traits
+title: Altered Traits (Goleman & Davidson)
 permalink: /goleman-and-davidson-altered-traits/
 publication_date: 2018-10-08
-backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-mixed-feelings" class="internal-link" href="/books-mixed-feelings/">Mixed feelings</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-psychology" class="internal-link" href="/books-psychology/">Psychology</a></li><li><a id="books-science" class="internal-link" href="/books-science/">Science</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+tags: reviews,summaries
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-2017" class="internal-link" href="/books-published-in-2017/">Published in 2017</a></li><li><a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a></li><li><a id="books-tag-mindfulness" class="internal-link" href="/books-tag-mindfulness/">Mindfulness</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a></li><li><a id="books-tag-science" class="internal-link" href="/books-tag-science/">Science</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li><li><a id="summaries" class="internal-link" href="/summaries/">Summaries</a></li></ul>'
 ---
 
 As far as I know, Altered Traits is the current best lay summary of meditation research. Some highlights:

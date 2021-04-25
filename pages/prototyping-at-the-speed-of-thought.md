@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Prototyping at the speed of thought — Tom Chi
+title: Prototyping at the speed of thought (Chi)
 permalink: /prototyping-at-the-speed-of-thought/
 published: true
 publication_date: 2019-09-18
-backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+tags: commentaries
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 
 Research and development—R&D—are usually lumped together and abbreviated, so it’s easy to forget that they are distinct activities. This often causes us to misapply norms and practices that are appropriate for one but not the other.

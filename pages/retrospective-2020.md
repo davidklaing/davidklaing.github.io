@@ -4,8 +4,8 @@ title: 2020 retrospective
 permalink: /retrospective-2020/
 published: true
 publication_date: 2020-12-31
-tooltips: 
-backlinks: '<ul><li><a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a></li></ul>'
+tags: yearly-retrospectives
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a></li></ul>'
 ---
 
 **Table of Contents**

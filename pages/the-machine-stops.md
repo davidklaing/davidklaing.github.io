@@ -4,6 +4,8 @@ title: E.M. Forster foresaw 2020 in 1909
 published: true
 permalink: /the-machine-stops/
 publication_date: 2020-04-05
+tags: essays
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>'
 ---
 
 > She made the room dark and slept; she awoke and made the room light; she ate and exchanged ideas with her friends, and listened to music and attended lectures; she made the room dark and slept. Above her, beneath her, and around her, the Machine hummed eternally; she did not notice the noise, for she had been born with it in her ears. The earth, carrying her, hummed as it sped through silence, turning her now to the invisible sun, now to the invisible stars. She awoke and made the room light.

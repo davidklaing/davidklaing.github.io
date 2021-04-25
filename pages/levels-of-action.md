@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Levels of Action — Alyssa Vance
+title: Levels of Action (Vance)
 permalink: /levels-of-action/
 published: true
 publication_date: 2019-08-28
-backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+tags: commentaries
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 
 What is a better use of time: improving the world, or improving your ability to improve the world?

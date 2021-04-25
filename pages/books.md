@@ -3,90 +3,119 @@ layout: page
 title: Books
 published: true
 permalink: /books/
-tooltips: 
-- path: tooltip_all-books.js
-- path: tooltip_books-20s.js
-- path: tooltip_books-biographies.js
-- path: tooltip_books-business.js
-- path: tooltip_books-childhood.js
-- path: tooltip_books-comics.js
-- path: tooltip_books-computer-science-and-programming.js
-- path: tooltip_books-disliked.js
-- path: tooltip_books-economics.js
-- path: tooltip_books-fantasy.js
-- path: tooltip_books-fiction.js
-- path: tooltip_books-historical-fiction.js
-- path: tooltip_books-history.js
-- path: tooltip_books-in-the-past-year.js
-- path: tooltip_books-indifferent.js
-- path: tooltip_books-learning.js
-- path: tooltip_books-liked.js
-- path: tooltip_books-literature.js
-- path: tooltip_books-loved.js
-- path: tooltip_books-memoirs.js
-- path: tooltip_books-mixed-feelings.js
-- path: tooltip_books-non-fiction.js
-- path: tooltip_books-parables.js
-- path: tooltip_books-personal-finance.js
-- path: tooltip_books-philosophy.js
-- path: tooltip_books-religion.js
-- path: tooltip_books-science-fiction.js
-- path: tooltip_books-science.js
-- path: tooltip_books-self-help.js
-- path: tooltip_books-short-stories.js
-- path: tooltip_books-statistics.js
-- path: tooltip_books-teens.js
-- path: tooltip_books-westerns.js
-- path: tooltip_books-writing.js
-- path: tooltip_library.js
-backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li></ul>'
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
-My library contains all the books I've read enough of to have formed an opinion on. On all pages except those for my ratings, books I loved are marked with a ★. Happy browsing!
+In the pages below, you can browse all the books I’ve read. They are organized in three ways: by when I read them, by when they were published, and by tag. If you have a recommendation based on what you see here, please send it my way!
 
-* <a id="all-books" class="internal-link" href="/all-books/">All books</a>
+## By when I read them
 
-## My ratings
+* <a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a> (23)
+* <a id="books-read-in-2020" class="internal-link" href="/books-read-in-2020/">Read in 2020</a> (26)
+* <a id="books-read-in-2019" class="internal-link" href="/books-read-in-2019/">Read in 2019</a> (14)
+* <a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a> (16)
+* <a id="books-read-in-2017" class="internal-link" href="/books-read-in-2017/">Read in 2017</a> (9)
+* <a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a> (23)
+* <a id="books-read-in-2015" class="internal-link" href="/books-read-in-2015/">Read in 2015</a> (20)
+* <a id="books-read-in-2014" class="internal-link" href="/books-read-in-2014/">Read in 2014</a> (19)
+* <a id="books-read-in-2013" class="internal-link" href="/books-read-in-2013/">Read in 2013</a> (22)
+* <a id="books-read-in-2012" class="internal-link" href="/books-read-in-2012/">Read in 2012</a> (18)
+* <a id="books-read-in-2011" class="internal-link" href="/books-read-in-2011/">Read in 2011</a> (9)
+* <a id="books-read-in-2010" class="internal-link" href="/books-read-in-2010/">Read in 2010</a> (9)
+* <a id="books-read-before-2010" class="internal-link" href="/books-read-before-2010/">Read before 2010</a> (36)
 
-* <a id="books-loved" class="internal-link" href="/books-loved/">Loved</a>
-* <a id="books-liked" class="internal-link" href="/books-liked/">Liked</a>
-* <a id="books-mixed-feelings" class="internal-link" href="/books-mixed-feelings/">Mixed Feelings</a>
-* <a id="books-disliked" class="internal-link" href="/books-disliked/">Disliked</a>
-* <a id="books-indifferent" class="internal-link" href="/books-indifferent/">Indifferent</a>
 
-## When I first read it
+## By when they were published
 
-* <a id="books-in-the-past-year" class="internal-link" href="/books-in-the-past-year/">In the past year</a>
-* <a id="books-20s" class="internal-link" href="/books-20s/">20s</a>
-* <a id="books-teens" class="internal-link" href="/books-teens/">Teens</a>
-* <a id="books-childhood" class="internal-link" href="/books-childhood/">Childhood</a>
+* <a id="books-published-in-2021" class="internal-link" href="/books-published-in-2021/">Published in 2021</a> (2)
+* <a id="books-published-in-2020" class="internal-link" href="/books-published-in-2020/">Published in 2020</a> (5)
+* <a id="books-published-in-2019" class="internal-link" href="/books-published-in-2019/">Published in 2019</a> (4)
+* <a id="books-published-in-2018" class="internal-link" href="/books-published-in-2018/">Published in 2018</a> (8)
+* <a id="books-published-in-2017" class="internal-link" href="/books-published-in-2017/">Published in 2017</a> (13)
+* <a id="books-published-in-2016" class="internal-link" href="/books-published-in-2016/">Published in 2016</a> (7)
+* <a id="books-published-in-2015" class="internal-link" href="/books-published-in-2015/">Published in 2015</a> (9)
+* <a id="books-published-in-2014" class="internal-link" href="/books-published-in-2014/">Published in 2014</a> (14)
+* <a id="books-published-in-2013" class="internal-link" href="/books-published-in-2013/">Published in 2013</a> (3)
+* <a id="books-published-in-2012" class="internal-link" href="/books-published-in-2012/">Published in 2012</a> (8)
+* <a id="books-published-in-2011" class="internal-link" href="/books-published-in-2011/">Published in 2011</a> (9)
+* <a id="books-published-in-2010" class="internal-link" href="/books-published-in-2010/">Published in 2010</a> (5)
+* <a id="books-published-in-2009" class="internal-link" href="/books-published-in-2009/">Published in 2009</a> (5)
+* <a id="books-published-in-2008" class="internal-link" href="/books-published-in-2008/">Published in 2008</a> (8)
+* <a id="books-published-in-2007" class="internal-link" href="/books-published-in-2007/">Published in 2007</a> (6)
+* <a id="books-published-in-2006" class="internal-link" href="/books-published-in-2006/">Published in 2006</a> (6)
+* <a id="books-published-in-2005" class="internal-link" href="/books-published-in-2005/">Published in 2005</a> (6)
+* <a id="books-published-in-2004" class="internal-link" href="/books-published-in-2004/">Published in 2004</a> (4)
+* <a id="books-published-in-2003" class="internal-link" href="/books-published-in-2003/">Published in 2003</a> (2)
+* <a id="books-published-in-2002" class="internal-link" href="/books-published-in-2002/">Published in 2002</a> (3)
+* <a id="books-published-in-2001" class="internal-link" href="/books-published-in-2001/">Published in 2001</a> (5)
+* <a id="books-published-in-2000" class="internal-link" href="/books-published-in-2000/">Published in 2000</a> (8)
+* <a id="books-published-in-1990s" class="internal-link" href="/books-published-in-1990s/">Published in 1990s</a> (29)
+* <a id="books-published-in-1980s" class="internal-link" href="/books-published-in-1980s/">Published in 1980s</a> (15)
+* <a id="books-published-in-1970s" class="internal-link" href="/books-published-in-1970s/">Published in 1970s</a> (9)
+* <a id="books-published-in-1960s" class="internal-link" href="/books-published-in-1960s/">Published in 1960s</a> (14)
+* <a id="books-published-in-1950s" class="internal-link" href="/books-published-in-1950s/">Published in 1950s</a> (9)
+* <a id="books-published-in-1940s" class="internal-link" href="/books-published-in-1940s/">Published in 1940s</a> (6)
+* <a id="books-published-in-1930s" class="internal-link" href="/books-published-in-1930s/">Published in 1930s</a> (4)
+* <a id="books-published-in-1920s" class="internal-link" href="/books-published-in-1920s/">Published in 1920s</a> (4)
+* <a id="books-published-in-1910s" class="internal-link" href="/books-published-in-1910s/">Published in 1910s</a> (2)
+* <a id="books-published-in-1900s" class="internal-link" href="/books-published-in-1900s/">Published in 1900s</a> (3)
+* <a id="books-published-in-1800s" class="internal-link" href="/books-published-in-1800s/">Published in 1800s</a> (11)
+* <a id="books-published-before-1800" class="internal-link" href="/books-published-before-1800/">Published before 1800</a> (11)
 
-## Fiction
 
-* <a id="books-fiction" class="internal-link" href="/books-fiction/">All Fiction</a>
-* <a id="books-comics" class="internal-link" href="/books-comics/">Comics</a>
-* <a id="books-fantasy" class="internal-link" href="/books-fantasy/">Fantasy</a>
-* <a id="books-historical-fiction" class="internal-link" href="/books-historical-fiction/">Historical Fiction</a>
-* <a id="books-literature" class="internal-link" href="/books-literature/">Literature</a>
-* <a id="books-parables" class="internal-link" href="/books-parables/">Parables</a>
-* <a id="books-science-fiction" class="internal-link" href="/books-science-fiction/">Science-Fiction</a>
-* <a id="books-short-stories" class="internal-link" href="/books-short-stories/">Short Stories</a>
-* <a id="books-westerns" class="internal-link" href="/books-westerns/">Westerns</a>
+## By tag
 
-## Non-Fiction
+* <a id="books-tag-fiction" class="internal-link" href="/books-tag-fiction/">Fiction</a> (136)
+* <a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a> (121)
+* <a id="books-tag-literary-fiction" class="internal-link" href="/books-tag-literary-fiction/">Literary fiction</a> (71)
+* <a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a> (35)
+* <a id="books-tag-fantasy" class="internal-link" href="/books-tag-fantasy/">Fantasy</a> (30)
+* <a id="books-tag-science" class="internal-link" href="/books-tag-science/">Science</a> (24)
+* <a id="books-tag-science-fiction" class="internal-link" href="/books-tag-science-fiction/">Science fiction</a> (24)
+* <a id="books-tag-self-help" class="internal-link" href="/books-tag-self-help/">Self-help</a> (23)
+* <a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a> (18)
+* <a id="books-tag-memoirs" class="internal-link" href="/books-tag-memoirs/">Memoirs</a> (17)
+* <a id="books-tag-history" class="internal-link" href="/books-tag-history/">History</a> (11)
+* <a id="books-tag-young-adult" class="internal-link" href="/books-tag-young-adult/">Young adult</a> (11)
+* <a id="books-tag-human-nature" class="internal-link" href="/books-tag-human-nature/">Human nature</a> (9)
+* <a id="books-tag-childrens" class="internal-link" href="/books-tag-childrens/">Childrens</a> (8)
+* <a id="books-tag-writing" class="internal-link" href="/books-tag-writing/">Writing</a> (8)
+* <a id="books-tag-greek-mythology" class="internal-link" href="/books-tag-greek-mythology/">Greek mythology</a> (7)
+* <a id="books-tag-reference" class="internal-link" href="/books-tag-reference/">Reference</a> (7)
+* <a id="books-tag-computer-science" class="internal-link" href="/books-tag-computer-science/">Computer science</a> (6)
+* <a id="books-tag-short-stories" class="internal-link" href="/books-tag-short-stories/">Short stories</a> (6)
+* <a id="books-tag-textbooks" class="internal-link" href="/books-tag-textbooks/">Textbooks</a> (6)
+* <a id="books-tag-biographies" class="internal-link" href="/books-tag-biographies/">Biographies</a> (5)
+* <a id="books-tag-business" class="internal-link" href="/books-tag-business/">Business</a> (5)
+* <a id="books-tag-economics" class="internal-link" href="/books-tag-economics/">Economics</a> (5)
+* <a id="books-tag-historical-fiction" class="internal-link" href="/books-tag-historical-fiction/">Historical fiction</a> (5)
+* <a id="books-tag-learning" class="internal-link" href="/books-tag-learning/">Learning</a> (5)
+* <a id="books-tag-parables" class="internal-link" href="/books-tag-parables/">Parables</a> (5)
+* <a id="books-tag-statistics" class="internal-link" href="/books-tag-statistics/">Statistics</a> (5)
+* <a id="books-tag-china" class="internal-link" href="/books-tag-china/">China</a> (4)
+* <a id="books-tag-happiness" class="internal-link" href="/books-tag-happiness/">Happiness</a> (4)
+* <a id="books-tag-health" class="internal-link" href="/books-tag-health/">Health</a> (4)
+* <a id="books-tag-personal-finance" class="internal-link" href="/books-tag-personal-finance/">Personal finance</a> (4)
+* <a id="books-tag-behavioural-economics" class="internal-link" href="/books-tag-behavioural-economics/">Behavioural economics</a> (3)
+* <a id="books-tag-holocaust" class="internal-link" href="/books-tag-holocaust/">Holocaust</a> (3)
+* <a id="books-tag-machine-learning" class="internal-link" href="/books-tag-machine-learning/">Machine learning</a> (3)
+* <a id="books-tag-pedagogy" class="internal-link" href="/books-tag-pedagogy/">Pedagogy</a> (3)
+* <a id="books-tag-programming" class="internal-link" href="/books-tag-programming/">Programming</a> (3)
+* <a id="books-tag-reading" class="internal-link" href="/books-tag-reading/">Reading</a> (3)
+* <a id="books-tag-religion" class="internal-link" href="/books-tag-religion/">Religion</a> (3)
+* <a id="books-tag-systems" class="internal-link" href="/books-tag-systems/">Systems</a> (3)
+* <a id="books-tag-westerns" class="internal-link" href="/books-tag-westerns/">Westerns</a> (3)
+* <a id="books-tag-essay-compilations" class="internal-link" href="/books-tag-essay-compilations/">Essay compilations</a> (2)
+* <a id="books-tag-exercise" class="internal-link" href="/books-tag-exercise/">Exercise</a> (2)
+* <a id="books-tag-finance" class="internal-link" href="/books-tag-finance/">Finance</a> (2)
+* <a id="books-tag-mindfulness" class="internal-link" href="/books-tag-mindfulness/">Mindfulness</a> (2)
+* <a id="books-tag-politics" class="internal-link" href="/books-tag-politics/">Politics</a> (2)
+* <a id="books-tag-translation" class="internal-link" href="/books-tag-translation/">Translation</a> (2)
+* <a id="books-tag-anthropology" class="internal-link" href="/books-tag-anthropology/">Anthropology</a> (1)
+* <a id="books-tag-climate-change" class="internal-link" href="/books-tag-climate-change/">Climate change</a> (1)
+* <a id="books-tag-comics" class="internal-link" href="/books-tag-comics/">Comics</a> (1)
+* <a id="books-tag-mystery" class="internal-link" href="/books-tag-mystery/">Mystery</a> (1)
+* <a id="books-tag-poetry" class="internal-link" href="/books-tag-poetry/">Poetry</a> (1)
+* <a id="books-tag-thriller" class="internal-link" href="/books-tag-thriller/">Thriller</a> (1)
 
-* <a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">All Non-Fiction</a>
-* <a id="books-biographies" class="internal-link" href="/books-biographies/">Biographies</a>
-* <a id="books-business" class="internal-link" href="/books-business/">Business</a>
-* <a id="books-computer-science-and-programming" class="internal-link" href="/books-computer-science-and-programming/">Computer Science & Programming</a>
-* <a id="books-economics" class="internal-link" href="/books-economics/">Economics</a>
-* <a id="books-history" class="internal-link" href="/books-history/">History</a>
-* <a id="books-learning" class="internal-link" href="/books-learning/">Learning</a>
-* <a id="books-memoirs" class="internal-link" href="/books-memoirs/">Memoirs</a>
-* <a id="books-personal-finance" class="internal-link" href="/books-personal-finance/">Personal Finance</a>
-* <a id="books-philosophy" class="internal-link" href="/books-philosophy/">Philosophy</a>
-* <a id="books-science" class="internal-link" href="/books-science/">Science</a>
-* <a id="books-self-help" class="internal-link" href="/books-self-help/">Self-Help</a>
-* <a id="books-statistics" class="internal-link" href="/books-statistics/">Statistics</a>
-* <a id="books-religion" class="internal-link" href="/books-religion/">Religion</a>
-* <a id="books-writing" class="internal-link" href="/books-writing/">Writing</a>
+

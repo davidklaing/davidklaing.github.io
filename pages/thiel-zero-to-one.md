@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Zero to One
+title: Zero to One (Thiel)
 permalink: /thiel-zero-to-one/
 publication_date: 2018-07-10
-backlinks: '<ul><li><a id="all-books" class="internal-link" href="/all-books/">All books</a></li><li><a id="books-20s" class="internal-link" href="/books-20s/">20s</a></li><li><a id="books-business" class="internal-link" href="/books-business/">Business</a></li><li><a id="books-liked" class="internal-link" href="/books-liked/">Liked</a></li><li><a id="books-non-fiction" class="internal-link" href="/books-non-fiction/">Non-Fiction</a></li><li><a id="books-philosophy" class="internal-link" href="/books-philosophy/">Philosophy</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+tags: reviews
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-2014" class="internal-link" href="/books-published-in-2014/">Published in 2014</a></li><li><a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a></li><li><a id="books-tag-business" class="internal-link" href="/books-tag-business/">Business</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li></ul>'
 ---
 
 A few new perspectives from Peter Thiel's book, Zero to One:

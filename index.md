@@ -4,21 +4,27 @@ title: Home
 permalink: /
 ---
 
-Welcome! I'm <a id="about-me" class="internal-link" href="/about-me/">David Laing</a>, a data scientist and writing teacher. I maintain this website as a way to share my learning, to give more life to ideas that I think are underappreciated, and to make it easier for my future friends to find me. If you think you might be one of them, please say hello on <a href="https://twitter.com/davidklaing">Twitter</a>.
+Welcome! I'm David Laing. I maintain this website as a way to share my learning, to give more life to ideas that I think are underappreciated, and to make it easier for my future friends to find me. If you think you might be one of them, please say hello on <a href="https://twitter.com/davidklaing">Twitter</a>.
 
 <hr>
 
-## Curated
+## Meta
 
-* <a id="newest" class="internal-link" href="/newest/">Newest</a>
-* <a id="most-popular" class="internal-link" href="/most-popular/">Most popular</a>
+* <a id="about-me" class="internal-link" href="/about-me/">About me</a>
+* <a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a>
 
 <hr>
 
-## By category
+## By tag
 
-* <a id="essays" class="internal-link" href="/essays/">Essays</a>
+* <a id="books" class="internal-link" href="/books/">Books</a>
+* <a id="chess" class="internal-link" href="/chess/">Chess</a>
 * <a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a>
-* <a id="notes" class="internal-link" href="/notes/">Notes</a>
+* <a id="data-science" class="internal-link" href="/data-science/">Data science</a>
+* <a id="essays" class="internal-link" href="/essays/">Essays</a>
 * <a id="library" class="internal-link" href="/library/">Library</a>
+* <a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a>
+* <a id="resources" class="internal-link" href="/resources/">Resources</a>
+* <a id="reviews" class="internal-link" href="/reviews/">Reviews</a>
+* <a id="summaries" class="internal-link" href="/summaries/">Summaries</a>
 * <a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a>
