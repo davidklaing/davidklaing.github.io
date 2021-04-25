@@ -22,7 +22,6 @@ Welcome! I'm David Laing. I maintain this website as a way to share my learning,
 * <a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a>
 * <a id="data-science" class="internal-link" href="/data-science/">Data science</a>
 * <a id="essays" class="internal-link" href="/essays/">Essays</a>
-* <a id="library" class="internal-link" href="/library/">Library</a>
 * <a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a>
 * <a id="resources" class="internal-link" href="/resources/">Resources</a>
 * <a id="reviews" class="internal-link" href="/reviews/">Reviews</a>
