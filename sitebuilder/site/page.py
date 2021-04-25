@@ -17,6 +17,8 @@ class Page:
         self.front_matter, self.content = self.separate_sections()
         self.title = self.get_attribute('title')
         self.permalink = self.get_attribute('permalink')
+        self.publication_date = self.get_attribute('publication_date')
+        self.last_updated = self.get_attribute('last_updated')
         self.backlinks = sorted(backlinks)
         self.forward_links = self.get_forward_links()
     
@@ -34,10 +36,13 @@ class Page:
                 yaml_line_count += 1
         return front_matter, content
     
-    def get_attribute(self, attribute: str) -> str:
+    def get_attribute(self, attribute: str) -> Optional[str]:
         """Get a page attribute, i.e. one of the lines in its front matter."""
-        attribute_line, *_ = [line for line in self.front_matter if f'{attribute}: ' in line]
-        return attribute_line.strip(f'{attribute}: ').strip('\n')
+        attribute_lines = [line for line in self.front_matter if f'{attribute}: ' in line]
+        if attribute_lines:
+            return attribute_lines[0].strip(f'{attribute}: ').strip('\n')
+        else:
+            return None
     
     def get_forward_links(self) -> Set[str]:
         """Get all the links found in the content of this page."""

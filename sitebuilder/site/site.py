@@ -14,7 +14,37 @@ class Site:
 
     def __init__(self, pages: List[Page]):
         self.pages = pages
+        self.make_site_history_page()
         self.titles_dict: Dict[str, str] = {page.permalink: page.title for page in self.pages}
+
+    def make_site_history_page(self):
+        self.pages = [page for page in self.pages if page.title != 'Site history']
+        pages_with_dates = sorted(
+            [page for page in self.pages if page.publication_date or page.last_updated],
+            key=lambda page: (page.last_updated, page.publication_date),
+            reverse=True
+        )
+        site_history_page = [
+            '---\n',
+            'layout: page\n',
+            f'title: Site history\n',
+            'published: true\n',
+            f'permalink: /site-history/\n',
+            'backlinks: \n',
+            '---\n',
+            '\n'
+        ]
+        for page in pages_with_dates:
+            if page.last_updated:
+                site_history_page.append(
+                    f'* {page.last_updated} <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a> (update)\n'
+                )
+            else:
+                site_history_page.append(
+                    f'* {page.publication_date} <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>\n'
+                )
+        self.pages.append(site_history_page)
+
 
     def update_backlinks(self):
         """Update all the backlinks in the site."""
