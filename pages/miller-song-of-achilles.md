@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Song of Achilles (Madeline)
+title: The Song of Achilles (Miller)
 permalink: /miller-song-of-achilles/
 published: true
 publication_date: 2021-03-26

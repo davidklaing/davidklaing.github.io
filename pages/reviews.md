@@ -11,7 +11,7 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 * `2021-04-09` <a id="eghbal-working-in-public" class="internal-link" href="/eghbal-working-in-public/">Working In Public (Eghbal)</a>
 * `2021-04-04` <a id="bloom-how-pleasure-works" class="internal-link" href="/bloom-how-pleasure-works/">How Pleasure Works (Bloom)</a>
 * `2021-04-03` <a id="miller-circe" class="internal-link" href="/miller-circe/">Circe (Miller)</a>
-* `2021-03-26` <a id="miller-song-of-achilles" class="internal-link" href="/miller-song-of-achilles/">The Song of Achilles (Madeline)</a>
+* `2021-03-26` <a id="miller-song-of-achilles" class="internal-link" href="/miller-song-of-achilles/">The Song of Achilles (Miller)</a>
 * `2021-03-21` <a id="steinbeck-grapes-of-wrath" class="internal-link" href="/steinbeck-grapes-of-wrath/">The Grapes of Wrath (Steinbeck)</a>
 * `2021-03-13` <a id="wiener-uncanny-valley" class="internal-link" href="/wiener-uncanny-valley/">Uncanny Valley (Wiener)</a>
 * `2021-03-08` <a id="graeber-democracy-project" class="internal-link" href="/graeber-democracy-project/">The Democracy Project (Graeber)</a>
