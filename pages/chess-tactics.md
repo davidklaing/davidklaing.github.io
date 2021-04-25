@@ -4,7 +4,7 @@ title: Chess tactics
 permalink: /chess-tactics/
 publication_date: 2019-12-15
 tags: resources,chess
-backlinks: '<ul><li><a id="chess" class="internal-link" href="/chess/">Chess</a></li><li><a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="chess" class="internal-link" href="/chess/">Chess</a></li><li><a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li></ul>'
 ---
 
 1\. If your opponent exposes their queen in the opening, trade queens with them to prevent them from castling. (It took me SO LONG to understand why people kept doing that to me.)

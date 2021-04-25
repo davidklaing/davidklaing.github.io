@@ -5,7 +5,7 @@ permalink: /personal-phd/
 published: true
 publication_date: 2019-07-16
 tags: proto-essays
-backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li></ul>'
 ---
 
 Lots of people aspire to do a "personal master's degree," but I've never seen anyone describe an attempt to do a "personal PhD." With the caveat that I haven't done a PhD myself, it appears to me that many components of it are achievable outside a traditional program. I think people who are drawn to PhD programs should consider whether they can assemble the key ingredients on their own.

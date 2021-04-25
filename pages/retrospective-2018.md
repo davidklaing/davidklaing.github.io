@@ -5,7 +5,7 @@ permalink: /retrospective-2018/
 published: true
 publication_date: 2018-12-31
 tags: yearly-retrospectives
-backlinks: '<ul><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li><li><a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a></li></ul>'
 ---
 
 ## Books

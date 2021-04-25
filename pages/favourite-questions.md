@@ -4,8 +4,8 @@ title: Favourite questions
 permalink: /favourite-questions/
 publication_date: 2020-06-19
 last_updated: 2021-04-25
-tags: meta
-backlinks: '<ul><li><a id="meta" class="internal-link" href="/meta/">Meta</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
+tags: resources
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li></ul>'
 ---
 
 - When and how should we create more common knowledge?

@@ -3,6 +3,7 @@ layout: page
 title: Westerns
 published: true
 permalink: /books-tag-westerns/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * McCarthy, _The Road_ (2006) 

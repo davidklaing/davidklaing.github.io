@@ -2,17 +2,15 @@
 layout: page
 title: Books
 published: true
-last_updated: 2021-04-25
 permalink: /books/
-tags: meta
-backlinks: '<ul><li><a id="library" class="internal-link" href="/library/">Library</a></li><li><a id="meta" class="internal-link" href="/meta/">Meta</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
-My library contains all the books I’ve read enough of to have formed an opinion on. Happy browsing!
+In the pages below, you can browse all the books I’ve read enough of to have formed an opinion on. If you have recommendations, please send them my way!
 
 ## When I read it
 
-* <a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a> (22)
+* <a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a> (23)
 * <a id="books-read-in-2020" class="internal-link" href="/books-read-in-2020/">Read in 2020</a> (26)
 * <a id="books-read-in-2019" class="internal-link" href="/books-read-in-2019/">Read in 2019</a> (14)
 * <a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a> (16)
@@ -29,7 +27,7 @@ My library contains all the books I’ve read enough of to have formed an opinio
 
 ## When it was published
 
-* <a id="books-published-in-2021" class="internal-link" href="/books-published-in-2021/">Published in 2021</a> (1)
+* <a id="books-published-in-2021" class="internal-link" href="/books-published-in-2021/">Published in 2021</a> (2)
 * <a id="books-published-in-2020" class="internal-link" href="/books-published-in-2020/">Published in 2020</a> (5)
 * <a id="books-published-in-2019" class="internal-link" href="/books-published-in-2019/">Published in 2019</a> (4)
 * <a id="books-published-in-2018" class="internal-link" href="/books-published-in-2018/">Published in 2018</a> (8)
@@ -68,24 +66,56 @@ My library contains all the books I’ve read enough of to have formed an opinio
 ## By tag
 
 * <a id="books-tag-fiction" class="internal-link" href="/books-tag-fiction/">Fiction</a> (136)
-* <a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a> (120)
-* <a id="books-tag-literature" class="internal-link" href="/books-tag-literature/">Literature</a> (71)
-* <a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a> (34)
+* <a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a> (121)
+* <a id="books-tag-literary-fiction" class="internal-link" href="/books-tag-literary-fiction/">Literary fiction</a> (71)
+* <a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a> (35)
 * <a id="books-tag-fantasy" class="internal-link" href="/books-tag-fantasy/">Fantasy</a> (30)
-* <a id="books-tag-science" class="internal-link" href="/books-tag-science/">Science</a> (23)
+* <a id="books-tag-science" class="internal-link" href="/books-tag-science/">Science</a> (24)
+* <a id="books-tag-science-fiction" class="internal-link" href="/books-tag-science-fiction/">Science fiction</a> (24)
 * <a id="books-tag-self-help" class="internal-link" href="/books-tag-self-help/">Self-help</a> (23)
-* <a id="books-tag-science-fiction" class="internal-link" href="/books-tag-science-fiction/">Science fiction</a> (21)
 * <a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a> (18)
 * <a id="books-tag-memoirs" class="internal-link" href="/books-tag-memoirs/">Memoirs</a> (17)
 * <a id="books-tag-history" class="internal-link" href="/books-tag-history/">History</a> (11)
+* <a id="books-tag-young-adult" class="internal-link" href="/books-tag-young-adult/">Young adult</a> (11)
+* <a id="books-tag-human-nature" class="internal-link" href="/books-tag-human-nature/">Human nature</a> (9)
+* <a id="books-tag-childrens" class="internal-link" href="/books-tag-childrens/">Childrens</a> (8)
 * <a id="books-tag-writing" class="internal-link" href="/books-tag-writing/">Writing</a> (8)
+* <a id="books-tag-greek-mythology" class="internal-link" href="/books-tag-greek-mythology/">Greek mythology</a> (7)
+* <a id="books-tag-reference" class="internal-link" href="/books-tag-reference/">Reference</a> (7)
 * <a id="books-tag-computer-science" class="internal-link" href="/books-tag-computer-science/">Computer science</a> (6)
-* <a id="books-tag-greece" class="internal-link" href="/books-tag-greece/">Greece</a> (6)
-* <a id="books-tag-mythology" class="internal-link" href="/books-tag-mythology/">Mythology</a> (6)
 * <a id="books-tag-short-stories" class="internal-link" href="/books-tag-short-stories/">Short stories</a> (6)
+* <a id="books-tag-textbooks" class="internal-link" href="/books-tag-textbooks/">Textbooks</a> (6)
 * <a id="books-tag-biographies" class="internal-link" href="/books-tag-biographies/">Biographies</a> (5)
 * <a id="books-tag-business" class="internal-link" href="/books-tag-business/">Business</a> (5)
+* <a id="books-tag-economics" class="internal-link" href="/books-tag-economics/">Economics</a> (5)
+* <a id="books-tag-historical-fiction" class="internal-link" href="/books-tag-historical-fiction/">Historical fiction</a> (5)
+* <a id="books-tag-learning" class="internal-link" href="/books-tag-learning/">Learning</a> (5)
 * <a id="books-tag-parables" class="internal-link" href="/books-tag-parables/">Parables</a> (5)
 * <a id="books-tag-statistics" class="internal-link" href="/books-tag-statistics/">Statistics</a> (5)
+* <a id="books-tag-china" class="internal-link" href="/books-tag-china/">China</a> (4)
+* <a id="books-tag-happiness" class="internal-link" href="/books-tag-happiness/">Happiness</a> (4)
+* <a id="books-tag-health" class="internal-link" href="/books-tag-health/">Health</a> (4)
+* <a id="books-tag-personal-finance" class="internal-link" href="/books-tag-personal-finance/">Personal finance</a> (4)
+* <a id="books-tag-behavioural-economics" class="internal-link" href="/books-tag-behavioural-economics/">Behavioural economics</a> (3)
+* <a id="books-tag-holocaust" class="internal-link" href="/books-tag-holocaust/">Holocaust</a> (3)
+* <a id="books-tag-machine-learning" class="internal-link" href="/books-tag-machine-learning/">Machine learning</a> (3)
+* <a id="books-tag-pedagogy" class="internal-link" href="/books-tag-pedagogy/">Pedagogy</a> (3)
+* <a id="books-tag-programming" class="internal-link" href="/books-tag-programming/">Programming</a> (3)
+* <a id="books-tag-reading" class="internal-link" href="/books-tag-reading/">Reading</a> (3)
+* <a id="books-tag-religion" class="internal-link" href="/books-tag-religion/">Religion</a> (3)
+* <a id="books-tag-systems" class="internal-link" href="/books-tag-systems/">Systems</a> (3)
+* <a id="books-tag-westerns" class="internal-link" href="/books-tag-westerns/">Westerns</a> (3)
+* <a id="books-tag-essay-compilations" class="internal-link" href="/books-tag-essay-compilations/">Essay compilations</a> (2)
+* <a id="books-tag-exercise" class="internal-link" href="/books-tag-exercise/">Exercise</a> (2)
+* <a id="books-tag-finance" class="internal-link" href="/books-tag-finance/">Finance</a> (2)
+* <a id="books-tag-mindfulness" class="internal-link" href="/books-tag-mindfulness/">Mindfulness</a> (2)
+* <a id="books-tag-politics" class="internal-link" href="/books-tag-politics/">Politics</a> (2)
+* <a id="books-tag-translation" class="internal-link" href="/books-tag-translation/">Translation</a> (2)
+* <a id="books-tag-anthropology" class="internal-link" href="/books-tag-anthropology/">Anthropology</a> (1)
+* <a id="books-tag-climate-change" class="internal-link" href="/books-tag-climate-change/">Climate change</a> (1)
+* <a id="books-tag-comics" class="internal-link" href="/books-tag-comics/">Comics</a> (1)
+* <a id="books-tag-mystery" class="internal-link" href="/books-tag-mystery/">Mystery</a> (1)
+* <a id="books-tag-poetry" class="internal-link" href="/books-tag-poetry/">Poetry</a> (1)
+* <a id="books-tag-thriller" class="internal-link" href="/books-tag-thriller/">Thriller</a> (1)
 
 

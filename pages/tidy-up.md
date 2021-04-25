@@ -5,7 +5,7 @@ permalink: /tidy-up/
 published: true
 publication_date: 2019-11-24
 tags: proto-essays
-backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li></ul>'
 ---
 
 An underappreciated benefit of habitually tidying up is that it gives you more confidence to make useful messes. A few examples:

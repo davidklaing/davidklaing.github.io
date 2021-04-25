@@ -13,6 +13,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Csikszentmihalyi, _<a id="csikszentmihalyi-flow" class="internal-link" href="/csikszentmihalyi-flow/">Flow</a>_ (1990) 
 * Doerr, _All the Light We Cannot See_ (2014) 
 * Eghbal, _<a id="eghbal-working-in-public" class="internal-link" href="/eghbal-working-in-public/">Working In Public</a>_ (2020) 
+* Galef, _The Scout Mindset_ (2021) 
 * Gates, _<a id="gates-climate-disaster" class="internal-link" href="/gates-climate-disaster/">How to Avoid a Climate Disaster</a>_ (2021) 
 * Graeber, _<a id="graeber-bullshit-jobs" class="internal-link" href="/graeber-bullshit-jobs/">Bullshit Jobs</a>_ (2018) 
 * Graeber, _<a id="graeber-debt" class="internal-link" href="/graeber-debt/">Debt</a>_ (2011) 

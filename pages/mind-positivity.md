@@ -4,7 +4,7 @@ title: Mind positivity
 permalink: /mind-positivity/
 publication_date: 2020-03-09
 tags: proto-essays
-backlinks: '<ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li></ul>'
 ---
 
 Self-love messaging generally focuses on the body, but surely there are many people (like me) who are more insecure about their minds. Imagine the rallying cries of a mind positivity movement:

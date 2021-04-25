@@ -3,7 +3,6 @@ layout: page
 title: Literature
 published: true
 permalink: /books-tag-literature/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Adams, _The Hitchhiker's Guide to the Galaxy_ (1979) 

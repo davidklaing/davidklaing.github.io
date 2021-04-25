@@ -3,7 +3,6 @@ layout: page
 title: Greece
 published: true
 permalink: /books-tag-greece/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Atwood, _The Penelopiad_ (2005) 

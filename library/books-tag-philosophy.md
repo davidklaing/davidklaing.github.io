@@ -16,6 +16,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Dawkins, _The God Delusion_ (2006) 
 * Ellenberg, _How Not to Be Wrong_ (2014) 
 * Emerson, _Self-Reliance and Other Essays_ (1844) 
+* Galef, _The Scout Mindset_ (2021) 
 * Gottlieb, _The Dream of Reason_ (2000) 
 * Harari, _Homo Deus_ (2017) 
 * Harari, _Sapiens_ (2011) 

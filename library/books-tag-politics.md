@@ -3,6 +3,7 @@ layout: page
 title: Politics
 published: true
 permalink: /books-tag-politics/
+backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
 * Graeber, _<a id="graeber-democracy-project" class="internal-link" href="/graeber-democracy-project/">The Democracy Project</a>_ (2013) 

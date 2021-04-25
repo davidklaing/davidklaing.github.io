@@ -29,3 +29,4 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Schneier, _Secrets and Lies_ (2004) 
 * Silver, _The Signal and the Noise_ (2012) 
 * Stephens-Davidowitz, _Everybody Lies_ (2017) 
+* Taleb, _The Black Swan_ (2007) 

@@ -6,7 +6,7 @@ published: true
 publication_date: 2018-10-01
 last_updated: 2020-12-15
 tags: resources,data-science
-backlinks: '<ul><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li></ul>'
 ---
 
 After setting myself up on four laptops in the space of two years, I figured it was time to write this all down. [Mike Gelbart's setup](https://github.com/mgelbart/misc/blob/master/laptop_setup.md) has been useful to me, so maybe mine will be useful to you.

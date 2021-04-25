@@ -5,7 +5,7 @@ permalink: /prototyping-at-the-speed-of-thought/
 published: true
 publication_date: 2019-09-18
 tags: commentaries
-backlinks: '<ul><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="site-history" class="internal-link" href="/site-history/">Site history</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
 ---
 
 Research and development—R&D—are usually lumped together and abbreviated, so it’s easy to forget that they are distinct activities. This often causes us to misapply norms and practices that are appropriate for one but not the other.

@@ -15,38 +15,33 @@ class Site:
 
     def __init__(self, pages: List[Page]):
         self.pages = pages
-        self.make_site_history_page()
+        self.make_all_pages_page()
         self.make_tag_pages()
         self.titles_dict: Dict[str, str] = {page.permalink: page.title for page in self.pages}
 
-    def make_site_history_page(self):
-        self.pages = [page for page in self.pages if page.title != 'Site history']
+    def make_all_pages_page(self):
+        self.pages = [page for page in self.pages if page.title != 'All pages by date']
         pages_with_dates = sorted(
             [page for page in self.pages if page.publication_date or page.last_updated],
-            key=lambda page: page.last_updated or page.publication_date,
+            key=lambda page: (page.publication_date, page.title),
             reverse=True
         )
-        site_history_page = [
+        all_pages_page = [
             '---\n',
             'layout: page\n',
-            f'title: Site history\n',
+            f'title: All pages by date\n',
             'published: true\n',
-            f'permalink: /site-history/\n',
-            'tags: meta\n',
+            f'permalink: /all-pages-by-date/\n',
             'backlinks: \n',
             '---\n',
             '\n'
         ]
         for page in pages_with_dates:
-            if page.last_updated:
-                site_history_page.append(
-                    f'* {page.last_updated}: <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a> (updated)\n'
-                )
-            else:
-                site_history_page.append(
-                    f'* {page.publication_date}: <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>\n'
-                )
-        self.pages.append(Page(page = site_history_page, folder = 'pages'))
+            updated = f' `updated {page.last_updated}`' if page.last_updated else ''
+            all_pages_page.append(
+                f'* `{page.publication_date}` <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>{updated}\n'
+            )
+        self.pages.append(Page(page = all_pages_page, folder = 'pages'))
 
     def make_tag_pages(self):
         for tag, pretty_name in tag_dict.items():
@@ -77,14 +72,13 @@ class Site:
         else:
             relevant_pages = sorted(
                 [page for page in self.pages if page.tags and tag in page.tags],
-                key=lambda page: page.last_updated or page.publication_date,
+                key=lambda page: (page.publication_date, page.title),
                 reverse=True
             )
             for page in relevant_pages:
-                date = page.last_updated or page.publication_date
-                updated = ' (updated)' if page.last_updated else ''
+                updated = f' `updated {page.last_updated}`' if page.last_updated else ''
                 tag_page.append(
-                    f'* {date}: <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}{updated}</a>\n'
+                    f'* `{page.publication_date}` <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>{updated}\n'
                 )
         self.pages.append(Page(page = tag_page, folder = 'pages'))
 

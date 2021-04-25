@@ -42,6 +42,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Finnegan, _Barbarian Days_ (2015) 
 * Frank, _The Diary of a Young Girl_ (1947) 
 * Franklin, _The Autobiography of Benjamin Franklin_ (1791) 
+* Galef, _The Scout Mindset_ (2021) 
 * Gates, _<a id="gates-climate-disaster" class="internal-link" href="/gates-climate-disaster/">How to Avoid a Climate Disaster</a>_ (2021) 
 * Gilbert, _Stumbling on Happiness_ (2006) 
 * Gladwell, _Outliers_ (2008) 

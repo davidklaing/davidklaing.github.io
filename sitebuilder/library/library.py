@@ -78,7 +78,7 @@ class Library:
             '---\n',
             '\n'
         ]
-        preface = 'My library contains all the books I’ve read enough of to have formed an opinion on. Happy browsing!\n\n'
+        preface = 'In the pages below, you can browse all the books I’ve read enough of to have formed an opinion on. If you have recommendations, please send them my way!\n\n'
         when_i_read_it_header = '## When I read it\n\n'
         when_i_read_it_table = self.make_shelf_category_list(shelf_category=self.shelves_by_read_date)
         when_it_was_published_header = '## When it was published\n\n'
@@ -105,7 +105,7 @@ class Library:
             n_books = len(shelf.books)
             line = f'* <a id="books-{shelf.path}" class="internal-link" href="/books-{shelf.path}/">{shelf.title}</a> ({n_books})\n'
             if 'tag' in shelf.path:
-                if n_books >= 5:
+                if n_books >= 1:
                     category_list += line
             else:
                 category_list += line
