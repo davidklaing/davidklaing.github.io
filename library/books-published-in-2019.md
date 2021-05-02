@@ -7,6 +7,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 ---
 
 * Chiang, _Exhalation: Stories_ (2019) 
+* Gottlieb, _Maybe You Should Talk to Someone_ (2019) 
 * Kishimi & Koga, _<a id="kishimi-koga-courage" class="internal-link" href="/kishimi-koga-courage/">The Courage to Be Disliked</a>_ (2019) 
 * Miller, _Know My Name_ (2019) 
 * Tsatsouline, _Kettlebell Simple & Sinister_ (2019) 

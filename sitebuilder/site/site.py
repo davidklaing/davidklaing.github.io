@@ -39,7 +39,7 @@ class Site:
         for page in pages_with_dates:
             updated = f' `updated {page.last_updated}`' if page.last_updated else ''
             all_pages_page.append(
-                f'* `{page.publication_date}` <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>{updated}\n'
+                f'`{page.publication_date}` <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>{updated}\n\n'
             )
         self.pages.append(Page(page = all_pages_page, folder = 'pages'))
 
@@ -67,7 +67,7 @@ class Site:
             )
             for page in relevant_pages:
                 tag_page.append(
-                    f'* <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>\n'
+                    f'<a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>\n\n'
                 )
         else:
             relevant_pages = sorted(
@@ -78,7 +78,7 @@ class Site:
             for page in relevant_pages:
                 updated = f' `updated {page.last_updated}`' if page.last_updated else ''
                 tag_page.append(
-                    f'* `{page.publication_date}` <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>{updated}\n'
+                    f'`{page.publication_date}` <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>{updated}\n\n'
                 )
         self.pages.append(Page(page = tag_page, folder = 'pages'))
 

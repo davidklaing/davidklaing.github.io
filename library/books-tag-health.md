@@ -6,6 +6,7 @@ permalink: /books-tag-health/
 backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
 ---
 
+* Gottlieb, _Maybe You Should Talk to Someone_ (2019) 
 * Hargrove, _Playing With Movement_ (2014) 
 * Payne & Barnett, _The Economists' Diet_ (2018) 
 * Tsatsouline, _Kettlebell Simple & Sinister_ (2019) 
