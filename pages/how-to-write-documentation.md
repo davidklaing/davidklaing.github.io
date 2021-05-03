@@ -7,7 +7,7 @@ tags: resources,summaries,data-science
 backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li><li><a id="summaries" class="internal-link" href="/summaries/">Summaries</a></li></ul>'
 ---
 
-The best way to think about documentation that I have come across is from Daniele Procida. He explains it in [his talk at PyCon Australia 2017](https://www.youtube.com/watch?v=t4vKPhjcMZg), and in a [standalone website](https://documentation.divio.com/).
+The best way to think about documentation that I have come across is from Daniele Procida. He explains it in [his talk at PyCon Australia 2017](https://www.youtube.com/watch?v=t4vKPhjcMZg), and in a [standalone website](https://diataxis.fr/).
 
 The basic idea is that there isn't just a single kind of documentation—there are four:
 
@@ -68,4 +68,4 @@ As soon as they start to bleed into each other, the documentation becomes a rat'
 ## References
 
 - Procida, Daniele. (2017). What nobody tells you about documentation. PyCon Australia 2017. [https://www.youtube.com/watch?v=t4vKPhjcMZg](https://www.youtube.com/watch?v=t4vKPhjcMZg)
-- Procida, Daniele. (2020). Documentation system. Divio. [https://documentation.divio.com/](https://documentation.divio.com/)
+- Procida, Daniele. (2020). Documentation system. Divio. [https://diataxis.fr/](https://diataxis.fr/)
