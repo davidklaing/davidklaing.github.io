@@ -68,4 +68,4 @@ As soon as they start to bleed into each other, the documentation becomes a rat'
 ## References
 
 - Procida, Daniele. (2017). What nobody tells you about documentation. PyCon Australia 2017. [https://www.youtube.com/watch?v=t4vKPhjcMZg](https://www.youtube.com/watch?v=t4vKPhjcMZg)
-- Procida, Daniele. (2020). Documentation system. Divio. [https://diataxis.fr/](https://diataxis.fr/)
+- Procida, Daniele. (2020). Diátaxis Framework. [https://diataxis.fr/](https://diataxis.fr/)
