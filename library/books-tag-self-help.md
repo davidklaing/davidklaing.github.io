@@ -25,6 +25,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Kaufman, _The Personal MBA_ (2010) 
 * Kishimi & Koga, _<a id="kishimi-koga-courage" class="internal-link" href="/kishimi-koga-courage/">The Courage to Be Disliked</a>_ (2019) 
 * Medina, _Brain Rules_ (2008) 
+* Milkman, _How to Change_ (2021) 
 * O'Shaughnessy, _Millennial Money_ (2014) 
 * Oakley, _A Mind for Numbers_ (2014) 
 * Robbins, _MONEY Master the Game_ (2014) 

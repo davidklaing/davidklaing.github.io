@@ -16,6 +16,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Frank, _The Diary of a Young Girl_ (1947) 
 * Franklin, _The Autobiography of Benjamin Franklin_ (1791) 
 * Gottlieb, _Maybe You Should Talk to Someone_ (2019) 
+* Jahren, _Lab Girl_ (2016) 
 * Kalanithi, _When Breath Becomes Air_ (2016) 
 * King, _On Writing_ (2000) 
 * Levi, _Survival in Auschwitz_ (1947) 

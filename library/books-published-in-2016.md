@@ -9,6 +9,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Christian & Griffiths, _Algorithms to Live By_ (2016) 
 * Duckworth, _Grit_ (2016) 
 * Hawley, _Before the Fall_ (2016) 
+* Jahren, _Lab Girl_ (2016) 
 * Kalanithi, _When Breath Becomes Air_ (2016) 
 * Lang, _Small Teaching_ (2016) 
 * Moss, _The Rookie_ (2016) 

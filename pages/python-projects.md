@@ -2,9 +2,6 @@
 layout: page
 title: Python projects
 permalink: /python-projects/
-publication_date: 2021-05-07
-published: false
-tags: resources,data-science
 ---
 
 ## Set up virtual environment

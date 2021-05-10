@@ -20,6 +20,7 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Kahneman, _Thinking, Fast and Slow_ (2011) 
 * Kishimi & Koga, _<a id="kishimi-koga-courage" class="internal-link" href="/kishimi-koga-courage/">The Courage to Be Disliked</a>_ (2019) 
 * Medina, _Brain Rules_ (2008) 
+* Milkman, _How to Change_ (2021) 
 * Pinker, _How the Mind Works_ (1997) 
 * Pinker, _The Language Instinct_ (1994) 
 * Ritchie, _Intelligence_ (2015) 

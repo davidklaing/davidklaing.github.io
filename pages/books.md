@@ -10,7 +10,7 @@ In the pages below, you can browse all the books I’ve read. They are organized
 
 ## By when I read them
 
-* <a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a> (26)
+* <a id="books-read-in-2021" class="internal-link" href="/books-read-in-2021/">Read in 2021</a> (28)
 * <a id="books-read-in-2020" class="internal-link" href="/books-read-in-2020/">Read in 2020</a> (26)
 * <a id="books-read-in-2019" class="internal-link" href="/books-read-in-2019/">Read in 2019</a> (14)
 * <a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a> (16)
@@ -27,12 +27,12 @@ In the pages below, you can browse all the books I’ve read. They are organized
 
 ## By when they were published
 
-* <a id="books-published-in-2021" class="internal-link" href="/books-published-in-2021/">Published in 2021</a> (2)
+* <a id="books-published-in-2021" class="internal-link" href="/books-published-in-2021/">Published in 2021</a> (3)
 * <a id="books-published-in-2020" class="internal-link" href="/books-published-in-2020/">Published in 2020</a> (5)
 * <a id="books-published-in-2019" class="internal-link" href="/books-published-in-2019/">Published in 2019</a> (5)
 * <a id="books-published-in-2018" class="internal-link" href="/books-published-in-2018/">Published in 2018</a> (8)
 * <a id="books-published-in-2017" class="internal-link" href="/books-published-in-2017/">Published in 2017</a> (13)
-* <a id="books-published-in-2016" class="internal-link" href="/books-published-in-2016/">Published in 2016</a> (9)
+* <a id="books-published-in-2016" class="internal-link" href="/books-published-in-2016/">Published in 2016</a> (10)
 * <a id="books-published-in-2015" class="internal-link" href="/books-published-in-2015/">Published in 2015</a> (9)
 * <a id="books-published-in-2014" class="internal-link" href="/books-published-in-2014/">Published in 2014</a> (14)
 * <a id="books-published-in-2013" class="internal-link" href="/books-published-in-2013/">Published in 2013</a> (3)
@@ -66,15 +66,15 @@ In the pages below, you can browse all the books I’ve read. They are organized
 ## By tag
 
 * <a id="books-tag-fiction" class="internal-link" href="/books-tag-fiction/">Fiction</a> (136)
-* <a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a> (124)
+* <a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a> (126)
 * <a id="books-tag-literary-fiction" class="internal-link" href="/books-tag-literary-fiction/">Literary fiction</a> (71)
 * <a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a> (35)
 * <a id="books-tag-fantasy" class="internal-link" href="/books-tag-fantasy/">Fantasy</a> (30)
+* <a id="books-tag-self-help" class="internal-link" href="/books-tag-self-help/">Self-help</a> (25)
 * <a id="books-tag-science" class="internal-link" href="/books-tag-science/">Science</a> (24)
 * <a id="books-tag-science-fiction" class="internal-link" href="/books-tag-science-fiction/">Science fiction</a> (24)
-* <a id="books-tag-self-help" class="internal-link" href="/books-tag-self-help/">Self-help</a> (24)
-* <a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a> (21)
-* <a id="books-tag-memoirs" class="internal-link" href="/books-tag-memoirs/">Memoirs</a> (18)
+* <a id="books-tag-psychology" class="internal-link" href="/books-tag-psychology/">Psychology</a> (22)
+* <a id="books-tag-memoirs" class="internal-link" href="/books-tag-memoirs/">Memoirs</a> (19)
 * <a id="books-tag-history" class="internal-link" href="/books-tag-history/">History</a> (11)
 * <a id="books-tag-young-adult" class="internal-link" href="/books-tag-young-adult/">Young adult</a> (11)
 * <a id="books-tag-human-nature" class="internal-link" href="/books-tag-human-nature/">Human nature</a> (9)
