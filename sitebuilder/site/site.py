@@ -38,8 +38,12 @@ class Site:
         ]
         for page in pages_with_dates:
             updated = f' `updated {page.last_updated}`' if page.last_updated else ''
+            pub_date = page.publication_date
+            id = page.permalink.strip("/")
+            permalink = page.permalink
+            title = page.title
             all_pages_page.append(
-                f'`{page.publication_date}` <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>{updated}\n\n'
+                f'`{pub_date}` <a id="{id}" class="internal-link" href="{permalink}">{title}</a>{updated}\n\n'
             )
         self.pages.append(Page(page = all_pages_page, folder = 'pages'))
 
