@@ -3,7 +3,7 @@ layout: page
 title: Books
 published: true
 permalink: /books/
-backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li><li><a id="my-recurring-tasks" class="internal-link" href="/my-recurring-tasks/">My recurring tasks</a></li></ul>'
 ---
 
 In the pages below, you can browse all the books I’ve read. They are organized in three ways: by when I read them, by when they were published, and by tag. If you have a recommendation based on what you see here, please send it my way!

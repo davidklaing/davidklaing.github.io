@@ -79,7 +79,13 @@ a {
     color: #0074D9;
 }
 
-p, ul, ol, li {
+p {
+    line-height: 1.6;
+    margin-block-start: 1.6rem;
+    margin-block-end: 1.6rem;
+}
+
+ul, ol, li {
     line-height: 1.6;
     margin-block-start: 0.5rem;
     margin-block-end: 0.5rem;

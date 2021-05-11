@@ -6,6 +6,10 @@ permalink: /all-pages-by-date/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
+`2021-05-10` <a id="my-recurring-tasks" class="internal-link" href="/my-recurring-tasks/">My recurring tasks</a>
+
+`2021-05-10` <a id="how-i-maintain-my-want-to-read-list" class="internal-link" href="/how-i-maintain-my-want-to-read-list/">How I maintain my want-to-read list</a>
+
 `2021-04-17` <a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Wilson translation)</a>
 
 `2021-04-13` <a id="gates-climate-disaster" class="internal-link" href="/gates-climate-disaster/">How to Avoid a Climate Disaster (Gates)</a>

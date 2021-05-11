@@ -3,7 +3,7 @@ layout: page
 title: Yearly retrospectives
 published: true
 permalink: /yearly-retrospectives/
-backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li><li><a id="my-recurring-tasks" class="internal-link" href="/my-recurring-tasks/">My recurring tasks</a></li></ul>'
 ---
 
 `2020-12-31` <a id="retrospective-2020" class="internal-link" href="/retrospective-2020/">2020 retrospective</a>

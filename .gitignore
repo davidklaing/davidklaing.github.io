@@ -10,5 +10,6 @@ sitebuilder.egg-info/
 sitebuilder/__pycache__/
 sitebuilder/bin/
 sitebuilder/library/__pycache__/
+sitebuilder/site/__pycache__/
 vendor/
 venv/

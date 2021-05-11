@@ -3,7 +3,6 @@ tag_dict = {
     'commentaries': 'Commentaries',
     'data-science': 'Data science',
     'essays': 'Essays',
-    'meta': 'Meta',
     'proto-essays': 'Proto-essays',
     'resources': 'Resources',
     'reviews': 'Reviews',
