@@ -4,7 +4,7 @@ title: How I choose what to read
 permalink: /how-i-choose-what-to-read/
 ---
 
-I recently read Madeline Miller's book, <a id="miller-song-of-achilles" class="internal-link" href="/miller-song-of-achilles/">The Song of Achilles</a>, which is a retelling of the story of Achilles and the Trojan war from the perspective of Patroclus, Achilles' male lover. I thought the book was incredible, so I raved about it to several friends. One of them took me up on the recommendation and read the book, but he thought it was only okay. When we discussed it, I learned that, unlike me, my friend had never read The Iliad and was generally unfamiliar with the story that The Song of Achilles was adapting. We both read the same book, but had very different experiences.
+I recently read Madeline Miller's book, <a id="miller-song-of-achilles" class="internal-link" href="/miller-song-of-achilles/">The Song of Achilles</a>, which is a retelling of the story of Achilles and the Trojan war from the perspective of Patroclus, Achilles' male lover. I thought the book was incredible, so I raved about it to several friends. One of them took me up on the recommendation and read the book, but he thought it was only okay. When we discussed it, I learned that, unlike me, my friend had never read The Iliad and was unfamiliar with the story that The Song of Achilles was adapting. We both read the same book, but had very different experiences.
 
 A useful distinction is between a *book* and a *reading*. A book is a static artifact: an author wrote and published a sequence of words on such-and-such date. A reading is an experience of interacting with a particular book. A reading is partially defined by the book in question, but it's also defined by many other factors, such as:
 
@@ -15,12 +15,13 @@ A useful distinction is between a *book* and a *reading*. A book is a static art
 - What else you've read previously, both recently and in the distant past
 - What is currently happening in your life
 
-Rather than trying to identify the best possible books, I try to identify the best possible readings. There are several components to this:
+Rather than trying to identify the best possible books, I try to identify the best possible readings. Practically, this means I use one of the following strategies:
 
-1. Maintaining a want-to-read list.
-2. Regularly reflecting on and setting short-, medium-, and long-term goals.
-3. Paying attention to what my friends are currently reading.
-4. 
+- Pick a book that is connected to 
+
+
+3. Maintaining a contextually rich want-to-read list.
+4. Assembling project-specific reading lists.
 
 
 I usually have three to five books on the go at a time, in the following categories:
