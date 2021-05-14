@@ -6,6 +6,8 @@ permalink: /all-pages-by-date/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
+`2021-05-13` <a id="how-i-choose-what-to-read" class="internal-link" href="/how-i-choose-what-to-read/">How I choose what to read</a>
+
 `2021-05-10` <a id="my-recurring-tasks" class="internal-link" href="/my-recurring-tasks/">My recurring tasks</a>
 
 `2021-05-10` <a id="how-i-maintain-my-want-to-read-list" class="internal-link" href="/how-i-maintain-my-want-to-read-list/">How I maintain my want-to-read list</a>
