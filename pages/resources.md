@@ -14,7 +14,7 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 
 `2020-07-25` <a id="how-to-write-documentation" class="internal-link" href="/how-to-write-documentation/">How to write documentation</a>
 
-`2020-06-19` <a id="favourite-questions" class="internal-link" href="/favourite-questions/">Favourite questions</a> `updated 2021-04-25`
+`2020-06-19` <a id="questions" class="internal-link" href="/questions/">Questions</a> `updated 2021-05-14`
 
 `2020-02-11` <a id="how-to-invest-in-index-funds" class="internal-link" href="/how-to-invest-in-index-funds/">How to invest in index funds, for Canadians</a>
 

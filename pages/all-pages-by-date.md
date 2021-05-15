@@ -56,7 +56,7 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 
 `2020-06-24` <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula (Barabási)</a>
 
-`2020-06-19` <a id="favourite-questions" class="internal-link" href="/favourite-questions/">Favourite questions</a> `updated 2021-04-25`
+`2020-06-19` <a id="questions" class="internal-link" href="/questions/">Questions</a> `updated 2021-05-14`
 
 `2020-05-04` <a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a>
 

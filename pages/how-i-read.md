@@ -21,4 +21,6 @@ permalink: /how-i-read/
 
 ### Articles & essays
 
-- 
+- Robin Hanson's 'Chase your reading'
+- Cedric Chin's 'Branch books vs tree books'
+- Brendan Schlagel

@@ -4,7 +4,7 @@ title: Professional development in data science
 permalink: /professional-development-in-data-science/
 published: true
 publication_date: 2020-06-25
-tags: proto-essays
+tags: proto-essays, data-science, resources
 backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li></ul>'
 ---
 
