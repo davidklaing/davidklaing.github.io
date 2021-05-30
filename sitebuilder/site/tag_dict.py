@@ -1,5 +1,5 @@
 tag_dict = {
-    'chess': 'Chess',
+    'games': 'Games',
     'commentaries': 'Commentaries',
     'data-science': 'Data science',
     'essays': 'Essays',

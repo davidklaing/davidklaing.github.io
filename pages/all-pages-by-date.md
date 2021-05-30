@@ -6,6 +6,8 @@ permalink: /all-pages-by-date/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
+`2021-05-29` <a id="play-more-games" class="internal-link" href="/play-more-games/">Play more games</a>
+
 `2021-05-13` <a id="how-i-choose-what-to-read" class="internal-link" href="/how-i-choose-what-to-read/">How I choose what to read</a>
 
 `2021-05-10` <a id="my-recurring-tasks" class="internal-link" href="/my-recurring-tasks/">My recurring tasks</a>
@@ -55,8 +57,6 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 `2020-06-25` <a id="professional-development-in-data-science" class="internal-link" href="/professional-development-in-data-science/">Professional development in data science</a>
 
 `2020-06-24` <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula (Barabási)</a>
-
-`2020-06-19` <a id="questions" class="internal-link" href="/questions/">Questions</a> `updated 2021-05-14`
 
 `2020-05-04` <a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a>
 

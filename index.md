@@ -18,10 +18,10 @@ Welcome! I'm David Laing. I maintain this website as a way to share my learning,
 ## By tag
 
 * <a id="books" class="internal-link" href="/books/">Books</a>
-* <a id="chess" class="internal-link" href="/chess/">Chess</a>
 * <a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a>
 * <a id="data-science" class="internal-link" href="/data-science/">Data science</a>
 * <a id="essays" class="internal-link" href="/essays/">Essays</a>
+* <a id="games" class="internal-link" href="/games/">Games</a>
 * <a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a>
 * <a id="resources" class="internal-link" href="/resources/">Resources</a>
 * <a id="reviews" class="internal-link" href="/reviews/">Reviews</a>

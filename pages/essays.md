@@ -6,6 +6,8 @@ permalink: /essays/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
+`2021-05-29` <a id="play-more-games" class="internal-link" href="/play-more-games/">Play more games</a>
+
 `2020-04-05` <a id="the-machine-stops" class="internal-link" href="/the-machine-stops/">E.M. Forster foresaw 2020 in 1909</a>
 
 `2020-02-01` <a id="roam-as-a-slip-box" class="internal-link" href="/roam-as-a-slip-box/">Roam as a slip-box</a>
