@@ -45,3 +45,7 @@ After reflecting on my own experiences with games, I’m persuaded by Nguyen’s
     - Modern Art
 
 If you have recommendations—especially for games that offer uniquely interesting agential modes—please send them my way!
+
+----
+
+Thanks to Matthew Jordan and Meg Inman for editing this essay.
