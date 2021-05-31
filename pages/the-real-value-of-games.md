@@ -9,7 +9,7 @@ backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-p
 
 A few years ago, I got really into chess, and people said, "Wow, that must be so good for your brain." I was skeptical of this, and thought, "Nah, the only thing it’s good for is getting better at chess."
 
-But recently I’ve come to value not only chess but all games in a new way, thanks to the book *Games: Agency as Art*, by the philosopher C. Thi Nguyen. In one passage, he explains how chess helped him develop the right mindset for philosophy:
+But recently I’ve come to value not only chess but all games in a new way, thanks to the book [*Games: Agency as Art*](https://www.goodreads.com/book/show/48765399-games), by the philosopher C. Thi Nguyen. In one passage, he explains how chess helped him develop the right mindset for philosophy:
 
 > I had long nurtured a deep desire to seek the truth via analytic philosophy. But in my earlier years, I was temperamentally ill-suited to analytic philosophy. My attention wandered; I wasn’t very interested in looking for potential objections. I wasn’t motivated to take the requisite painstaking care in developing my arguments. [...] 
 > 
@@ -39,7 +39,7 @@ After reflecting on my own experiences with games, I’m persuaded by Nguyen’s
     - Portal 2
     - The Witness
     - Outer Wilds
-2. I'm playing more tabletop games with friends and family. These games have an advantage over video games because it's hard to accidentally dump 50 hours a month into them. Here are a few games I've been playing lately, on Nguyen's recommendation:
+2. I'm playing more tabletop games with friends and family. These games have an advantage over video games because it's hard to accidentally dump 50 hours a month into them. Here are a few games I've been playing lately, on [Nguyen's recommendation](https://objectionable.net/2020/12/07/board-games-so-many-recommendations/):
     - Spyfall
     - Hanabi
     - Modern Art
