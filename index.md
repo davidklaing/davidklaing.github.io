@@ -19,7 +19,7 @@ Welcome! I'm David Laing. If you're new to this site, <a id="start-here" class="
 ## By format
 
 * <a id="essays" class="internal-link" href="/essays/">Essays</a>
-* <a id="notes" class="internal-link" href="/summaries/">Notes</a>
+* <a id="notes" class="internal-link" href="/notes/">Notes</a>
 * <a id="reviews" class="internal-link" href="/reviews/">Reviews</a>
 * <a id="yearly-retrospectives" class="internal-link" href="/yearly-retrospectives/">Yearly retrospectives</a>
 
@@ -30,4 +30,4 @@ Welcome! I'm David Laing. If you're new to this site, <a id="start-here" class="
 * <a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I've read</a>
 * <a id="data-science" class="internal-link" href="/data-science/">Data science</a>
 * <a id="games" class="internal-link" href="/games/">Games</a>
-* <a id="investing" class="internal-link" href="/games/">Investing</a>
+* <a id="investing" class="internal-link" href="/investing/">Investing</a>
