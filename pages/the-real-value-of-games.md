@@ -11,8 +11,7 @@ A few years ago, I got really into chess, and people said, "Wow, that must be so
 
 But recently I’ve come to value not only chess but all games in a new way, thanks to the book *Games: Agency as Art*, by the philosopher C. Thi Nguyen. In one passage, he explains how chess helped him develop the right mindset for philosophy:
 
-> I had long nurtured a deep desire to seek the truth via analytic philosophy. But in my earlier years, I was temperamentally ill-suited to analytic philosophy. My attention wandered; I wasn’t very interested in looking for potential objections. I wasn’t motivated to take the requisite painstaking care in developing my arguments.
-[...] 
+> I had long nurtured a deep desire to seek the truth via analytic philosophy. But in my earlier years, I was temperamentally ill-suited to analytic philosophy. My attention wandered; I wasn’t very interested in looking for potential objections. I wasn’t motivated to take the requisite painstaking care in developing my arguments. [...] 
 > 
 > Then, I started playing a lot of Chess. Chess offered not only entertainment, but an agential mode. Chess gave me access to a way of focusing my practical rationality by making me, for short periods of time, extraordinarily interested in winning through careful calculation and predicting precise countersequences. Playing Chess made the short-term interests that were conducive to analytic philosophy more psychologically available to me. I could then deploy them at the appropriate time, like during graduate seminars.
 
