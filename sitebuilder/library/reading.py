@@ -10,8 +10,8 @@ class Reading:
         self.status = status
 
         if self.year < 2010:
-            self.year_title = f'Read before 2010'
+            self.year_title = f'Books I read before 2010'
             self.year_path = f'read-before-2010'
         else:
-            self.year_title = f'Read in {self.year}'
+            self.year_title = f'Books I read in {self.year}'
             self.year_path = f'read-in-{self.year}'

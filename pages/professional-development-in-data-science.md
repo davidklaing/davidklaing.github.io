@@ -4,8 +4,8 @@ title: Professional development in data science
 permalink: /professional-development-in-data-science/
 published: true
 publication_date: 2020-06-25
-tags: proto-essays, data-science, resources
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li></ul>'
+tags: data-science,notes,learning
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 There are lots of great resources that help data scientists land their first job, or learn about specific subjects. But I haven't seen any that focus on long-term professional development. This is how I'm currently thinking about it.

@@ -1,0 +1,11 @@
+---
+layout: page
+title: Books tagged &#39;religion&#39;
+published: true
+permalink: /books-tagged-religion/
+backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
+---
+
+* Dawkins, _The God Delusion_ (2006) 
+* Harris, _Waking Up_ (2014) 
+* Spong, _A New Christianity for a New World_ (2001) 

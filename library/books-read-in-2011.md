@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Read in 2011
+title: Books I read in 2011
 published: true
 permalink: /books-read-in-2011/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
 * Card, _Ender's Shadow_ (1999) 

@@ -4,8 +4,8 @@ title: Deep Laziness (Perry)
 permalink: /deep-laziness/
 published: true
 publication_date: 2019-10-09
-tags: commentaries
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn’t just be for musicians</a></li></ul>'
+tags: notes,personal-growth
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn’t just be for musicians</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li></ul>'
 ---
 
 Laziness is usually frowned upon. We get paid, thanked, and admired for *producing*: for transforming chaos into order, for giving more than we take, for creating value rather than consuming it. Society doesn’t reward us for slacking off. 

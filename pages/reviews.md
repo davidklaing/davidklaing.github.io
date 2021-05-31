@@ -3,8 +3,14 @@ layout: page
 title: Reviews
 published: true
 permalink: /reviews/
-backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
+backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-this-site/">About this site</a></li><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
+
+`2021-05-30` <a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing (Marks)</a>
+
+`2021-05-30` <a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff (Konnikova)</a>
+
+`2021-05-30` <a id="malkiel-random-walk" class="internal-link" href="/malkiel-random-walk/">A Random Walk Down Wall Street (Malkiel)</a>
 
 `2021-04-17` <a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Wilson translation)</a>
 
@@ -42,6 +48,8 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 
 `2021-01-23` <a id="cixin-three-body-problem" class="internal-link" href="/cixin-three-body-problem/">The Three-Body Problem (Cixin)</a>
 
+`2020-04-05` <a id="the-machine-stops" class="internal-link" href="/the-machine-stops/">E.M. Forster foresaw 2020 in 1909</a>
+
 `2020-02-09` <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will (Harris)</a>
 
 `2019-11-22` <a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove (McMurtry)</a>
@@ -51,4 +59,8 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 `2018-07-10` <a id="thiel-zero-to-one" class="internal-link" href="/thiel-zero-to-one/">Zero to One (Thiel)</a>
 
 `2018-01-10` <a id="clear-atomic-habits" class="internal-link" href="/clear-atomic-habits/">Atomic Habits (Clear)</a> `updated 2019-01-14`
+
+`2016-09-01` <a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind (Haidt)</a>
+
+`2016-06-01` <a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Gödel, Escher, Bach in 34 propositions</a> `updated 2020-01-02`
 

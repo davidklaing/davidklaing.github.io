@@ -3,8 +3,8 @@ layout: page
 title: How I choose what to read
 permalink: /how-i-choose-what-to-read/
 publication_date: 2021-05-13
-tags: resources
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li></ul>'
+tags: notes,learning
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 I recently read Madeline Miller's book, <a id="miller-song-of-achilles" class="internal-link" href="/miller-song-of-achilles/">The Song of Achilles</a>, which is a retelling of the story of Achilles and the Trojan war from the perspective of Patroclus, Achilles' male lover. I thought the book was incredible, so I raved about it to several friends. One of them took me up on the recommendation and read the book, but he thought it was only okay. When we discussed it, I learned that, unlike me, my friend had never read The Iliad and was unfamiliar with the story that The Song of Achilles was adapting. We both read the same book, but had very different experiences.

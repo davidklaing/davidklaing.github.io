@@ -4,7 +4,8 @@ title: About me
 permalink: /about-me/
 publication_date: 2020-04-25
 last_updated: 2021-04-25
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
+tags: notes
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="home" class="internal-link" href="/">Home</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 ## What's my story?
@@ -28,4 +29,4 @@ Because then we might become friends! Perhaps you...
 
 ## How should you contact me?
 
-The best way is to send me a message on <a class="external-link" target="_self" href="https://twitter.com/davidklaing">Twitter</a>. You're also welcome to email me at davidkendalllaing at gmail dot com.
+The best way is to send me a message on <a class="external-link" target="_self" href="https://twitter.com/davidklaing">Twitter</a>. You're also welcome to <a href="mailto:david@davidklaing.com">email me</a>.

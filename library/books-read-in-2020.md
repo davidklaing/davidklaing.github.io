@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Read in 2020
+title: Books I read in 2020
 published: true
 permalink: /books-read-in-2020/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
 * Adler & Van Doren, _How to Read a Book_ (1972) 

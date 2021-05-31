@@ -4,8 +4,8 @@ title: Solved conversations (Lewis)
 permalink: /solved-conversations/
 published: true
 publication_date: 2019-10-23
-tags: commentaries
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li><li><a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn’t just be for musicians</a></li></ul>'
+tags: notes
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="covers-shouldnt-just-be-for-musicians" class="internal-link" href="/covers-shouldnt-just-be-for-musicians/">Covers shouldn’t just be for musicians</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 Some conversations feel more like scripted dialogues than like improvised exchanges. Perhaps we’re lazily rehashing the same talking points for the hundredth time, like when we comment on the weather or complain about politicians. Regardless of their context, these conversations proceed like clockwork, surprising no one.

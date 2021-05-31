@@ -3,8 +3,8 @@ layout: page
 title: Free Will (Harris)
 permalink: /harris-free-will/
 publication_date: 2020-02-09
-tags: reviews,summaries
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-2012" class="internal-link" href="/books-published-in-2012/">Published in 2012</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li><li><a id="summaries" class="internal-link" href="/summaries/">Summaries</a></li></ul>'
+tags: reviews
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-2012" class="internal-link" href="/books-published-in-2012/">Books I&#39;ve read that were published in 2012</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Books I read in 2016</a></li><li><a id="books-tagged-nonfiction" class="internal-link" href="/books-tagged-nonfiction/">Books tagged &#39;nonfiction&#39;</a></li><li><a id="books-tagged-philosophy" class="internal-link" href="/books-tagged-philosophy/">Books tagged &#39;philosophy&#39;</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li></ul>'
 ---
 
 The thesis of Sam Harris's book Free Will is that we don't have it.

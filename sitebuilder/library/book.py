@@ -43,7 +43,7 @@ class Book:
     def publication_era_info(self) -> Tuple[str, str, str]:
         if self.publication_year < 1800:
             era = '<1800'
-            title = 'Published before 1800'
+            title = f"Books I&#39;ve read that were published before 1800"
             path = 'published-before-1800'
             return (era, title, path)
         else:
@@ -57,7 +57,7 @@ class Book:
                 floor = 1
                 append_s = False
             era = str(self.publication_year - self.publication_year % floor)
-            title = f'Published in {era}'
+            title = f"Books I&#39;ve read that were published in {era}"
             path = f'published-in-{era}'
             if append_s:
                 title += 's'

@@ -4,8 +4,8 @@ title: Roam as a slip-box
 permalink: /roam-as-a-slip-box/
 published: true
 publication_date: 2020-02-01
-tags: resources,essays
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li></ul>'
+tags: notes
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 ## The slip-box method

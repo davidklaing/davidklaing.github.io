@@ -1,11 +1,10 @@
 tag_dict = {
     'games': 'Games',
-    'commentaries': 'Commentaries',
     'data-science': 'Data science',
     'essays': 'Essays',
-    'proto-essays': 'Proto-essays',
-    'resources': 'Resources',
+    'investing': 'Investing',
+    'notes': 'Notes',
+    'personal-growth': 'Personal growth',
     'reviews': 'Reviews',
-    'summaries': 'Summaries',
     'yearly-retrospectives': 'Yearly retrospectives'
 }

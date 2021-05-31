@@ -6,7 +6,15 @@ permalink: /all-pages-by-date/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
-`2021-05-29` <a id="play-more-games" class="internal-link" href="/play-more-games/">Play more games</a>
+`2021-05-30` <a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">The real value of games</a>
+
+`2021-05-30` <a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing (Marks)</a>
+
+`2021-05-30` <a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff (Konnikova)</a>
+
+`2021-05-30` <a id="about-this-site" class="internal-link" href="/about-this-site/">About this site</a>
+
+`2021-05-30` <a id="malkiel-random-walk" class="internal-link" href="/malkiel-random-walk/">A Random Walk Down Wall Street (Malkiel)</a>
 
 `2021-05-13` <a id="how-i-choose-what-to-read" class="internal-link" href="/how-i-choose-what-to-read/">How I choose what to read</a>
 

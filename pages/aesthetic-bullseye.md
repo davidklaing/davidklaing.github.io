@@ -4,8 +4,8 @@ title: The aesthetic bullseye
 permalink: /aesthetic-bullseye/
 published: true
 publication_date: 2019-10-30
-tags: proto-essays
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="proto-essays" class="internal-link" href="/proto-essays/">Proto-essays</a></li></ul>'
+tags: notes,personal-growth
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li></ul>'
 ---
 
 When I’m cooking a meal, writing a paragraph, or programming a piece of software, I usually have a personal standard of quality that guides my decisions. After watching [this vlogbrothers video](https://www.youtube.com/watch?v=1LAhHDEtTD0), I started referring to this standard as my ‘aesthetic target’. At its center is my ‘aesthetic bullseye’, which represents my concept of perfection.

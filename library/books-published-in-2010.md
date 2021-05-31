@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Published in 2010
+title: Books I&#39;ve read that were published in 2010
 published: true
 permalink: /books-published-in-2010/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
 * Bloom, _<a id="bloom-how-pleasure-works" class="internal-link" href="/bloom-how-pleasure-works/">How Pleasure Works</a>_ (2010) 

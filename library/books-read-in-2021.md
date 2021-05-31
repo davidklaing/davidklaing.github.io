@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Read in 2021
+title: Books I read in 2021
 published: true
 permalink: /books-read-in-2021/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
 * Bloom, _<a id="bloom-how-pleasure-works" class="internal-link" href="/bloom-how-pleasure-works/">How Pleasure Works</a>_ (2010) 
@@ -25,9 +25,14 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Housel, _The Psychology of Money_ (2020) 
 * Jahren, _Lab Girl_ (2016) 
 * Kishimi & Koga, _<a id="kishimi-koga-courage" class="internal-link" href="/kishimi-koga-courage/">The Courage to Be Disliked</a>_ (2019) 
+* Konnikova, _<a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff</a>_ (2020) 
+* Malkiel, _<a id="malkiel-random-walk" class="internal-link" href="/malkiel-random-walk/">A Random Walk Down Wall Street (12th edition)</a>_ (2019) 
+* Marks, _<a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing</a>_ (2011) 
 * Milkman, _How to Change_ (2021) 
 * Miller, _<a id="miller-circe" class="internal-link" href="/miller-circe/">Circe</a>_ (2018) 
 * Miller, _<a id="miller-song-of-achilles" class="internal-link" href="/miller-song-of-achilles/">The Song of Achilles</a>_ (2012) 
+* Nguyen, _<a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">Games: Agency as Art</a>_ (2020) 
+* Podany, _Ancient Mesopotamia_ (2018) 
 * Reid, _<a id="reid-ending-things" class="internal-link" href="/reid-ending-things/">I'm Thinking of Ending Things</a>_ (2016) 
 * Rowling, _Harry Potter 1-7_ (2007) 
 * Stanovich et al., _The Rationality Quotient_ (2016) 

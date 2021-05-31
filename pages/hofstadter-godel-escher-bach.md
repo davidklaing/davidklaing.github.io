@@ -5,8 +5,8 @@ permalink: /hofstadter-godel-escher-bach/
 published: true
 publication_date: 2016-06-01
 last_updated: 2020-01-02
-tags: summaries
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-1970s" class="internal-link" href="/books-published-in-1970s/">Published in 1970s</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Read in 2016</a></li><li><a id="books-tag-computer-science" class="internal-link" href="/books-tag-computer-science/">Computer science</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a></li></ul>'
+tags: reviews
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-1970s" class="internal-link" href="/books-published-in-1970s/">Books I&#39;ve read that were published in 1970s</a></li><li><a id="books-read-in-2016" class="internal-link" href="/books-read-in-2016/">Books I read in 2016</a></li><li><a id="books-tagged-computer-science" class="internal-link" href="/books-tagged-computer-science/">Books tagged &#39;computer-science&#39;</a></li><li><a id="books-tagged-nonfiction" class="internal-link" href="/books-tagged-nonfiction/">Books tagged &#39;nonfiction&#39;</a></li><li><a id="books-tagged-philosophy" class="internal-link" href="/books-tagged-philosophy/">Books tagged &#39;philosophy&#39;</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li></ul>'
 ---
 
 _I originally published this in 2016, after I finished reading the book. I'm republishing it now, with a few edits for clarity, after prompting from [@nosilverv](https://twitter.com/nosilverv), who [asked](https://twitter.com/nosilverv/status/1212716598236254212):_

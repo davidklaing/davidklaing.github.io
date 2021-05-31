@@ -5,8 +5,8 @@ permalink: /clear-atomic-habits/
 published: true
 publication_date: 2018-01-10
 last_updated: 2019-01-14
-tags: reviews,summaries
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-2018" class="internal-link" href="/books-published-in-2018/">Published in 2018</a></li><li><a id="books-read-in-2019" class="internal-link" href="/books-read-in-2019/">Read in 2019</a></li><li><a id="books-tag-business" class="internal-link" href="/books-tag-business/">Business</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-self-help" class="internal-link" href="/books-tag-self-help/">Self-help</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li><li><a id="summaries" class="internal-link" href="/summaries/">Summaries</a></li></ul>'
+tags: reviews,personal-growth
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-2018" class="internal-link" href="/books-published-in-2018/">Books I&#39;ve read that were published in 2018</a></li><li><a id="books-read-in-2019" class="internal-link" href="/books-read-in-2019/">Books I read in 2019</a></li><li><a id="books-tagged-business" class="internal-link" href="/books-tagged-business/">Books tagged &#39;business&#39;</a></li><li><a id="books-tagged-nonfiction" class="internal-link" href="/books-tagged-nonfiction/">Books tagged &#39;nonfiction&#39;</a></li><li><a id="books-tagged-self-help" class="internal-link" href="/books-tagged-self-help/">Books tagged &#39;self-help&#39;</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li></ul>'
 ---
 
 In an [episode of the North Star Podcast with David Perrell](https://www.listennotes.com/podcasts/north-star-podcast/daniel-gross-dreams-and-e8iC1HhrjDt/), the software entrepreneur Daniel Gross said something that I thought was very wise:

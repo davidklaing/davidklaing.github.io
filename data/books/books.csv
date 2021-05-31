@@ -3,6 +3,7 @@ The Pleasures of Reading in an Age of Distraction,Alan Jacobs,,,,,2011,"nonficti
 Einstein's Dreams,Alan Lightman,,,,,1992,"fiction,science-fiction",
 The Plague,Albert Camus,,Stuart Gilbert,,,1947,"fiction,literary-fiction",
 The Formula: The Universal Laws of Success,Albert-László Barabási,,,,,2018,"nonfiction,business,self-help",/barabasi-the-formula/
+Ancient Mesopotamia,Amanda H. Podany,,,,Amanda H. Podany,2018,"nonfiction,history",
 Artemis,Andy Weir,,,,,2017,"fiction,science-fiction",
 The Martian,Andy Weir,,,,,2012,"fiction,science-fiction",
 Grit,Angela Duckworth,,,,,2016,"nonfiction,psychology,self-help",
@@ -11,7 +12,7 @@ The Diary of a Young Girl,Anne Frank,,Barbara Mooyaart-Doubleday,,,1947,"nonfict
 Pilgrim at Tinker Creek,Annie Dillard,,,,,1974,"nonfiction,memoirs",
 All the Light We Cannot See,Anthony Doerr,,,,,2014,"fiction,literary-fiction,historical-fiction",
 The Dream of Reason,Anthony Gottlieb,,,,,2000,"nonfiction,philosophy,history",
-MONEY Master the Game,Anthony Robbins,,,,,2014,"nonfiction,self-help,personal-finance",
+MONEY Master the Game,Anthony Robbins,,,,,2014,"nonfiction,self-help,investing",
 Le Petit Prince,Antoine de Saint-Exupéry,,,,,1943,"fiction,literary-fiction",
 The Iron Bridge,Anton Piatigorsky,,,,,2012,"fiction,historical-fiction,literary-fiction,short-stories",
 Elon Musk,Ashlee Vance,,,,,2015,"nonfiction,biographies",
@@ -25,7 +26,9 @@ Algorithms to Live By,Brian Christian,Tom Griffiths,,,,2016,"nonfiction,self-hel
 The Alignment Problem,Brian Christian,,,,,2020,"nonfiction,science,machine-learning,computer-science",/christian-alignment-problem/
 Data and Goliath,Bruce Schneier,,,,,2015,"nonfiction,philosophy,science,computer-science",
 Secrets and Lies,Bruce Schneier,,,,,2004,"nonfiction,science,computer-science",
+A Random Walk Down Wall Street (12th edition),Burton G. Malkiel,,,,,2019,"nonfiction,investing",/malkiel-random-walk/
 The Chronicles of Narnia,C.S. Lewis,,,,,1956,"fiction,fantasy,childrens",
+Games: Agency as Art,C. Thi Nguyen,,,,,2020,"nonfiction,philosophy",/the-real-value-of-games/
 Know My Name,Chanel Miller,,,,,2019,"nonfiction,memoirs",
 Great Expectations,Charles Dickens,,,,,1861,"fiction,literary-fiction",
 The City & the City,China Miéville,,,,,2009,"fiction,fantasy",
@@ -46,7 +49,7 @@ Altered Traits,Daniel Goleman,Richard Davidson,,,,2017,"nonfiction,psychology,sc
 "Thinking, Fast and Slow",Daniel Kahneman,,,,,2011,"nonfiction,psychology,science,behavioural-economics",
 Flowers for Algernon,Daniel Keyes,,,,,1966,"fiction,science-fiction",
 Stumbling on Happiness,Daniel Todd Gilbert,,,,,2006,"nonfiction,psychology,happiness",
-The Wealthy Barber Returns,David Chilton,,,,,2011,"nonfiction,self-help,personal-finance",
+The Wealthy Barber Returns,David Chilton,,,,,2011,"nonfiction,self-help,investing",
 The Muse Asylum,David Czuchlewski,,,,,2001,"fiction,literary-fiction",
 Infinite Jest,David Foster Wallace,,,,,1996,"fiction,literary-fiction",
 Oblivion,David Foster Wallace,,,,,2004,"fiction,literary-fiction,short-stories",
@@ -97,6 +100,7 @@ The Iliad (Fagles translation),Homer,,Robert Fagles,,,-800,"fiction,literary-fic
 The Odyssey (Fagles translation),Homer,,Robert Fagles,,,-800,"fiction,literary-fiction,greek-mythology",
 The Odyssey (Wilson translation),Homer,,Emily Wilson,,Claire Danes,-800,"fiction,literary-fiction,greek-mythology",/homer-odyssey/
 Lab Girl,Hope Jahren,,,,Hope Jahren,2016,"nonfiction,memoirs",
+The Most Important Thing,Howard Marks,,,,,2011,"nonfiction,investing",/marks-most-important-thing/
 The Player of Games,Iain M. Banks,,,,,1988,"fiction,science-fiction",
 I'm Thinking of Ending Things,Iain Reid,,,,,2016,"fiction,thriller",/reid-ending-things/
 The Courage to Be Disliked,Ichiro Kishimi,Fumitake Koga,Kurawareru Yuki,,,2019,"nonfiction,psychology,self-help",/kishimi-koga-courage/
@@ -161,6 +165,7 @@ Circe,Madeline Miller,,,,,2018,"fiction,greek-mythology",/miller-circe/
 Outliers,Malcolm Gladwell,,,,,2008,"nonfiction,science",
 Meditations,Marcus Aurelius,,George Long,,,180,"nonfiction,philosophy",
 The Penelopiad,Margaret Atwood,,,,,2005,"fiction,literary-fiction,greek-mythology",
+The Biggest Bluff,Maria Konnikova,,,,Maria Konnikova,2020,"nonfiction,memoirs",/konnikova-biggest-bluff/
 Frankenstein,Mary Wollstonecraft Shelley,,,,,1818,"fiction,literary-fiction,science-fiction",
 Shop Class as Soulcraft,Matthew B. Crawford,,,,,2009,"nonfiction,philosophy",
 The Amazing Adventures of Kavalier & Clay,Michael Chabon,,,,,2000,"fiction,literary-fiction",
@@ -169,7 +174,7 @@ Reinventing Discovery,Michael Nielsen,,,,,2011,"nonfiction,philosophy,science",
 Don Quixote,Miguel de Cervantes,,John Rutherford,,,1615,"fiction,literary-fiction",
 Flask Web Development,Miguel Grinberg,,,,,2014,"nonfiction,programming,textbooks,reference",
 Flow,Mihaly Csikszentmihalyi,,,,,1990,"nonfiction,happiness,psychology,self-help",/csikszentmihalyi-flow/
-The Psychology of Money,Morgan Housel,,,,,2020,"nonfiction,personal-finance,psychology",
+The Psychology of Money,Morgan Housel,,,,,2020,"nonfiction,investing,psychology",
 How to Read a Book,Mortimer J. Adler,Charles Van Doren,,,,1972,"nonfiction,reading,self-help,learning",
 The Fifth Season,N.K. Jemisin,,,,,2015,"fiction,fantasy",
 Working In Public,Nadia Eghbal,,,,,2020,"nonfiction,programming",/eghbal-working-in-public/
@@ -187,7 +192,7 @@ Wild Seed,Octavia E. Butler,,,,,1980,"fiction,fantasy",
 Ender's Saga,Orson Scott Card,,,,,1996,"fiction,science-fiction",
 Ender's Shadow,Orson Scott Card,,,,,1999,"fiction,science-fiction",
 The Picture of Dorian Gray,Oscar Wilde,,,,,1890,"fiction,literary-fiction",
-Millennial Money,Patrick O'Shaughnessy,,,,,2014,"nonfiction,personal-finance,self-help",
+Millennial Money,Patrick O'Shaughnessy,,,,,2014,"nonfiction,investing",
 How Pleasure Works,Paul Bloom,,,,,2010,"nonfiction,science,psychology,human-nature,philosophy",/bloom-how-pleasure-works/
 When Breath Becomes Air,Paul Kalanithi,,,,,2016,"nonfiction,memoirs",
 The Alchemist,Paulo Coelho,,Alan R. Clarke,,,1988,"fiction,parables,literary-fiction",

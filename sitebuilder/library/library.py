@@ -4,7 +4,7 @@ from sitebuilder.library.author import Author
 from sitebuilder.library.book import Book
 from sitebuilder.library.reading import Reading
 from sitebuilder.library.shelf import Shelf
-from sitebuilder.library.tag_dict import tag_dict
+from sitebuilder.library.tags import tags
 
 
 class Library:
@@ -54,7 +54,7 @@ class Library:
 
 
     def get_shelves_by_tag(self):
-        shelves = {tag: {'title': title, 'path': f'tag-{tag}', 'books': []} for tag, title in tag_dict.items()}
+        shelves = {tag: {'title': f'Books tagged &#39;{tag}&#39;', 'path': f'tagged-{tag}', 'books': []} for tag in tags}
         for book in self.books:
             for tag in book.tags:
                 shelves[tag]['books'].append(book)
@@ -71,9 +71,9 @@ class Library:
         page = [
             '---\n',
             'layout: page\n',
-            f'title: Books\n',
+            f"title: Books I&#39;ve read\n",
             'published: true\n',
-            f'permalink: /books/\n',
+            f'permalink: /books-ive-read/\n',
             'backlinks: \n',
             '---\n',
             '\n'
@@ -95,7 +95,7 @@ class Library:
             by_tag_table
         ]:
             page.append(component)
-        with open(f'pages/books.md', 'w') as f:
+        with open(f'pages/books-ive-read.md', 'w') as f:
             return f.write(''.join(page))
     
     @staticmethod

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Published in 2005
+title: Books I&#39;ve read that were published in 2005
 published: true
 permalink: /books-published-in-2005/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
 * Atwood, _The Penelopiad_ (2005) 

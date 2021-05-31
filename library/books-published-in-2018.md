@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Published in 2018
+title: Books I&#39;ve read that were published in 2018
 published: true
 permalink: /books-published-in-2018/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
 * Barabási, _<a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a>_ (2018) 
@@ -12,5 +12,6 @@ backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a>
 * Graeber, _<a id="graeber-bullshit-jobs" class="internal-link" href="/graeber-bullshit-jobs/">Bullshit Jobs</a>_ (2018) 
 * Miller, _<a id="miller-circe" class="internal-link" href="/miller-circe/">Circe</a>_ (2018) 
 * Payne & Barnett, _The Economists' Diet_ (2018) 
+* Podany, _Ancient Mesopotamia_ (2018) 
 * Westover, _Educated_ (2018) 
 * Wilson, _Teaching Tech Together_ (2018) 

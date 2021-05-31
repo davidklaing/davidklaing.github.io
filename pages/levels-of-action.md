@@ -4,8 +4,8 @@ title: Levels of Action (Vance)
 permalink: /levels-of-action/
 published: true
 publication_date: 2019-08-28
-tags: commentaries
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="commentaries" class="internal-link" href="/commentaries/">Commentaries</a></li></ul>'
+tags: notes,personal-growth
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li></ul>'
 ---
 
 What is a better use of time: improving the world, or improving your ability to improve the world?

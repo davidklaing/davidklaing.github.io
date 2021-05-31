@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Published before 1800
+title: Books I&#39;ve read that were published before 1800
 published: true
 permalink: /books-published-before-1800/
-backlinks: '<ul><li><a id="books" class="internal-link" href="/books/">Books</a></li></ul>'
+backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
 * Aurelius, _Meditations_ (180) 

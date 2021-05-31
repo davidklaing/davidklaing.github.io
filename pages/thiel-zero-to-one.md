@@ -4,7 +4,7 @@ title: Zero to One (Thiel)
 permalink: /thiel-zero-to-one/
 publication_date: 2018-07-10
 tags: reviews
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-2014" class="internal-link" href="/books-published-in-2014/">Published in 2014</a></li><li><a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Read in 2018</a></li><li><a id="books-tag-business" class="internal-link" href="/books-tag-business/">Business</a></li><li><a id="books-tag-nonfiction" class="internal-link" href="/books-tag-nonfiction/">Nonfiction</a></li><li><a id="books-tag-philosophy" class="internal-link" href="/books-tag-philosophy/">Philosophy</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="books-published-in-2014" class="internal-link" href="/books-published-in-2014/">Books I&#39;ve read that were published in 2014</a></li><li><a id="books-read-in-2018" class="internal-link" href="/books-read-in-2018/">Books I read in 2018</a></li><li><a id="books-tagged-business" class="internal-link" href="/books-tagged-business/">Books tagged &#39;business&#39;</a></li><li><a id="books-tagged-nonfiction" class="internal-link" href="/books-tagged-nonfiction/">Books tagged &#39;nonfiction&#39;</a></li><li><a id="books-tagged-philosophy" class="internal-link" href="/books-tagged-philosophy/">Books tagged &#39;philosophy&#39;</a></li><li><a id="reviews" class="internal-link" href="/reviews/">Reviews</a></li></ul>'
 ---
 
 A few new perspectives from Peter Thiel's book, Zero to One:

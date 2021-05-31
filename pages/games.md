@@ -6,7 +6,9 @@ permalink: /games/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
-`2021-05-29` <a id="play-more-games" class="internal-link" href="/play-more-games/">Play more games</a>
+`2021-05-30` <a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">The real value of games</a>
+
+`2021-05-30` <a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff (Konnikova)</a>
 
 `2019-12-15` <a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a>
 

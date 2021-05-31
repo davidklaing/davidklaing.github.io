@@ -3,8 +3,8 @@ layout: page
 title: How to write documentation
 permalink: /how-to-write-documentation/
 publication_date: 2020-07-25
-tags: resources,summaries,data-science
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="resources" class="internal-link" href="/resources/">Resources</a></li><li><a id="summaries" class="internal-link" href="/summaries/">Summaries</a></li></ul>'
+tags: notes,data-science
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 The best way to think about documentation that I have come across is from Daniele Procida. He explains it in [his talk at PyCon Australia 2017](https://www.youtube.com/watch?v=t4vKPhjcMZg), and in a [standalone website](https://diataxis.fr/).
