@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Welcome! I'm David Laing. If you're new to this site, you should <a id="start-here" class="internal-link" href="/start-here/">start here</a>.
+Welcome! I'm David Laing. If you're new to this site, <a id="start-here" class="internal-link" href="/start-here/">start here</a>.
 
 <hr>
 
