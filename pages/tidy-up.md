@@ -5,7 +5,7 @@ permalink: /tidy-up/
 published: true
 publication_date: 2019-11-24
 tags: notes,personal-growth
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li><li><a id="start-here" class="internal-link" href="/start-here/">Start here</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Pages tagged &#39;personal-growth&#39;</a></li><li><a id="start-here" class="internal-link" href="/start-here/">Start here</a></li></ul>'
 ---
 
 An underappreciated benefit of habitually tidying up is that it gives you more confidence to make useful messes. A few examples:

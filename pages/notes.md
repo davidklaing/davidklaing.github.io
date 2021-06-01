@@ -3,8 +3,10 @@ layout: page
 title: Notes
 published: true
 permalink: /notes/
-backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-this-site/">About this site</a></li></ul>'
+backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-this-site/">About this site</a></li><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
+
+`2021-05-31` <a id="how-to-write-a-review" class="internal-link" href="/how-to-write-a-review/">How to write a review</a>
 
 `2021-05-30` <a id="about-this-site" class="internal-link" href="/about-this-site/">About this site</a>
 
@@ -18,8 +20,6 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 
 `2020-06-25` <a id="professional-development-in-data-science" class="internal-link" href="/professional-development-in-data-science/">Professional development in data science</a>
 
-`2020-06-24` <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula (Barabási)</a>
-
 `2020-05-04` <a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a>
 
 `2020-04-25` <a id="about-me" class="internal-link" href="/about-me/">About me</a> `updated 2021-04-25`
@@ -28,7 +28,7 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 
 `2020-02-11` <a id="how-to-invest-in-index-funds" class="internal-link" href="/how-to-invest-in-index-funds/">How to invest in index funds, for Canadians</a>
 
-`2020-02-01` <a id="roam-as-a-slip-box" class="internal-link" href="/roam-as-a-slip-box/">Roam as a slip-box</a>
+`2020-02-01` <a id="roam-as-a-slip-box" class="internal-link" href="/roam-as-a-slip-box/">Roam as a slip-box</a> `updated 2021-05-31`
 
 `2019-12-15` <a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a>
 

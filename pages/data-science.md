@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data science
+title: Pages tagged &#39;data-science&#39;
 published: true
 permalink: /data-science/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'

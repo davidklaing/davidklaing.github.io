@@ -4,7 +4,7 @@ title: Chess strategy
 permalink: /chess-strategy/
 publication_date: 2019-12-15
 tags: notes,games
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="games" class="internal-link" href="/games/">Games</a></li><li><a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="games" class="internal-link" href="/games/">Pages tagged &#39;games&#39;</a></li><li><a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 1\. Control and occupy the center. You can go to more places from the center than you can from the edges.

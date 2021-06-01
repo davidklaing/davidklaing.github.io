@@ -4,8 +4,13 @@ title: Roam as a slip-box
 permalink: /roam-as-a-slip-box/
 published: true
 publication_date: 2020-02-01
-tags: notes
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
+last_updated: 2021-05-31
+tags: notes,learning
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="learning" class="internal-link" href="/learning/">Pages tagged &#39;learning&#39;</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
+---
+
+*Note: I'm no longer following the system described in this page.*
+
 ---
 
 ## The slip-box method

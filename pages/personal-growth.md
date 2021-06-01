@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Personal growth
+title: Pages tagged &#39;personal-growth&#39;
 published: true
 permalink: /personal-growth/
+backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
 `2021-05-30` <a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">The real value of games</a>
@@ -26,8 +27,6 @@ permalink: /personal-growth/
 `2019-10-09` <a id="deep-laziness" class="internal-link" href="/deep-laziness/">Deep Laziness (Perry)</a>
 
 `2019-09-25` <a id="pushing-and-pulling-goals" class="internal-link" href="/pushing-and-pulling-goals/">Pushing and pulling goals (Alexander)</a>
-
-`2019-09-18` <a id="prototyping-at-the-speed-of-thought" class="internal-link" href="/prototyping-at-the-speed-of-thought/">Prototyping at the speed of thought (Chi)</a>
 
 `2019-08-28` <a id="levels-of-action" class="internal-link" href="/levels-of-action/">Levels of Action (Vance)</a>
 

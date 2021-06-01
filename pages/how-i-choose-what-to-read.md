@@ -4,10 +4,8 @@ title: How I choose what to read
 permalink: /how-i-choose-what-to-read/
 publication_date: 2021-05-13
 tags: notes,learning
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="learning" class="internal-link" href="/learning/">Pages tagged &#39;learning&#39;</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
-
-I recently read Madeline Miller's book, <a id="miller-song-of-achilles" class="internal-link" href="/miller-song-of-achilles/">The Song of Achilles</a>, which is a retelling of the story of Achilles and the Trojan war from the perspective of Patroclus, Achilles' male lover. I thought the book was incredible, so I raved about it to several friends. One of them took me up on the recommendation and read the book, but he thought it was only okay. When we discussed it, I learned that, unlike me, my friend had never read The Iliad and was unfamiliar with the story that The Song of Achilles was adapting. We both read the same book, but had very different experiences.
 
 A useful distinction is between a *book* and a *reading*. A book is a static artifact: an author wrote and published a sequence of words on such-and-such date. A reading is an experience of interacting with a particular book. A reading is partially defined by the book in question, but it's also defined by many other factors, such as:
 
@@ -22,7 +20,7 @@ Rather than trying to identify the best possible books, I try to identify the be
 
 - **The medium is appropriate for the material.** I consume most narrative by audio—this includes novels, memoirs, biographies, and some history. I consume most informational nonfiction by Kindle, because it's distraction-free but easy to save highlights, which I can later turn into flashcards.
 - **My closest friends have read the book before, or are reading it currently.** This makes it way easier to have deep discussions about the book, which makes for a substantially higher-quality reading. In fact, this discussability factor can reliably produce a high-quality reading even out of a low-quality book, since you can get tons of pleasure and insight from conversations about _why_ the book is bad.
-- **The book has at least one clear connection to something that is meaningful to me.** This can mean a lot of things. Maybe it's that the book is related to a hobby I'm exploring, or that it influenced another book I loved. The point is—the more such connections I can make, and the stronger they are, the better I expect the reading to be.
+- **The book has at least one clear connection to something that is meaningful to me.** This can mean a lot of things. Maybe it's that the book is related to a hobby I'm exploring, or that it influenced the author of another book I loved. The point is that the more such connections I can make, and the stronger they are, the better I expect the reading to be.
 
 To find books and contexts that reliably produce good readings, I use three tactics:
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Games
+title: Pages tagged &#39;games&#39;
 published: true
 permalink: /games/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'

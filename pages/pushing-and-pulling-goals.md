@@ -5,7 +5,7 @@ permalink: /pushing-and-pulling-goals/
 published: true
 publication_date: 2019-09-25
 tags: notes,personal-growth
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Pages tagged &#39;personal-growth&#39;</a></li></ul>'
 ---
 
 At least once a month, I think of Scott Alexander's distinction between ["pushing" and "pulling" goals](https://slatestarcodex.com/2016/07/18/pushing-and-pulling-goals/). I'll let him define the terms:

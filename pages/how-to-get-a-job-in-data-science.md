@@ -5,7 +5,7 @@ permalink: /how-to-get-a-job-in-data-science/
 published: true
 publication_date: 2019-04-11
 tags: notes,data-science
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="data-science" class="internal-link" href="/data-science/">Pages tagged &#39;data-science&#39;</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 It is said that when you give the same advice three times, you should write it down in a blog post. I'm often approached for advice by job seekers in data science, so this is that blog post.

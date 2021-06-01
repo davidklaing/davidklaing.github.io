@@ -4,7 +4,7 @@ title: My recurring tasks
 permalink: /my-recurring-tasks/
 publication_date: 2021-05-10
 tags: notes,personal-growth
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Pages tagged &#39;personal-growth&#39;</a></li></ul>'
 ---
 
 ## Yearly

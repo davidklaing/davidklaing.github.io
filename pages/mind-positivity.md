@@ -4,7 +4,7 @@ title: Mind positivity
 permalink: /mind-positivity/
 publication_date: 2020-03-09
 tags: notes,personal-growth
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Pages tagged &#39;personal-growth&#39;</a></li></ul>'
 ---
 
 Self-love messaging generally focuses on the body, but surely there are many people (like me) who are more insecure about their minds. Imagine the rallying cries of a mind positivity movement:

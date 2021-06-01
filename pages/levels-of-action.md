@@ -4,8 +4,8 @@ title: Levels of Action (Vance)
 permalink: /levels-of-action/
 published: true
 publication_date: 2019-08-28
-tags: notes,personal-growth
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li></ul>'
+tags: notes,personal-growth,learning
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="learning" class="internal-link" href="/learning/">Pages tagged &#39;learning&#39;</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Pages tagged &#39;personal-growth&#39;</a></li></ul>'
 ---
 
 What is a better use of time: improving the world, or improving your ability to improve the world?

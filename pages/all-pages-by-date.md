@@ -6,6 +6,8 @@ permalink: /all-pages-by-date/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
+`2021-05-31` <a id="how-to-write-a-review" class="internal-link" href="/how-to-write-a-review/">How to write a review</a>
+
 `2021-05-30` <a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">The real value of games</a>
 
 `2021-05-30` <a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing (Marks)</a>
@@ -78,7 +80,7 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 
 `2020-02-09` <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will (Harris)</a>
 
-`2020-02-01` <a id="roam-as-a-slip-box" class="internal-link" href="/roam-as-a-slip-box/">Roam as a slip-box</a>
+`2020-02-01` <a id="roam-as-a-slip-box" class="internal-link" href="/roam-as-a-slip-box/">Roam as a slip-box</a> `updated 2021-05-31`
 
 `2019-12-31` <a id="retrospective-2019" class="internal-link" href="/retrospective-2019/">2019 retrospective</a>
 

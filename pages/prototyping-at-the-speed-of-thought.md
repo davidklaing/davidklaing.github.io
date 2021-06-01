@@ -4,8 +4,8 @@ title: Prototyping at the speed of thought (Chi)
 permalink: /prototyping-at-the-speed-of-thought/
 published: true
 publication_date: 2019-09-18
-tags: notes,personal-growth
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li><li><a id="personal-growth" class="internal-link" href="/personal-growth/">Personal growth</a></li></ul>'
+tags: notes,learning
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="learning" class="internal-link" href="/learning/">Pages tagged &#39;learning&#39;</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 Research and development—R&D—are usually lumped together and abbreviated, so it’s easy to forget that they are distinct activities. This often causes us to misapply norms and practices that are appropriate for one but not the other.

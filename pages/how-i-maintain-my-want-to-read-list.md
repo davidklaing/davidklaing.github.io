@@ -4,7 +4,7 @@ title: How I maintain my want-to-read list
 permalink: /how-i-maintain-my-want-to-read-list/
 publication_date: 2021-05-10
 tags: notes,learning
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="how-i-choose-what-to-read" class="internal-link" href="/how-i-choose-what-to-read/">How I choose what to read</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="how-i-choose-what-to-read" class="internal-link" href="/how-i-choose-what-to-read/">How I choose what to read</a></li><li><a id="learning" class="internal-link" href="/learning/">Pages tagged &#39;learning&#39;</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
 
 For many years, my system was basically this: every time I came across a compelling book recommendation, I added the book to my want-to-read list on Goodreads.

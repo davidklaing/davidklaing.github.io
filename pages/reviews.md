@@ -48,6 +48,8 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 
 `2021-01-23` <a id="cixin-three-body-problem" class="internal-link" href="/cixin-three-body-problem/">The Three-Body Problem (Cixin)</a>
 
+`2020-06-24` <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula (Barabási)</a>
+
 `2020-04-05` <a id="the-machine-stops" class="internal-link" href="/the-machine-stops/">E.M. Forster foresaw 2020 in 1909</a>
 
 `2020-02-09` <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will (Harris)</a>

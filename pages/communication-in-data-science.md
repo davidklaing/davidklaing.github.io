@@ -5,7 +5,7 @@ permalink: /communication-in-data-science/
 published: true
 publication_date: 2017-11-10
 tags: essays,data-science
-backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="data-science" class="internal-link" href="/data-science/">Data science</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="how-to-get-a-job-in-data-science" class="internal-link" href="/how-to-get-a-job-in-data-science/">How to get a job in data science</a></li></ul>'
+backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="data-science" class="internal-link" href="/data-science/">Pages tagged &#39;data-science&#39;</a></li><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li><li><a id="how-to-get-a-job-in-data-science" class="internal-link" href="/how-to-get-a-job-in-data-science/">How to get a job in data science</a></li></ul>'
 ---
 
 _Cross-posted from the [UBC MDS blog](https://ubc-mds.github.io/2017-11-10-DSCI-542-communication/)_.
