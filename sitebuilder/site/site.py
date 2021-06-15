@@ -36,14 +36,19 @@ class Site:
             '---\n',
             '\n'
         ]
+        pub_year = '2070'
         for page in pages_with_dates:
-            updated = f' `updated {page.last_updated}`' if page.last_updated else ''
+            updated = f' (updated {page.last_updated})' if page.last_updated else ''
             pub_date = page.publication_date
+            if pub_date[0:4] < pub_year:
+                pub_year = pub_date[0:4]
+                all_pages_page.append(f'\n## {pub_year}\n')
+            pub_monthday = pub_date[5:]
             id = page.permalink.strip("/")
             permalink = page.permalink
             title = page.title
             all_pages_page.append(
-                f'`{pub_date}` <a id="{id}" class="internal-link" href="{permalink}">{title}</a>{updated}\n\n'
+                f'- {pub_monthday} — <a id="{id}" class="internal-link" href="{permalink}">{title}</a>{updated}\n'
             )
         self.pages.append(Page(page = all_pages_page, folder = 'pages'))
 
@@ -79,10 +84,16 @@ class Site:
                 key=lambda page: (page.publication_date, page.title),
                 reverse=True
             )
+            pub_year = '2070'
             for page in relevant_pages:
-                updated = f' `updated {page.last_updated}`' if page.last_updated else ''
+                updated = f' (updated {page.last_updated})' if page.last_updated else ''
+                pub_date = page.publication_date
+                if pub_date[0:4] < pub_year:
+                    pub_year = pub_date[0:4]
+                    tag_page.append(f'\n## {pub_year}\n')
+                pub_monthday = pub_date[5:]
                 tag_page.append(
-                    f'`{page.publication_date}` <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>{updated}\n\n'
+                    f'- {pub_monthday} — <a id="{page.permalink.strip("/")}" class="internal-link" href="{page.permalink}">{page.title}</a>{updated}\n'
                 )
         self.pages.append(Page(page = tag_page, folder = 'pages'))
 

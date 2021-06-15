@@ -3,7 +3,7 @@ layout: page
 title: Books I&#39;ve read
 published: true
 permalink: /books-ive-read/
-backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-this-site/">About this site</a></li><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
+backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-this-site/">About this site</a></li><li><a id="home" class="internal-link" href="/">Home</a></li><li><a id="my-recurring-tasks" class="internal-link" href="/my-recurring-tasks/">My recurring tasks</a></li></ul>'
 ---
 
 In the pages below, you can browse all the books I’ve read. They are organized in three ways: by when I read them, by when they were published, and by tag. If you have a recommendation based on what you see here, please send it my way!

@@ -10,15 +10,15 @@ layout: default
                 {% endif %}
                 {% if page.publication_date and page.last_updated %}
                 <hr>
-                <em>Originally published {{ page.publication_date }}; last updated {{ page.last_updated }}</em>
+                <em style="font-size: 90%;">Originally published {{ page.publication_date }}; last updated {{ page.last_updated }}</em>
                 <hr>
                 {% elsif page.publication_date %}
                 <hr>
-                <em>Published {{ page.publication_date }}</em>
+                <em style="font-size: 90%;">Published {{ page.publication_date }}</em>
                 <hr>
                 {% elsif page.last_updated %}
                 <hr>
-                <em>Last updated {{ page.last_updated }}</em>
+                <em style="font-size: 90%;">Last updated {{ page.last_updated }}</em>
                 <hr>
                 {% endif %}
                 {{ content }}

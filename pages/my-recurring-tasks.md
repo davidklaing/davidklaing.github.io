@@ -22,7 +22,7 @@ backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-p
 - Add new goals for the remaining quarter, if appropriate
 - Save any sentimental photos from Messenger/Whatsapp/etc to Google Photos
 - Write bullet-point list of memorable experiences from the month
-- Update <a id="books" class="internal-link" href="/books/">books</a> I've read
+- Update <a id="books-ive-read" class="internal-link" href="/books-ive-read/">books I've read</a>
 - Update movies on Letterboxd
 - Create a monthly favourite songs playlist on Spotify
 
@@ -37,10 +37,6 @@ backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-p
 - Block off focus time in my work calendar during productive hours
 - Consider whether any events or appointments should be cancelled or rescheduled
 - Assign tasks, with time estimates, to each day
-- Go for a run with a friend
-- Go for a bike ride with a friend
-- Play tennis with a friend
-- Call members of immediate family
 
 ## Daily
 

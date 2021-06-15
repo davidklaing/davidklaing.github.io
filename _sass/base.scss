@@ -91,6 +91,16 @@ ul, ol, li {
     margin-block-end: 0.5rem;
 }
 
+ul {
+    list-style-type: none;
+}
+
+ul li:before {
+    content: '-';
+    position: absolute;
+    margin-left: -15px;
+}
+
 blockquote {
     line-height: 1.6;
     margin: 0 0;
