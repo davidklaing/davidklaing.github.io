@@ -16,7 +16,7 @@ Welcome! I'm David Laing. If you're new to this site, <a id="start-here" class="
 
 <hr>
 
-## By format
+## By type
 
 * <a id="books-ive-read" class="internal-link" href="/books-ive-read/">Bookshelves</a>
 * <a id="essays" class="internal-link" href="/essays/">Essays</a>
