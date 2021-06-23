@@ -26,4 +26,4 @@ To find books and contexts that reliably produce good readings, I use three tact
 
 1. Maintain a <a id="how-i-maintain-my-want-to-read-list" class="internal-link" href="/how-i-maintain-my-want-to-read-list/">contextually rich want-to-read list</a>.
 2. Assemble project-specific reading lists.
-3. Always participate in one or more reading groups, with a preference for groups that meet chapter-by-chapter rather than book-by-book. (See James Somers' post, [Most book clubs are doing it wrong](https://jsomers.net/blog/book-clubs).)
+3. Participate in one or more reading groups, with a preference for groups that meet chapter-by-chapter rather than book-by-book. (See James Somers' post, [Most book clubs are doing it wrong](https://jsomers.net/blog/book-clubs).)

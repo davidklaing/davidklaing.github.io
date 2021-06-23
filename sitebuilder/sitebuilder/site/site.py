@@ -46,7 +46,7 @@ class Site:
             all_pages_page.append(
                 f'- {pub_monthday} — <a id="{id}" class="internal-link" href="{permalink}">{title}</a>{updated}\n'
             )
-        self.pages.append(Page(page = all_pages_page, folder = 'pages'))
+        self.pages.append(Page(page = all_pages_page, folder = 'pages/automatically-created'))
 
     def make_tag_pages(self):
         for tag, pretty_name in tag_dict.items():

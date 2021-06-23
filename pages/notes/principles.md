@@ -25,7 +25,6 @@ Writing as thinking
 - Capture fleeting notes in a 'writing inbox'
 - 
 
-
 Writing as communication
 - Make an outline using a slide-creation tool
 - Prefer declarative titles
@@ -70,3 +69,9 @@ Writing as communication
 
 
 ## Investing principles
+
+
+## Goal-setting principles
+
+
+## 

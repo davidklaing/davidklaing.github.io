@@ -1,13 +1,14 @@
 ---
 layout: page
 title: All pages by date
-published: true
 permalink: /all-pages-by-date/
+published: true
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
 
 ## 2021
+- 06/23 — <a id="while-focusing-minimize-context-switching" class="internal-link" href="/while-focusing-minimize-context-switching/">While focusing, minimize the probability of context-switching</a>
 - 05/31 — <a id="how-to-write-a-review" class="internal-link" href="/how-to-write-a-review/">How to write a review</a>
 - 05/30 — <a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">The real value of games</a>
 - 05/30 — <a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing (Marks)</a>

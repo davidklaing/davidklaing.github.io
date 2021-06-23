@@ -8,6 +8,7 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 
 
 ## 2021
+- 06/23 — <a id="while-focusing-minimize-context-switching" class="internal-link" href="/while-focusing-minimize-context-switching/">While focusing, minimize the probability of context-switching</a>
 - 05/31 — <a id="how-to-write-a-review" class="internal-link" href="/how-to-write-a-review/">How to write a review</a>
 - 05/30 — <a id="about-this-site" class="internal-link" href="/about-this-site/">About this site</a>
 - 05/13 — <a id="how-i-choose-what-to-read" class="internal-link" href="/how-i-choose-what-to-read/">How I choose what to read</a>
