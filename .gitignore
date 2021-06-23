@@ -5,11 +5,11 @@
 _site/
 
 build/
-dist/
-sitebuilder.egg-info/
-sitebuilder/__pycache__/
-sitebuilder/bin/
-sitebuilder/library/__pycache__/
-sitebuilder/site/__pycache__/
+sitebuilder/dist/
+sitebuilder/sitebuilder.egg-info/
+sitebuilder/sitebuilder/__pycache__/
+sitebuilder/sitebuilder/bin/
+sitebuilder/sitebuilder/library/__pycache__/
+sitebuilder/sitebuilder/site/__pycache__/
 vendor/
-venv/
+sitebuilder/venv/

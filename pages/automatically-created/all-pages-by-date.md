@@ -1,8 +1,8 @@
 ---
 layout: page
 title: All pages by date
-permalink: /all-pages-by-date/
 published: true
+permalink: /all-pages-by-date/
 backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></ul>'
 ---
 
