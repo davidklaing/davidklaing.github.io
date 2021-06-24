@@ -34,7 +34,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Milkman, _How to Change_ (2021) 
 * Miller, _<a id="miller-circe" class="internal-link" href="/miller-circe/">Circe</a>_ (2018) 
 * Miller, _<a id="miller-song-of-achilles" class="internal-link" href="/miller-song-of-achilles/">The Song of Achilles</a>_ (2012) 
-* Nguyen, _<a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">Games: Agency as Art</a>_ (2020) 
+* Nguyen, _<a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games: Agency as Art</a>_ (2020) 
 * Podany, _Ancient Mesopotamia_ (2018) 
 * Reid, _<a id="reid-ending-things" class="internal-link" href="/reid-ending-things/">I'm Thinking of Ending Things</a>_ (2016) 
 * Rowling, _Harry Potter and the Deathly Hallows_ (2007) 

@@ -17,4 +17,4 @@ Examples:
 
 ## Reference
 
-Nguyen, C. Thi. Games: Agency as Art (p. 54). Oxford University Press. Kindle Edition.
+Nguyen, C. Thi. <a id="nguyen-games" class="internal-link" href="/nguyen-games/">*Games: Agency as Art*</a> (p. 54). Oxford University Press. Kindle Edition.

@@ -11,5 +11,5 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Eghbal, _<a id="eghbal-working-in-public" class="internal-link" href="/eghbal-working-in-public/">Working In Public</a>_ (2020) 
 * Housel, _The Psychology of Money_ (2020) 
 * Konnikova, _<a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff</a>_ (2020) 
-* Nguyen, _<a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">Games: Agency as Art</a>_ (2020) 
+* Nguyen, _<a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games: Agency as Art</a>_ (2020) 
 * Wiener, _<a id="wiener-uncanny-valley" class="internal-link" href="/wiener-uncanny-valley/">Uncanny Valley</a>_ (2020) 

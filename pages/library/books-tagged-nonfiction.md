@@ -98,7 +98,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Milkman, _How to Change_ (2021) 
 * Miller, _Know My Name_ (2019) 
 * Moss, _The Rookie_ (2016) 
-* Nguyen, _<a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">Games: Agency as Art</a>_ (2020) 
+* Nguyen, _<a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games: Agency as Art</a>_ (2020) 
 * Nielsen, _Reinventing Discovery_ (2011) 
 * O'Shaughnessy, _Millennial Money_ (2014) 
 * Oakley, _A Mind for Numbers_ (2014) 

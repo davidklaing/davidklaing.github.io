@@ -27,7 +27,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Jacobs, _The Pleasures of Reading in an Age of Distraction_ (2011) 
 * Johnstone, _Impro_ (1979) 
 * Kabat-Zinn, _Full Catastrophe Living_ (1990) 
-* Nguyen, _<a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">Games: Agency as Art</a>_ (2020) 
+* Nguyen, _<a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games: Agency as Art</a>_ (2020) 
 * Nielsen, _Reinventing Discovery_ (2011) 
 * Schneier, _Data and Goliath_ (2015) 
 * Silver, _The Signal and the Noise_ (2012) 

@@ -1,4 +1,12 @@
-- Assets 
+---
+layout: page
+title: Title
+permalink: /title/
+published: false
+publication_date: yyyy-mm-dd
+tags: notes
+---
+
 - Information is undervalued
 - Invest time in assets that can't be bought
 - Add a dash of evil to avoid moral smugness
@@ -10,3 +18,14 @@
 - Reflective self as guide; experiencing self as explorer
 - Reflective self as autocrat; experiencing self as slave
 - Maeutic end
+- Track reading for yourself, not for others
+- Motivational self-manipulation
+- Grit (Duckworth)
+- The Scout Mindset (Galef)
+- Winning the Loser's Game (Ellis)
+- Maybe You Should Talk to Someone (Gottlieb)
+- Lab Girl (Jahren)
+- Ten Arguments for Deleting Your Social Media Accounts Right Now (Lanier)
+- How to Change (Milkman)
+- The Rationality Quotient (Stanovich et al.)
+- The Martian (Weir)
