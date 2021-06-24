@@ -1,5 +1,6 @@
+- Assets 
 - Information is undervalued
-- Invest time in creating assets that can't be bought
+- Invest time in assets that can't be bought
 - Add a dash of evil to avoid moral smugness
 - Write to create intrinsic value for yourself
     - Creating intrinsic value for others creates instrumental value for yourself, but if your mindset is that you're maximizing that, you'll go far past the point of diminishing returns for your own intrinsic value. In almost all cases, it's simpler to just get to that point of diminishing returns and then publish. At that point, the value for others will not be maximized, but it will be non-zero. So you're getting tons of intrinsic value and a dash of instrumental value
@@ -8,3 +9,4 @@
 - Spaced repetition for complex tasks
 - Reflective self as guide; experiencing self as explorer
 - Reflective self as autocrat; experiencing self as slave
+- Maeutic end
