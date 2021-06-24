@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Self-effacing end
-permalink: /self-effacing-end/
+title: Self-effacing ends
+permalink: /self-effacing-ends/
 published: true
 publication_date: 2021-06-24
 tags: notes
