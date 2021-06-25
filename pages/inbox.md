@@ -17,7 +17,6 @@ tags: notes
 - Spaced repetition for complex tasks
 - Reflective self as guide; experiencing self as explorer
 - Reflective self as autocrat; experiencing self as slave
-- Maeutic end
 - Track reading for yourself, not for others
 - Motivational self-manipulation
 - Grit (Duckworth)
@@ -29,3 +28,16 @@ tags: notes
 - How to Change (Milkman)
 - The Rationality Quotient (Stanovich et al.)
 - The Martian (Weir)
+- How to Measure Anything (Hubbard)
+    - Hubbard wrote the book to argue against the belief that some things can't be measured.
+    - The five steps in Douglas Hubbard's 'Applied Information Economics':
+        1. Define the decision.
+        2. Determine what you know now.
+        3. Compute the value of additional information.
+        4. Measure where information value is high.
+        5. Make a decision and act on it.
+- Real risk vs perceived risk
+- Equivalent bet test
+- Principles (Dalio)
+- LessWrong-style rationality focuses too little on developing self-knowledge
+- LessWrong-style rationality focuses too little on discovering one's own desires / goals.
