@@ -8,7 +8,8 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 
 
 ## 2021
-- 06/24 — <a id="self-effacing-ends" class="internal-link" href="/self-effacing-ends/">Self-effacing ends</a>
+- 06/28 — <a id="lifestyle-inflation" class="internal-link" href="/lifestyle-inflation/">Lifestyle inflation</a>
+- 06/24 — <a id="self-effacing-ends" class="internal-link" href="/self-effacing-ends/">Self-effacing ends</a> (updated 2021/06/28)
 - 06/24 — <a id="maieutic-ends" class="internal-link" href="/maieutic-ends/">Maieutic ends</a> (updated 2021/06/25)
 - 06/24 — <a id="nguyen-games" class="internal-link" href="/nguyen-games/">'Games: Agency as Art (Nguyen)'</a>
 - 06/23 — <a id="while-focusing-minimize-context-switching" class="internal-link" href="/while-focusing-minimize-context-switching/">While focusing, minimize the probability of context-switching</a>
