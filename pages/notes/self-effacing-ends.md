@@ -4,7 +4,6 @@ title: Self-effacing ends
 permalink: /self-effacing-ends/
 published: true
 publication_date: 2021-06-24
-last_updated: 2021-06-28
 tags: notes
 backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---

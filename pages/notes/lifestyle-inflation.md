@@ -18,3 +18,6 @@ Causes of lifestyle inflation:
 - There are plenty of environmental cues to add expenses, but almost none to remove them. ([People systematically overlook subtractive changes.](https://www.nature.com/articles/s41586-021-03380-y.epdf))
 - Many expenses provide a genuine short-term boost in pleasure, but the pleasure fades quickly as it becomes your new default. ([The hedonic treadmill.](https://en.wikipedia.org/wiki/Hedonic_treadmill)) 
 - It can be hard to tell whether a given expense will genuinely improve your life. (Lifestyle inflation is, by definition, a symptom of not understanding which forms of spending make you happy. Lack of understanding in this area signals lack of understanding in other areas of life that affect your happiness.)
+- Spending money feels strangely good—like an expression of agency.
+
+Caveat: it's probably undesirable to have *zero* lifestyle inflation. You can't have perfect knowledge of how spending will affect your happiness, so sometimes you'll want to take bets. Sometimes those won't pan out, and you'll have wasted money. But other times you'll win big, and those wins wouldn't have happened without the losses.

@@ -30,6 +30,5 @@ Welcome! I'm David Laing. If you're new to this site, <a id="start-here" class="
 
 * <a id="data-science" class="internal-link" href="/data-science/">Pages tagged 'data-science'</a>
 * <a id="games" class="internal-link" href="/games/">Pages tagged 'games'</a>
-* <a id="investing" class="internal-link" href="/investing/">Pages tagged 'investing'</a>
 * <a id="learning" class="internal-link" href="/learning/">Pages tagged 'learning'</a>
 * <a id="personal-growth" class="internal-link" href="/personal-growth/">Pages tagged 'personal-growth'</a>

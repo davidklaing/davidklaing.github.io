@@ -24,7 +24,6 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 - 05/04 — <a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a>
 - 04/25 — <a id="about-me" class="internal-link" href="/about-me/">About me</a> (updated 2021/04/25)
 - 03/09 — <a id="mind-positivity" class="internal-link" href="/mind-positivity/">Mind positivity</a>
-- 02/11 — <a id="how-to-invest-in-index-funds" class="internal-link" href="/how-to-invest-in-index-funds/">How to invest in index funds, for Canadians</a>
 - 02/01 — <a id="roam-as-a-slip-box" class="internal-link" href="/roam-as-a-slip-box/">Roam as a slip-box</a> (updated 2021/05/31)
 
 ## 2019

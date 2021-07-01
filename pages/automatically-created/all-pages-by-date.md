@@ -50,7 +50,6 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 - 04/25 — <a id="about-me" class="internal-link" href="/about-me/">About me</a> (updated 2021/04/25)
 - 04/05 — <a id="the-machine-stops" class="internal-link" href="/the-machine-stops/">E.M. Forster foresaw 2020 in 1909</a>
 - 03/09 — <a id="mind-positivity" class="internal-link" href="/mind-positivity/">Mind positivity</a>
-- 02/11 — <a id="how-to-invest-in-index-funds" class="internal-link" href="/how-to-invest-in-index-funds/">How to invest in index funds, for Canadians</a>
 - 02/09 — <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will (Harris)</a>
 - 02/01 — <a id="roam-as-a-slip-box" class="internal-link" href="/roam-as-a-slip-box/">Roam as a slip-box</a> (updated 2021/05/31)
 
