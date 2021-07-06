@@ -7,6 +7,9 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 ---
 
 
+## 2021
+- 07/06 — <a id="rmarkdown-snippets" class="internal-link" href="/rmarkdown-snippets/">Rmarkdown snippets</a>
+
 ## 2020
 - 07/25 — <a id="how-to-write-documentation" class="internal-link" href="/how-to-write-documentation/">How to write documentation</a>
 - 06/25 — <a id="professional-development-in-data-science" class="internal-link" href="/professional-development-in-data-science/">Professional development in data science</a>
