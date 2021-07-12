@@ -8,8 +8,10 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 
 
 ## 2021
+- 07/07 — <a id="live-in-a-small-home" class="internal-link" href="/live-in-a-small-home/">Live in a small home</a>
+- 07/07 — <a id="git-snippets" class="internal-link" href="/git-snippets/">Git snippets</a>
 - 07/06 — <a id="rmarkdown-snippets" class="internal-link" href="/rmarkdown-snippets/">Rmarkdown snippets</a>
-- 06/28 — <a id="lifestyle-inflation" class="internal-link" href="/lifestyle-inflation/">Lifestyle inflation</a>
+- 06/28 — <a id="lifestyle-inflation" class="internal-link" href="/lifestyle-inflation/">Lifestyle inflation</a> (updated 2021/07/12)
 - 06/24 — <a id="self-effacing-ends" class="internal-link" href="/self-effacing-ends/">Self-effacing ends</a>
 - 06/24 — <a id="maieutic-ends" class="internal-link" href="/maieutic-ends/">Maieutic ends</a>
 - 06/23 — <a id="while-focusing-minimize-context-switching" class="internal-link" href="/while-focusing-minimize-context-switching/">While focusing, minimize the probability of context-switching</a>
@@ -46,3 +48,8 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 
 ## 2018
 - 10/01 — <a id="laptop-setup" class="internal-link" href="/laptop-setup/">My laptop setup</a> (updated 2020/12/15)
+
+## 
+-  — <a id="ggplot2-snippets" class="internal-link" href="/ggplot2-snippets/">ggplot2 snippets</a>
+-  — <a id="python-snippets" class="internal-link" href="/python-snippets/">Python snippets</a>
+-  — <a id="postgresql-snippets" class="internal-link" href="/postgresql-snippets/">Postgresql snippets</a>

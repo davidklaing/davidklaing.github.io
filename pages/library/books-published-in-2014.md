@@ -13,6 +13,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Grinberg, _Flask Web Development_ (2014) 
 * Hargrove, _Playing With Movement_ (2014) 
 * Harris, _Waking Up_ (2014) 
+* Hubbard, _How to Measure Anything: Finding the Value of Intangibles in Business (3rd edition)_ (2014) 
 * O'Shaughnessy, _Millennial Money_ (2014) 
 * Oakley, _A Mind for Numbers_ (2014) 
 * Pinker, _The Sense of Style_ (2014) 

@@ -10,4 +10,5 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Bach, _Jonathan Livingston Seagull_ (1970) 
 * Coelho, _The Alchemist_ (1988) 
 * Hesse, _Siddhartha_ (1922) 
+* Swift, _Gulliver's Travels_ (1726) 
 * Voltaire, _Candide_ (1759) 

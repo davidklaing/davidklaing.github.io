@@ -8,7 +8,7 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 
 
 ## 2021
-- 06/24 — <a id="nguyen-games" class="internal-link" href="/nguyen-games/">'Games: Agency as Art (Nguyen)'</a>
+- 06/24 — <a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games&#58; Agency as Art (Nguyen)</a>
 - 05/30 — <a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing (Marks)</a>
 - 05/30 — <a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff (Konnikova)</a>
 - 05/30 — <a id="malkiel-random-walk" class="internal-link" href="/malkiel-random-walk/">A Random Walk Down Wall Street (Malkiel)</a>

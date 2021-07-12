@@ -9,6 +9,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Ahrens, _How to Take Smart Notes_ (2017) 
 * Briggs, _This Little Art_ (2017) 
 * Cowen, _The Complacent Class_ (2017) 
+* Dalio, _Principles: Life & Work_ (2017) 
 * Goleman & Davidson, _<a id="goleman-and-davidson-altered-traits" class="internal-link" href="/goleman-and-davidson-altered-traits/">Altered Traits</a>_ (2017) 
 * Harari, _Homo Deus_ (2017) 
 * James et al., _An Introduction to Statistical Learning_ (2017) 

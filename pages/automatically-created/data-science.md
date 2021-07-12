@@ -8,6 +8,7 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 
 
 ## 2021
+- 07/07 — <a id="git-snippets" class="internal-link" href="/git-snippets/">Git snippets</a>
 - 07/06 — <a id="rmarkdown-snippets" class="internal-link" href="/rmarkdown-snippets/">Rmarkdown snippets</a>
 
 ## 2020
@@ -22,3 +23,8 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 
 ## 2017
 - 11/10 — <a id="communication-in-data-science" class="internal-link" href="/communication-in-data-science/">Communication in data science is more than just the final report</a>
+
+## 
+-  — <a id="ggplot2-snippets" class="internal-link" href="/ggplot2-snippets/">ggplot2 snippets</a>
+-  — <a id="python-snippets" class="internal-link" href="/python-snippets/">Python snippets</a>
+-  — <a id="postgresql-snippets" class="internal-link" href="/postgresql-snippets/">Postgresql snippets</a>

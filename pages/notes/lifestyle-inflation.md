@@ -4,6 +4,7 @@ title: Lifestyle inflation
 permalink: /lifestyle-inflation/
 published: true
 publication_date: 2021-06-28
+last_updated: 2021-07-12
 tags: notes
 backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
@@ -20,4 +21,7 @@ Causes of lifestyle inflation:
 - It can be hard to tell whether a given expense will genuinely improve your life. (Lifestyle inflation is, by definition, a symptom of not understanding which forms of spending make you happy. Lack of understanding in this area signals lack of understanding in other areas of life that affect your happiness.)
 - Spending money feels strangely good—like an expression of agency.
 
-Caveat: it's probably undesirable to have *zero* lifestyle inflation. You can't have perfect knowledge of how spending will affect your happiness, so sometimes you'll want to take bets. Sometimes those won't pan out, and you'll have wasted money. But other times you'll win big, and those wins wouldn't have happened without the losses.
+To minimize lifestyle inflation:
+
+- <a id="live-in-a-small-home" class="internal-link" href="/live-in-a-small-home/">Live in a small home</a>
+- If possible, avoid car ownership. A car is a huge recurring expense.

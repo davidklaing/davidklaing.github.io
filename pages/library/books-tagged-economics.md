@@ -10,4 +10,6 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Cowen, _The Complacent Class_ (2017) 
 * Graeber, _<a id="graeber-bullshit-jobs" class="internal-link" href="/graeber-bullshit-jobs/">Bullshit Jobs</a>_ (2018) 
 * Graeber, _<a id="graeber-debt" class="internal-link" href="/graeber-debt/">Debt</a>_ (2011) 
+* Kahneman, _Thinking, Fast and Slow_ (2011) 
 * Payne & Barnett, _The Economists' Diet_ (2018) 
+* Yudkowsky, _Inadequate Equilibria_ (2017) 

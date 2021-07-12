@@ -39,8 +39,3 @@ tags: notes
 - Real risk vs perceived risk
 - Equivalent bet test
 - Principles (Dalio)
-- LessWrong-style rationality focuses too little on developing self-knowledge
-- LessWrong-style rationality focuses too little on discovering one's own desires / goals.
-- Lifestyle inflation
-    - What is the difference between lifestyle inflation and lifestyle improvement?
-- Is happiness a self-effacing end?

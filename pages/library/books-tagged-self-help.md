@@ -15,6 +15,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Christian & Griffiths, _Algorithms to Live By_ (2016) 
 * Clear, _<a id="clear-atomic-habits" class="internal-link" href="/clear-atomic-habits/">Atomic Habits</a>_ (2018) 
 * Csikszentmihalyi, _<a id="csikszentmihalyi-flow" class="internal-link" href="/csikszentmihalyi-flow/">Flow</a>_ (1990) 
+* Dalio, _Principles: Life & Work_ (2017) 
 * Duckworth, _Grit_ (2016) 
 * Ellenberg, _How Not to Be Wrong_ (2014) 
 * Galef, _The Scout Mindset_ (2021) 

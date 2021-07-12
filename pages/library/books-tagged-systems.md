@@ -8,4 +8,5 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 * Jacobs, _The Death and Life of Great American Cities_ (1961) 
 * Meadows, _Thinking In Systems_ (2008) 
+* Nielsen, _Reinventing Discovery_ (2011) 
 * Yudkowsky, _Inadequate Equilibria_ (2017) 

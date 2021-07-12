@@ -14,6 +14,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Cowen, _Stubborn Attachments_ (2018) 
 * Crawford, _Shop Class as Soulcraft_ (2009) 
 * Dawkins, _The God Delusion_ (2006) 
+* Dawkins, _Unweaving the Rainbow_ (1998) 
 * Ellenberg, _How Not to Be Wrong_ (2014) 
 * Emerson, _Self-Reliance and Other Essays_ (1844) 
 * Galef, _The Scout Mindset_ (2021) 

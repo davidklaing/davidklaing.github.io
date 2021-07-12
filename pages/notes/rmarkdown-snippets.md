@@ -45,3 +45,18 @@ for (new_section in sections) {
 }
 ```
 ````
+
+## Render pretty tables in PDF
+
+```r
+sample_table %>%
+    flextable() %>% 
+    autofit() %>% 
+    flextable_to_rmd()
+```
+
+## Add a line break when rendering to PDF
+
+```r
+\newpage
+```

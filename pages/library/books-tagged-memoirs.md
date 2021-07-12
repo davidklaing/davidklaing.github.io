@@ -10,6 +10,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Briggs, _This Little Art_ (2017) 
 * Browder, _Red Notice_ (2014) 
 * Catmull, _Creativity, Inc._ (2009) 
+* Dalio, _Principles: Life & Work_ (2017) 
 * Dillard, _Pilgrim at Tinker Creek_ (1974) 
 * Feynman, _Surely You're Joking, Mr. Feynman!_ (1985) 
 * Finnegan, _Barbarian Days_ (2015) 
