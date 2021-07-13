@@ -15,7 +15,7 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 - 06/24 — <a id="self-effacing-ends" class="internal-link" href="/self-effacing-ends/">Self-effacing ends</a>
 - 06/24 — <a id="maieutic-ends" class="internal-link" href="/maieutic-ends/">Maieutic ends</a>
 - 06/23 — <a id="while-focusing-minimize-context-switching" class="internal-link" href="/while-focusing-minimize-context-switching/">While focusing, minimize the probability of context-switching</a>
-- 05/31 — <a id="how-to-write-a-review" class="internal-link" href="/how-to-write-a-review/">How to write a review</a>
+- 05/31 — <a id="how-to-write-a-review" class="internal-link" href="/how-to-write-a-review/">How to write a review</a> (updated 2021/07/13)
 - 05/30 — <a id="about-this-site" class="internal-link" href="/about-this-site/">About this site</a>
 - 05/13 — <a id="how-i-choose-what-to-read" class="internal-link" href="/how-i-choose-what-to-read/">How I choose what to read</a>
 - 05/10 — <a id="my-recurring-tasks" class="internal-link" href="/my-recurring-tasks/">My recurring tasks</a>

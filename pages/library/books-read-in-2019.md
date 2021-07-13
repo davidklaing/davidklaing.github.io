@@ -6,7 +6,7 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Ahrens, _How to Take Smart Notes_ (2017) 
+* Ahrens, _<a id="ahrens-smart-notes" class="internal-link" href="/ahrens-smart-notes/">How to Take Smart Notes</a>_ (2017) 
 * Browder, _Red Notice_ (2014) 
 * Caro, _The Path to Power_ (1982) 
 * Catmull, _Creativity, Inc._ (2009) 

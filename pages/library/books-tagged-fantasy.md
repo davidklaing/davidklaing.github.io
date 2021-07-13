@@ -9,7 +9,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Barron, _The Great Tree of Avalon Trilogy_ (2006) 
 * Barron, _The Lost Years of Merlin Saga_ (2000) 
 * Brooks, _The Sword of Shannara_ (1977) 
-* Butler, _Wild Seed_ (1980) 
+* Butler, _<a id="butler-wild-seed" class="internal-link" href="/butler-wild-seed/">Wild Seed</a>_ (1980) 
 * Clarke, _<a id="clarke-piranesi" class="internal-link" href="/clarke-piranesi/">Piranesi</a>_ (2020) 
 * Collins, _The Hunger Games_ (2008) 
 * Gaiman, _American Gods_ (2001) 

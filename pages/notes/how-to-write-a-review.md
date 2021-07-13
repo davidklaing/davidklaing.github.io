@@ -3,6 +3,7 @@ layout: page
 title: How to write a review
 permalink: /how-to-write-a-review/
 publication_date: 2021-05-31
+last_updated: 2021-07-13
 tags: notes
 backlinks: '<ul><li><a id="all-pages-by-date" class="internal-link" href="/all-pages-by-date/">All pages by date</a></li><li><a id="notes" class="internal-link" href="/notes/">Notes</a></li></ul>'
 ---
@@ -16,3 +17,5 @@ It's not obvious how best to review a book, course, product, or whatever. To mak
 5. Describe the context in which I would recommend the thing.
 
 This reviewing procedure is a modified version of what A. Jesse Jiryu Davis recommends in his post, [Write An Excellent Programming Blog](https://emptysqua.re/blog/write-an-excellent-programming-blog/).
+
+Caveat: the best review is the one you actually write. Better to write one sentence than zero.

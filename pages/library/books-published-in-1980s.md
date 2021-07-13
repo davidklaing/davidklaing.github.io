@@ -8,7 +8,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 * Asimov, _Prelude to Foundation_ (1988) 
 * Banks, _The Player of Games_ (1988) 
-* Butler, _Wild Seed_ (1980) 
+* Butler, _<a id="butler-wild-seed" class="internal-link" href="/butler-wild-seed/">Wild Seed</a>_ (1980) 
 * Caro, _The Path to Power_ (1982) 
 * Cialdini, _Influence_ (1984) 
 * Coelho, _The Alchemist_ (1988) 

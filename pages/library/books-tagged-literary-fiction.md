@@ -48,7 +48,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * McMurtry, _Dead Man's Walk_ (2000) 
 * Millhauser, _Martin Dressler_ (1996) 
 * Morrison, _Beloved_ (1987) 
-* Murakami, _Sputnik Sweetheart_ (1999) 
+* Murakami, _<a id="murakami-sputnik-sweetheart" class="internal-link" href="/murakami-sputnik-sweetheart/">Sputnik Sweetheart</a>_ (1999) 
 * Márquez, _One Hundred Years of Solitude_ (1967) 
 * Nabokov, _Lolita_ (1955) 
 * Orwell, _1984_ (1949) 

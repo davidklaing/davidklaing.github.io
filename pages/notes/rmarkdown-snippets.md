@@ -46,7 +46,7 @@ for (new_section in sections) {
 ```
 ````
 
-## Render pretty tables in PDF
+## Render pretty tables
 
 ```r
 sample_table %>%

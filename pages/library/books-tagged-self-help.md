@@ -8,7 +8,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 * Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 
 * Adler & Van Doren, _How to Read a Book_ (1972) 
-* Ahrens, _How to Take Smart Notes_ (2017) 
+* Ahrens, _<a id="ahrens-smart-notes" class="internal-link" href="/ahrens-smart-notes/">How to Take Smart Notes</a>_ (2017) 
 * Barabási, _<a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula: The Universal Laws of Success</a>_ (2018) 
 * Carnegie, _How to Win Friends and Influence People_ (1936) 
 * Chilton, _The Wealthy Barber Returns_ (2011) 
@@ -19,7 +19,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Duckworth, _Grit_ (2016) 
 * Ellenberg, _How Not to Be Wrong_ (2014) 
 * Galef, _The Scout Mindset_ (2021) 
-* Hargrove, _Playing With Movement_ (2014) 
+* Hargrove, _<a id="hargrove-playing-with-movement" class="internal-link" href="/hargrove-playing-with-movement/">Playing With Movement</a>_ (2014) 
 * Jacobs, _The Pleasures of Reading in an Age of Distraction_ (2011) 
 * Johnstone, _Impro_ (1979) 
 * Kabat-Zinn, _Full Catastrophe Living_ (1990) 

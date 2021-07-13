@@ -8,6 +8,7 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 
 
 ## 2021
+- 07/13 — <a id="lanier-ten-arguments" class="internal-link" href="/lanier-ten-arguments/">Ten Arguments for Deleting Your Social Media Accounts Right Now (Lanier)</a>
 - 07/07 — <a id="live-in-a-small-home" class="internal-link" href="/live-in-a-small-home/">Live in a small home</a>
 - 07/07 — <a id="git-snippets" class="internal-link" href="/git-snippets/">Git snippets</a>
 - 07/06 — <a id="rmarkdown-snippets" class="internal-link" href="/rmarkdown-snippets/">Rmarkdown snippets</a>
@@ -16,7 +17,7 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 - 06/24 — <a id="maieutic-ends" class="internal-link" href="/maieutic-ends/">Maieutic ends</a>
 - 06/24 — <a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games&#58; Agency as Art (Nguyen)</a>
 - 06/23 — <a id="while-focusing-minimize-context-switching" class="internal-link" href="/while-focusing-minimize-context-switching/">While focusing, minimize the probability of context-switching</a>
-- 05/31 — <a id="how-to-write-a-review" class="internal-link" href="/how-to-write-a-review/">How to write a review</a>
+- 05/31 — <a id="how-to-write-a-review" class="internal-link" href="/how-to-write-a-review/">How to write a review</a> (updated 2021/07/13)
 - 05/30 — <a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">The real value of games</a>
 - 05/30 — <a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing (Marks)</a>
 - 05/30 — <a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff (Konnikova)</a>
@@ -51,13 +52,17 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 - 06/24 — <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula (Barabási)</a>
 - 05/04 — <a id="to-go-viral-go-to-all-that-trouble" class="internal-link" href="/to-go-viral-go-to-all-that-trouble/">To go viral, go to all that trouble</a>
 - 04/25 — <a id="about-me" class="internal-link" href="/about-me/">About me</a> (updated 2021/04/25)
+- 04/12 — <a id="hargrove-playing-with-movement" class="internal-link" href="/hargrove-playing-with-movement/">Playing With Movement (Hargrove)</a>
 - 04/05 — <a id="the-machine-stops" class="internal-link" href="/the-machine-stops/">E.M. Forster foresaw 2020 in 1909</a>
+- 03/30 — <a id="murakami-sputnik-sweetheart" class="internal-link" href="/murakami-sputnik-sweetheart/">Sputnik Sweetheart (Murakami)</a>
+- 03/28 — <a id="butler-wild-seed" class="internal-link" href="/butler-wild-seed/">Wild Seed (Butler)</a>
 - 03/09 — <a id="mind-positivity" class="internal-link" href="/mind-positivity/">Mind positivity</a>
 - 02/09 — <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will (Harris)</a>
 - 02/01 — <a id="roam-as-a-slip-box" class="internal-link" href="/roam-as-a-slip-box/">Roam as a slip-box</a> (updated 2021/05/31)
 
 ## 2019
 - 12/31 — <a id="retrospective-2019" class="internal-link" href="/retrospective-2019/">2019 retrospective</a>
+- 12/18 — <a id="ahrens-smart-notes" class="internal-link" href="/ahrens-smart-notes/">How to Take Smart Notes (Ahrens)</a>
 - 12/15 — <a id="inner-game-of-chess" class="internal-link" href="/inner-game-of-chess/">The inner game of chess</a>
 - 12/15 — <a id="how-to-learn-chess-faster" class="internal-link" href="/how-to-learn-chess-faster/">How to learn chess faster</a>
 - 12/15 — <a id="chess-tactics" class="internal-link" href="/chess-tactics/">Chess tactics</a>

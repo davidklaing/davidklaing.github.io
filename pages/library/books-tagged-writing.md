@@ -6,7 +6,7 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Ahrens, _How to Take Smart Notes_ (2017) 
+* Ahrens, _<a id="ahrens-smart-notes" class="internal-link" href="/ahrens-smart-notes/">How to Take Smart Notes</a>_ (2017) 
 * Gopen, _The Sense of Structure_ (2004) 
 * King, _On Writing_ (2000) 
 * Olson, _Houston, We Have a Narrative_ (2015) 

@@ -24,7 +24,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Lightman, _Einstein's Dreams_ (1992) 
 * Martin, _A Game of Thrones_ (1996) 
 * Millhauser, _Martin Dressler_ (1996) 
-* Murakami, _Sputnik Sweetheart_ (1999) 
+* Murakami, _<a id="murakami-sputnik-sweetheart" class="internal-link" href="/murakami-sputnik-sweetheart/">Sputnik Sweetheart</a>_ (1999) 
 * Oppel, _Silverwing 1 & 2_ (1999) 
 * Palahniuk, _Fight Club_ (1996) 
 * Palahniuk, _Invisible Monsters_ (1999) 

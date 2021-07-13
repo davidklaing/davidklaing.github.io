@@ -8,6 +8,7 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 
 
 ## 2021
+- 07/13 — <a id="lanier-ten-arguments" class="internal-link" href="/lanier-ten-arguments/">Ten Arguments for Deleting Your Social Media Accounts Right Now (Lanier)</a>
 - 06/24 — <a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games&#58; Agency as Art (Nguyen)</a>
 - 05/30 — <a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing (Marks)</a>
 - 05/30 — <a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff (Konnikova)</a>
@@ -33,10 +34,14 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 
 ## 2020
 - 06/24 — <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula (Barabási)</a>
+- 04/12 — <a id="hargrove-playing-with-movement" class="internal-link" href="/hargrove-playing-with-movement/">Playing With Movement (Hargrove)</a>
 - 04/05 — <a id="the-machine-stops" class="internal-link" href="/the-machine-stops/">E.M. Forster foresaw 2020 in 1909</a>
+- 03/30 — <a id="murakami-sputnik-sweetheart" class="internal-link" href="/murakami-sputnik-sweetheart/">Sputnik Sweetheart (Murakami)</a>
+- 03/28 — <a id="butler-wild-seed" class="internal-link" href="/butler-wild-seed/">Wild Seed (Butler)</a>
 - 02/09 — <a id="harris-free-will" class="internal-link" href="/harris-free-will/">Free Will (Harris)</a>
 
 ## 2019
+- 12/18 — <a id="ahrens-smart-notes" class="internal-link" href="/ahrens-smart-notes/">How to Take Smart Notes (Ahrens)</a>
 - 11/22 — <a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove (McMurtry)</a>
 
 ## 2018

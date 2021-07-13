@@ -31,7 +31,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Jahren, _Lab Girl_ (2016) 
 * Kishimi & Koga, _<a id="kishimi-koga-courage" class="internal-link" href="/kishimi-koga-courage/">The Courage to Be Disliked</a>_ (2019) 
 * Konnikova, _<a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff</a>_ (2020) 
-* Lanier, _Ten Arguments for Deleting Your Social Media Accounts Right Now_ (2018) 
+* Lanier, _<a id="lanier-ten-arguments" class="internal-link" href="/lanier-ten-arguments/">Ten Arguments for Deleting Your Social Media Accounts Right Now</a>_ (2018) 
 * Malkiel, _<a id="malkiel-random-walk" class="internal-link" href="/malkiel-random-walk/">A Random Walk Down Wall Street (12th edition)</a>_ (2019) 
 * Marks, _<a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing</a>_ (2011) 
 * Milkman, _How to Change_ (2021) 
