@@ -9,15 +9,15 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Finished 
-* Richard Bach, _Illusions_ (1977) 
 * Richard Bach, _Jonathan Livingston Seagull_ (1970) 
+* Richard Bach, _Illusions_ (1977) 
 * Iain M. Banks, _The Player of Games_ (1988) 
 * Ray Bradbury, _Fahrenheit 451_ (1953) 
 * Dale Carnegie, _How to Win Friends and Influence People_ (1936) 
 * Suzanne Collins, _The Hunger Games_ (2008) 
 * David Czuchlewski, _The Muse Asylum_ (2001) 
-* Richard Dawkins, _The God Delusion_ (2006) 
 * Richard Dawkins, _Unweaving the Rainbow_ (1998) 
+* Richard Dawkins, _The God Delusion_ (2006) 
 * Benjamin Franklin, _The Autobiography of Benjamin Franklin_ (1791) 
 * Daniel Todd Gilbert, _Stumbling on Happiness_ (2006) 
 * Daniel Keyes, _Flowers for Algernon_ (1966) 

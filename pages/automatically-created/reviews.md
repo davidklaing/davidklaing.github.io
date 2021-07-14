@@ -13,7 +13,7 @@ backlinks: '<ul><li><a id="about-this-site" class="internal-link" href="/about-t
 - 05/30 — <a id="marks-most-important-thing" class="internal-link" href="/marks-most-important-thing/">The Most Important Thing (Howard Marks book)</a>
 - 05/30 — <a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff (Maria Konnikova book)</a>
 - 05/30 — <a id="malkiel-random-walk" class="internal-link" href="/malkiel-random-walk/">A Random Walk Down Wall Street (Burton Malkiel book)</a>
-- 04/17 — <a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Emily Wilson translation)</a>
+- 04/17 — <a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Wilson translation)</a>
 - 04/13 — <a id="gates-climate-disaster" class="internal-link" href="/gates-climate-disaster/">How to Avoid a Climate Disaster (Bill Gates book)</a>
 - 04/09 — <a id="eghbal-working-in-public" class="internal-link" href="/eghbal-working-in-public/">Working In Public (Nadia Eghbal book)</a>
 - 04/04 — <a id="bloom-how-pleasure-works" class="internal-link" href="/bloom-how-pleasure-works/">How Pleasure Works (Paul Bloom book)</a>

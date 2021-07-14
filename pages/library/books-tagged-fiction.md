@@ -134,8 +134,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 ## Skimmed, sampled from, or abandoned 
 * Isaac Asimov, _Prelude to Foundation_ (1988) 
 * Miguel de Cervantes, _Don Quixote_ (1615) 
-* Ted Chiang, _Exhalation: Stories_ (2019) 
 * Ted Chiang, _Stories of Your Life and Others_ (2010) 
+* Ted Chiang, _Exhalation: Stories_ (2019) 
 * J.M. Coetzee, _Summertime_ (2009) 
 * Barbara Gowdy, _Falling Angels_ (1989) 
 * Homer, _The Iliad (Fagles translation)_ (-800) 

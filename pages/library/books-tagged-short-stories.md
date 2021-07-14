@@ -13,6 +13,6 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Skimmed, sampled from, or abandoned 
-* Ted Chiang, _Exhalation: Stories_ (2019) 
 * Ted Chiang, _Stories of Your Life and Others_ (2010) 
+* Ted Chiang, _Exhalation: Stories_ (2019) 
 * Barbara Gowdy, _Falling Angels_ (1989) 

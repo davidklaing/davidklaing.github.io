@@ -31,6 +31,6 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Skimmed, sampled from, or abandoned 
 * Isaac Asimov, _Prelude to Foundation_ (1988) 
-* Ted Chiang, _Exhalation: Stories_ (2019) 
 * Ted Chiang, _Stories of Your Life and Others_ (2010) 
+* Ted Chiang, _Exhalation: Stories_ (2019) 
 * Neal Stephenson, _Cryptonomicon_ (1999) 

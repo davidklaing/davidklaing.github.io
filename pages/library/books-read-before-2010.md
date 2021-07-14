@@ -10,8 +10,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Finished 
 * Douglas Adams, _The Hitchhiker's Guide to the Galaxy_ (1979) 
-* T.A. Barron, _The Great Tree of Avalon Trilogy_ (2006) 
 * T.A. Barron, _The Lost Years of Merlin Saga_ (2000) 
+* T.A. Barron, _The Great Tree of Avalon Trilogy_ (2006) 
 * Terry Brooks, _The Sword of Shannara_ (1977) 
 * Dan Brown, _The Da Vinci Code_ (2003) 
 * James Clavell, _Tai-Pan_ (1966) 

@@ -26,7 +26,7 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 - 05/13 — <a id="how-i-choose-what-to-read" class="internal-link" href="/how-i-choose-what-to-read/">How I choose what to read</a>
 - 05/10 — <a id="my-recurring-tasks" class="internal-link" href="/my-recurring-tasks/">My recurring tasks</a>
 - 05/10 — <a id="how-i-maintain-my-want-to-read-list" class="internal-link" href="/how-i-maintain-my-want-to-read-list/">How I maintain my want-to-read list</a>
-- 04/17 — <a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Emily Wilson translation)</a>
+- 04/17 — <a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Wilson translation)</a>
 - 04/13 — <a id="gates-climate-disaster" class="internal-link" href="/gates-climate-disaster/">How to Avoid a Climate Disaster (Bill Gates book)</a>
 - 04/09 — <a id="eghbal-working-in-public" class="internal-link" href="/eghbal-working-in-public/">Working In Public (Nadia Eghbal book)</a>
 - 04/04 — <a id="bloom-how-pleasure-works" class="internal-link" href="/bloom-how-pleasure-works/">How Pleasure Works (Paul Bloom book)</a>
