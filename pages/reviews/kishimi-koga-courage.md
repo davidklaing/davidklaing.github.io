@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Courage to be Disliked (Kishimi & Koga)
+title: The Courage to be Disliked (Fumitake Koga & Ichiro Kishimi book)
 permalink: /kishimi-koga-courage/
 published: true
 publication_date: 2021-01-31

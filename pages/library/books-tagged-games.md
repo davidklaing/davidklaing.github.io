@@ -6,6 +6,12 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Konnikova, _<a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff</a>_ (2020) 
-* Moss, _The Rookie_ (2016) 
-* Nguyen, _<a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games: Agency as Art</a>_ (2020) 
+
+
+## Finished 
+* Maria Konnikova, _<a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff</a>_ (2020) 
+* C. Thi Nguyen, _<a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games: Agency as Art</a>_ (2020) 
+
+
+## Skimmed, sampled from, or abandoned 
+* Stephen Moss, _The Rookie_ (2016) 

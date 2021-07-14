@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Alignment Problem (Christian)
+title: The Alignment Problem (Brian Christian book)
 permalink: /christian-alignment-problem/
 published: true
 publication_date: 2021-03-06

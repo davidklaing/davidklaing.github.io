@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Playing With Movement (Hargrove)
+title: Playing With Movement (Todd Hargrove book)
 permalink: /hargrove-playing-with-movement/
 published: true
 publication_date: 2020-04-12

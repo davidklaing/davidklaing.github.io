@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Biggest Bluff (Konnikova)
+title: The Biggest Bluff (Maria Konnikova book)
 permalink: /konnikova-biggest-bluff/
 publication_date: 2021-05-30
 tags: reviews,games

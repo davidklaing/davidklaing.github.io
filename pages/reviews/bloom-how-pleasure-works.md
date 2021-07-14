@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How Pleasure Works (Bloom)
+title: How Pleasure Works (Paul Bloom book)
 permalink: /bloom-how-pleasure-works/
 published: true
 publication_date: 2021-04-04

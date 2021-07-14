@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Most Important Thing (Marks)
+title: The Most Important Thing (Howard Marks book)
 permalink: /marks-most-important-thing/
 published: true
 publication_date: 2021-05-30

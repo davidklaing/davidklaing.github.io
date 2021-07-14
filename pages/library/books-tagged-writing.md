@@ -6,11 +6,16 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Ahrens, _<a id="ahrens-smart-notes" class="internal-link" href="/ahrens-smart-notes/">How to Take Smart Notes</a>_ (2017) 
-* Gopen, _The Sense of Structure_ (2004) 
-* King, _On Writing_ (2000) 
-* Olson, _Houston, We Have a Narrative_ (2015) 
-* Pinker, _The Sense of Style_ (2014) 
-* Strunk & White, _The Elements of Style_ (1918) 
-* Thomas & Turner, _Clear and Simple as the Truth_ (1994) 
-* Yudkowsky, _[Intelligent Characters](https://yudkowsky.tumblr.com/writing)_ (2014) 
+
+
+## Finished 
+* Sönke Ahrens, _<a id="ahrens-smart-notes" class="internal-link" href="/ahrens-smart-notes/">How to Take Smart Notes</a>_ (2017) 
+* Stephen King, _On Writing_ (2000) 
+* Steven Pinker, _The Sense of Style_ (2014) 
+* Eliezer Yudkowsky, _[Intelligent Characters](https://yudkowsky.tumblr.com/writing)_ (2014) 
+
+
+## Skimmed, sampled from, or abandoned 
+* Randy Olson, _Houston, We Have a Narrative_ (2015) 
+* William Strunk Jr. & E.B. White, _The Elements of Style_ (1918) 
+* Francis-Noël Thomas & Mark Turner, _Clear and Simple as the Truth_ (1994) 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Grapes of Wrath (Steinbeck)
+title: The Grapes of Wrath (John Steinbeck book)
 permalink: /steinbeck-grapes-of-wrath/
 published: true
 publication_date: 2021-03-21

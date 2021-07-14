@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ten Arguments for Deleting Your Social Media Accounts Right Now (Lanier)
+title: Ten Arguments for Deleting Your Social Media Accounts Right Now (Jaron Lanier book)
 permalink: /lanier-ten-arguments/
 published: true
 publication_date: 2021-07-13

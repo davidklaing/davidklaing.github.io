@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wild Seed (Butler)
+title: Wild Seed (Octabia Butler book)
 permalink: /butler-wild-seed/
 published: true
 publication_date: 2020-03-28

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flow (Csikszentmihalyi)
+title: Flow (Mihalyi Csikszentmihalyi book)
 permalink: /csikszentmihalyi-flow/
 published: true
 publication_date: 2021-02-13

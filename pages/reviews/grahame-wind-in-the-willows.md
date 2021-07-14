@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Wind in the Willows (Grahame)
+title: The Wind in the Willows (Kenneth Grahame book)
 permalink: /grahame-wind-in-the-willows/
 published: true
 publication_date: 2021-02-03

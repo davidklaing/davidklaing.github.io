@@ -6,4 +6,7 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Demick, _Nothing to Envy: Ordinary Lives in North Korea_ (2009) 
+
+
+## Finished 
+* Barbara Demick, _Nothing to Envy: Ordinary Lives in North Korea_ (2009) 

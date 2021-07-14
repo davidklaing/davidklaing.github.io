@@ -38,7 +38,8 @@ class Library:
             Shelf(
                 title=shelf['title'], 
                 path=shelf['path'], 
-                books=shelf['books']
+                books=shelf['books'],
+                all_readings=self.readings
             ) for shelf in shelves
         ]
 
@@ -57,7 +58,15 @@ class Library:
             else:
                 shelves[reading.year_title]['books'].append(reading.book)
         shelves = sorted(shelves.values(), key=lambda shelf: shelf['path'], reverse=True)
-        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves]
+        return [
+            Shelf(
+                title=shelf['title'], 
+                path=shelf['path'], 
+                books=shelf['books'], 
+                all_readings=self.readings
+            ) 
+            for shelf in shelves
+        ]
 
 
     def get_shelves_by_tag(self):
@@ -71,8 +80,16 @@ class Library:
         for book in self.books:
             for tag in book.tags:
                 shelves[tag]['books'].append(book)
-        shelves = sorted(shelves.values(), key=lambda shelf: len(shelf['books']), reverse=True)
-        return [Shelf(shelf['title'], shelf['path'], shelf['books']) for shelf in shelves]
+        shelves = sorted(shelves.values(), key=lambda shelf: (-len(shelf['books']), shelf['path']), reverse=False)
+        return [
+            Shelf(
+                title=shelf['title'], 
+                path=shelf['path'], 
+                books=shelf['books'], 
+                all_readings=self.readings
+            ) 
+            for shelf in shelves
+        ]
 
 
     def make_shelf_pages(self):

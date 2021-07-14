@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Altered Traits (Goleman & Davidson)
+title: Altered Traits (Daniel Goleman & Richard Davidson book)
 permalink: /goleman-and-davidson-altered-traits/
 publication_date: 2018-10-08
 tags: reviews

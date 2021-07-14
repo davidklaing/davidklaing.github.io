@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Righteous Mind (Haidt)
+title: The Righteous Mind (Jonatha Haidt book)
 permalink: /haidt-righteous-mind/
 publication_date: 2016-09-01
 published: true

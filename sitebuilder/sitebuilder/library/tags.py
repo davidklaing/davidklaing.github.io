@@ -26,6 +26,7 @@ tags = {
     "history",
     "holocaust",
     "human-nature",
+    "industrial-revolution",
     "investing",
     "italian-literature",
     "learning",

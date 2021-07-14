@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I'm Thinking of Ending Things (Reid)
+title: I'm Thinking of Ending Things (Iain Reid book)
 permalink: /reid-ending-things/
 published: true
 publication_date: 2021-03-06

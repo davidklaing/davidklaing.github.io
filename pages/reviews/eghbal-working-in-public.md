@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working In Public (Eghbal)
+title: Working In Public (Nadia Eghbal book)
 permalink: /eghbal-working-in-public/
 published: true
 tags: reviews

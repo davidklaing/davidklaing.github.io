@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atomic Habits (Clear)
+title: Atomic Habits (James Clear book)
 permalink: /clear-atomic-habits/
 published: true
 publication_date: 2018-01-10

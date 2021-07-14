@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uncanny Valley (Wiener)
+title: Uncanny Valley (Anna Wiener book)
 permalink: /wiener-uncanny-valley/
 published: true
 publication_date: 2021-03-13

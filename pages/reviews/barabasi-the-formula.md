@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Formula (Barabási)
+title: The Formula (Albert-László Barabási book)
 permalink: /barabasi-the-formula/
 published: true
 publication_date: 2020-06-24

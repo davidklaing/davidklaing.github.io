@@ -6,6 +6,9 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 
-* Gaiman, _The Ocean at the End of the Lane_ (2013) 
-* Graeber, _<a id="graeber-democracy-project" class="internal-link" href="/graeber-democracy-project/">The Democracy Project</a>_ (2013) 
+
+
+## Finished 
+* Scott Adams, _How to Fail at Almost Everything and Still Win Big_ (2013) 
+* Neil Gaiman, _The Ocean at the End of the Lane_ (2013) 
+* David Graeber, _<a id="graeber-democracy-project" class="internal-link" href="/graeber-democracy-project/">The Democracy Project</a>_ (2013) 

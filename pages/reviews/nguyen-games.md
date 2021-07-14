@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Games&#58; Agency as Art (Nguyen)
+title: Games&#58; Agency as Art (C. Thi Nguyen book)
 permalink: /nguyen-games/
 published: true
 publication_date: 2021-06-24

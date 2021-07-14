@@ -27,9 +27,9 @@ class Book:
     @property
     def authors_display(self) -> str:
         if not self.author2:
-            return self.author1.surname
+            return self.author1.full_name
         else:
-            return f'{self.author1.surname} & {self.author2.surname}'
+            return f'{self.author1.full_name} & {self.author2.full_name}'
     
 
     @property

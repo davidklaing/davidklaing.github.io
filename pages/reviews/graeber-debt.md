@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Debt (Graeber)
+title: Debt (David Graeber book)
 permalink: /graeber-debt/
 published: true
 publication_date: 2021-02-21

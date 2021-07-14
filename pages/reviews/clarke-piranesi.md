@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Piranesi (Clarke)
+title: Piranesi (Susanna Clarke book)
 permalink: /clarke-piranesi/
 published: true
 publication_date: 2021-02-05

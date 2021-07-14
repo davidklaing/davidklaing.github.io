@@ -6,4 +6,7 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Hofstadter, _Le Ton beau de Marot_ (1997) 
+
+
+## Skimmed, sampled from, or abandoned 
+* Douglas Hofstadter, _Le Ton beau de Marot_ (1997) 

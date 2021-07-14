@@ -6,17 +6,23 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Clavell, _Tai-Pan_ (1966) 
-* Durant, _The Lessons of History_ (1968) 
-* Findley, _The Butterfly Plague_ (1969) 
-* Herbert, _Dune_ (1965) 
-* Hinton, _The Outsiders_ (1967) 
-* Jacobs, _The Death and Life of Great American Cities_ (1961) 
-* Keyes, _Flowers for Algernon_ (1966) 
-* Le Guin, _A Wizard of Earthsea_ (1968) 
-* Le Guin, _The Left Hand of Darkness_ (1969) 
-* Lee, _To Kill a Mockingbird_ (1960) 
-* Márquez, _One Hundred Years of Solitude_ (1967) 
-* Vonnegut, _Cat's Cradle_ (1963) 
-* Vonnegut, _God Bless You, Mr. Rosewater_ (1965) 
-* Vonnegut, _Slaughterhouse-Five_ (1969) 
+
+
+## Finished 
+* James Clavell, _Tai-Pan_ (1966) 
+* Will Durant, _The Lessons of History_ (1968) 
+* Timothy Findley, _The Butterfly Plague_ (1969) 
+* Frank Herbert, _Dune_ (1965) 
+* S.E. Hinton, _The Outsiders_ (1967) 
+* Daniel Keyes, _Flowers for Algernon_ (1966) 
+* Ursula K. Le Guin, _A Wizard of Earthsea_ (1968) 
+* Ursula K. Le Guin, _The Left Hand of Darkness_ (1969) 
+* Harper Lee, _To Kill a Mockingbird_ (1960) 
+* Kurt Vonnegut Jr., _Cat's Cradle_ (1963) 
+* Kurt Vonnegut Jr., _God Bless You, Mr. Rosewater_ (1965) 
+* Kurt Vonnegut Jr., _Slaughterhouse-Five_ (1969) 
+
+
+## Skimmed, sampled from, or abandoned 
+* Jane Jacobs, _The Death and Life of Great American Cities_ (1961) 
+* Gabriel García Márquez, _One Hundred Years of Solitude_ (1967) 

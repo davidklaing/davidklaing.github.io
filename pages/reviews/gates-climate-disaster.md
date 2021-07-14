@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Avoid a Climate Disaster (Gates)
+title: How to Avoid a Climate Disaster (Bill Gates book)
 permalink: /gates-climate-disaster/
 published: true
 publication_date: 2021-04-13

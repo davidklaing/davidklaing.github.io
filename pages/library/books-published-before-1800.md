@@ -6,14 +6,21 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Aurelius, _Meditations_ (180) 
-* Cervantes, _Don Quixote_ (1615) 
-* Confucius, _The Analects_ (-429) 
-* Franklin, _The Autobiography of Benjamin Franklin_ (1791) 
-* Homer, _<a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Wilson translation)</a>_ (-800) 
+
+
+## Finished 
+* Marcus Aurelius, _Meditations_ (180) 
+* Benjamin Franklin, _The Autobiography of Benjamin Franklin_ (1791) 
 * Homer, _The Iliad (Fagles translation)_ (-800) 
 * Homer, _The Odyssey (Fagles translation)_ (-800) 
-* Swift, _Gulliver's Travels_ (1726) 
-* Tzu, _Tao Te Ching_ (-600) 
-* Tzu, _The Art of War_ (-500) 
+* Homer, _<a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Wilson translation)</a>_ (-800) 
+* Jonathan Swift, _Gulliver's Travels_ (1726) 
 * Voltaire, _Candide_ (1759) 
+
+
+## Skimmed, sampled from, or abandoned 
+* Miguel de Cervantes, _Don Quixote_ (1615) 
+* Confucius, _The Analects_ (-429) 
+* Homer, _The Iliad (Fagles translation)_ (-800) 
+* Lao Tzu, _Tao Te Ching_ (-600) 
+* Sun Tzu, _The Art of War_ (-500) 

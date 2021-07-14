@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sputnik Sweetheart (Murakami)
+title: Sputnik Sweetheart (Haruki Murakami book)
 permalink: /murakami-sputnik-sweetheart/
 published: true
 publication_date: 2020-03-30

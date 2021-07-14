@@ -6,5 +6,8 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Emerson, _Self-Reliance and Other Essays_ (1844) 
-* Wallace, _Both Flesh and Not: Essays_ (2012) 
+
+
+## Skimmed, sampled from, or abandoned 
+* Ralph Waldo Emerson, _Self-Reliance and Other Essays_ (1844) 
+* David Foster Wallace, _Both Flesh and Not: Essays_ (2012) 

@@ -10,10 +10,10 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 ## 2021
 - 05/30 — <a id="the-real-value-of-games" class="internal-link" href="/the-real-value-of-games/">The real value of games</a>
 - 05/10 — <a id="my-recurring-tasks" class="internal-link" href="/my-recurring-tasks/">My recurring tasks</a>
-- 02/13 — <a id="csikszentmihalyi-flow" class="internal-link" href="/csikszentmihalyi-flow/">Flow (Csikszentmihalyi)</a>
+- 02/13 — <a id="csikszentmihalyi-flow" class="internal-link" href="/csikszentmihalyi-flow/">Flow (Mihalyi Csikszentmihalyi book)</a>
 
 ## 2020
-- 06/24 — <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula (Barabási)</a>
+- 06/24 — <a id="barabasi-the-formula" class="internal-link" href="/barabasi-the-formula/">The Formula (Albert-László Barabási book)</a>
 - 03/09 — <a id="mind-positivity" class="internal-link" href="/mind-positivity/">Mind positivity</a>
 
 ## 2019
@@ -28,4 +28,4 @@ backlinks: '<ul><li><a id="home" class="internal-link" href="/">Home</a></li></u
 - 07/09 — <a id="talk-more" class="internal-link" href="/talk-more/">If you’re good, you need to talk more</a>
 
 ## 2018
-- 01/10 — <a id="clear-atomic-habits" class="internal-link" href="/clear-atomic-habits/">Atomic Habits (Clear)</a> (updated 2019/01/14)
+- 01/10 — <a id="clear-atomic-habits" class="internal-link" href="/clear-atomic-habits/">Atomic Habits (James Clear book)</a> (updated 2019/01/14)

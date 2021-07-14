@@ -6,5 +6,7 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Joyce, _Dubliners_ (1914) 
-* Strunk & White, _The Elements of Style_ (1918) 
+
+
+## Skimmed, sampled from, or abandoned 
+* William Strunk Jr. & E.B. White, _The Elements of Style_ (1918) 

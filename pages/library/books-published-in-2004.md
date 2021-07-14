@@ -6,7 +6,12 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Gopen, _The Sense of Structure_ (2004) 
-* Schneier, _Secrets and Lies_ (2004) 
-* Wallace, _Oblivion_ (2004) 
-* Wright, _A Short History of Progress_ (2004) 
+
+
+## Finished 
+* David Foster Wallace, _Oblivion_ (2004) 
+* Ronald Wright, _A Short History of Progress_ (2004) 
+
+
+## Skimmed, sampled from, or abandoned 
+* Bruce Schneier, _Secrets and Lies_ (2004) 

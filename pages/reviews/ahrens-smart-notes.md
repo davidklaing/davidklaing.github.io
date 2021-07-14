@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Take Smart Notes (Ahrens)
+title: How to Take Smart Notes (Sönke Ahrens book)
 permalink: /ahrens-smart-notes/
 published: true
 publication_date: 2019-12-18

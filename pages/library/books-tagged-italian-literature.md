@@ -6,5 +6,8 @@ published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
 
-* Ferrante, _The Neapolitan Novels_ (2015) 
-* Starnone, _Ties_ (2017) 
+
+
+## Finished 
+* Elena Ferrante, _The Neapolitan Novels_ (2015) 
+* Domenico Starnone, _Ties_ (2017) 

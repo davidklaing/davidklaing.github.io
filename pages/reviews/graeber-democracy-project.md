@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Democracy Project (Graeber)
+title: The Democracy Project (David Graeber book)
 permalink: /graeber-democracy-project/
 published: true
 publication_date: 2021-03-08

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Circe (Miller)
+title: Circe (Madeline Miller book)
 permalink: /miller-circe/
 published: true
 publication_date: 2021-04-03
