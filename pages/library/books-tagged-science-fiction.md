@@ -11,8 +11,13 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 ## Finished 
 * Douglas Adams, _The Hitchhiker's Guide to the Galaxy_ (1979) 
 * Iain M. Banks, _The Player of Games_ (1988) 
-* Orson Scott Card, _Ender's Saga_ (1996) 
+* Orson Scott Card, _Ender's Game_ (1985) 
+* Orson Scott Card, _Speaker for the Dead_ (1986) 
+* Orson Scott Card, _Xenocide_ (1991) 
+* Orson Scott Card, _Children of the Mind_ (1996) 
 * Orson Scott Card, _Ender's Shadow_ (1999) 
+* Orson Scott Card, _Shadow of the Hegemon_ (2000) 
+* Orson Scott Card, _Shadow Puppets_ (2002) 
 * E.M. Forster, _The Machine Stops_ (1909) 
 * William Gibson & Bruce Sterling, _The Difference Engine_ (1990) 
 * Frank Herbert, _Dune_ (1965) 
@@ -31,6 +36,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Skimmed, sampled from, or abandoned 
 * Isaac Asimov, _Prelude to Foundation_ (1988) 
-* Ted Chiang, _Stories of Your Life and Others_ (2010) 
+* Orson Scott Card, _Shadow of the Giant_ (2005) 
 * Ted Chiang, _Exhalation: Stories_ (2019) 
+* Ted Chiang, _Stories of Your Life and Others_ (2010) 
 * Neal Stephenson, _Cryptonomicon_ (1999) 
+* Neal Stephenson, _Snow Crash_ (1992) 

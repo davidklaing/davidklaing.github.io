@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Books I&#39;ve read that were published in 1910s
-permalink: /books-published-in-1910s/
+title: Books tagged &#39;magical-realism&#39;
+permalink: /books-tagged-magical-realism/
 published: true
 backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-ive-read/">Books I&#39;ve read</a></li></ul>'
 ---
@@ -10,7 +10,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Finished 
 * Franz Kafka, _The Metamorphosis_ (1915) 
+* Salman Rushdie, _The Satanic Verses_ (1988) 
 
 
 ## Skimmed, sampled from, or abandoned 
-* William Strunk Jr. & E.B. White, _The Elements of Style_ (1918) 
+* Gabriel García Márquez, _One Hundred Years of Solitude_ (1967) 

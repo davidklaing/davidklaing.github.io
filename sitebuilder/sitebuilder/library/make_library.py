@@ -36,6 +36,7 @@ def make_books(authors: List[Author], books_df: pd.DataFrame) -> List[Book]:
     return [
         Book(
             title=book['title'],
+            series_index=book['series_index'],
             author1=get_author(authors, 1, book),
             author2=get_author(authors, 2, book),
             publication_year=book['publication_year'],

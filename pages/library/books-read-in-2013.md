@@ -19,6 +19,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * William Gibson & Bruce Sterling, _The Difference Engine_ (1990) 
 * Homer, _The Iliad (Fagles translation)_ (-800) 
 * Homer, _The Odyssey (Fagles translation)_ (-800) 
+* Franz Kafka, _The Metamorphosis_ (1915) 
 * Primo Levi, _Survival in Auschwitz_ (1947) 
 * John Medina, _Brain Rules_ (2008) 
 * George Orwell, _Animal Farm_ (1945) 
@@ -31,6 +32,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Skimmed, sampled from, or abandoned 
 * Miguel de Cervantes, _Don Quixote_ (1615) 
+* Dante Alighieri, _Inferno_ (1307) 
 * Homer, _The Iliad (Fagles translation)_ (-800) 
 * Walter Isaacson, _Einstein: His Life and Universe_ (2007) 
 * Lao Tzu, _Tao Te Ching_ (-600) 

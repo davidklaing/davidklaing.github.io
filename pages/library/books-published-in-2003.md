@@ -11,4 +11,5 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 ## Finished 
 * Dan Brown, _The Da Vinci Code_ (2003) 
 * James Gleick, _Isaac Newton_ (2003) 
+* Jenny Nimmo, _The Time Twister_ (2003) 
 * J.K. Rowling, _Harry Potter and the Order of the Phoenix_ (2003) 

@@ -9,9 +9,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Finished 
-* Elena Ferrante, _The Neapolitan Novels_ (2015) 
 * N.K. Jemisin, _The Fifth Season_ (2015) 
-* Stuart Ritchie, _Intelligence_ (2015) 
+* Stuart Ritchie, _Intelligence: All That Matters_ (2015) 
 * Bruce Schneier, _Data and Goliath_ (2015) 
 * Ashlee Vance, _Elon Musk_ (2015) 
 * Eliezer Yudkowsky, _Harry Potter and the Methods of Rationality_ (2015) 

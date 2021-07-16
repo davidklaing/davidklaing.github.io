@@ -31,3 +31,4 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Yuval Noah Harari, _Sapiens_ (2011) 
 * Walter Isaacson, _Einstein: His Life and Universe_ (2007) 
 * Amanda H. Podany, _Ancient Mesopotamia_ (2018) 
+* Richard Rhodes, _The Making of the Atomic Bomb_ (1986) 

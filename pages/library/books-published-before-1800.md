@@ -21,6 +21,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 ## Skimmed, sampled from, or abandoned 
 * Miguel de Cervantes, _Don Quixote_ (1615) 
 * Confucius, _The Analects_ (-429) 
+* Dante Alighieri, _Inferno_ (1307) 
 * Homer, _The Iliad (Fagles translation)_ (-800) 
 * Lao Tzu, _Tao Te Ching_ (-600) 
 * Sun Tzu, _The Art of War_ (-500) 

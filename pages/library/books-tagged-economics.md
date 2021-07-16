@@ -10,8 +10,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Finished 
 * Tyler Cowen, _Discover Your Inner Economist_ (2007) 
-* David Graeber, _<a id="graeber-debt" class="internal-link" href="/graeber-debt/">Debt</a>_ (2011) 
 * David Graeber, _<a id="graeber-bullshit-jobs" class="internal-link" href="/graeber-bullshit-jobs/">Bullshit Jobs</a>_ (2018) 
+* David Graeber, _<a id="graeber-debt" class="internal-link" href="/graeber-debt/">Debt</a>_ (2011) 
 * Daniel Kahneman, _Thinking, Fast and Slow_ (2011) 
 * Christopher Payne & Rob Barnett, _The Economists' Diet_ (2018) 
 * Eliezer Yudkowsky, _Inadequate Equilibria_ (2017) 

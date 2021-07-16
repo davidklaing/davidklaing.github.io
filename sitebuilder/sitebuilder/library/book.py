@@ -8,6 +8,7 @@ class Book:
     def __init__(
         self, 
         title: str, 
+        series_index: Optional[int],
         author1: Author, 
         author2: Optional[Author], 
         publication_year: int, 
@@ -15,6 +16,7 @@ class Book:
         url = Optional[str]
     ):
         self.title = title
+        self.series_index = series_index
         self.author1 = author1
         self.author2 = author2
         self.publication_year = publication_year

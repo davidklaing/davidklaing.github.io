@@ -10,9 +10,10 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Finished 
 * Douglas Adams, _The Hitchhiker's Guide to the Galaxy_ (1979) 
-* Richard Bach, _Jonathan Livingston Seagull_ (1970) 
 * Richard Bach, _Illusions_ (1977) 
+* Richard Bach, _Jonathan Livingston Seagull_ (1970) 
 * Terry Brooks, _The Sword of Shannara_ (1977) 
+* James Clavell, _Tai-Pan_ (1975) 
 * Douglas Hofstadter, _<a id="hofstadter-godel-escher-bach" class="internal-link" href="/hofstadter-godel-escher-bach/">Gödel, Escher, Bach</a>_ (1979) 
 * Ismail Kadare, _Broken April_ (1978) 
 

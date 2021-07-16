@@ -9,9 +9,9 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Finished 
-* T.A. Barron, _The Great Tree of Avalon Trilogy_ (2006) 
+* T.A. Barron, _The Eternal Flame_ (2006) 
 * Richard Dawkins, _The God Delusion_ (2006) 
 * Daniel Todd Gilbert, _Stumbling on Happiness_ (2006) 
 * Lloyd Jones, _Mister Pip_ (2006) 
 * Cormac McCarthy, _The Road_ (2006) 
-* Jenny Nimmo, _Children of the Red King 1-5_ (2006) 
+* Jenny Nimmo, _Charlie Bone and the Hidden King_ (2006) 

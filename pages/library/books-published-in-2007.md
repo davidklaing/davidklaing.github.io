@@ -18,3 +18,4 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Skimmed, sampled from, or abandoned 
 * Walter Isaacson, _Einstein: His Life and Universe_ (2007) 
+* Jenny Nimmo, _Charlie Bone and the Wilderness Wolf_ (2007) 

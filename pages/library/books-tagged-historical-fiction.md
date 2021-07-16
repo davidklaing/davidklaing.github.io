@@ -9,7 +9,11 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Finished 
-* James Clavell, _Tai-Pan_ (1966) 
+* James Clavell, _Tai-Pan_ (1975) 
 * Anthony Doerr, _All the Light We Cannot See_ (2014) 
 * Lawrence Hill, _The Book of Negroes_ (2007) 
 * Kurt Vonnegut Jr., _Slaughterhouse-Five_ (1969) 
+
+
+## Skimmed, sampled from, or abandoned 
+* James Clavell, _Shōgun_ (1966) 

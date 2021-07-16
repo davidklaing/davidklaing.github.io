@@ -12,6 +12,6 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Albert Camus, _The Plague_ (1947) 
 * Anne Frank, _The Diary of a Young Girl_ (1947) 
 * Primo Levi, _Survival in Auschwitz_ (1947) 
-* George Orwell, _Animal Farm_ (1945) 
 * George Orwell, _1984_ (1949) 
+* George Orwell, _Animal Farm_ (1945) 
 * Antoine de Saint-Exupéry, _Le Petit Prince_ (1943) 

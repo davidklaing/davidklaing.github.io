@@ -17,3 +17,4 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Skimmed, sampled from, or abandoned 
 * Jon Kabat-Zinn, _Full Catastrophe Living_ (1990) 
+* Susan Pinker, _The Village Effect: Why Face-to-Face Contact Is Good for Our Health, Happiness, Learning, and Longevity_ (2013) 

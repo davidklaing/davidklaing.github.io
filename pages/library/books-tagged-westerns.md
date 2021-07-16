@@ -10,5 +10,5 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Finished 
 * Cormac McCarthy, _The Road_ (2006) 
-* Larry McMurtry, _<a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a>_ (1985) 
 * Larry McMurtry, _Dead Man's Walk_ (2000) 
+* Larry McMurtry, _<a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a>_ (1985) 

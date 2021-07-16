@@ -10,6 +10,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Finished 
 * David Chilton, _The Wealthy Barber Returns_ (2011) 
+* Elena Ferrante, _My Brilliant Friend_ (2011) 
 * James Gleick, _The Information_ (2011) 
 * David Graeber, _<a id="graeber-debt" class="internal-link" href="/graeber-debt/">Debt</a>_ (2011) 
 * Jim Holt, _Why Does the World Exist?_ (2011) 

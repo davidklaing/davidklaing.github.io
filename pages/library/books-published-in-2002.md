@@ -9,6 +9,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Finished 
+* Orson Scott Card, _Shadow Puppets_ (2002) 
 * Neil Gaiman, _Coraline (French edition)_ (2002) 
-* William Nicholson, _The Wind on Fire Trilogy_ (2002) 
-* Christopher Paolini, _The Inheritance Cycle 1-3_ (2002) 
+* William Nicholson, _Firesong_ (2002) 
+* Jenny Nimmo, _Midnight for Charlie Bone_ (2002) 
+* Christopher Paolini, _Eragon_ (2002) 

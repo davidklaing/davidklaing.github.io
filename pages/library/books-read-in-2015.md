@@ -24,8 +24,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Anthony Robbins, _MONEY Master the Game_ (2014) 
 * Richard H. Thaler, _Nudge_ (2008) 
 * David Foster Wallace, _Infinite Jest_ (1996) 
-* Eliezer Yudkowsky, _[Intelligent Characters](https://yudkowsky.tumblr.com/writing)_ (2014) 
 * Eliezer Yudkowsky, _Harry Potter and the Methods of Rationality_ (2015) 
+* Eliezer Yudkowsky, _[Intelligent Characters](https://yudkowsky.tumblr.com/writing)_ (2014) 
 
 
 ## Skimmed, sampled from, or abandoned 

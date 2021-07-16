@@ -13,6 +13,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Skimmed, sampled from, or abandoned 
+* James Clavell, _Shōgun_ (1966) 
 * Confucius, _The Analects_ (-429) 
 * Lao Tzu, _Tao Te Ching_ (-600) 
 * Sun Tzu, _The Art of War_ (-500) 

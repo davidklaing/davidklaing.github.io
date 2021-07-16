@@ -9,5 +9,12 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Finished 
-* Elena Ferrante, _The Neapolitan Novels_ (2015) 
+* Elena Ferrante, _My Brilliant Friend_ (2011) 
+* Elena Ferrante, _The Story of a New Name_ (2012) 
+* Elena Ferrante, _Those Who Leave and Those Who Stay_ (2013) 
+* Elena Ferrante, _The Story of the Lost Child_ (2014) 
 * Domenico Starnone, _Ties_ (2017) 
+
+
+## Skimmed, sampled from, or abandoned 
+* Dante Alighieri, _Inferno_ (1307) 

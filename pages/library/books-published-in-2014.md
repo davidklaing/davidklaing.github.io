@@ -10,6 +10,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Finished 
 * Anthony Doerr, _All the Light We Cannot See_ (2014) 
+* Elena Ferrante, _The Story of the Lost Child_ (2014) 
 * Miguel Grinberg, _Flask Web Development_ (2014) 
 * Todd Hargrove, _<a id="hargrove-playing-with-movement" class="internal-link" href="/hargrove-playing-with-movement/">Playing With Movement</a>_ (2014) 
 * Sam Harris, _Waking Up_ (2014) 

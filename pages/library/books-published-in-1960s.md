@@ -9,7 +9,6 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Finished 
-* James Clavell, _Tai-Pan_ (1966) 
 * Will Durant, _The Lessons of History_ (1968) 
 * Timothy Findley, _The Butterfly Plague_ (1969) 
 * Frank Herbert, _Dune_ (1965) 
@@ -24,5 +23,6 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Skimmed, sampled from, or abandoned 
+* James Clavell, _Shōgun_ (1966) 
 * Jane Jacobs, _The Death and Life of Great American Cities_ (1961) 
 * Gabriel García Márquez, _One Hundred Years of Solitude_ (1967) 

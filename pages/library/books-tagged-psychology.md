@@ -21,9 +21,9 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Ichiro Kishimi & Fumitake Koga, _<a id="kishimi-koga-courage" class="internal-link" href="/kishimi-koga-courage/">The Courage to Be Disliked</a>_ (2019) 
 * John Medina, _Brain Rules_ (2008) 
 * Katy Milkman, _How to Change_ (2021) 
-* Steven Pinker, _The Language Instinct_ (1994) 
 * Steven Pinker, _How the Mind Works_ (1997) 
-* Stuart Ritchie, _Intelligence_ (2015) 
+* Steven Pinker, _The Language Instinct_ (1994) 
+* Stuart Ritchie, _Intelligence: All That Matters_ (2015) 
 * Richard H. Thaler, _Nudge_ (2008) 
 
 
@@ -31,4 +31,5 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Paul Bloom, _<a id="bloom-how-pleasure-works" class="internal-link" href="/bloom-how-pleasure-works/">How Pleasure Works</a>_ (2010) 
 * Angela Duckworth, _Grit_ (2016) 
 * Morgan Housel, _The Psychology of Money_ (2020) 
+* Susan Pinker, _The Village Effect: Why Face-to-Face Contact Is Good for Our Health, Happiness, Learning, and Longevity_ (2013) 
 * Keith Stanovich et al., _The Rationality Quotient_ (2016) 

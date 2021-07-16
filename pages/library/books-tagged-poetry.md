@@ -8,5 +8,13 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 
+## Finished 
+* Homer, _The Iliad (Fagles translation)_ (-800) 
+* Homer, _The Odyssey (Fagles translation)_ (-800) 
+* Homer, _<a id="homer-odyssey" class="internal-link" href="/homer-odyssey/">The Odyssey (Wilson translation)</a>_ (-800) 
+
+
 ## Skimmed, sampled from, or abandoned 
+* Dante Alighieri, _Inferno_ (1307) 
 * Douglas Hofstadter, _Le Ton beau de Marot_ (1997) 
+* Homer, _The Iliad (Fagles translation)_ (-800) 

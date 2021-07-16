@@ -12,8 +12,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Jonathan Haidt, _The Happiness Hypothesis_ (2005) 
 * Jonathan Haidt, _<a id="haidt-righteous-mind" class="internal-link" href="/haidt-righteous-mind/">The Righteous Mind</a>_ (2012) 
 * Judith Rich Harris, _The Nurture Assumption_ (1998) 
-* Steven Pinker, _The Language Instinct_ (1994) 
 * Steven Pinker, _How the Mind Works_ (1997) 
+* Steven Pinker, _The Language Instinct_ (1994) 
 
 
 ## Skimmed, sampled from, or abandoned 

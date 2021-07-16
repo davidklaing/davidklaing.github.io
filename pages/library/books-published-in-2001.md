@@ -12,4 +12,9 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Dennis Bock, _The Ash Garden_ (2001) 
 * David Czuchlewski, _The Muse Asylum_ (2001) 
 * Yann Martel, _Life of Pi_ (2001) 
+* William Nicholson, _Slaves of the Mastery_ (2001) 
 * John Shelby Spong, _A New Christianity for a New World_ (2001) 
+
+
+## Skimmed, sampled from, or abandoned 
+* Eoin Colfer, _Artemis Fowl_ (2001) 

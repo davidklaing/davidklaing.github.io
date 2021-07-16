@@ -9,6 +9,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Finished 
+* Iain M. Banks, _The Player of Games_ (1988) 
 * Maria Konnikova, _<a id="konnikova-biggest-bluff" class="internal-link" href="/konnikova-biggest-bluff/">The Biggest Bluff</a>_ (2020) 
 * C. Thi Nguyen, _<a id="nguyen-games" class="internal-link" href="/nguyen-games/">Games: Agency as Art</a>_ (2020) 
 

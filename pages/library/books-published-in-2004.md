@@ -9,6 +9,8 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 
 ## Finished 
+* T.A. Barron, _The Great Tree of Avalon_ (2004) 
+* Jenny Nimmo, _The Blue Boa_ (2004) 
 * David Foster Wallace, _Oblivion_ (2004) 
 * Ronald Wright, _A Short History of Progress_ (2004) 
 

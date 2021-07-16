@@ -16,7 +16,7 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Homer, _The Iliad (Fagles translation)_ (-800) 
 * N.K. Jemisin, _The Fifth Season_ (2015) 
 * Larry McMurtry, _<a id="mcmurtry-lonesome-dove" class="internal-link" href="/mcmurtry-lonesome-dove/">Lonesome Dove</a>_ (1985) 
-* Stuart Ritchie, _Intelligence_ (2015) 
+* Stuart Ritchie, _Intelligence: All That Matters_ (2015) 
 * Tara Westover, _Educated_ (2018) 
 
 
@@ -27,3 +27,4 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 * Keith Johnstone, _Impro_ (1979) 
 * Jon Kabat-Zinn, _Full Catastrophe Living_ (1990) 
 * Stephen Moss, _The Rookie_ (2016) 
+* Richard Rhodes, _The Making of the Atomic Bomb_ (1986) 

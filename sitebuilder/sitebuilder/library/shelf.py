@@ -9,7 +9,7 @@ class Shelf:
     def __init__(self, title: str, path: str, books: List[Book], all_readings: List[Reading]):
         self.title = title
         self.path = path
-        self.books = sorted(books, key=lambda book: (book.author1.surname, book.publication_year))
+        self.books = sorted(books, key=lambda book: (book.author1.surname, book.series_index))
         self.all_readings = all_readings
     
     def books_with_given_status(self, status):

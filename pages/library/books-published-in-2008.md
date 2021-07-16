@@ -19,3 +19,4 @@ backlinks: '<ul><li><a id="books-ive-read" class="internal-link" href="/books-iv
 
 ## Skimmed, sampled from, or abandoned 
 * Donella Meadows, _Thinking In Systems_ (2008) 
+* Christopher Paolini, _Brisingr_ (2008) 
